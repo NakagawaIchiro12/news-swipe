@@ -35,10 +35,11 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .card .draft .db{font-size:14px;line-height:1.7;color:#36473a;white-space:pre-line}
 .card .lk{font-size:11px;color:#2b7fc4;text-decoration:none;margin-top:8px}
 .stamp{position:absolute;top:18px;font-size:19px;font-weight:900;padding:8px 12px 6px;border-radius:14px;border:4px solid;opacity:0;pointer-events:none;display:flex;flex-direction:column;align-items:center;gap:3px;background:rgba(255,255,255,.9)}
-.stamp img{width:48px;height:48px;border-radius:50%;object-fit:cover}
+.stamp img{width:64px;height:64px;border-radius:14px;object-fit:contain}
 .stamp.yes{left:16px;color:#2e9e5b;border-color:#2e9e5b;transform:rotate(-12deg)}
 .stamp.no{right:16px;color:#e0564f;border-color:#e0564f;transform:rotate(12deg)}
-.stamp.no img{width:66px;height:66px;border-radius:14px;object-fit:contain;filter:none;transform:rotate(6deg)}
+.stamp.yes img{transform:rotate(-6deg)}
+.stamp.no img{transform:rotate(6deg)}
 .controls{display:flex;justify-content:center;gap:30px;padding:12px 0 18px}
 .btn{width:62px;height:62px;border-radius:50%;border:none;font-size:25px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(60,100,60,.22)}
 .btn.no{background:#fdeaea;color:#e0564f}
@@ -179,7 +180,7 @@ function render(){
       <div class="src">${esc(n.source||'')} ${n.pubDate?('· '+esc(n.pubDate.slice(0,16))):''}</div>
       <div class="draft"><div class="dh">📝 イチロウ視点の投稿案（これがXに載ります）</div><div class="db">${esc(n.draft||'(本文は採用後に生成)')}</div>
       ${n.link?`<a class="lk" href="${esc(n.link)}" target="_blank" rel="noopener">元記事を開く（参考・投稿には付きません）↗</a>`:''}</div>
-      <div class="stamp yes"><img src="icon.png" alt=""><span>採用♪</span></div><div class="stamp no"><img src="ketchup.png" alt=""><span>ポイっ</span></div>`;
+      <div class="stamp yes"><img src="saiyo.png" alt=""><span>採用♪</span></div><div class="stamp no"><img src="ketchup.png" alt=""><span>ポイっ</span></div>`;
     stage.appendChild(c);
     if(i===0) attachDrag(c);
   }

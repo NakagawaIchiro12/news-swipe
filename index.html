@@ -13,7 +13,8 @@
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
 body{margin:0;background:linear-gradient(180deg,#eaf6ef 0%,#f5f8e9 100%);background-attachment:fixed;color:#2c3a2f;font-family:-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;overflow:hidden;height:100vh}
 .wrap{max-width:440px;margin:0 auto;height:100vh;display:flex;flex-direction:column}
-header{padding:10px 16px 4px;text-align:center}
+header{padding:10px 16px 4px;text-align:center;position:relative}
+header .refresh{position:absolute;top:8px;right:12px;background:#fff;border:1px solid #cfe0d2;border-radius:999px;padding:4px 11px;font-size:15px;line-height:1;color:#2e9e5b;box-shadow:0 2px 6px rgba(60,100,60,.12)}
 header h1{font-size:16px;margin:0;font-weight:700;color:#2a7d46}
 header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .counter{display:flex;justify-content:space-around;align-items:center;font-size:12px;color:#5e7a64;padding:6px 0}
@@ -39,6 +40,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .btn.no{background:#fdeaea;color:#e0564f}
 .btn.yes{background:#e4f5e9;color:#2e9e5b}
 .btn.add{width:48px;height:48px;font-size:23px;background:#e9f1f8;color:#2b7fc4;align-self:center}
+.nowbtn{display:block;margin:0 12px 8px;width:calc(100% - 24px);padding:12px;border-radius:12px;border:none;background:#f0991f;color:#fff;font-weight:700;font-size:14px;box-shadow:0 4px 12px rgba(240,153,31,.32)}
 .hint{font-size:11px;color:#8aa090;text-align:center;padding:0 16px 10px}
 .done{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;background:#ffffff;border-radius:20px}
 .done h2{font-size:22px;color:#2a7d46}.done p{color:#5e7a64;font-size:14px;line-height:1.6}
@@ -60,6 +62,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 <body>
 <div class="wrap">
   <header>
+    <button class="refresh" onclick="location.reload(true)" title="最新に更新">🔄</button>
     <h1>イチロウのニュース・スワイプ</h1>
     <div class="meta">取得: 2026-06-03 08:08 JST ／ 右=採用 ✓ ・左=スキップ ✗</div>
   </header>
@@ -80,7 +83,8 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
     <button class="btn add" onclick="addManual()" title="ニュースを手動追加">＋</button>
     <button class="btn yes" onclick="swipe(true)">✓</button>
   </div>
-  <div class="hint">本文は指で上下にスクロール。カードを左右に振ると採用/スキップ。</div>
+  <button class="nowbtn" onclick="postNowCard()">⚡ この記事を今すぐ投稿</button>
+  <div class="hint">本文は指で上下にスクロール／左右で採用・スキップ／右=後で(9時15時)・⚡=今すぐ</div>
 </div>
 
 <div class="panel" id="panel">
@@ -182,6 +186,19 @@ function submitAdopted(){
       adopted=[]; closePanel(); render();
       alert('あいなに送信しました📤 '+n0+'件\n（送信済みは✓マークが付きます）\nDiscordで「送ったよ」と言えば、9時/15時にセットします'); })
     .catch(()=>{ alert('送信に失敗しました。電波を確認してもう一度「あいなに送信」を押してください'); });
+}
+function postNowCard(){
+  if(!deck.length){ alert('カードがありません'); return; }
+  if(!SUBMIT_URL){ alert('送信先が未設定です'); return; }
+  const n=deck[0];
+  // ⚡即投稿希望としてあいなに送る（topicに目印。あいなが見つけ次第すぐ投稿）
+  const item={topic:'⚡即投稿｜'+(n.topic||''),title:n.title||'',link:n.link||'',body:n.draft||''};
+  fetch(SUBMIT_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain;charset=utf-8'},
+    body:JSON.stringify({action:'submitAdopted',items:[item]})})
+    .then(()=>{ seen.add(n.title); localStorage.setItem('seenTitles',JSON.stringify([...seen]));
+      deck.shift(); render();
+      alert('⚡ 今すぐ投稿をあいなに依頼しました！\nあいなが見つけ次第すぐXに投稿します🌾\n（Discordで「すぐ投稿して」と言うと確実です）'); })
+    .catch(()=>alert('送信に失敗しました。電波を確認してもう一度押してください'));
 }
 render();
 </script>

@@ -16,6 +16,7 @@ body{margin:0;background:linear-gradient(180deg,#eaf6ef 0%,#f5f8e9 100%);backgro
 header{padding:10px 16px 4px;text-align:center;position:relative}
 header .refresh{position:absolute;top:8px;right:12px;background:#fff;border:1px solid #cfe0d2;border-radius:999px;padding:4px 11px;font-size:15px;line-height:1;color:#2e9e5b;box-shadow:0 2px 6px rgba(60,100,60,.12)}
 header .postedbtn{position:absolute;top:8px;left:12px;background:#fff;border:1px solid #cfe0d2;border-radius:999px;padding:4px 11px;font-size:12px;line-height:1.4;color:#2b7fc4;box-shadow:0 2px 6px rgba(60,100,60,.12)}
+header .restorebtn{position:absolute;top:8px;right:52px;background:#fff;border:1px solid #e5cfae;border-radius:999px;padding:4px 10px;font-size:12px;line-height:1.4;color:#c8821f;box-shadow:0 2px 6px rgba(60,100,60,.12)}
 header h1{font-size:16px;margin:0;font-weight:700;color:#2a7d46}
 header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .counter{display:flex;justify-content:space-around;align-items:center;font-size:12px;color:#5e7a64;padding:6px 0}
@@ -58,6 +59,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .panel .it .t{font-size:13px;color:#2b7fc4;font-weight:700;margin-bottom:6px}
 .panel .it .b{font-size:13px;line-height:1.6;color:#36473a;white-space:pre-line}
 .panel .it .plk{display:inline-block;margin-top:8px;font-size:12px;color:#2b7fc4;text-decoration:none;font-weight:700}
+.panel .it .restorego{margin-top:8px;background:#fbeacd;border:1px solid #e5cfae;color:#b9771a;border-radius:9px;padding:7px 14px;font-size:13px;font-weight:700}
 .panel .pf{padding:14px 16px;display:flex;gap:10px}
 .panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#2e9e5b;color:#fff}
 .panel .pf button.sec{background:#e6efe6;color:#2c3a2f}
@@ -67,6 +69,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 <div class="wrap">
   <header>
     <button class="postedbtn" onclick="openPosted()" title="投稿済みを見る">📊 投稿済み</button>
+    <button class="restorebtn" onclick="openRestore()" title="消したニュースを復活">↩️</button>
     <button class="refresh" onclick="location.reload(true)" title="最新に更新">🔄</button>
     <h1>イチロウのニュース・スワイプ</h1>
     <div class="meta">取得: 2026-06-03 08:08 JST ／ 右=採用 ✓ ・左=スキップ ✗</div>
@@ -107,7 +110,32 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
   <div class="pf"><button class="sec" onclick="closePosted()">閉じる</button></div>
 </div>
 
+<div class="panel" id="restorePanel">
+  <div class="ph"><h3>↩️ 消したニュースを復活</h3><button class="x" onclick="closeRestore()">✕</button></div>
+  <div class="list" id="restoreList"></div>
+  <div class="pf"><button class="sec" onclick="closeRestore()">閉じる</button></div>
+</div>
+
 <script>
+function openRestore(){ document.getElementById('restorePanel').classList.add('open'); renderRestore(); }
+function closeRestore(){ document.getElementById('restorePanel').classList.remove('open'); }
+function renderRestore(){
+  const el=document.getElementById('restoreList');
+  const recent=seenLog.slice(-10).reverse();
+  el.innerHTML = recent.length ? recent.map(function(e){
+    const enc=encodeURIComponent(e.t);
+    return '<div class="it"><div class="t">['+esc((e.item&&e.item.topic)||'')+'] '+esc((e.item&&e.item.title)||e.t)+'</div>'+
+      '<button class="restorego" onclick="doRestore(\''+enc+'\')">↩️ これを復活</button></div>';
+  }).join('') : '<div class="empty">復活できるニュースはありません</div>';
+}
+function doRestore(enc){
+  const title=decodeURIComponent(enc);
+  seen.delete(title); localStorage.setItem('seenTitles',JSON.stringify([...seen]));
+  let idx=-1; for(let i=seenLog.length-1;i>=0;i--){ if(seenLog[i].t===title){ idx=i; break; } }
+  if(idx>=0){ const e=seenLog.splice(idx,1)[0]; localStorage.setItem('seenLog',JSON.stringify(seenLog));
+    if(e.item && !deck.find(function(d){return d.title===title;})) deck.unshift(e.item); }
+  render(); renderRestore();
+}
 function openPosted(){
   document.getElementById('postedPanel').classList.add('open');
   document.getElementById('postedList').innerHTML='<div class="empty">読み込み中…</div>';
@@ -132,6 +160,7 @@ const NEWS = [{"topic": "農業", "title": "キラリ情熱人「持続可能な
 const SUBMIT_URL = "https://script.google.com/macros/s/AKfycbzabm9pNMYvLhNrgp2LwXY57i9pK9Zy9UAmZ3djWUda2HLOfMLUxCxtBGjYgLEhX_Ic8A/exec";
 let sent = new Set(JSON.parse(localStorage.getItem('sentTitles')||'[]'));  // 送信済み(二度押し防止)
 let seen = new Set(JSON.parse(localStorage.getItem('seenTitles')||'[]'));  // 一度スワイプ済み(再表示しない)
+let seenLog = JSON.parse(localStorage.getItem('seenLog')||'[]');  // 消した履歴(復活用・新しいものほど後ろ)
 let deck = NEWS.filter(n=>!sent.has(n.title) && !seen.has(n.title)).slice(0,15);  // 未処理を最大15件まで
 let adopted = [];
 const stage = document.getElementById('stage');
@@ -181,7 +210,9 @@ function fly(yes){
   const card=topCard; if(!card)return;
   card.style.transition='transform .35s';
   card.style.transform=`translateX(${yes?700:-700}px) rotate(${yes?40:-40}deg)`;
-  const n=deck.shift(); if(n){ seen.add(n.title); localStorage.setItem('seenTitles',JSON.stringify([...seen])); if(yes) adopted.push(n); }
+  const n=deck.shift(); if(n){ seen.add(n.title); localStorage.setItem('seenTitles',JSON.stringify([...seen]));
+    seenLog.push({t:n.title, item:n, ts:Date.now()}); if(seenLog.length>60) seenLog=seenLog.slice(-60);
+    localStorage.setItem('seenLog',JSON.stringify(seenLog)); if(yes) adopted.push(n); }
   setTimeout(render,230);
 }
 function swipe(yes){ if(!deck.length)return; fly(yes); }

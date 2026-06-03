@@ -6,56 +6,56 @@
 <meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0">
 <title>イチロウのニュース・スワイプ</title>
 <link rel="icon" href="icon.png"><link rel="apple-touch-icon" href="icon.png">
-<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#0f1419">
+<link rel="manifest" href="manifest.json"><meta name="theme-color" content="#eaf6ef">
 <meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="ニュース">
 
 <style>
 *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-body{margin:0;background:#0f1419;color:#e7edf3;font-family:-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;overflow:hidden;height:100vh}
+body{margin:0;background:linear-gradient(180deg,#eaf6ef 0%,#f5f8e9 100%);background-attachment:fixed;color:#2c3a2f;font-family:-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;overflow:hidden;height:100vh}
 .wrap{max-width:440px;margin:0 auto;height:100vh;display:flex;flex-direction:column}
 header{padding:10px 16px 4px;text-align:center}
-header h1{font-size:16px;margin:0;font-weight:700}
-header .meta{font-size:11px;color:#7d8a98;margin-top:2px}
-.counter{display:flex;justify-content:space-around;font-size:12px;color:#9fb0c0;padding:6px 0}
-.counter b{color:#e7edf3;font-size:15px}
-.counter .adoptbtn{background:#16241c;border:1px solid #2c4a39;color:#37d07f;border-radius:999px;padding:5px 14px;font-size:12px}
-.counter .adoptbtn b{color:#37d07f}
-.counter .sendbtn{background:#3aa0ff;border:none;color:#04121f;border-radius:999px;padding:5px 16px;font-size:13px;font-weight:700}
+header h1{font-size:16px;margin:0;font-weight:700;color:#2a7d46}
+header .meta{font-size:11px;color:#7a9180;margin-top:2px}
+.counter{display:flex;justify-content:space-around;align-items:center;font-size:12px;color:#5e7a64;padding:6px 0}
+.counter b{color:#2c3a2f;font-size:15px}
+.counter .adoptbtn{background:#e3f3e7;border:1px solid #aedcb7;color:#2e9e5b;border-radius:999px;padding:5px 14px;font-size:12px}
+.counter .adoptbtn b{color:#2e9e5b}
+.counter .sendbtn{background:#2e9e5b;border:none;color:#fff;border-radius:999px;padding:5px 16px;font-size:13px;font-weight:700;box-shadow:0 3px 8px rgba(46,158,91,.3)}
 .stage{flex:1;position:relative;margin:6px 12px}
-.card{position:absolute;inset:0;background:#1b232c;border-radius:20px;padding:18px;box-shadow:0 10px 30px rgba(0,0,0,.45);display:flex;flex-direction:column;border:1px solid #28323d;will-change:transform;touch-action:pan-y;overflow:hidden}
-.card .badge{align-self:flex-start;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:#22303d;color:#7fc4ff;margin-bottom:10px}
-.card .sentb{position:absolute;top:16px;right:16px;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:#16241c;color:#37d07f;border:1px solid #2c4a39}
-.card h2{font-size:18px;line-height:1.4;margin:0 0 8px;font-weight:700}
-.card .src{font-size:11px;color:#8b98a6;margin-bottom:8px}
-.card .draft{background:#0e1620;border:1px solid #244a36;border-radius:12px;padding:13px;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch}
-.card .draft .dh{font-size:12px;color:#37d07f;font-weight:700;margin-bottom:8px;position:sticky;top:0;background:#0e1620;padding-bottom:4px}
-.card .draft .db{font-size:14px;line-height:1.7;color:#e3edf5;white-space:pre-line}
-.card .lk{font-size:11px;color:#3aa0ff;text-decoration:none;margin-top:8px}
+.card{position:absolute;inset:0;background:#ffffff;border-radius:20px;padding:18px;box-shadow:0 10px 26px rgba(60,100,60,.16);display:flex;flex-direction:column;border:1px solid #e2ecdf;will-change:transform;touch-action:pan-y;overflow:hidden}
+.card .badge{align-self:flex-start;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:#e7f3ff;color:#2b7fc4;margin-bottom:10px}
+.card .sentb{position:absolute;top:16px;right:16px;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:#e3f3e7;color:#2e9e5b;border:1px solid #aedcb7}
+.card h2{font-size:18px;line-height:1.4;margin:0 0 8px;font-weight:700;color:#233027}
+.card .src{font-size:11px;color:#8aa090;margin-bottom:8px}
+.card .draft{background:#f4faf1;border:1px solid #d4e8d3;border-radius:12px;padding:13px;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch}
+.card .draft .dh{font-size:12px;color:#2e9e5b;font-weight:700;margin-bottom:8px;position:sticky;top:0;background:#f4faf1;padding-bottom:4px}
+.card .draft .db{font-size:14px;line-height:1.7;color:#36473a;white-space:pre-line}
+.card .lk{font-size:11px;color:#2b7fc4;text-decoration:none;margin-top:8px}
 .stamp{position:absolute;top:20px;font-size:28px;font-weight:900;padding:6px 14px;border-radius:12px;border:4px solid;opacity:0;pointer-events:none}
-.stamp.yes{left:16px;color:#37d07f;border-color:#37d07f;transform:rotate(-12deg)}
-.stamp.no{right:16px;color:#ff6b6b;border-color:#ff6b6b;transform:rotate(12deg)}
+.stamp.yes{left:16px;color:#2e9e5b;border-color:#2e9e5b;transform:rotate(-12deg)}
+.stamp.no{right:16px;color:#e0564f;border-color:#e0564f;transform:rotate(12deg)}
 .controls{display:flex;justify-content:center;gap:30px;padding:12px 0 18px}
-.btn{width:62px;height:62px;border-radius:50%;border:none;font-size:25px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(0,0,0,.4)}
-.btn.no{background:#2a2230;color:#ff6b6b}
-.btn.yes{background:#1d3329;color:#37d07f}
-.btn.add{width:48px;height:48px;font-size:23px;background:#22303d;color:#7fc4ff;align-self:center}
-.hint{font-size:11px;color:#6f7d8b;text-align:center;padding:0 16px 10px}
-.done{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;background:#1b232c;border-radius:20px}
-.done h2{font-size:22px}.done p{color:#9fb0c0;font-size:14px;line-height:1.6}
+.btn{width:62px;height:62px;border-radius:50%;border:none;font-size:25px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(60,100,60,.22)}
+.btn.no{background:#fdeaea;color:#e0564f}
+.btn.yes{background:#e4f5e9;color:#2e9e5b}
+.btn.add{width:48px;height:48px;font-size:23px;background:#e9f1f8;color:#2b7fc4;align-self:center}
+.hint{font-size:11px;color:#8aa090;text-align:center;padding:0 16px 10px}
+.done{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;background:#ffffff;border-radius:20px}
+.done h2{font-size:22px;color:#2a7d46}.done p{color:#5e7a64;font-size:14px;line-height:1.6}
 /* 採用パネル */
-.panel{position:fixed;inset:0;background:rgba(6,10,14,.94);display:none;flex-direction:column;z-index:50;max-width:440px;margin:0 auto}
+.panel{position:fixed;inset:0;background:rgba(244,250,240,.98);display:none;flex-direction:column;z-index:50;max-width:440px;margin:0 auto}
 .panel.open{display:flex}
 .panel .ph{display:flex;justify-content:space-between;align-items:center;padding:16px}
-.panel .ph h3{margin:0;font-size:16px}
-.panel .ph .x{font-size:24px;color:#9fb0c0;background:none;border:none}
+.panel .ph h3{margin:0;font-size:16px;color:#2a7d46}
+.panel .ph .x{font-size:24px;color:#7a9180;background:none;border:none}
 .panel .list{flex:1;overflow:auto;padding:0 16px}
-.panel .it{background:#141b22;border-radius:12px;padding:12px;margin-bottom:10px}
-.panel .it .t{font-size:13px;color:#9fdcff;font-weight:700;margin-bottom:6px}
-.panel .it .b{font-size:13px;line-height:1.6;color:#cfd9e3;white-space:pre-line}
+.panel .it{background:#ffffff;border:1px solid #e2ecdf;border-radius:12px;padding:12px;margin-bottom:10px}
+.panel .it .t{font-size:13px;color:#2b7fc4;font-weight:700;margin-bottom:6px}
+.panel .it .b{font-size:13px;line-height:1.6;color:#36473a;white-space:pre-line}
 .panel .pf{padding:14px 16px;display:flex;gap:10px}
-.panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#3aa0ff;color:#04121f}
-.panel .pf button.sec{background:#22303d;color:#cfe}
-.empty{color:#6f7d8b;text-align:center;margin-top:40px}
+.panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#2e9e5b;color:#fff}
+.panel .pf button.sec{background:#e6efe6;color:#2c3a2f}
+.empty{color:#8aa090;text-align:center;margin-top:40px}
 </style></head>
 <body>
 <div class="wrap">

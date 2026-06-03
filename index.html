@@ -69,7 +69,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
   <div class="counter">
     <div>残り <b id="left">0</b></div>
     <button class="adoptbtn" onclick="openPanel()">採用 <b id="adopt">0</b> 件 ▼</button>
-    <button class="sendbtn" onclick="submitAdopted()">📤 送信</button>
+    <button class="sendbtn" onclick="submitAdopted()">✅ 確定</button>
   </div>
   <div class="stage" id="stage">
     <div class="done" id="done">
@@ -91,7 +91,7 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
   <div class="ph"><h3>採用したニュース（<span id="pcount">0</span>件）</h3><button class="x" onclick="closePanel()">✕</button></div>
   <div class="list" id="plist"></div>
   <div class="pf">
-    <button onclick="submitAdopted()">📤 あいなに送信</button>
+    <button onclick="submitAdopted()">✅ 確定（投稿に回す）</button>
     <button class="sec" onclick="copyList()">コピー</button>
   </div>
 </div>
@@ -184,7 +184,7 @@ function submitAdopted(){
     body:JSON.stringify({action:'submitAdopted',items:items})})
     .then(()=>{ adopted.forEach(n=>sent.add(n.title)); localStorage.setItem('sentTitles',JSON.stringify([...sent]));
       adopted=[]; closePanel(); render();
-      alert('あいなに送信しました📤 '+n0+'件\n（送信済みは✓マークが付きます）\nDiscordで「送ったよ」と言えば、9時/15時にセットします'); })
+      alert('✅ 確定しました！'+n0+'件\n自動で9時/15時の投稿に回ります。\nもう「送ったよ」を言う必要はありません🌾\n（途中で閉じてもOK・確定した分だけ処理されます）'); })
     .catch(()=>{ alert('送信に失敗しました。電波を確認してもう一度「あいなに送信」を押してください'); });
 }
 function postNowCard(){
@@ -197,7 +197,7 @@ function postNowCard(){
     body:JSON.stringify({action:'submitAdopted',items:[item]})})
     .then(()=>{ seen.add(n.title); localStorage.setItem('seenTitles',JSON.stringify([...seen]));
       deck.shift(); render();
-      alert('⚡ 今すぐ投稿をあいなに依頼しました！\nあいなが見つけ次第すぐXに投稿します🌾\n（Discordで「すぐ投稿して」と言うと確実です）'); })
+      alert('⚡ 今すぐ投稿、確定しました！\n数分以内に自動でXに投稿されます🌾\n（Discordで何か言う必要はありません）'); })
     .catch(()=>alert('送信に失敗しました。電波を確認してもう一度押してください'));
 }
 render();

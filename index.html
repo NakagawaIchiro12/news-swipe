@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ja"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>イチロウのニュース・スワイプ</title>
+<style>
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{margin:0;background:#0f1419;color:#e7edf3;font-family:-apple-system,"Hiragino Kaku Gothic ProN",Meiryo,sans-serif;overflow:hidden;height:100vh}
+.wrap{max-width:440px;margin:0 auto;height:100vh;display:flex;flex-direction:column}
+header{padding:10px 16px 4px;text-align:center}
+header h1{font-size:16px;margin:0;font-weight:700}
+header .meta{font-size:11px;color:#7d8a98;margin-top:2px}
+.counter{display:flex;justify-content:space-around;font-size:12px;color:#9fb0c0;padding:6px 0}
+.counter b{color:#e7edf3;font-size:15px}
+.counter .adoptbtn{background:#16241c;border:1px solid #2c4a39;color:#37d07f;border-radius:999px;padding:5px 14px;font-size:12px}
+.counter .adoptbtn b{color:#37d07f}
+.stage{flex:1;position:relative;margin:6px 12px}
+.card{position:absolute;inset:0;background:#1b232c;border-radius:20px;padding:18px;box-shadow:0 10px 30px rgba(0,0,0,.45);display:flex;flex-direction:column;border:1px solid #28323d;will-change:transform;touch-action:pan-y;overflow:hidden}
+.card .badge{align-self:flex-start;font-size:11px;font-weight:700;padding:4px 10px;border-radius:999px;background:#22303d;color:#7fc4ff;margin-bottom:10px}
+.card h2{font-size:18px;line-height:1.4;margin:0 0 8px;font-weight:700}
+.card .src{font-size:11px;color:#8b98a6;margin-bottom:8px}
+.card .draft{background:#0e1620;border:1px solid #244a36;border-radius:12px;padding:13px;flex:1;overflow-y:auto;-webkit-overflow-scrolling:touch}
+.card .draft .dh{font-size:12px;color:#37d07f;font-weight:700;margin-bottom:8px;position:sticky;top:0;background:#0e1620;padding-bottom:4px}
+.card .draft .db{font-size:14px;line-height:1.7;color:#e3edf5;white-space:pre-line}
+.card .lk{font-size:11px;color:#3aa0ff;text-decoration:none;margin-top:8px}
+.stamp{position:absolute;top:20px;font-size:28px;font-weight:900;padding:6px 14px;border-radius:12px;border:4px solid;opacity:0;pointer-events:none}
+.stamp.yes{left:16px;color:#37d07f;border-color:#37d07f;transform:rotate(-12deg)}
+.stamp.no{right:16px;color:#ff6b6b;border-color:#ff6b6b;transform:rotate(12deg)}
+.controls{display:flex;justify-content:center;gap:30px;padding:12px 0 18px}
+.btn{width:62px;height:62px;border-radius:50%;border:none;font-size:25px;display:flex;align-items:center;justify-content:center;box-shadow:0 6px 16px rgba(0,0,0,.4)}
+.btn.no{background:#2a2230;color:#ff6b6b}
+.btn.yes{background:#1d3329;color:#37d07f}
+.btn.add{width:48px;height:48px;font-size:23px;background:#22303d;color:#7fc4ff;align-self:center}
+.hint{font-size:11px;color:#6f7d8b;text-align:center;padding:0 16px 10px}
+.done{position:absolute;inset:0;display:none;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:24px;background:#1b232c;border-radius:20px}
+.done h2{font-size:22px}.done p{color:#9fb0c0;font-size:14px;line-height:1.6}
+/* 採用パネル */
+.panel{position:fixed;inset:0;background:rgba(6,10,14,.94);display:none;flex-direction:column;z-index:50;max-width:440px;margin:0 auto}
+.panel.open{display:flex}
+.panel .ph{display:flex;justify-content:space-between;align-items:center;padding:16px}
+.panel .ph h3{margin:0;font-size:16px}
+.panel .ph .x{font-size:24px;color:#9fb0c0;background:none;border:none}
+.panel .list{flex:1;overflow:auto;padding:0 16px}
+.panel .it{background:#141b22;border-radius:12px;padding:12px;margin-bottom:10px}
+.panel .it .t{font-size:13px;color:#9fdcff;font-weight:700;margin-bottom:6px}
+.panel .it .b{font-size:13px;line-height:1.6;color:#cfd9e3;white-space:pre-line}
+.panel .pf{padding:14px 16px;display:flex;gap:10px}
+.panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#3aa0ff;color:#04121f}
+.panel .pf button.sec{background:#22303d;color:#cfe}
+.empty{color:#6f7d8b;text-align:center;margin-top:40px}
+</style></head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>イチロウのニュース・スワイプ</h1>
+    <div class="meta">取得: 2026-06-03 08:08 JST ／ 右=採用 ✓ ・左=スキップ ✗</div>
+  </header>
+  <div class="counter">
+    <div>残り <b id="left">0</b></div>
+    <button class="adoptbtn" onclick="openPanel()">採用 <b id="adopt">0</b> 件 ▼</button>
+  </div>
+  <div class="stage" id="stage">
+    <div class="done" id="done">
+      <h2>スワイプ完了！</h2>
+      <p>「採用◯件」をタップ→「コピー」で<br>本文ごと取り出せます。<br>Discordに貼れば、あいながXキューに入れます。</p>
+    </div>
+  </div>
+  <div class="controls">
+    <button class="btn no" onclick="swipe(false)">✗</button>
+    <button class="btn add" onclick="addManual()" title="ニュースを手動追加">＋</button>
+    <button class="btn yes" onclick="swipe(true)">✓</button>
+  </div>
+  <div class="hint">本文は指で上下にスクロール。カードを左右に振ると採用/スキップ。</div>
+</div>
+
+<div class="panel" id="panel">
+  <div class="ph"><h3>採用したニュース（<span id="pcount">0</span>件）</h3><button class="x" onclick="closePanel()">✕</button></div>
+  <div class="list" id="plist"></div>
+  <div class="pf">
+    <button onclick="copyList()">本文ごとコピー</button>
+    <button class="sec" onclick="closePanel()">閉じる</button>
+  </div>
+</div>
+
+<script>
+const NEWS = [{"topic": "農業", "title": "キラリ情熱人「持続可能な農業で地域を守る」", "source": "TVer", "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wWEZHY2R2X3RPeWprV1VxSy1PaGV4c1cyZnBEM20wdnU1clVuYWlHR29iaC1JUjFyZnRvNGI2ajd1OENMT1lLbGxYZw?oc=5", "pubDate": "Tue, 02 Jun 2026 20:17:46 GMT", "summary": "キラリ情熱人「持続可能な農業で地域を守る」  TVer", "draft": "「持続可能な農業で、地域を守る」。\nきれいな言葉ですが、ふわっとしがちです。\n\n現場でやってきて思うのは、\n地域を守る前に、まず自分の農業が続くことです。\n\n自分が赤字で倒れたら、地域も守れません。\n持続可能って、まず\"自分が10年続けられる形\"のこと。\n\n・無理な面積で広げない\n・体力を売上の元にしない\n・赤字の作目を抱え込まない\n\n自分の足元が続いて、はじめて地域に手を回せる。\n立派な看板より、まず自分が続く設計を。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業", "title": "【長野】若者が目指したくなる農業へ 八ケ岳農業大学校校長の丸山侑佑さん", "source": "日本経済新聞", "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CX3dDdXdoTTB6YVJDWWhlZ1Z4ZHJtSUdabVQ4R2VTdDF2YjNPV29yOUJobUVkRWp1WFBKVUtwWVhxOUtWNDdUMzRPN29Vd2h3T3lfYmo5UU1SRGR0cjJpUGN4V2VWRUVkeFB3NQ?oc=5", "pubDate": "Tue, 02 Jun 2026 20:00:00 GMT", "summary": "【長野】若者が目指したくなる農業へ 八ケ岳農業大学校校長の丸山侑佑さん  日本経済新聞", "draft": "「若者が目指したくなる農業へ」。\nいいテーマだと思います。\n\nでも、若い人が農業を避ける理由は、\nきつそう、稼げなさそう、休めなさそう、です。\n\nつまり、憧れを語るより、\n\"ちゃんと稼げて、休めて、続く\"形を見せるほうが早い。\n\n僕は、決まった時間で回して、土日は休む形にしています。\n出荷量を落とさずに、です。\n根性ではなく、設計でそうしている。\n\n若い人に来てほしいなら、\nかっこいい言葉より、現実に成り立つ働き方を見せること。\n\n農業は、設計すれば、ちゃんと選ばれる仕事になります。\n詳しくは固定ポストから🌾"}, {"topic": "農業", "title": "新規就農者が5年ぶり増 農業が「働き先」の選択肢に 課題に資材高も（日本農業新聞）", "source": "Yahoo!ニュース", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14dnpfWXRiVTVDUDV2YjFCRk5TQ3MzMEI2MVFiaHdwdjJIR2FNa3cwS2NZeUVCM2UzUmlnSU5QVE05VmVINDg0M2FkdzE4azdKV3FtUTJiV09xQ3NEeUJDZEFnZVVRQllBZkFpUjlBU1RnY09jbzdvMXdwQ0RaUDA?oc=5", "pubDate": "Tue, 02 Jun 2026 22:58:37 GMT", "summary": "新規就農者が5年ぶり増 農業が「働き先」の選択肢に 課題に資材高も（日本農業新聞）  Yahoo!ニュース", "draft": "新規就農者が、5年ぶりに増えたそうです。\n農業が「働き先」の選択肢になってきた。素直にうれしいニュースです。\n\nでも、同じ記事にこうもありました。「課題は、資材の高騰」。\nここが、これから始める人の本当の山場です。\n\n僕も16年やってきて思います。\n新規で一番こわいのは、作れないことではありません。「作れるのに、残らないこと」です。\n\n資材が上がると、同じ量を作っても、手元に残る額が減る。\nここで効くのは、栽培の腕より「誰に、いくらで売るか」を先に決めておくことです。\n\n売り先が相場まかせだと、資材高をそのままかぶる。\n決まった売り先があれば、上がった分を価格にのせて相談できる。\n\n入ってくる人が増える今こそ、作る前に「出口」を持つかどうかで、3年後に残る人と消える人が分かれます。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業", "title": "農業機械、関税１５％に下げ 日本の特例明記、８日適用―米大統領", "source": "時事ドットコム", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNbmVHaXBma2ZubFQwQzBVQ1ZsXzhfdDN6QjFaX1NQeFlDdWtVNGNEOVVYTnFFY2k4WTZsQ25CLWQ3Qy1jTFdTTk1jcTdCc0dxVmtUN1JxRG03cWdjVXZKV1VRUQ?oc=5", "pubDate": "Tue, 02 Jun 2026 05:30:00 GMT", "summary": "農業機械、関税１５％に下げ 日本の特例明記、８日適用―米大統領  時事ドットコム", "draft": "農機の関税が、下がるそうです。\n機械が少し買いやすくなるのは、ありがたい話です。\n\nでも、ここで一つ気をつけたいことがあります。\n機械は、入れた瞬間から、コストになります。\n\n安くなったから買う、ではなく、\nその機械が、何時間を生んで、いくら残すか。\nここを先に計算してから入れる。\n\n僕も昔、勢いで機械を増やして、\n使う回数の少ない機械に、お金を眠らせたことがあります。\n\n機械は、持っているかではなく、\n動いて、利益を生んでいるかが全てです。\n\n関税が下がる今こそ、\n「欲しい機械」ではなく「元が取れる機械」かを見てください。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業", "title": "利根川水系で農業用水制限 埼玉、群馬", "source": "日本農業新聞", "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNGlZRFRtVTB3RlBQM1Y4ejlCVkwyMnNtUjZMQ0RfOWpDN1Y5MHVCV2laQXVVZU9IeklLNENrLTZvdjU3Qk5kNlZ0RFNqTHJTblVGMnVtNA?oc=5", "pubDate": "Tue, 02 Jun 2026 03:56:14 GMT", "summary": "利根川水系で農業用水制限 埼玉、群馬  日本農業新聞", "draft": "農業用水の制限のニュース。\n水が足りない、は、農家にとって他人事じゃありません。\n\nこういう\"自分でどうにもできないリスク\"は、毎年どこかで起きます。\n天候、水、相場、資材。\n\n大事なのは、起きないように祈ることではなく、\n起きた時に、どこまで耐えられるかを決めておくことです。\n\n・水が来なかったら、どの畑を優先するか\n・不作の年でも、最低限の黒字は残るか\n・一つの作目に、賭けすぎていないか\n\nリスクは消せません。でも、備えは設計できます。\n自分でどうにもできないものほど、先に逃げ道を決めておく。\n\n詳しくは固定ポストから🌾"}, {"topic": "AI×農業", "title": "プログラミング知識ゼロの文系農家『ChatGPT』駆使してAI農業を実現!トラクター自動運転やハウス自動温度管理 外注の1割コストで実現した驚きのAI活用術", "source": "Yahoo!ニュース", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByMHBGc2gwTlBqeUFEZHdLekc2OUJwb0pGMmRwX0FDcE5ZV3daZXRhSTVMN25TcTRRNmdrQ01xNHRwa0d6YlBSbHRLQ2RGeFo2STNTZm9OOTc4ZGo4UF9NS0V6TmJST2g1Yk5ia1UyZS1tMHlmUUxkYTkydExwMFE?oc=5", "pubDate": "Wed, 27 May 2026 07:15:00 GMT", "summary": "プログラミング知識ゼロの文系農家『ChatGPT』駆使してAI農業を実現!トラクター自動運転やハウス自動温度管理 外注の1割コストで実現した驚きのAI活用術  Yahoo!ニュース", "draft": "プログラミングを知らない農家が、ChatGPTで農業を変えている。\nこのニュース、すごく分かります。\n\n僕も、パソコンが得意なわけではありません。\nそれでも、AIに畑の記録や段取りを手伝ってもらっています。\n\n大事なのは、使いこなすことではなく、\n1つでも、今の作業がラクになることです。\n\nAIは、難しい人のための道具ではありません。\nむしろ、人手も時間も足りない農家にこそ効きます。\n\n「自分には無理」と思っている人ほど、\n入口を小さくすれば、必ず使えます。\n\nまずは記録から。それだけで、判断が変わります。\n詳しくは固定ポストから🌾"}, {"topic": "AI×農業", "title": "ＡＩ新世紀・技術継承：／上 農業ノウハウ、即更新（その1）", "source": "毎日新聞", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLd1Z3SlpkUXRsQzQzM1RuRFNCb3FMMkIyRmtyaVpaVlEzQ3hiWDhrcUdfc1NickZJblBqbFZUZlVFZW1ZUURfWXZnSnloSmJiZHpaMGQtX18tR3dUVHNPNFJFeWN3SUpY?oc=5", "pubDate": "Mon, 01 Jun 2026 17:04:32 GMT", "summary": "ＡＩ新世紀・技術継承：／上 農業ノウハウ、即更新（その1）  毎日新聞", "draft": "AIで、農業のノウハウを継承する。\nおもしろい時代になりました。\nベテランの勘や経験を、形にして残せる。\n\nただ、一つ思うのは、\n\"残す中身\"がなければ、AIも何も継げないということです。\n\nだから今、現役の僕らがやるべきは、\n自分の判断を、言葉にして残しておくこと。\n\nなぜこの時期に収穫したか。なぜこの畑に入らなかったか。\nこれを残せば、AIが整理して、次の人に渡せます。\n\n技術は、頭の中にあるうちは消えます。\n言葉にして、はじめて継げる。\nAIは、その器です。中身は、自分で残すしかありません。\n\n詳しくは固定ポストから🌾"}, {"topic": "AI×農業", "title": "【生成AI×農業で若い新規就農者を早く稼げるように！担い手確保で日本の食を守る】本日から2日間...", "source": "選挙ドットコム", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LdXd3M21TYnhEWndIdElIVmdBNDlfcWJ5TlNnRVJkcU9SaG9OV0Iyc2RvOERnTUhiNngzc0tKaEtZRHFkYktnMk9YR041cnpPSUZLWExKbnNIaHlUaTBR?oc=5", "pubDate": "Mon, 01 Jun 2026 14:09:24 GMT", "summary": "【生成AI×農業で若い新規就農者を早く稼げるように！担い手確保で日本の食を守る】本日から2日間...  選挙ドットコム", "draft": "生成AIで、新規就農者を早く稼げるように。\nこの方向、すごく賛成です。\n\n新規がつまずく一番の理由は、\n\"覚えることが多すぎて、回らない\"ことです。\n作り方、売り先、段取り、記録。全部いっぺんに来る。\n\nここでAIが効きます。\n過去の事例や段取りを整理して、判断を助けてくれる。\nゼロから一人で抱えるより、ずっと早く回せます。\n\nただし、AIは\"出口\"までは決めてくれません。\n誰に売るか、いくらで売るか。ここは自分で決める。\n\nAIで作業を速くして、空いた頭で、出口を設計する。\nこの組み合わせが、新規の最短ルートです。\n\n詳しくは固定ポストから🌾"}, {"topic": "AI×農業", "title": "「農業特化型AIエージェント『ノウノウ』」", "source": "TOKYO FM", "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ETjZnYVRGRmZUQkVVWDlJUTNFbFR4NFM4ZTZDelZJaHh5bVVZYUJNMVdiXzB0bVJsZnZzYmlEVzFqTUQwM3p2SFNua0ZZTFA1TDNvMG8taUZmcWxQb05IZQ?oc=5", "pubDate": "Thu, 28 May 2026 13:27:48 GMT", "summary": "「農業特化型AIエージェント『ノウノウ』」  TOKYO FM", "draft": "農業に特化したAIが、どんどん出てきています。\nいい流れだと思います。\n\nただ、一つだけ伝えたいことがあります。\nAIは、答えをくれる魔法ではありません。\n\nどんなに賢いAIでも、\nあなたの畑の土も、売り先も、知りません。\n\nAIが本当に効くのは、\n自分が現場で感じたことを、整理する時です。\n\n去年の判断、失敗の理由、うまくいった時の条件。\nこれを残しておくと、AIが使える材料になります。\n\nAIに正解を聞く農家ではなく、\n自分の経験を残している農家が、AI時代に強い。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業経営", "title": "岐路に立つ日本の農業政策 | MRIオピニオン（2026年6月号） | ナレッジ・コラム", "source": "mri.co.jp", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZaHljN0ZQcTd3RnJKYlc1ZUlUbkg0LUMyTS1TYXdGVWQtbmh5X0VrUU4yZjZKU21xaFJpOF9nSVZkeXlfWTA1eWg4RG5tQjBTQ2FSNzdZUXBaOFh0dVRoX0pBeHUtdGJuenc?oc=5", "pubDate": "Sun, 31 May 2026 10:19:46 GMT", "summary": "岐路に立つ日本の農業政策 | MRIオピニオン（2026年6月号） | ナレッジ・コラム  mri.co.jp", "draft": "日本の農業政策が、岐路に立っている。\nこういう大きな話を見ると、不安になりますよね。\n\nでも、現場でやってきて思うのは、\n政策がどう転んでも、\n自分の農業の土台は、自分で作るしかないということです。\n\n補助金も、制度も、追い風にはなる。\nでも、それ頼みの経営は、\n風向きが変わった瞬間に崩れます。\n\n大事なのは、\n制度が変わっても残る「売り先」と「利益の出る形」を、\n自分で持っておくこと。\n\n外の話に振り回される前に、自分の足元を固める。\nここがあれば、政策がどう動いても、戦えます。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業経営", "title": "雇用創出、農地集積 農業法人 規模拡大で存在感 収益性向上へ 県、新支援制度", "source": "静岡新聞DIGITAL", "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBfeEJIVmFuM18yWUVJUm1VeFFOWktuUjZGV1VlQlR4M09SbHBJeVFlaDBGUmdMak15TGF5LW5tLUxwZTJvZDE2THVza1ZIZw?oc=5", "pubDate": "Mon, 01 Jun 2026 20:00:00 GMT", "summary": "雇用創出、農地集積 農業法人 規模拡大で存在感 収益性向上へ 県、新支援制度  静岡新聞DIGITAL", "draft": "農業法人が、規模拡大で存在感を増しているそうです。\n大きくするのは、一つの正解です。\n\nでも、規模を追う時に、見落としがちなことがあります。\nそれは「信用」です。\n\n面積や売上を追うほど、\n約束を守る、という地味な部分が薄くなりがちです。\n\n納期、規格、連絡。\n一つ一つは小さい。でも、買う側はちゃんと覚えています。\n\n規模を追ったぶん信用がすり減ると、長くは続きません。\n逆に、量は普通でも約束を守る農家には、向こうから話が来ます。\n\n拡大の本当の土台は、面積ではなく信用です。\n広げる前に、今の取引で約束を守れているか。\n\n詳しくは固定ポストから🌾"}, {"topic": "農業経営", "title": "小田原市とさがみ信金、㈲ジョイファーム 地域の農業経営支援で連携協定", "source": "タウンニュース", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14WExCcmVGOGRKdFlGQVNVdkRlV2NTajZFWS0xMVhaZ1VReU1IV3VHME1jWjZQR25pUTBqZlNNX1ZGU0JmblpmX2wzT24tUWd1YlJfaXV2b3ZjamlmTFdaTms4NV8?oc=5", "pubDate": "Thu, 28 May 2026 15:00:00 GMT", "summary": "小田原市とさがみ信金、㈲ジョイファーム 地域の農業経営支援で連携協定  タウンニュース", "draft": "信用金庫と農業法人が、経営支援で連携。\nこういう動き、増えてきました。\nお金を借りやすくなるのは、ありがたい。\n\nでも、借りる前に、一つだけ確認してほしい。\n\"借りたお金が、利益を生む形になっているか\"です。\n\n設備や面積を増やすために借りる。\nでも、その先で人件費を引いても黒字か、まで見えていないと、\n借金だけが残ります。\n\n支援や融資は、追い風です。\nただ、追い風は、進む方向が正しい時だけ効く。\n\n借りる前に、まず\"人を入れても黒字か\"を固める。\nそこができていれば、融資は強い武器になります。\n\n詳しくは固定ポストから🌾"}, {"topic": "マーケ", "title": "カリスマ農家No.1が実践、農業マーケティングの極意は顧客の「困った！」の解決【動画】", "source": "ダイヤモンド・オンライン", "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zS2NaOFhqYUZSb2xLMXdLcVpLQ3hKUUZvMUpsQWZXeERfa2FvNUh4NXhvWk1qYUNJVXlSWGxFS2FET0ROYlpVa0kwNkXSAU9BVV95cUxNQ2ZlMnpxb2V3TzBzeTVjMmpJZXlPVzJXWUJqNmdFbkd0ay1JQkNtNWx2bkJtTVFMbmQ4c3dvQ0ZSNGNocHhETU5RaVpSQzRv?oc=5", "pubDate": "Thu, 19 Jan 2023 08:00:00 GMT", "summary": "カリスマ農家No.1が実践、農業マーケティングの極意は顧客の「困った！」の解決【動画】  ダイヤモンド・オンライン", "draft": "農業マーケの極意は、顧客の「困った」を解決すること。\nこのニュースのタイトル、その通りだと思います。\n\nマーケティングと聞くと、\n宣伝や、見せ方の話だと思われがちです。\n\nでも、本当の入口は、もっと手前にあります。\n「誰が、何に困っていて、いくらなら払うか」。\nここを知ることです。\n\n良いものを作れば売れる、ではありません。\n誰かの困りごとに、ぴったり合うから売れる。\n\n僕も、売り先の「困った」に合わせて、規格や出し方を変えてきました。\nそうすると、同じ野菜でも、価値が上がります。\n\n作る前に、相手の困りごとを聞く。\nこれが、一番強いマーケティングです。\n\n詳しくは固定ポストから🌾"}, {"topic": "マーケ", "title": "SAKIYOMI、茨城県「いばらき農業アカデミー アグリビジネス講座」でSNSマーケティング講座を実施", "source": "PR TIMES", "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3THAza2pxZlRRREdLeF9SczFjel9CTE5iUnYwOVNJYVhyQ1pEdWtFVzBqZ1l4TWFDNnlWaHhqVDJ4d3RIY2lDbFRvT1dMbXFnV3dDVkV4NFNiQnR2UnJ4UkxHc2Itck9XYUE?oc=5", "pubDate": "Tue, 16 Dec 2025 08:00:00 GMT", "summary": "SAKIYOMI、茨城県「いばらき農業アカデミー アグリビジネス講座」でSNSマーケティング講座を実施  PR TIMES", "draft": "農家がSNSを学ぶ講座が、増えてきました。\nいい流れです。\n\nただ、SNSを始める時に、勘違いしやすいことがあります。\nそれは「バズること」を目的にしてしまうこと。\n\n農家のSNSの目的は、有名になることではありません。\nあなたの野菜や考えを、ちゃんと届けたい人に、届けることです。\n\n1回の投稿が伸びなくても、いい。\n発信は、テストです。\n何が刺さるかを、少しずつ確かめていく。\n\n9回ダメでも、1回当たれば、それを育てればいい。\n\n数字に一喜一憂せず、続けて、試して、残った人とつながる。\nこれが、農家のSNSの正解だと思っています。\n\n詳しくは固定ポストから🌾"}, {"topic": "マーケ", "title": "東京大学大学院農学生命科学研究科と八ヶ岳農業大学校が連携協定を締結データ駆動型農業の実証と次世代農業人材の育成を推進――「テクノロジー」「サイエンス」「マーケティング」を基軸に農業の課題解決に貢献 - a.u", "source": "a.u-tokyo.ac.jp", "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5cWR2WU5CeTNMdnlWX0pnUTR6TFRJWl9IQ2s3cGF5Y2JQMVYzVVY4eXNwTUh4eWRLWlhqbkh3WFdFUkdfb0kzd1VnMTdZMjZlcDBwcnZBVE5JM25FSjlNS1VGaw?oc=5", "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT", "summary": "東京大学大学院農学生命科学研究科と八ヶ岳農業大学校が連携協定を締結データ駆動型農業の実証と次世代農業人材の育成を推進――「テクノロジー」「サイエンス」「マーケティング」を基軸に農業の課題解決に貢献  a.u-tokyo.ac.jp", "draft": "大学と農業大学校が組んで、データ駆動型農業へ。\nデータで農業をやる時代が、近づいています。いい流れです。\n\nただ、データは、集めるだけでは意味がありません。\n\"次の判断\"に使えて、はじめて価値が出ます。\n\n難しいセンサーがなくても、できることはあります。\n去年いつ収穫したか。どの畑が良かったか。何で失敗したか。\nこれを記録するだけでも、立派なデータです。\n\n大事なのは、量より、見返して使うこと。\nハイテクの前に、まず自分の判断を残す。\n\nデータ農業の第一歩は、足元の記録からです。\n詳しくは固定ポストから🌾"}, {"topic": "地方・地域", "title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来", "source": "三菱UFJリサーチ&コンサルティング", "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5", "pubDate": "Fri, 20 Feb 2026 08:00:00 GMT", "summary": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来  三菱UFJリサーチ&コンサルティング", "draft": "自治体が、農業に参入する企業を誘致する時代。\n企業が農業に入ってくる。\n個人農家からすると、不安に感じるかもしれません。\n\nでも、僕はそこまで心配していません。\n企業には企業の強みがある。資本、人、仕組み。\n\nでも、個人農家にも、勝てる場所があります。\n小回り、顔の見える関係、細かい品質、地域の信用。\n\n大きいところと同じ土俵で戦わない。\n\"あの人から買いたい\"と思われる関係は、規模では作れません。\n\n企業が増えるほど、\n個人が信用で勝負する価値は、むしろ上がります。\n\n大きさで戦わず、近さで戦う。\n詳しくは固定ポストから🌾"}, {"topic": "地方・地域", "title": "時間の主導権を「自分」に取り戻す。地方・林業がつくる新しい働き方－株式会社中川", "source": "マイナビキャリアリサーチLab", "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zRjNoeVJ0WEF0UW8tNV8xMHNuRjdyVG56OTZjdkc2dFJIM01IaENjV0hjME9PNG1MclJ5dmhIX2twbzdGc0IzTGstV1UwQm5BN1BBQkNPS19Idm00M3h6Njh1d0l4Z2RO?oc=5", "pubDate": "Thu, 07 May 2026 07:00:00 GMT", "summary": "時間の主導権を「自分」に取り戻す。地方・林業がつくる新しい働き方－株式会社中川  マイナビキャリアリサーチLab", "draft": "「時間の主導権を、自分に取り戻す」。\nこの言葉、農業でも同じだと思いました。\n\n農業は、忙しい仕事だと思われています。\n朝から晩まで、休みなく。昔の僕も、そうでした。\n\nでも、それを続けると、\n体力が、売上の上限になります。\n\nだから僕は、働き方を設計し直しました。\n作業を減らす。人に渡せる形にする。休む日を先に決める。\n\nすると、出荷量は落ちないのに、動く時間が短くなりました。\n\n農業を、生活に合わせる。\n生活を、農業に削られない。\n\nこれは、根性ではなく、設計の話です。\n時間の主導権は、取り戻せます。\n\n詳しくは固定ポストから🌾"}, {"topic": "地方・地域", "title": "担い手不足と耕作放棄地解消へ 大阪と島根…都市と地方の新たな分業モデル「二拠点農業」 長年放置された田んぼに“新緑のベルベット”【島根発】（FNNプライムオンライン）", "source": "Yahoo!ニュース", "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56YVZIOXF3UU51OWl4ZEVDWjltcFhJdjZ4S2JTY2hzVFBqclgtOGFEOVp5U0oxQmhlM0ducE1YSjczYjBab3VWMHpGTGoxQllDNlZNSnJpWmNRVDA1NXFXTnQtQmJnSnFHbGJMUFlNNmRxZWI5WVNCZjFJUWpkWGc?oc=5", "pubDate": "Sat, 23 May 2026 07:00:00 GMT", "summary": "担い手不足と耕作放棄地解消へ 大阪と島根…都市と地方の新たな分業モデル「二拠点農業」 長年放置された田んぼに“新緑のベルベット”【島根発】（FNNプライムオンライン）  Yahoo!ニュース", "draft": "都市と地方で、農業を分け合う。\n二拠点農業という新しい形が出てきました。\n\nおもしろい動きだと思います。\n耕作放棄地が課題になる中で、\n「全部を一人で抱えない」発想は、これからの農業に効きます。\n\n実は、これは規模の大きい話だけではありません。\n一人の農家でも、\n全部を自分で抱えるのをやめると、時間が生まれます。\n\n渡せる作業を渡す。得意な人と組む。一人で完結させようとしない。\n\n農業は、個人戦に見えて、\n分け合えるところが、たくさんあります。\n\n抱え込みをほどくと、続けやすくなります。\n詳しくは固定ポストから🌾"}, {"topic": "食", "title": "「2026夏の猛暑食トレンド」予測を「味の素」が発表！ 「麻辣湯」レシピ検索が右肩上がり、エスニックブームが猛暑の食卓を変える?!（HugKum）", "source": "Yahoo!ニュース", "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSldkcWFQLVZWNUpjUksyTS15cEFISjFoX0xXc0dCYTBocG03dWlMWkJRUFZuU3lsSko0elFNOE1jRDNwVzhIUVdQSFhiRjVIR3NmbnFUcjdHaGJTTjV2aEh2eFZhQnhVZkpmRnU1dWhRanF5d0dZa2ZoaGhFR1BodG5VajVvemZV?oc=5", "pubDate": "Sun, 31 May 2026 02:51:48 GMT", "summary": "「2026夏の猛暑食トレンド」予測を「味の素」が発表！ 「麻辣湯」レシピ検索が右肩上がり、エスニックブームが猛暑の食卓を変える?!（HugKum）  Yahoo!ニュース", "draft": "今年の夏は、エスニックや麻辣湯がくるそうです。\n食のトレンドは、毎年変わります。\n農家として、これは無視できない情報です。\n\nでも、注意したいことがあります。\nトレンドを追って作物を決めると、\n出来上がる頃には、流行が過ぎていることがある。\n野菜は、作るのに時間がかかるからです。\n\nだから僕は、トレンドそのものを追うより、\n「決まった売り先が、何を欲しがっているか」を見ます。\n\nトレンドは、売り先との会話のきっかけに使う。\n「こういうの、需要ありませんか?」と。\n\n流行を追いかけるのではなく、流行を、売り先との相談に変える。\n詳しくは固定ポストから🌾"}, {"topic": "食", "title": "「具なしのクレープ」なぜバズる？トレンドに見る「映え疲れ」", "source": "現代ビジネス", "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwRkw1UlR6dVFMcTJJX0VHNF9HMEFoYllWUVpQcEdHazRCUGxBOF9Gdm9RbWRmZW5jbGwyNTFZcW4zQlJCUGtKMHRPcXo1MEk?oc=5", "pubDate": "Mon, 01 Jun 2026 20:00:22 GMT", "summary": "「具なしのクレープ」なぜバズる？トレンドに見る「映え疲れ」  現代ビジネス", "draft": "「具なしクレープ」が、バズっているそうです。\n映え疲れの反動で、シンプルなものが好かれている、と。\n\nこれ、農業にも通じる話だと思いました。\n派手なもの、新しいものが、ずっと強いわけではない。\nどこかで、本質に戻る揺り戻しが来ます。\n\n野菜も同じです。\n珍しい品種や派手な見た目に走るより、\n「ちゃんとおいしい、普通の野菜」を、安定して届ける。\n\n地味だけど、これが一番強い。\n\n流行は、行ったり来たりします。\nでも、間違いないものを、間違いなく作る農家は、\nどんな揺り戻しが来ても、選ばれ続けます。\n\n派手さより、確かさ。\n詳しくは固定ポストから🌾"}];
+let deck = NEWS.slice();
+let adopted = [];
+const stage = document.getElementById('stage');
+function esc(s){return (s||'').replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+function render(){
+  document.querySelectorAll('.card').forEach(c=>c.remove());
+  document.getElementById('left').textContent = deck.length;
+  document.getElementById('adopt').textContent = adopted.length;
+  document.getElementById('done').style.display = deck.length? 'none':'flex';
+  for(let i=Math.min(deck.length-1,1); i>=0; i--){
+    const n = deck[i];
+    const c = document.createElement('div'); c.className='card';
+    c.style.zIndex = 10-i; c.style.transform = i? 'scale(0.96) translateY(8px)':'';
+    c.innerHTML = `<span class="badge">${esc(n.topic||'ニュース')}</span>
+      <h2>${esc(n.title||'')}</h2>
+      <div class="src">${esc(n.source||'')} ${n.pubDate?('· '+esc(n.pubDate.slice(0,16))):''}</div>
+      <div class="draft"><div class="dh">📝 イチロウ視点の投稿案（これがXに載ります）</div><div class="db">${esc(n.draft||'(本文は採用後に生成)')}</div>
+      ${n.link?`<a class="lk" href="${esc(n.link)}" target="_blank" rel="noopener">元記事を開く（参考・投稿には付きません）↗</a>`:''}</div>
+      <div class="stamp yes">採用</div><div class="stamp no">SKIP</div>`;
+    stage.appendChild(c);
+    if(i===0) attachDrag(c);
+  }
+}
+let sx=0,sy=0,dx=0,mode=null,drag=false,topCard=null;
+function attachDrag(card){
+  topCard=card;
+  const start=e=>{drag=true; mode=null; dx=0; const t=e.touches?e.touches[0]:e; sx=t.clientX; sy=t.clientY; card.style.transition='';};
+  const move=e=>{ if(!drag)return; const t=e.touches?e.touches[0]:e; const ddx=t.clientX-sx, ddy=t.clientY-sy;
+    if(mode===null){ if(Math.abs(ddx)>10||Math.abs(ddy)>10){ mode = (Math.abs(ddx)>Math.abs(ddy)+4)?'swipe':'scroll'; } }
+    if(mode!=='swipe') return;               // 縦スクロール等はカードを動かさない
+    if(e.cancelable) e.preventDefault();
+    dx=ddx;
+    card.style.transform=`translateX(${dx}px) rotate(${dx/20}deg)`;
+    card.querySelector('.stamp.yes').style.opacity = dx>0? Math.min(dx/90,1):0;
+    card.querySelector('.stamp.no').style.opacity = dx<0? Math.min(-dx/90,1):0; };
+  const end=()=>{ if(!drag)return; drag=false;
+    if(mode==='swipe' && Math.abs(dx)>90){ fly(dx>0); }
+    else if(topCard){ topCard.style.transition='transform .2s'; topCard.style.transform='';
+      const y=topCard.querySelector('.stamp.yes'), no=topCard.querySelector('.stamp.no'); if(y)y.style.opacity=0; if(no)no.style.opacity=0;}
+    dx=0; mode=null; };
+  card.addEventListener('touchstart',start,{passive:true});
+  card.addEventListener('touchmove',move,{passive:false});
+  card.addEventListener('touchend',end);
+  card.addEventListener('mousedown',start); window.addEventListener('mousemove',move); window.addEventListener('mouseup',end);
+}
+function fly(yes){
+  const card=topCard; if(!card)return;
+  card.style.transition='transform .35s';
+  card.style.transform=`translateX(${yes?700:-700}px) rotate(${yes?40:-40}deg)`;
+  const n=deck.shift(); if(yes) adopted.push(n);
+  setTimeout(render,230);
+}
+function swipe(yes){ if(!deck.length)return; fly(yes); }
+function addManual(){
+  const t=prompt('追加するニュースのタイトル（または内容）'); if(!t)return;
+  const u=prompt('元記事URL（任意・空でOK）')||'';
+  deck.unshift({topic:'手動追加',title:t,source:'手動',link:u,draft:''});
+  render();
+}
+function openPanel(){
+  document.getElementById('pcount').textContent=adopted.length;
+  document.getElementById('plist').innerHTML = adopted.length
+    ? adopted.map((n,i)=>`<div class="it"><div class="t">${i+1}. [${esc(n.topic)}] ${esc(n.title)}</div><div class="b">${esc(n.draft||'(本文の生成をお願いします)')}</div></div>`).join('')
+    : '<div class="empty">まだ採用がありません</div>';
+  document.getElementById('panel').classList.add('open');
+}
+function closePanel(){ document.getElementById('panel').classList.remove('open'); }
+function copyList(){
+  const txt = '【採用 '+adopted.length+'件 / Xキュー投入お願い】\n\n'+
+    adopted.map((n,i)=>`■${i+1} [${n.topic}] ${n.title}`+(n.draft?`\n${n.draft}`:`\n（本文の生成をお願いします）`)).join('\n\n――――\n');
+  navigator.clipboard.writeText(txt).then(()=>alert('コピーしました！Discordに貼り付けてください'),
+    ()=>prompt('手動でコピー:', txt));
+}
+render();
+</script>
+</body></html>

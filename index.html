@@ -65,6 +65,11 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#2e9e5b;color:#fff}
 .panel .pf button.sec{background:#e6efe6;color:#2c3a2f}
 .empty{color:#8aa090;text-align:center;margin-top:40px}
+/* 全ボタン：タップした感（押した瞬間ちゃんと反応）＋押せない時の表示 */
+button{cursor:pointer;transition:transform .07s ease, filter .12s ease, opacity .12s ease}
+button:active{transform:scale(.92);filter:brightness(.95)}
+button:disabled{opacity:.55;filter:saturate(.6)}
+.nowbtn.posted{background:#9bbf8f}
 </style></head>
 <body>
 <div class="wrap">
@@ -237,9 +242,13 @@ function copyList(){
   navigator.clipboard.writeText(txt).then(()=>alert('コピーしました！Discordに貼り付けてください'),
     ()=>prompt('手動でコピー:', txt));
 }
+let busySubmit=false;
 function submitAdopted(){
+  if(busySubmit) return;                               // 連打ガード（同期）
   if(!adopted.length){ alert('採用がありません'); return; }
   if(!SUBMIT_URL){ alert('送信先が未設定です。コピーを使ってください'); return; }
+  busySubmit=true;
+  const sb=document.querySelector('.sendbtn'); if(sb){ sb.disabled=true; sb.textContent='⏳ 送信中…'; }
   const items = adopted.map(n=>({topic:n.topic||'',title:n.title||'',link:n.link||'',body:n.draft||''}));
   // GASへ no-cors 送信（text/plainでpreflight回避・トークン不要＝受信箱に積むだけ）
   const n0=items.length;
@@ -247,12 +256,19 @@ function submitAdopted(){
     body:JSON.stringify({action:'submitAdopted',items:items})})
     .then(()=>{ adopted.forEach(n=>sent.add(n.title)); localStorage.setItem('sentTitles',JSON.stringify([...sent]));
       adopted=[]; closePanel(); render();
-      alert('✅ 確定しました！'+n0+'件\n自動で9時/15時の投稿に回ります。\nもう「送ったよ」を言う必要はありません🌾\n（途中で閉じてもOK・確定した分だけ処理されます）'); })
-    .catch(()=>{ alert('送信に失敗しました。電波を確認してもう一度「あいなに送信」を押してください'); });
+      if(sb){ sb.textContent='✓ 確定済み'; }
+      alert('✅ 確定しました！'+n0+'件\n自動で9時/15時の投稿に回ります。\nもう「送ったよ」を言う必要はありません🌾\n（連打しても二重にはなりません）');
+      setTimeout(function(){ if(sb){ sb.disabled=false; sb.textContent='✅ 確定'; } busySubmit=false; }, 1800); })
+    .catch(function(){ if(sb){ sb.disabled=false; sb.textContent='✅ 確定'; } busySubmit=false; alert('送信に失敗しました。電波を確認してもう一度「✅ 確定」を押してください'); });
 }
+let busyNow=false;
 function postNowCard(){
+  if(busyNow) return;                                  // 連打ガード（同期的に即ロック＝二重投稿を防ぐ）
   if(!deck.length){ alert('カードがありません'); return; }
   if(!SUBMIT_URL){ alert('送信先が未設定です'); return; }
+  busyNow=true;
+  const btn=document.querySelector('.nowbtn');
+  if(btn){ btn.disabled=true; btn.textContent='⏳ 投稿中…'; }
   const n=deck[0];
   // ⚡即投稿希望としてあいなに送る（topicに目印。あいなが見つけ次第すぐ投稿）
   const item={topic:'⚡即投稿｜'+(n.topic||''),title:n.title||'',link:n.link||'',body:n.draft||''};
@@ -260,8 +276,10 @@ function postNowCard(){
     body:JSON.stringify({action:'submitAdopted',items:[item]})})
     .then(()=>{ seen.add(n.title); localStorage.setItem('seenTitles',JSON.stringify([...seen]));
       deck.shift(); render();
-      alert('⚡ 今すぐ投稿、確定しました！\n数分以内に自動でXに投稿されます🌾\n（Discordで何か言う必要はありません）'); })
-    .catch(()=>alert('送信に失敗しました。電波を確認してもう一度押してください'));
+      if(btn){ btn.classList.add('posted'); btn.textContent='✓ 投稿しました'; }
+      alert('⚡ 今すぐ投稿、確定しました！\n数分以内に自動でXに投稿されます🌾\n（連打しても二重投稿にはなりません）');
+      setTimeout(function(){ if(btn){ btn.disabled=false; btn.classList.remove('posted'); btn.textContent='⚡ この記事を今すぐ投稿'; } busyNow=false; }, 1800); })
+    .catch(function(){ if(btn){ btn.disabled=false; btn.textContent='⚡ この記事を今すぐ投稿'; } busyNow=false; alert('送信に失敗しました。電波を確認してもう一度押してください'); });
 }
 render();
 </script>

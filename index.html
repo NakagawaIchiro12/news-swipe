@@ -65,6 +65,18 @@ header .meta{font-size:11px;color:#7a9180;margin-top:2px}
 .panel .pf button{flex:1;padding:14px;border-radius:12px;border:none;font-size:14px;font-weight:700;background:#2e9e5b;color:#fff}
 .panel .pf button.sec{background:#e6efe6;color:#2c3a2f}
 .empty{color:#8aa090;text-align:center;margin-top:40px}
+/* 農業タブ：見える化（サマリー/ランキング/数字） */
+.panel .sum{display:flex;gap:8px;margin:4px 0 10px}
+.panel .sum>div{flex:1;background:#eaf4ec;border:1px solid #d5e7d9;border-radius:12px;padding:10px 6px;text-align:center}
+.panel .sum b{display:block;font-size:20px;color:#1f7a3d;line-height:1.1}
+.panel .sum span{font-size:11px;color:#5d7a64}
+.panel .fsec{font-size:13px;font-weight:800;color:#2c3a2f;margin:14px 2px 8px}
+.panel .rkh{font-size:11px;color:#8aa090;margin:8px 2px 4px;font-weight:700}
+.panel .rk{display:flex;justify-content:space-between;background:#fff;border:1px solid #e2ecdf;border-radius:9px;padding:8px 12px;margin-bottom:5px;font-size:13px;color:#36473a}
+.panel .rk i{color:#8aa090;font-style:normal;font-size:11px}
+.panel .labs{margin:2px 0 6px;display:flex;gap:5px;flex-wrap:wrap}
+.panel .lab{font-size:10px;background:#eef3ec;border:1px solid #dde8db;color:#5d7a64;border-radius:6px;padding:2px 7px}
+.panel .met{margin-top:7px;font-size:12px;color:#1f7a3d;font-weight:700}
 /* 全ボタン：タップした感（押した瞬間ちゃんと反応）＋押せない時の表示 */
 button{cursor:pointer;transition:transform .07s ease, filter .12s ease, opacity .12s ease}
 button:active{transform:scale(.92);filter:brightness(.95)}
@@ -177,17 +189,48 @@ function openFarming(){
   document.body.appendChild(s); setTimeout(function(){ s.remove(); },10000);
 }
 function closeFarming(){ document.getElementById('farmingPanel').classList.remove('open'); }
+var AXIS_JP={kaihi:'失敗回避',suji:'数字基準',taiken:'実体験',omoikomi:'思い込み破壊',mirai:'未来提示',aruaru:'現場あるある',soudan:'相談回答',ai:'AI活用',guide:'完全ガイド',template:'テンプレ提供'};
+var AUD_JP={kateisaien:'家庭菜園',korekara:'これから',fukugyo:'副業',hongyo:'本業'};
+function engRate(x){ return x.imp>0 ? (x.likes + x.rt*2 + x.replies*1.5)/x.imp : null; }
+function rankBy(rows, keyf, jp){
+  var g={};
+  rows.forEach(function(x){ var er=engRate(x); if(er===null) return; var k=keyf(x)||'?'; (g[k]=g[k]||[]).push(er); });
+  var arr=Object.keys(g).map(function(k){ var v=g[k]; return {k:k, avg:v.reduce(function(a,b){return a+b;},0)/v.length, n:v.length}; });
+  arr.sort(function(a,b){return b.avg-a.avg;});
+  return arr.map(function(r){ return '<div class="rk"><span>'+esc((jp[r.k]||r.k))+'</span><span>'+(r.avg*100).toFixed(2)+'% <i>('+r.n+'本)</i></span></div>'; }).join('');
+}
 window.__onFarming=function(data){
   const el=document.getElementById('farmingList');
   const p=(data&&data.posts)||[];
   if(!p.length){ el.innerHTML='<div class="empty">農業の通常投稿はまだありません</div>'; return; }
-  el.innerHTML = p.map(function(x){
+  var posted=p.filter(function(x){return x.posted;});
+  var pending=p.filter(function(x){return !x.posted && !x.err;});
+  var measured=posted.filter(function(x){return x.hasMetrics && x.imp>0;});
+  // サマリー
+  var summary='<div class="sum"><div><b>'+posted.length+'</b><span>投稿済み</span></div>'+
+    '<div><b>'+pending.length+'</b><span>キュー残</span></div>'+
+    '<div><b>'+measured.length+'</b><span>計測済み</span></div></div>';
+  // 当たり型ランキング
+  var learn='';
+  if(measured.length){
+    learn='<div class="fsec">📈 当たり型ランキング（平均エンゲージ率）</div>'+
+      '<div class="rkh">訴求軸</div>'+rankBy(measured,function(x){return x.axis;},AXIS_JP)+
+      '<div class="rkh">読者層</div>'+rankBy(measured,function(x){return x.audience;},AUD_JP);
+  } else {
+    learn='<div class="empty" style="font-size:12px">📈 学習データは投稿の48時間後から出ます（計測が貯まると当たり型が並びます）</div>';
+  }
+  // 投稿一覧（数字つき）
+  var list=p.map(function(x){
     var st = x.posted ? '<span style="color:#86e29a">投稿済み✓</span>' : (x.err ? '<span style="color:#ff8fb0">エラー</span>' : '<span style="color:#e2cf86">予定</span>');
-    return '<div class="it"><div class="t">'+esc(x.dt)+' ・ '+st+(x.topic?' ・ ['+esc(x.topic)+']':'')+'</div>'+
-      '<div class="b">'+esc(x.body)+'</div>'+
+    var lab=(x.axis?'<span class="lab">'+esc(AXIS_JP[x.axis]||x.axis)+'</span>':'')+(x.audience?'<span class="lab">'+esc(AUD_JP[x.audience]||x.audience)+'</span>':'')+(x.cta?'<span class="lab">CTA'+esc(x.cta)+'</span>':'');
+    var met=(x.posted&&x.hasMetrics)?'<div class="met">♡'+x.likes+' ・ RT'+x.rt+' ・ 表示'+x.imp+(x.imp>0?' ・ '+(engRate(x)*100).toFixed(2)+'%':'')+'</div>':(x.posted?'<div class="met" style="opacity:.6">計測待ち…</div>':'');
+    return '<div class="it"><div class="t">'+esc(x.dt)+' ・ '+st+'</div>'+(lab?'<div class="labs">'+lab+'</div>':'')+
+      '<div class="b">'+esc(x.body)+'</div>'+met+
       (x.posted&&x.url?'<a class="plk" href="'+esc(x.url)+'" target="_blank" rel="noopener">Xで見る ↗</a>':'')+
       (x.err?'<div style="color:#ff8fb0;font-size:12px">'+esc(x.err)+'</div>':'')+'</div>';
-  }).join('') + '<div class="empty" style="font-size:12px">※消すのは管理URL（?view=farming）で。ここは閲覧用。</div>';
+  }).join('');
+  el.innerHTML = summary + learn + '<div class="fsec">📝 投稿一覧</div>' + list +
+    '<div class="empty" style="font-size:12px">※消すのは管理URL（?view=farming）で。ここは閲覧用。</div>';
 };
 </script>
 <script>

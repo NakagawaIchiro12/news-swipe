@@ -75,6 +75,7 @@ button:disabled{opacity:.55;filter:saturate(.6)}
 <div class="wrap">
   <header>
     <button class="postedbtn" onclick="openPosted()" title="投稿済みを見る">📊 投稿済み</button>
+    <button class="postedbtn" onclick="openFarming()" title="農業の通常投稿を見る">🌾 農業投稿</button>
     <button class="restorebtn" onclick="openRestore()" title="消したニュースを復活">↩️</button>
     <button class="refresh" onclick="location.reload(true)" title="最新に更新">🔄</button>
     <h1>イチロウのニュース・スワイプ</h1>
@@ -114,6 +115,12 @@ button:disabled{opacity:.55;filter:saturate(.6)}
   <div class="ph"><h3>📊 投稿済み（XのURL・時間）</h3><button class="x" onclick="closePosted()">✕</button></div>
   <div class="list" id="postedList"><div class="empty">読み込み中…</div></div>
   <div class="pf"><button class="sec" onclick="closePosted()">閉じる</button></div>
+</div>
+
+<div class="panel" id="farmingPanel">
+  <div class="ph"><h3>🌾 農業投稿（予定・投稿済み）</h3><button class="x" onclick="closeFarming()">✕</button></div>
+  <div class="list" id="farmingList"><div class="empty">読み込み中…</div></div>
+  <div class="pf"><button class="sec" onclick="closeFarming()">閉じる</button></div>
 </div>
 
 <div class="panel" id="restorePanel">
@@ -159,6 +166,28 @@ window.__onPosted=function(data){
     return '<div class="it"><div class="t">'+esc(x.at)+' ・ ['+esc(x.topic)+']</div><div class="b">'+esc(x.title)+'</div>'+
       (x.url?'<a class="plk" href="'+esc(x.url)+'" target="_blank" rel="noopener">Xで見る ↗</a>':'')+'</div>';
   }).join('') : '<div class="empty">まだ投稿はありません（投稿されると、ここにXのURLと時間が出ます）</div>';
+};
+function openFarming(){
+  document.getElementById('farmingPanel').classList.add('open');
+  document.getElementById('farmingList').innerHTML='<div class="empty">読み込み中…</div>';
+  if(!SUBMIT_URL){ document.getElementById('farmingList').innerHTML='<div class="empty">接続先が未設定</div>'; return; }
+  const s=document.createElement('script');
+  s.src=SUBMIT_URL+'?action=farmingList&callback=__onFarming&t='+Date.now();
+  s.onerror=function(){ document.getElementById('farmingList').innerHTML='<div class="empty">読み込めませんでした</div>'; };
+  document.body.appendChild(s); setTimeout(function(){ s.remove(); },10000);
+}
+function closeFarming(){ document.getElementById('farmingPanel').classList.remove('open'); }
+window.__onFarming=function(data){
+  const el=document.getElementById('farmingList');
+  const p=(data&&data.posts)||[];
+  if(!p.length){ el.innerHTML='<div class="empty">農業の通常投稿はまだありません</div>'; return; }
+  el.innerHTML = p.map(function(x){
+    var st = x.posted ? '<span style="color:#86e29a">投稿済み✓</span>' : (x.err ? '<span style="color:#ff8fb0">エラー</span>' : '<span style="color:#e2cf86">予定</span>');
+    return '<div class="it"><div class="t">'+esc(x.dt)+' ・ '+st+(x.topic?' ・ ['+esc(x.topic)+']':'')+'</div>'+
+      '<div class="b">'+esc(x.body)+'</div>'+
+      (x.posted&&x.url?'<a class="plk" href="'+esc(x.url)+'" target="_blank" rel="noopener">Xで見る ↗</a>':'')+
+      (x.err?'<div style="color:#ff8fb0;font-size:12px">'+esc(x.err)+'</div>':'')+'</div>';
+  }).join('') + '<div class="empty" style="font-size:12px">※消すのは管理URL（?view=farming）で。ここは閲覧用。</div>';
 };
 </script>
 <script>

@@ -82,12 +82,34 @@ button{cursor:pointer;transition:transform .07s ease, filter .12s ease, opacity 
 button:active{transform:scale(.92);filter:brightness(.95)}
 button:disabled{opacity:.55;filter:saturate(.6)}
 .nowbtn.posted{background:#9bbf8f}
+/* ヘッダー左：ボタンを横並び（重なり防止） */
+.hleft{position:absolute;top:8px;left:12px;display:flex;gap:5px;align-items:center}
+.hleft .postedbtn{position:static}
+/* 学習ループ・計測タブ */
+.panel .loop .step{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid #e2ecdf;border-radius:14px;padding:12px 14px;margin-bottom:8px}
+.panel .loop .num{flex:0 0 auto;width:34px;height:34px;border-radius:50%;background:linear-gradient(135deg,#2e9e5b,#1f7a3d);color:#fff;font-weight:800;font-size:17px;display:flex;align-items:center;justify-content:center}
+.panel .loop .sh{font-size:16px;font-weight:800;color:#233027}
+.panel .loop .sd{font-size:13px;color:#5d7a64;margin-top:3px;line-height:1.55}
+.panel .loop .ar{text-align:center;color:#2e9e5b;font-weight:800;margin:-1px 0 5px;font-size:15px}
+.panel .loop .back{text-align:center;color:#1f7a3d;font-size:12.5px;background:#eef7f0;border:1px dashed #aedcb7;border-radius:10px;padding:8px;margin-top:4px;font-weight:700}
+.panel .axwrap{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}
+.panel .axchip{flex:1 1 45%;background:#f4faf1;border:1px solid #d4e8d3;border-radius:11px;padding:9px 11px}
+.panel .axchip .k{font-size:11px;color:#2e9e5b;font-weight:700}
+.panel .axchip .v{font-size:14px;color:#233027;font-weight:800;margin-top:2px}
+.panel .ratio2{display:flex;height:30px;border-radius:8px;overflow:hidden;margin-top:6px;font-size:12.5px;font-weight:800}
+.panel .ratio2 .ex{flex:7;background:#2e9e5b;color:#fff;display:flex;align-items:center;justify-content:center}
+.panel .ratio2 .nw{flex:3;background:#cfe7d6;color:#1f7a3d;display:flex;align-items:center;justify-content:center}
+.panel .seed{margin-top:12px;background:#fff7e8;border:1px solid #e9d6a8;border-radius:12px;padding:12px;color:#7a5912;font-size:13px;line-height:1.55}
+.panel .seed b{color:#b9771a}
 </style></head>
 <body>
 <div class="wrap">
   <header>
-    <button class="postedbtn" onclick="openPosted()" title="投稿済みを見る">📊 投稿済み</button>
-    <button class="postedbtn" onclick="openFarming()" title="農業の通常投稿を見る">🌾 農業投稿</button>
+    <div class="hleft">
+      <button class="postedbtn" onclick="openPosted()" title="投稿済みを見る">📊 投稿済</button>
+      <button class="postedbtn" onclick="openFarming()" title="農業の通常投稿を見る">🌾 農業</button>
+      <button class="postedbtn" onclick="openLoop()" title="学習ループ・計測を見る">🔁 学習</button>
+    </div>
     <button class="restorebtn" onclick="openRestore()" title="消したニュースを復活">↩️</button>
     <button class="refresh" onclick="location.reload(true)" title="最新に更新">🔄</button>
     <h1>イチロウのニュース・スワイプ</h1>
@@ -135,6 +157,38 @@ button:disabled{opacity:.55;filter:saturate(.6)}
   <div class="pf"><button class="sec" onclick="closeFarming()">閉じる</button></div>
 </div>
 
+<div class="panel" id="loopPanel">
+  <div class="ph"><h3>🔁 学習ループ＆計測</h3><button class="x" onclick="closeLoop()">✕</button></div>
+  <div class="list">
+    <div class="fsec" style="margin-top:2px">進化する記事（人が触らず毎回かしこくなる）</div>
+    <div class="loop">
+      <div class="step"><div class="num">1</div><div><div class="sh">生成</div><div class="sd">沖式の書き方 × AIに拾われる形(AEO) × 事実の壁(農場データ)。複数案を作り、AIが自動で採点して良いものを選ぶ。</div></div></div>
+      <div class="ar">▼</div>
+      <div class="step"><div class="num">2</div><div><div class="sh">投稿</div><div class="sd">@saikoyasai に自動投稿。常に4日分をストックして切らさない。</div></div></div>
+      <div class="ar">▼</div>
+      <div class="step"><div class="num">3</div><div><div class="sh">計測</div><div class="sd">投稿の2〜3日後に、表示数・いいね・プロフクリックを自動で取得して記録。</div></div></div>
+      <div class="ar">▼</div>
+      <div class="step"><div class="num">4</div><div><div class="sh">学習</div><div class="sd">どの“切り口・CTA・フック・読者層・時間帯”が当たったかを集計して、勝ちパターンを見つける。</div></div></div>
+      <div class="ar">▼</div>
+      <div class="step"><div class="num">5</div><div><div class="sh">反映</div><div class="sd">勝ちパターンを多め、新しい挑戦を少し混ぜて、次の生成へ。</div></div></div>
+      <div class="back">↑ 5 のあと 1 にもどる＝回すほど精度が上がる</div>
+    </div>
+    <div class="fsec">計測UI（いま何を学んでいるか）</div>
+    <div class="axwrap">
+      <div class="axchip"><div class="k">学ぶ軸 ①</div><div class="v">切り口</div></div>
+      <div class="axchip"><div class="k">学ぶ軸 ②</div><div class="v">CTA（締めの誘い）</div></div>
+      <div class="axchip"><div class="k">学ぶ軸 ③</div><div class="v">フック（冒頭）</div></div>
+      <div class="axchip"><div class="k">学ぶ軸 ④</div><div class="v">読者層</div></div>
+      <div class="axchip"><div class="k">学ぶ軸 ⑤</div><div class="v">時間帯</div></div>
+      <div class="axchip"><div class="k">土台</div><div class="v">事実の壁・捏造ゼロ</div></div>
+    </div>
+    <div style="font-size:13px;color:#1f7a3d;font-weight:700;margin-top:13px">配分＝当てにいく : 新しい挑戦</div>
+    <div class="ratio2"><div class="ex">当てにいく 7</div><div class="nw">挑戦 3</div></div>
+    <div class="seed"><b>● いまの状態：種まき期</b><br>投稿を貯めて、最初の計測ランキングを待っているところ。データが集まると「当たった軸」が自動で見えて、次の投稿に反映されます。<br>※実際の当たり型ランキング・数字は「🌾 農業」タブで見られます。</div>
+  </div>
+  <div class="pf"><button class="sec" onclick="closeLoop()">閉じる</button></div>
+</div>
+
 <div class="panel" id="restorePanel">
   <div class="ph"><h3>↩️ 消したニュースを復活</h3><button class="x" onclick="closeRestore()">✕</button></div>
   <div class="list" id="restoreList"></div>
@@ -142,6 +196,8 @@ button:disabled{opacity:.55;filter:saturate(.6)}
 </div>
 
 <script>
+function openLoop(){ document.getElementById('loopPanel').classList.add('open'); }
+function closeLoop(){ document.getElementById('loopPanel').classList.remove('open'); }
 function openRestore(){ document.getElementById('restorePanel').classList.add('open'); renderRestore(); }
 function closeRestore(){ document.getElementById('restorePanel').classList.remove('open'); }
 function renderRestore(){

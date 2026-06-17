@@ -252,21 +252,26 @@ function renderManga(){
     +(mangaSkipped.length?' <button class="sec" style="font-size:11px;padding:3px 8px;float:right" onclick="mangaRestore()">↩️見送りを戻す</button>':'')+'</div>'
     +'<div style="font-size:12.5px;color:#34322a;font-weight:700;margin-bottom:6px">'+esc(x.news_title||'')+'<span style="font-weight:400;color:#9a927a"> / '+esc(x.source||'')+'</span></div>'
     +'<div id="mcard" style="position:relative;transition:transform .15s,opacity .15s">'
-    +'<img src="'+esc(x.strip||'')+'" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3"></div>'
-    +'<div style="text-align:center;font-size:11px;color:#9a927a;margin:7px 0">← 左にスワイプで見送り　／　投稿は右にスワイプ →</div>'
+    +'<img src="'+esc(x.strip||'')+'" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3">'
+    +'<div class="stamp yes" id="mstampY"><img src="saiyo.png" alt=""><span>投稿する♪</span></div>'
+    +'<div class="stamp no" id="mstampN"><img src="ketchup.png" alt=""><span>見送り</span></div></div>'
+    +'<div style="text-align:center;font-size:11px;color:#9a927a;margin:7px 0">← 左スワイプ＝見送り　／　右スワイプ＝投稿 →（ボタンでもOK）</div>'
     +'<div style="font-size:11px;color:#7a8a6c;font-weight:700;margin-bottom:3px">投稿文（タップで編集・ニュースとして読める本文）</div>'
     +'<div contenteditable="true" id="mcap" style="background:#fff;border:1px solid #e0e6d6;border-radius:10px;padding:10px;font-size:14px;line-height:1.7;white-space:pre-wrap">'+esc(x.caption||'')+'</div>'
-    +'<div style="display:flex;gap:8px;margin-top:12px">'
-    +'<button class="sec" style="flex:1" onclick="mangaDoSkip()">← 見送り</button>'
-    +'<button style="flex:1.5;background:#1f7a3d;color:#fff;border:none;border-radius:10px;font-weight:800;padding:11px" onclick="mangaPost()">投稿する →</button></div>';
-  // カードにフリック(右=投稿/左=見送り)
-  const card=document.getElementById('mcard'); let sx=0,dx=0,drag=false;
-  card.addEventListener('touchstart',e=>{sx=e.touches[0].clientX;drag=true;},{passive:true});
-  card.addEventListener('touchmove',e=>{if(!drag)return;dx=e.touches[0].clientX-sx;card.style.transform='translateX('+dx+'px) rotate('+(dx*0.03)+'deg)';},{passive:true});
-  card.addEventListener('touchend',()=>{drag=false;
-    if(dx>70){ card.style.transform='translateX(120%)';card.style.opacity=0; setTimeout(mangaPost,140); }
-    else if(dx<-70){ card.style.transform='translateX(-120%)';card.style.opacity=0; setTimeout(mangaDoSkip,140); }
-    else card.style.transform=''; dx=0;});
+    +'<div style="display:flex;gap:10px;margin-top:12px">'
+    +'<button class="btn no" style="width:auto;flex:1;height:52px;border-radius:14px;font-size:15px;font-weight:800;gap:6px" onclick="mangaDoSkip()">✗ 見送り</button>'
+    +'<button class="btn yes" style="width:auto;flex:1.5;height:52px;border-radius:14px;font-size:16px;font-weight:800;gap:6px" onclick="mangaPost()">✓ 投稿する</button></div>';
+  // カードにフリック(右=投稿/左=見送り)＋ニュースと同じ採用/見送りスタンプを途中で出す
+  const card=document.getElementById('mcard'); const sY=document.getElementById('mstampY'),sN=document.getElementById('mstampN');
+  let sx=0,dx=0,drag=false;
+  card.addEventListener('touchstart',e=>{sx=e.touches[0].clientX;drag=true;card.style.transition='';},{passive:true});
+  card.addEventListener('touchmove',e=>{if(!drag)return;dx=e.touches[0].clientX-sx;
+    card.style.transform='translateX('+dx+'px) rotate('+(dx*0.03)+'deg)';
+    sY.style.opacity=dx>0?Math.min(dx/90,1):0; sN.style.opacity=dx<0?Math.min(-dx/90,1):0;},{passive:true});
+  card.addEventListener('touchend',()=>{drag=false;card.style.transition='transform .2s,opacity .2s';
+    if(dx>70){ card.style.transform='translateX(120%)';card.style.opacity=0; setTimeout(mangaPost,160); }
+    else if(dx<-70){ card.style.transform='translateX(-120%)';card.style.opacity=0; setTimeout(mangaDoSkip,160); }
+    else { card.style.transform=''; sY.style.opacity=0; sN.style.opacity=0; } dx=0;});
 }
 function mangaRestore(){ const r=mangaSkipped.pop(); if(r){ const i=MANGA.findIndex(m=>m.id===r); if(i>=0){MANGA[i].status='pending';mi=i;} renderManga(); } }
 function mangaDoSkip(){ if(!MANGA.length)return; mangaSaveCap(); MANGA[mi].status='skip'; mangaSkipped.push(MANGA[mi].id); mangaNextPending(); renderManga(); }

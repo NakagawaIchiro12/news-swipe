@@ -227,38 +227,57 @@ function openLoop(){ document.getElementById('loopPanel').classList.add('open');
 function closeLoop(){ document.getElementById('loopPanel').classList.remove('open'); }
 
 /* 🎞 ニュース漫画タブ */
-const MANGA = [{"id": "0617_1", "news_title": "韓国AI、金融・ロボット・農業へ全方位浸透——「説明可能なAI」で差別化", "source": "finance.biggo.jp", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zVzQtZWtDcUFkMU5WMEx2SldvQko1RDhGYnlfRnQ5ZlkxaTIxX2l4MTVwQWRpcjFaaGVIdjlZejd5cEZLM3JSb09WV2Nfb2kxWXctT01lNzlZdEhvRmxR?oc=5", "strip": "manga_cand_0617_1.png", "caption": "韓国AIが農業にも進出中！でも、愛知の僕もAIを活用して、ホワイト農業を実現中だよ。#AI農業 #愛知野菜", "status": "pending"}, {"id": "0617_2", "news_title": "農業用ロボット向けAI制御ハードウェア共通規格の共同開発で基本合意 アグリノード", "source": "JAcom 農業協同組合新聞", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkdDY3eUxkQVlrVEMxUS0tTzlYWkRCbmNyMDhIbk9yc0ZvSmRrUXJSaFVVYVZ4eXNnZTBNME1OckZZSEpGZkFTajRoaGtXenJWN0VKeWg4UVFhZ0pmWHdTU0hpSWk?oc=5", "strip": "manga_cand_0617_2.png", "caption": "農業ロボットのAI共通規格が基本合意！これでさらに効率アップが期待できるね。#農業 #AI", "status": "pending"}, {"id": "0617_3", "news_title": "アグリノード、農業用ロボット向けAI制御ハードウェア共通規格の共同開発で基本合意", "source": "ニコニコニュース", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GY3pZb3hkQ1FZRHdYSW1ra2ljYUw4Q3BuV05kd3pCYXVNV0xtU1pYRndrVnpLUlJEeUlTdDRrdkpPYUowNlRtdWw4OW5GVHFhcUNnT0NESlhRREZOdVdEZFVhc2g3MGtRQzN2eER3WVpyN25yY0RNVTNtTQ?oc=5", "strip": "manga_cand_0617_3.png", "caption": "農業ロボットが共通規格で連携！僕たちのAI活用で、さらに効率的な農業が実現するよ。#農業 #AI活用", "status": "pending"}];
+const MANGA = [{"id": "0617c_1", "news_title": "韓国AI、金融・ロボット・農業へ全方位浸透——「説明可能なAI」で差別化", "source": "finance.biggo.jp", "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zVzQtZWtDcUFkMU5WMEx2SldvQko1RDhGYnlfRnQ5ZlkxaTIxX2l4MTVwQWRpcjFaaGVIdjlZejd5cEZLM3JSb09WV2Nfb2kxWXctT01lNzlZdEhvRmxR?oc=5", "strip": "manga_cand_0617c_1.png", "caption": "韓国のAIが、金融、ロボット、農業にまで広がっているそうです。\n\n特に、「説明可能なAI」という点で差別化を図っているとか。\n\nこれは、AIがどうしてその判断をしたのかを説明できる技術です。\n\n農業の現場でも、AIは効率化に役立つ存在。\n\n僕も愛知で野菜を育てる際にAIを使ってます。\n\nAIで作業が楽になると、本当に助かります。\n\n#AI農業 #説明可能なAI", "status": "pending"}, {"id": "0617c_2", "news_title": "農業用ロボット向けAI制御ハードウェア共通規格の共同開発で基本合意 アグリノード", "source": "JAcom 農業協同組合新聞", "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkdDY3eUxkQVlrVEMxUS0tTzlYWkRCbmNyMDhIbk9yc0ZvSmRrUXJSaFVVYVZ4eXNnZTBNME1OckZZSEpGZkFTajRoaGtXenJWN0VKeWg4UVFhZ0pmWHdTU0hpSWk?oc=5", "strip": "manga_cand_0617c_2.png", "caption": "農業用ロボットの\n共通規格が開発される。\n\nそれは、農業用ロボットが\nどの畑でも使えるようにする\n基準を作ること。\n\nこれにより、\n農家もロボット導入が\nしやすくなるんだ。\n\n僕も将来、\n新しいロボットを使って\nもっと効率良く仕事が\nできるかもしれない。\n\n楽しみだな。\n\n#AI農業 #農業ロボット", "status": "pending"}, {"id": "0617c_3", "news_title": "アグリノード、農業用ロボット向けAI制御ハードウェア共通規格の共同開発で基本合意", "source": "ニコニコニュース", "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GY3pZb3hkQ1FZRHdYSW1ra2ljYUw4Q3BuV05kd3pCYXVNV0xtU1pYRndrVnpLUlJEeUlTdDRrdkpPYUowNlRtdWw4OW5GVHFhcUNnT0NESlhRREZOdVdEZFVhc2g3MGtRQzN2eER3WVpyN25yY0RNVTNtTQ?oc=5", "strip": "manga_cand_0617c_3.png", "caption": "農業用ロボットの\nAI制御ハードウェアに\n共通規格ができる。\n\nこれが進むと、\n農家にとっては\n使いやすいロボットが\n増えるかもしれない。\n\n僕の農場でも\nAIを活用している。\n\n新しい技術が\n現場をどう変えるか、\nこれからが楽しみ！\n\n#AI農業 #農業技術", "status": "pending"}];
 let mi = 0;
 function openManga(){ document.getElementById('mangaPanel').classList.add('open'); mi=0; renderManga(); }
 function closeManga(){ document.getElementById('mangaPanel').classList.remove('open'); }
 function openAnalysis(){ document.getElementById('analysisPanel').classList.add('open'); }
 function closeAnalysis(){ document.getElementById('analysisPanel').classList.remove('open'); }
+const mangaSkipped=[];   // 見送り履歴(復活用)
+function mangaSaveCap(){ const ce=document.getElementById('mcap'); if(ce&&MANGA[mi])MANGA[mi].caption=ce.innerText; }
+function mangaNextPending(){ // 未処理の次へ
+  for(let k=mi+1;k<MANGA.length;k++){ if(MANGA[k].status==='pending'){mi=k;return;} }
+  // 後ろに無ければ全体で探す
+  for(let k=0;k<MANGA.length;k++){ if(MANGA[k].status==='pending'){mi=k;return;} }
+  mi=Math.min(mi+1,MANGA.length-1);
+}
 function mangaGo(d){ if(!MANGA.length)return; mi=Math.max(0,Math.min(MANGA.length-1,mi+d)); renderManga(); }
 function renderManga(){
   const el=document.getElementById('mangaList');
-  if(!MANGA.length){ el.innerHTML='<div class="empty">漫画候補はまだありません。<br>毎朝5時に最新ニュース3件から3コマを自動生成して、ここに溜まります。</div>'; return; }
+  const pend=MANGA.filter(m=>m.status==='pending').length;
+  if(!MANGA.length){ el.innerHTML='<div class="empty">漫画候補はまだありません。<br>毎朝5時に最新ニュースから3コマを自動生成して、ここに溜まります。</div>'; return; }
   const x=MANGA[mi];
-  const st={pending:'未処理',adopt:'採用',posted:'投稿済',skip:'スキップ'}[x.status]||'未処理';
-  el.innerHTML='<div style="font-size:12px;color:#7a8a6c;margin-bottom:6px">'+(mi+1)+' / '+MANGA.length+'　<b>'+esc(x.news_title||'')+'</b><br>'+esc(x.source||'')+'　['+st+']</div>'
-    +'<img src="'+esc(x.strip||'')+'" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block;margin-bottom:10px" onerror="this.style.opacity=.3">'
-    +'<div style="font-size:11px;color:#7a8a6c;font-weight:700;margin-bottom:3px">投稿文（タップで編集）</div>'
-    +'<div contenteditable="true" id="mcap" style="background:#fff;border:1px solid #e0e6d6;border-radius:10px;padding:10px;font-size:14px;line-height:1.6">'+esc(x.caption||'')+'</div>'
+  const st={pending:'未処理',adopt:'採用',posted:'投稿済み✓',skip:'見送り'}[x.status]||'未処理';
+  el.innerHTML='<div style="font-size:12px;color:#7a8a6c;margin-bottom:4px">残り未処理 <b>'+pend+'</b>件　('+(mi+1)+'/'+MANGA.length+')　['+st+']'
+    +(mangaSkipped.length?' <button class="sec" style="font-size:11px;padding:3px 8px;float:right" onclick="mangaRestore()">↩️見送りを戻す</button>':'')+'</div>'
+    +'<div style="font-size:12.5px;color:#34322a;font-weight:700;margin-bottom:6px">'+esc(x.news_title||'')+'<span style="font-weight:400;color:#9a927a"> / '+esc(x.source||'')+'</span></div>'
+    +'<div id="mcard" style="position:relative;transition:transform .15s,opacity .15s">'
+    +'<img src="'+esc(x.strip||'')+'" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3"></div>'
+    +'<div style="text-align:center;font-size:11px;color:#9a927a;margin:7px 0">← 左にスワイプで見送り　／　投稿は右にスワイプ →</div>'
+    +'<div style="font-size:11px;color:#7a8a6c;font-weight:700;margin-bottom:3px">投稿文（タップで編集・ニュースとして読める本文）</div>'
+    +'<div contenteditable="true" id="mcap" style="background:#fff;border:1px solid #e0e6d6;border-radius:10px;padding:10px;font-size:14px;line-height:1.7;white-space:pre-wrap">'+esc(x.caption||'')+'</div>'
     +'<div style="display:flex;gap:8px;margin-top:12px">'
-    +'<button class="sec" style="flex:1" onclick="mangaGo(-1)">← 前</button>'
-    +'<button class="sec" style="flex:1" onclick="mangaSkip()">スキップ</button>'
-    +'<button style="flex:1.4;background:#1f7a3d;color:#fff;border:none;border-radius:10px;font-weight:800;padding:11px" onclick="mangaPost()">投稿する</button>'
-    +'<button class="sec" style="flex:1" onclick="mangaGo(1)">次 →</button></div>';
+    +'<button class="sec" style="flex:1" onclick="mangaDoSkip()">← 見送り</button>'
+    +'<button style="flex:1.5;background:#1f7a3d;color:#fff;border:none;border-radius:10px;font-weight:800;padding:11px" onclick="mangaPost()">投稿する →</button></div>';
+  // カードにフリック(右=投稿/左=見送り)
+  const card=document.getElementById('mcard'); let sx=0,dx=0,drag=false;
+  card.addEventListener('touchstart',e=>{sx=e.touches[0].clientX;drag=true;},{passive:true});
+  card.addEventListener('touchmove',e=>{if(!drag)return;dx=e.touches[0].clientX-sx;card.style.transform='translateX('+dx+'px) rotate('+(dx*0.03)+'deg)';},{passive:true});
+  card.addEventListener('touchend',()=>{drag=false;
+    if(dx>70){ card.style.transform='translateX(120%)';card.style.opacity=0; setTimeout(mangaPost,140); }
+    else if(dx<-70){ card.style.transform='translateX(-120%)';card.style.opacity=0; setTimeout(mangaDoSkip,140); }
+    else card.style.transform=''; dx=0;});
 }
-function mangaSkip(){ if(MANGA.length){ MANGA[mi].status='skip'; mangaGo(1);} }
+function mangaRestore(){ const r=mangaSkipped.pop(); if(r){ const i=MANGA.findIndex(m=>m.id===r); if(i>=0){MANGA[i].status='pending';mi=i;} renderManga(); } }
+function mangaDoSkip(){ if(!MANGA.length)return; mangaSaveCap(); MANGA[mi].status='skip'; mangaSkipped.push(MANGA[mi].id); mangaNextPending(); renderManga(); }
 function mangaPost(){
-  if(!MANGA.length)return; const x=MANGA[mi];
-  const ce=document.getElementById('mcap'); if(ce)x.caption=ce.innerText;
+  if(!MANGA.length)return; const x=MANGA[mi]; mangaSaveCap();
   if(!SUBMIT_URL){ alert('送信先が未設定です'); return; }
   const item={topic:'🎞漫画｜'+(x.news_title||''),title:x.news_title||'',link:x.link||'',body:x.caption||'',img:x.strip||''};
   fetch(SUBMIT_URL,{method:'POST',mode:'no-cors',headers:{'Content-Type':'text/plain;charset=utf-8'},
     body:JSON.stringify({action:'submitAdopted',items:[item]})})
-    .then(()=>{ x.status='posted'; alert('🎞 漫画を投稿キューに送りました！\n自動でXへ投稿されます🌾'); mangaGo(1); })
-    .catch(()=>alert('送信に失敗しました。電波を確認してもう一度'));
+    .then(()=>{ x.status='posted'; mangaNextPending(); renderManga(); })
+    .catch(()=>{ alert('送信に失敗しました。電波を確認してもう一度'); renderManga(); });
 }
 function openRestore(){ document.getElementById('restorePanel').classList.add('open'); renderRestore(); }
 function closeRestore(){ document.getElementById('restorePanel').classList.remove('open'); }

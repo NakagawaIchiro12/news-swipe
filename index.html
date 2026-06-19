@@ -295,15 +295,19 @@ function renderManga(){
     +'<button class="btn yes" style="width:auto;flex:1.5;height:52px;border-radius:14px;font-size:16px;font-weight:800;gap:6px" onclick="mangaAdopt()">✓ 採用</button></div>';
   // カードにフリック(右=採用/左=見送り)＋スタンプ
   const card=document.getElementById('mcard'); const sY=document.getElementById('mstampY'),sN=document.getElementById('mstampN');
-  let sx=0,dx=0,drag=false;
-  card.addEventListener('touchstart',e=>{sx=e.touches[0].clientX;drag=true;card.style.transition='';},{passive:true});
-  card.addEventListener('touchmove',e=>{if(!drag)return;dx=e.touches[0].clientX-sx;
+  let sx=0,sy=0,dx=0,mmode=null,drag=false;
+  card.addEventListener('touchstart',e=>{const t=e.touches[0];sx=t.clientX;sy=t.clientY;dx=0;mmode=null;drag=true;card.style.transition='';},{passive:true});
+  card.addEventListener('touchmove',e=>{if(!drag)return;const t=e.touches[0];const ddx=t.clientX-sx,ddy=t.clientY-sy;
+    if(mmode===null){ if(Math.abs(ddx)>10||Math.abs(ddy)>10){ mmode=(Math.abs(ddx)>Math.abs(ddy)+4)?'swipe':'scroll'; } }
+    if(mmode!=='swipe') return;            // 縦スクロールはカードを動かさない・横スワイプの時だけ
+    if(e.cancelable) e.preventDefault();   // ★横スワイプ時はブラウザの戻る/進むを止める(ページ替わり防止)
+    dx=ddx;
     card.style.transform='translateX('+dx+'px) rotate('+(dx*0.03)+'deg)';
-    sY.style.opacity=dx>0?Math.min(dx/90,1):0; sN.style.opacity=dx<0?Math.min(-dx/90,1):0;},{passive:true});
+    sY.style.opacity=dx>0?Math.min(dx/90,1):0; sN.style.opacity=dx<0?Math.min(-dx/90,1):0;},{passive:false});
   card.addEventListener('touchend',()=>{drag=false;card.style.transition='transform .2s,opacity .2s';
-    if(dx>70){ card.style.transform='translateX(120%)';card.style.opacity=0; setTimeout(mangaAdopt,160); }
-    else if(dx<-70){ card.style.transform='translateX(-120%)';card.style.opacity=0; setTimeout(mangaDoSkip,160); }
-    else { card.style.transform=''; sY.style.opacity=0; sN.style.opacity=0; } dx=0;});
+    if(mmode==='swipe'&&dx>70){ card.style.transform='translateX(120%)';card.style.opacity=0; setTimeout(mangaAdopt,160); }
+    else if(mmode==='swipe'&&dx<-70){ card.style.transform='translateX(-120%)';card.style.opacity=0; setTimeout(mangaDoSkip,160); }
+    else { card.style.transform=''; sY.style.opacity=0; sN.style.opacity=0; } dx=0; mmode=null;});
 }
 function mangaRestore(){ const r=mangaSkipped.pop(); if(r){ const i=MANGA.findIndex(m=>m.id===r); if(i>=0){MANGA[i].status='pending';mi=i;} mangaSkippedIds.delete(r); localStorage.setItem('mangaSkippedIds',JSON.stringify([...mangaSkippedIds])); renderManga(); } }
 function mangaDoSkip(){ if(!MANGA.length)return; mangaSaveCap(); MANGA[mi].status='skip'; mangaSkipped.push(MANGA[mi].id); mangaSkippedIds.add(MANGA[mi].id); localStorage.setItem('mangaSkippedIds',JSON.stringify([...mangaSkippedIds])); mangaNextPending(); renderManga(); }

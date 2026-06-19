@@ -252,21 +252,22 @@ function renderManga(){
   if(!MANGA.length){ el.innerHTML='<div class="empty">漫画候補はまだありません。<br>毎朝5時に最新ニュースから3コマを自動生成して、ここに溜まります。</div>'; return; }
   // 全部処理済み＝最後の1枚を捌いた後にカードが戻る不具合の対策。完了画面を出す(ご主人様2026-06-19)
   if(pend===0){
-    el.innerHTML='<div style="display:flex;align-items:center;gap:9px;margin-bottom:8px;font-size:12px;color:#7a8a6c;flex-wrap:wrap"><span>残り未処理 <b>0</b></span><span>採用 <b style="color:#2e9e5b">'+adopt+'</b></span><span>投稿済 <b style="color:#2b7fc4">'+posted+'</b></span>'
-      +(adopt?'<button class="sendbtn" style="margin-left:auto;padding:7px 13px;border:none;border-radius:999px;background:#2e9e5b;color:#fff;font-weight:700" onclick="mangaConfirmPost()">✅ 採用'+adopt+'件を投稿</button>':'')+'</div>'
-      +'<div class="empty">🎉 全部チェックしたよ！<br>'+(adopt?'採用した <b>'+adopt+'件</b> を上の「✅採用を投稿」で送信してね。':'採用はまだ0件。気になる漫画があれば「↩️戻す」で見送りを戻せるよ。')
+    el.innerHTML='<div style="display:flex;align-items:center;gap:9px;margin-bottom:8px;font-size:12px;color:#7a8a6c;flex-wrap:wrap"><span>未処理 <b>0</b></span><span>投稿待ち <b style="color:#2e9e5b">'+adopt+'</b></span><span>投稿済み <b style="color:#2b7fc4">'+posted+'</b></span>'
+      +(adopt?'<button class="sendbtn" style="margin-left:auto;padding:7px 13px;border:none;border-radius:999px;background:#2e9e5b;color:#fff;font-weight:700" onclick="mangaConfirmPost()">✅ '+adopt+'本を投稿予約</button>':'')+'</div>'
+      +'<div class="empty">🎉 全部チェックしたよ！<br>'+(adopt?'<b>投稿待ち '+adopt+'本</b>＝上の「✅投稿予約」を押すと、<b>毎日10:30と18:30に自動投稿</b>（最大2本/日）されるよ。':'今回は全部"見送り"。気になるのは「↩️戻す」で戻せるよ。')
       +'<br><br>'+(mangaSkipped.length?'<button class="sec" onclick="mangaRestore()">↩️ 見送りを戻す</button>':'')+'</div>';
     return;
   }
   // 現在カードが未処理でなければ、未処理の所へ寄せる(最後の1枚バグ回避)
   if(MANGA[mi].status!=='pending'){ for(let k=0;k<MANGA.length;k++){ if(MANGA[k].status==='pending'){mi=k;break;} } }
   const x=MANGA[mi];
-  const st={pending:'未処理',adopt:'採用',posted:'投稿済み✓',skip:'見送り'}[x.status]||'未処理';
+  const st={pending:'未処理',adopt:'投稿待ち',posted:'投稿済み✓',skip:'見送り'}[x.status]||'未処理';
   el.innerHTML=
-     '<div style="display:flex;align-items:center;gap:9px;margin-bottom:8px;font-size:12px;color:#7a8a6c;flex-wrap:wrap">'
-    +'<span>残り未処理 <b>'+pend+'</b></span><span>採用 <b style="color:#2e9e5b">'+adopt+'</b></span><span>投稿済 <b style="color:#2b7fc4">'+posted+'</b></span>'
-    +'<button class="sendbtn" style="margin-left:auto;padding:7px 13px;border:none;border-radius:999px;background:#2e9e5b;color:#fff;font-weight:700" onclick="mangaConfirmPost()">✅ 採用を確定して投稿</button>'
+     '<div style="display:flex;align-items:center;gap:9px;margin-bottom:4px;font-size:12px;color:#7a8a6c;flex-wrap:wrap">'
+    +'<span>未処理 <b>'+pend+'</b></span><span>投稿待ち <b style="color:#2e9e5b">'+adopt+'</b></span><span>投稿済み <b style="color:#2b7fc4">'+posted+'</b></span>'
+    +'<button class="sendbtn" style="margin-left:auto;padding:7px 13px;border:none;border-radius:999px;background:#2e9e5b;color:#fff;font-weight:700" onclick="mangaConfirmPost()">✅ 採用を投稿予約</button>'
     +(mangaSkipped.length?'<button class="sec" style="font-size:11px;padding:6px 9px" onclick="mangaRestore()">↩️戻す</button>':'')+'</div>'
+    +'<div style="font-size:11px;color:#9a927a;background:#f3f6ee;border-radius:8px;padding:5px 9px;margin-bottom:7px">📅 採用→「投稿予約」した漫画は<b>毎日10:30と18:30に自動投稿</b>（最大2本/日）。"投稿待ち"が予約分、"投稿済み"が送信済み。</div>'
     +'<div style="font-size:12.5px;color:#34322a;font-weight:700;margin-bottom:6px">'+esc(x.news_title||'')+'<span style="font-weight:400;color:#9a927a"> / '+esc(x.source||'')+'</span>　<span style="color:#2b7fc4">['+st+']</span></div>'
     +'<div id="mcard" style="position:relative;transition:transform .15s,opacity .15s">'
     +'<img src="'+esc(x.strip||'')+'" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3">'

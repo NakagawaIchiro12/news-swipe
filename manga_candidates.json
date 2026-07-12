@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0712_0935_19",
+   "news_title": "トラクター先頭にデモ「百姓一揆」新潟の農業関係者150人が米価維持など訴え【新潟市】（UX新潟テレビ21）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sV0YxR21JVDNMbUc1d1BXZHl3cUUyWDVZVmREbjkwdDlIRmJrX1N4bkVKelR5S1dPWUh6RVZiWlg3X0tSLUM2ZVhENkFJeUtKeTZDcGJWZHdWdGhPRWxUcEMzLTVWT2o4dDB6UlEydllfQWd2RXZqdm1sNG9UQUk?oc=5",
+   "strip": "manga_cand_0712_0935_19.png",
+   "caption": "新潟でトラクターを先頭に「百姓一揆」のデモがあったと知りました。米価を守れという声、切実だと思います。作った人が値段を決められない産業は、どこかいびつです。\n\n僕は野菜ですが、同じ苦しさは感じています。ただデモを見ていて思うのは、価格を上げてくれと訴える前に、僕らの側でまだやれることが残っているんじゃないか、ということです。\n\nうちは値段そのものより、原価と時間の使い方を先に見直しました。誰がいつ何をやるかを整理して、パートさん中心で回るようにする。9〜14時のおよそ5時間で回して土日は休む、その形をつくってから、はじめて価格や出荷先の交渉ができるようになった感覚があります。\n\n順番が逆だと、価格が上がっても内側の消耗は止まりません。米と野菜で事情は違うし、制度で守るべき部分は当然あります。それでも、外に訴える力と、内側の仕組みを直す力は、たぶん両輪なんだと思います。片方だけでは、来年また同じ場所に立つことになる気がしています。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 0,
+    "body_edge_density": 0.0947
+   }
+  },
+  {
    "id": "0704_1222_6",
    "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
    "source": "PR TIMES",
@@ -50,7 +72,7 @@
    "source": "山陽新聞",
    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVS1DT0oyajhoUlBIRmtpRzRNTGxMMktuX3ozTzU1OXhqaUx5cEJPWFJsd1dIQk5yWUlZc2VVTzVFak9yVXlxY25QTV8zWklPTVE?oc=5",
    "strip": "manga_cand_0704_1222_2.png",
-   "caption": "農業AIの活用実態調査が始まる、と聞きました。数字が出るのは良いことだと思います。ただ、調査を見るときに気をつけたいことが一つあります。\n\n僕も現場でAIを使っています。ですが、使い始めて分かったのは、AIが効くのは「作業が整理された農場」だけだということです。誰が何時に何をするか、記録がバラバラな状態でAIを入れても、出てくる答えもバラバラになります。道具の前に、まず仕事の順番を決めることのほうが先でした。\n\nだから調査で「AI導入率」が低く出ても、僕はそれを遅れとは思いません。むしろ、無理に入れて振り回されている農場より、自分の作業を先に整えている農場のほうが、あとで一気に伸びます。\n\nうちは9〜14時の約5時間で回して土日も休みますが、これはAIのおかげというより、AIを入れられるくらい手順を単純にしてきた結果です。順番が逆だと、AIは便利な道具ではなく、新しい悩みの種になります。実態調査の数字は、導入の多さより「整え方」の指標として読みたいと思っています。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "caption": "テスト投稿本文(承認同期の疎通確認)",
    "topic": "ai",
    "emotions": [],
    "structure": "gyakusetsu",
@@ -64,29 +86,8 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1001
-   }
-  },
-  {
-   "id": "0704_1222_11",
-   "news_title": "ブロッコリー指定野菜化で激変する食卓と2026年最新食トレンド",
-   "source": "Forbes JAPAN",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMzBkcXBsTlBMMnhNVGEwMmVEdkpPOGN0d2s5MlFJMGNXaFpldWVFSXlMWG11Q3JmN0N5d0l3Y3B6ODlrODYzN2lXeFhvcVU0S1NrTHA0SzdpQQ?oc=5",
-   "strip": "manga_cand_0704_1222_11.png",
-   "caption": "ブロッコリーが指定野菜に加わるという話、いよいよ主役級の扱いになってきたんだなと思って見ています。国が特定の品目を後押しするというのは、それだけ食卓での定番になったということでもあります。\n\n僕は愛知で16年野菜を作っていますが、こういう「格上げ」のニュースが出ると、周りの農家はすぐ作付けを増やそうとします。ただ、みんなが同じ方向を向いた瞬間に相場は動くので、指定野菜になったから安泰、とは僕は考えていません。\n\n現場でむしろ効くのは、栽培そのものより回し方のほうです。うちは9時から14時の約5時間で、パートさん中心に年間100tを出しています。トレンドで需要が伸びる品目ほど、収穫と出荷が一時期に集中して人が足りなくなる。だから僕が先に整えるのは畑ではなく、誰がいつ動くかという段取りのほうなんです。\n\n流行を追うと畑を増やしたくなりますが、順番は逆で、増やせる体制があるかどうかが先。人が無理なく回る範囲を超えて品目を追いかけると、トレンドに乗ったつもりで自分の休みが消えていきます。乗るかどうかより、乗っても土日が守れるか。僕はそこで決めています。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 3,
-    "body_edge_density": 0.0753
-   }
+   },
+   "caption_orig": "農業AIの活用実態調査が始まる、と聞きました。数字が出るのは良いことだと思います。ただ、調査を見るときに気をつけたいことが一つあります。\n\n僕も現場でAIを使っています。ですが、使い始めて分かったのは、AIが効くのは「作業が整理された農場」だけだということです。誰が何時に何をするか、記録がバラバラな状態でAIを入れても、出てくる答えもバラバラになります。道具の前に、まず仕事の順番を決めることのほうが先でした。\n\nだから調査で「AI導入率」が低く出ても、僕はそれを遅れとは思いません。むしろ、無理に入れて振り回されている農場より、自分の作業を先に整えている農場のほうが、あとで一気に伸びます。\n\nうちは9〜14時の約5時間で回して土日も休みますが、これはAIのおかげというより、AIを入れられるくらい手順を単純にしてきた結果です。順番が逆だと、AIは便利な道具ではなく、新しい悩みの種になります。実態調査の数字は、導入の多さより「整え方」の指標として読みたいと思っています。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。"
   },
   {
    "id": "0704_1222_12",
@@ -177,28 +178,6 @@
    }
   },
   {
-   "id": "0704_1222_5",
-   "news_title": "AIが「現場へ進出」：スマート農業における世界的なトレンド。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVI3Z1hPSDBZbC1ZN2RSdUlWY1ltcmhsNUtfbXhJbUxIcmpXMEpDeGhiYUk1a1A0MFlIT3hXb1V0TFl0TEhpRzZlZHVkRGdVajRoXy1tNWg0NS1XN2otS3Q2VmlTQlYyaGtyN0RhXy1zQVJGcWNaTTVUSXFsSEFfZlpSelpRRk0?oc=5",
-   "strip": "manga_cand_0704_1222_5.png",
-   "caption": "AIが現場に入る、という話。世界的な流れらしい。うちでも画像での判別や記録の整理にはAIを使っている。ただ、現場で効いているのは派手なところではない。\n\nAIを入れて一番変わったのは、判断を人に頼らなくなったことだ。前は僕がいないと決まらない場面が多かった。今はパートさんが同じ基準で動ける。属人性が下がると、9〜14時の約5時間で回して土日を休んでも畑は止まらない。\n\nただ順番があると思っている。AIを入れてから省人化するのではなく、先に作業を分解して、誰がやっても同じ結果になる形にしておく。そこにAIが乗って初めて楽になる。仕事の形が整理されていないままAIだけ足しても、結局その判断を読み解く人がまた要る。道具を新しくするより先に、仕事の組み立て方を直すほうが現場では効く。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 24,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.097
-   }
-  },
-  {
    "id": "0704_1222_7",
    "news_title": "茨城県知事、組合の監督徹底方針 不祥事の県西農業共済報告書受け （茨城新聞クロスアイ）",
    "source": "Yahoo!ニュース",
@@ -218,72 +197,6 @@
     "n_face": 2,
     "n_hand": 0,
     "body_edge_density": 0.099
-   }
-  },
-  {
-   "id": "0704_1222_8",
-   "news_title": "州は、農業普及情報およびコミュニケーションのための資金の最大100％を提供する。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbllrQU50d05Tb1F2a2lnaVl2aUVRNENPNmVhNUY5OXVCX09jQkNodWQ2QmVYS0VJMmxEZU92c0tfN2FTdVltbjlDRFFGa21wODczUGVNc3dzMmlrdGNJb09VM2Zfc24yRElhTTAwRWxQNkRFUHlXWEVVM3BfOGN3WUZVdnNMYUZPemZURF9jWUdhM0h5RTRHUEV6ZzA?oc=5",
-   "strip": "manga_cand_0704_1222_8.png",
-   "caption": "海外の話ですが、州が農業の普及情報やコミュニケーションのための費用を、最大で全額まで出す、というニュースを見ました。要するに、農家に情報を届ける部分にお金を使う、という話です。\n\nこれは順番として、けっこう大事なところを突いてるなと思いました。\n農業の支援というと、機械や設備、資材への補助が中心になりがちです。もちろんそれも助かる。でも僕の実感だと、いちばん詰まりやすいのは「作る前」なんです。何を、どう作って、どこに売るか。ここを間違えると、どれだけ良い機械を入れても回りません。\n\n僕は年100tを半日の労働で回してますが、支えているのは新しいやり方の情報を早く掴んで、試して、合わなければすぐ変える、その繰り返しです。最近は畑でスマホからAIに相談することも増えました。判断の材料が手元にあるかどうかで、動きの速さがまるで違う。\n\nだから設備より先に、情報が農家にちゃんと届く仕組みにお金を回すのは、現場から見ると理にかなっているなと感じました。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
-   "taste": 20,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.1298
-   }
-  },
-  {
-   "id": "0704_1222_9",
-   "news_title": "［農業者年金で考える 人生１００年時代の農業経営］③長期・複利運用の力",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vT1V6eFp5NExTUUdkQUVGS1c3Tm9UbFdNZ3lENnRRS1g5OHQ1a3hudlNOWWtpRE9fcjJhNW56VGJuMF9saUx6eUlLUHhKd1RSVlVVaG5ydjRTd28?oc=5",
-   "strip": "manga_cand_0704_1222_9.png",
-   "caption": "農業者年金の連載で、長期・複利運用の話が出ていた。積み立てたものが時間をかけて少しずつ増えていく、という考え方だと思う。\n\n僕は野菜農家を16年やっているけれど、この複利の感覚はお金の運用だけの話ではなくて、経営そのものにも当てはまると感じている。うちは9時から14時、5時間ほどで年間100トンを回して土日は休む。最初からこの形だったわけではない。パートさんが働きやすい仕組みを一つずつ整えて、その積み重ねが今の余力になっている。\n\n短期で大きく稼ごうとすると、無理な作業量や背伸びした投資で自分を追い込みやすい。逆に、目先の収穫量を追うより、人が長く続けられる働き方を先に組んだほうが、結果として出荷は積み上がっていく。複利が効き始めるのは、たぶんお金より先に人と仕組みのほうだ。稼ぐ順番を、収穫からではなく働き方の設計から考える。そうすると経営は少しずつ崩れにくくなっていくのだと思う。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 19,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.0804
-   }
-  },
-  {
-   "id": "0704_1218_2",
-   "news_title": "農家・農業関係者を対象に「農業AI活用実態調査2026」を開始",
-   "source": "山陽新聞",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVS1DT0oyajhoUlBIRmtpRzRNTGxMMktuX3ozTzU1OXhqaUx5cEJPWFJsd1dIQk5yWUlZc2VVTzVFak9yVXlxY25QTV8zWklPTVE?oc=5",
-   "strip": "manga_cand_0704_1218_2.png",
-   "caption": "農家向けに「農業AI活用実態調査2026」が始まったそうです。今どれくらいAIが現場で使われているか、その実態を数字で掴もうという取り組みですね。\n\nこれは僕も気になります。自分の野菜づくりでは、畑からスマホでAIに相談することがあります。ただ周りで同じことをしている人は、あまり見かけません。だから「実はけっこう使われている」と出るのか、「まだほとんど」と出るのか、そこを知りたい。\n\nひとつ思うのは、調査の順番です。ふつうはまず大規模農家や先進地の事例が注目されます。でも僕は逆で、半日ほどの労働をパートさん中心で回している小さな現場こそ、AIの伸びしろが大きいと考えています。人手も時間も限られているからこそ、判断の下ごしらえをAIに任せられる意味が大きい。\n\nだから今回の調査も、規模の大きい所だけでなく、うちのような会社型の小さな農業でどう使われているか、そこまで拾ってくれると次に試すことが見えてきます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0947
    }
   },
   {
@@ -309,6 +222,116 @@
    }
   },
   {
+   "id": "0704_1222_11",
+   "news_title": "ブロッコリー指定野菜化で激変する食卓と2026年最新食トレンド",
+   "source": "Forbes JAPAN",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMzBkcXBsTlBMMnhNVGEwMmVEdkpPOGN0d2s5MlFJMGNXaFpldWVFSXlMWG11Q3JmN0N5d0l3Y3B6ODlrODYzN2lXeFhvcVU0S1NrTHA0SzdpQQ?oc=5",
+   "strip": "manga_cand_0704_1222_11.png",
+   "caption": "ブロッコリーが指定野菜に加わるという話、いよいよ主役級の扱いになってきたんだなと思って見ています。国が特定の品目を後押しするというのは、それだけ食卓での定番になったということでもあります。\n\n僕は愛知で16年野菜を作っていますが、こういう「格上げ」のニュースが出ると、周りの農家はすぐ作付けを増やそうとします。ただ、みんなが同じ方向を向いた瞬間に相場は動くので、指定野菜になったから安泰、とは僕は考えていません。\n\n現場でむしろ効くのは、栽培そのものより回し方のほうです。うちは9時から14時の約5時間で、パートさん中心に年間100tを出しています。トレンドで需要が伸びる品目ほど、収穫と出荷が一時期に集中して人が足りなくなる。だから僕が先に整えるのは畑ではなく、誰がいつ動くかという段取りのほうなんです。\n\n流行を追うと畑を増やしたくなりますが、順番は逆で、増やせる体制があるかどうかが先。人が無理なく回る範囲を超えて品目を追いかけると、トレンドに乗ったつもりで自分の休みが消えていきます。乗るかどうかより、乗っても土日が守れるか。僕はそこで決めています。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 29,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 3,
+    "body_edge_density": 0.0753
+   }
+  },
+  {
+   "id": "0704_1222_5",
+   "news_title": "AIが「現場へ進出」：スマート農業における世界的なトレンド。",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVI3Z1hPSDBZbC1ZN2RSdUlWY1ltcmhsNUtfbXhJbUxIcmpXMEpDeGhiYUk1a1A0MFlIT3hXb1V0TFl0TEhpRzZlZHVkRGdVajRoXy1tNWg0NS1XN2otS3Q2VmlTQlYyaGtyN0RhXy1zQVJGcWNaTTVUSXFsSEFfZlpSelpRRk0?oc=5",
+   "strip": "manga_cand_0704_1222_5.png",
+   "caption": "AIが現場に入る、という話。世界的な流れらしい。うちでも画像での判別や記録の整理にはAIを使っている。ただ、現場で効いているのは派手なところではない。\n\nAIを入れて一番変わったのは、判断を人に頼らなくなったことだ。前は僕がいないと決まらない場面が多かった。今はパートさんが同じ基準で動ける。属人性が下がると、9〜14時の約5時間で回して土日を休んでも畑は止まらない。\n\nただ順番があると思っている。AIを入れてから省人化するのではなく、先に作業を分解して、誰がやっても同じ結果になる形にしておく。そこにAIが乗って初めて楽になる。仕事の形が整理されていないままAIだけ足しても、結局その判断を読み解く人がまた要る。道具を新しくするより先に、仕事の組み立て方を直すほうが現場では効く。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 24,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.097
+   }
+  },
+  {
+   "id": "0704_1222_8",
+   "news_title": "州は、農業普及情報およびコミュニケーションのための資金の最大100％を提供する。",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbllrQU50d05Tb1F2a2lnaVl2aUVRNENPNmVhNUY5OXVCX09jQkNodWQ2QmVYS0VJMmxEZU92c0tfN2FTdVltbjlDRFFGa21wODczUGVNc3dzMmlrdGNJb09VM2Zfc24yRElhTTAwRWxQNkRFUHlXWEVVM3BfOGN3WUZVdnNMYUZPemZURF9jWUdhM0h5RTRHUEV6ZzA?oc=5",
+   "strip": "manga_cand_0704_1222_8.png",
+   "caption": "海外の話ですが、州が農業の普及情報やコミュニケーションのための費用を、最大で全額まで出す、というニュースを見ました。要するに、農家に情報を届ける部分にお金を使う、という話です。\n\nこれは順番として、けっこう大事なところを突いてるなと思いました。\n農業の支援というと、機械や設備、資材への補助が中心になりがちです。もちろんそれも助かる。でも僕の実感だと、いちばん詰まりやすいのは「作る前」なんです。何を、どう作って、どこに売るか。ここを間違えると、どれだけ良い機械を入れても回りません。\n\n僕は年100tを半日の労働で回してますが、支えているのは新しいやり方の情報を早く掴んで、試して、合わなければすぐ変える、その繰り返しです。最近は畑でスマホからAIに相談することも増えました。判断の材料が手元にあるかどうかで、動きの速さがまるで違う。\n\nだから設備より先に、情報が農家にちゃんと届く仕組みにお金を回すのは、現場から見ると理にかなっているなと感じました。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
+   "taste": 20,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.1298
+   }
+  },
+  {
+   "id": "0704_1222_9",
+   "news_title": "［農業者年金で考える 人生１００年時代の農業経営］③長期・複利運用の力",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vT1V6eFp5NExTUUdkQUVGS1c3Tm9UbFdNZ3lENnRRS1g5OHQ1a3hudlNOWWtpRE9fcjJhNW56VGJuMF9saUx6eUlLUHhKd1RSVlVVaG5ydjRTd28?oc=5",
+   "strip": "manga_cand_0704_1222_9.png",
+   "caption": "農業者年金の連載で、長期・複利運用の話が出ていた。積み立てたものが時間をかけて少しずつ増えていく、という考え方だと思う。\n\n僕は野菜農家を16年やっているけれど、この複利の感覚はお金の運用だけの話ではなくて、経営そのものにも当てはまると感じている。うちは9時から14時、5時間ほどで年間100トンを回して土日は休む。最初からこの形だったわけではない。パートさんが働きやすい仕組みを一つずつ整えて、その積み重ねが今の余力になっている。\n\n短期で大きく稼ごうとすると、無理な作業量や背伸びした投資で自分を追い込みやすい。逆に、目先の収穫量を追うより、人が長く続けられる働き方を先に組んだほうが、結果として出荷は積み上がっていく。複利が効き始めるのは、たぶんお金より先に人と仕組みのほうだ。稼ぐ順番を、収穫からではなく働き方の設計から考える。そうすると経営は少しずつ崩れにくくなっていくのだと思う。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 19,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.0804
+   }
+  },
+  {
+   "id": "0704_1218_2",
+   "news_title": "農家・農業関係者を対象に「農業AI活用実態調査2026」を開始",
+   "source": "山陽新聞",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LVS1DT0oyajhoUlBIRmtpRzRNTGxMMktuX3ozTzU1OXhqaUx5cEJPWFJsd1dIQk5yWUlZc2VVTzVFak9yVXlxY25QTV8zWklPTVE?oc=5",
+   "strip": "manga_cand_0704_1218_2.png",
+   "caption": "農家向けに「農業AI活用実態調査2026」が始まったそうです。今どれくらいAIが現場で使われているか、その実態を数字で掴もうという取り組みですね。\n\nこれは僕も気になります。自分の野菜づくりでは、畑からスマホでAIに相談することがあります。ただ周りで同じことをしている人は、あまり見かけません。だから「実はけっこう使われている」と出るのか、「まだほとんど」と出るのか、そこを知りたい。\n\nひとつ思うのは、調査の順番です。ふつうはまず大規模農家や先進地の事例が注目されます。でも僕は逆で、半日ほどの労働をパートさん中心で回している小さな現場こそ、AIの伸びしろが大きいと考えています。人手も時間も限られているからこそ、判断の下ごしらえをAIに任せられる意味が大きい。\n\nだから今回の調査も、規模の大きい所だけでなく、うちのような会社型の小さな農業でどう使われているか、そこまで拾ってくれると次に試すことが見えてきます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0947
+   }
+  },
+  {
    "id": "0704_1218_3",
    "news_title": "ミニトマトの害虫を駆除するのは「AI×ロボット」 生産効率を高めて「農業のカーボンニュートラル」",
    "source": "愛知のニュース",
@@ -321,7 +344,7 @@
    "scene": "open green field under a big blue sky, distant treeline, wide perspective",
    "taste": 30,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
@@ -400,78 +423,6 @@
    "topic": "ai",
    "emotions": [],
    "structure": "kishoten",
-   "status": "posted"
-  },
-  {
-   "id": "0629_1305_2",
-   "news_title": "土木にドローン活用、教育課程に日本酒文化…新潟県内高校生が農業の未来熱弁！長岡市で意見発表会",
-   "source": "新潟日報",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84WmxaVHNUMEVSU19xVkg4UGVfN3dJVS0zZ2tHbjFBNEhDaThQWUE1WkZJdFBBQjVWVHl0QzkyMEFBTHFac2M1VEp3VXR5c1JqaXIzd1lRajJmZEkzMUE?oc=5",
-   "strip": "manga_cand_0629_1305_2.png",
-   "caption": "新潟県内の高校生が農業の未来について熱弁したと聞いて、心強く感じています。彼らの発表には、ドローンや日本酒文化を活用した新しい視点があったようですね。農業における技術の進化は、僕たち現場の農家にとっても大きなチャンスです。\n\n僕の農場でも、AI技術を活用して効率的に作業を進めています。例えば、ドローンを使った畑の監視や、AIを利用した収穫のタイミングの最適化など、技術のおかげで作業時間を短縮し、土日休みを実現しています。こうした技術は、農業の働き方を根本から変える可能性を秘めていると感じています。\n\nただ、技術だけに頼るのではなく、現場での経験や知識も大切です。農業は自然と向き合う仕事ですから、天候や土壌の状態を見極める力も必要です。これらの要素をバランスよく取り入れることで、より持続可能な農業が実現できるのではないでしょうか。技術と伝統、どちらも大切にしながら未来の農業を築いていきたいと思います。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "drone",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "status": "posted"
-  },
-  {
-   "id": "0628_0500_1",
-   "news_title": "農業のAI活用、何から始める？無料オンラインセミナーで実践事例を学ぼう！",
-   "source": "全国ソーシャルビジネス事業者データベース",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUY0elJjMWNaUm43Q05NenlKclFvcFUtQ2tGZEZIRlB4NFlUWUpMZ2xDNldaa0FVV2I0Q0dzZEtUOFhUOGo3X1dsbUVBTXRRcXh1dzdpQWwtVG1VUnMwZS1XUzNOX1pPSnZ4LTJzYld1a2dKTDF2OXZyNG9XUGtQeHc1ejhXVUJtV1d0cldiQkc?oc=5",
-   "strip": "manga_cand_0628_0500_1.png",
-   "caption": "農業にAIを活用する動きが広がっていますね。無料オンラインセミナーも増えて、実践事例を学ぶ機会が増えているのは嬉しいことです。僕も農業にAIを取り入れていますが、最初はどこから手をつければいいのか悩むこともありました。AIは万能ではありませんが、適切に使えば作業効率が格段に上がります。\n\n僕の現場では、土壌センサーや収穫予測のAIを利用しています。これにより、収穫のタイミングを見極めやすくなり、パートさんたちの働き方も柔軟になりました。重要なのは、AIを導入する目的を明確にすることと、現場の状況に合わせて段階的に取り入れることです。初めから全てをAIに任せるのではなく、まずは小さな部分から試してみると良さそうです。\n\nAIを活用することで、農業の働き方が変わる可能性があります。ただし、すべての農場で同じ方法が適用できるわけではないので、自分の農場に最適な形を見つけることが大切です。AIはあくまで道具の一つ。人の知恵と経験を活かしながら、AIを上手に使いこなしていくことが、これからの農業に求められる姿勢ではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kishoten",
-   "status": "posted"
-  },
-  {
-   "id": "0628_0500_2",
-   "news_title": "プレスリリース：［受付開始］農業関係者向け「農業AI活用事例」無料オンラインセミナー、希望団体を募集（PR TIMES）",
-   "source": "毎日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45VzZxS1owT0NPUkFsbnVfcUFrYVk1S1ZwZHBlNllxZlg3WGN3UkZ5T281dnNNbkt6Z1Z4MDNpSk5md2NSSi1hTUsyY2NMR0pjNWpnRkJkbE11X3BRTElIb3NWcHNuUmZ1?oc=5",
-   "strip": "manga_cand_0628_0500_2.png",
-   "caption": "農業AIの活用事例が紹介されるオンラインセミナーが開催されるようですね。農業分野でのAI活用が注目されていますが、実際に導入するのは簡単ではありません。僕も現場でAIを活用していますが、最初は試行錯誤の連続でした。例えば、AIを使った温度管理システムを導入しても、地域特有の気候変動や作物の特性を考慮する必要があります。\n\nAIは便利ですが、それだけで全ての問題が解決するわけではありません。パートさんたちの経験や知識も大切です。彼らの直感や現場での気づきは、AIが提供するデータ以上に貴重なこともあります。だからこそ、AIと人間の力をどう組み合わせるかが鍵になると感じます。\n\nまた、AI導入の順番やタイミングも重要です。まずは小さな部分からAIを試し、少しずつ効果を確認してから広げていく方が、失敗も少なくて済みます。農業は生き物を扱う仕事なので、柔軟な対応が求められます。AIを活用するのも一つの手段ですが、それを活かすのは人間の知恵と工夫です。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "status": "posted"
-  },
-  {
-   "id": "0628_0500_3",
-   "news_title": "【PR TIMES その他 広告・マーケティング】住んでいない人が街の\"語り手\"に、「AI×地域PR」の連携自治体を全国から募集",
-   "source": "茨城新聞クロスアイ",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84V2VjdG9ObnNOSTgzYUp6dzduaFF3d2FQZHgtd1kwOUtqQlY0eExiVU0wX1hUTjJOMi1jNkEzcHZVZllzc1haVDVHVzlxV0ZEUkE1SXBKWFo3RXNhUkFfYUEtN3gwMXdpQW9qQk1vcDE4Q3h5aWdMeg?oc=5",
-   "strip": "manga_cand_0628_0500_3.png",
-   "caption": "AIを活用した地域PRが注目されていますね。住んでいない人がその地域の語り手になるという試みは、新鮮なアイデアだと思います。僕も農業でAIを活用していますが、やはり現場の声とデータをどう組み合わせるかが鍵です。\n\n農業の現場でも、AIのデータ分析はとても役立っています。例えば、天候データや土壌の状態をもとにした生育予測は、パートさんが効率よく作業できるようになるし、収穫のタイミングもベストを選べます。ただ、データだけに頼るのではなく、実際に畑に立ってみて感じることが重要です。\n\n地域PRも同じかもしれませんね。AIが集めたデータだけでなく、住んでいる人々の生活や文化、風景に触れることで、本当に魅力的なストーリーが生まれるのではないでしょうか。データと現場の声をうまく組み合わせることで、より豊かな地域PRが実現する気がします。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kyokan",
-   "status": "posted"
-  },
-  {
-   "id": "0628_0500_6",
-   "news_title": "農機大手のクボタに株式市場が熱視線…スマート農業の最前線から株価も右肩上がりへ",
-   "source": "ニューズウィーク日本版",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsVmo1VnlhUDgtZ3p6Y0szZVdFOFI1YkUtLVJYelA4dDJ2MnRxcVpUcTBOTGZqUE5rODVtejR5VjZDU0pjc2F1R1V1YkhKcFUySGkyeWpsZTlCSGJlMV96VGFPM0R6UVk?oc=5",
-   "strip": "manga_cand_0628_0500_6.png",
-   "caption": "クボタがスマート農業の最前線を走り、株価も上昇しているというニュースを見ました。農業界にとって、技術革新がどれほど重要かを再認識しました。僕の農場でもAI技術を取り入れています。例えば、作物の成長データをAIで分析し、収穫時期や施肥の最適化に役立てています。これにより、労働時間を短縮し、品質を維持しながらも効率的に出荷量を確保できています。\n\nとはいえ、すべてを機械や技術に頼るのではなく、現場の人の経験や感覚も大切です。パートさんたちの手際や知識があるからこそ、技術を効果的に活用できていると感じています。技術と人の力をどう組み合わせるかが、これからの農業の鍵ではないでしょうか。技術が進化しても、現場の声を聞くことが大切です。農場経営の一歩先を考えると、単に技術を導入するだけでなく、現場の声を反映させた運用を心がけることが重要だと感じます。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "status": "posted"
-  },
-  {
-   "id": "0628_0500_8",
-   "news_title": "＜一から十勝＞十勝AI農業特区 公道でのロボトラ隊列走行実現へ 規制改革",
-   "source": "北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wTTRVdmw3U2Nab19ITHlOM0RaV0VzSFE5aXlVRElZOTNyWjBQc3BOOGRiV2FEYnRXN1hvRGFSY0pfUWh4S2lxX3hjbGsxTGpIaG1vYy01YjRNZw?oc=5",
-   "strip": "manga_cand_0628_0500_8.png",
-   "caption": "十勝でAI農業特区が進み、公道でのロボトラ隊列走行が実現に向けて進んでいるようです。この規制改革が一歩進むことで、農業の効率化や労働力の軽減が期待されますね。\n\n僕の現場でも、AIやロボット技術はすでに活用しています。特に収穫時期の労働力を補完するために、AIの力は非常に頼りになります。ただし、ロボトラやAIを導入するには初期投資が必要で、技術に慣れるまでの時間も考慮しなければなりません。\n\n現場では、特区のような環境が整うことで、試験的な運用を通じた実証が可能になります。これによって、技術の適用範囲や効果を確認しながら、安全性や効率性を評価することができるのです。一方で、地域差や設備の整備状況に応じた柔軟な対応も求められるでしょう。農業は多様で、地域や作物によって適した方法が異なるため、現場の声を反映した取り組みが重要です。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
    "status": "posted"
   }
  ]

@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "id": "0714_0936_36",
+   "news_title": "クックパッド「食トレンド大賞2025・食トレンド予測2026」を発表",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdHRCeHliOFlnUm9LZmt3d2MxdlVORDNfYjFLc0NoV1lNZmlXdVVzVDEyWkpTVDRsYVMzN1g3NVJETEZYV0hLbTB1Wkk0R2laQURDWTR1WG5aS081OEk5azBjcG1keFhrM2c?oc=5",
+   "strip": "manga_cand_0714_0936_36.png",
+   "caption": "クックパッドが今年の食トレンド大賞と、来年の予測を発表したそうだ。\n\n検索データから、みんながこれから何を作りたがっているのかが見えてくる。\n\n農家としては、こういう話は少し他人事に聞こえがちだ。トレンドは料理する人の世界で、畑はその手前にあると思ってしまうから。\n\nでも順番で考えると、むしろ逆かもしれない。\n\n食卓で流行るものは、結局その前に誰かが畑で育てている。来年の食卓に何が並ぶかは、今の作付けの判断が半分は決めているとも言える。\n\n僕は年100tを半日で回していて、何をどれだけ植えるかの判断にはいつも頭を悩ませている。だからトレンド予測は、料理の情報というより、来年の売り先を先に読むための材料として見ている。\n\n流行を後から追いかけるのではなく、流行の一歩手前で静かに用意しておく。農家にとってのトレンドは、食べる話ではなく、植える話なんだと思っている。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1233
+   }
+  },
+  {
+   "id": "0714_0936_37",
+   "news_title": "夏の相棒「そうめん」も“生”がトレンド？モチモチ食感がクセに 個性豊かなアレンジ術も【Nスタ】",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydzk4VzFzM0hSSDRFWHNvNURhR0VHbkdDYXc4cHFKbmMzYXU2N2tyQnJ0VGN1cXY2ZllkSmhiQ1RjS1NjTjNGaVVXZWZ4WXdsOWt3TUE4WQ?oc=5",
+   "strip": "manga_cand_0714_0936_37.png",
+   "caption": "生そうめんがトレンドで、モチモチ食感がクセになるらしい。乾麺のそうめんは、もともと保存のために乾かした加工品だ。それを生に戻すというのは、新しいというより、素材そのものに近づけた話なんだと思う。\n\n僕は野菜を16年作っていて、鮮度が食感を左右するのは毎日感じている。採ってすぐの野菜と、少し時間が経ったものは、噛んだ瞬間から別物だ。だから生麺のモチモチが受ける理由は、なんとなく想像がつく。\n\n面白いのは、消費者が求めているのが「新しい商品」ではなく「元の状態」だという順番だと思う。加工の技術が進んで、いろんなことができるようになった先で、行き着く先が加工していない生の食感というのは、逆走しているようで筋が通っている。\n\n僕は量を回す農業をしているから、つい効率や日持ちの方に頭がいきがちだ。でも売れているものを見ると、結局は素材の状態をどう崩さず届けるか、そこに戻ってくる。生そうめんのモチモチは、その順番を思い出させてくれる話だと感じた。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0951
+   }
+  },
+  {
+   "id": "0714_0936_17",
+   "news_title": "「飴にヒ素、牛乳にチョーク」数千人の命を奪った悲劇も。アメリカ史に残る“ヤバすぎる”危険食品たち",
+   "source": "Women's Health",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklFQ1dpZ0dUMXVKUWc2Q2F4UXVya0FOOWRWbDJVbHZCcmdWYjNmYzdWS2tGNU9OYnpEQ0tCMndZVkgwQVpLWnhrOUNvbndXRmNKbFdhZDFwbVJUN0thMmFINHpieVhNQTdyRFFkMC1QYWpoazlFVURqUlRaaGhaOTRCczZmdUNjeDZpVDZaeUFnVVdqYVB1WWVuclAxX0kz?oc=5",
+   "strip": "manga_cand_0714_0936_17.png",
+   "caption": "飴にヒ素、牛乳にチョーク。昔のアメリカでそんな食品が売られていたと知って、正直ぞっとした。\n\nでも他人事とは思えない。安く、早く、量をたくさん出そうとすれば、どこかで無理が出る。ヒ素やチョークは極端だけど、方向としては地続きの話だと思う。\n\n僕は野菜を16年作ってきて、農薬も肥料も、記録をつけながら使う量を決めてる。有機と化成も、どちらかを捨てるんじゃなくて、比率を調整して土を安定させていく感じ。地味な作業で、見た目に派手さはない。\n\nただ、こういう当たり前の安全って、最初からそこにあったわけじゃないんだよね。誰かがごまかしを一つずつ潰して、ルールにして、ようやく「疑わなくていい」状態にたどり着いた。\n\n順番が逆なんだと思う。安全があるから信頼されるんじゃなくて、正直に積み重ねた記録の先に、やっと安全と呼べるものが残る。畑の毎日は、その順番を守ることの繰り返しなのかもしれない。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0387
+   }
+  },
+  {
    "id": "0713_0934_14",
    "news_title": "トラクター先頭にデモ「百姓一揆」新潟の農業関係者150人が米価維持など訴え【新潟市】",
    "source": "UX新潟テレビ21",
@@ -89,50 +155,6 @@
    }
   },
   {
-   "id": "0712_1741_6",
-   "news_title": "AI活用は事務作業が主流！農業現場での実態調査が明らかに",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrS0lDeEJyUWhOb2FRSXVGN0NIUnFSRjFEclR4RDYwV0NIOUpmQVZSYzVLQ1lXa1NhMFVVbG5LaXVzZWlZcDlqQjN5WlZramdlNkx4c3dhcVhjSU9ud2dQcTZCTTZQTEhNNDQydHh0RFZ5bHlBQzdVRVY5OTVMSjA?oc=5",
-   "strip": "manga_cand_0712_1741_6.png",
-   "caption": "AI活用は事務作業が主流、という調査結果は現場感覚とよく合う。書類や記録の整理は誰がやっても同じ形になりやすいから、AIに任せやすい。\n\n僕も年100tを朝9時から14時の半日で回しているけれど、AIをいちばん使うのは畑ではなく、その手前の段取りや文章づくりの部分だ。パートさん中心の会社型だから、指示や記録を早く形にできると、みんなの動きが揃って現場が楽になる。\n\n栽培そのものにAIを効かせるのは、正直まだ難しい。天気も土も株ごとに違うし、写真一枚では拾えない差が畑には多すぎる。\n\nただ、そこで「農業のAIはまだ早い」と結論を急ぐのはもったいないと思う。順番として、まず事務でAIに慣れておく。その積み重ねがあるから、いざ栽培に使える道具が出てきたときに戸惑わず入れられる。派手な畑での活用より、地味な事務仕事のほうが、実は入口としてちょうどいい。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
-   "taste": 25,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 4,
-    "body_edge_density": 0.075
-   }
-  },
-  {
-   "id": "0712_1741_11",
-   "news_title": "＜画像1 / 6＞2025年の“食”のトレンドは？東京ビッグサイトで「FOODEX JAPAN 2025」が開催",
-   "source": "ウォーカープラス",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wUEYyTXVlak1tQXZHb1VBM1NoVGRNd2l6bDN1bUxkTTlpelp4TUZuY2NCSVVBUnZsdWNCc0F0SXFoTVJsSEZYRE9nYkhIbU5JeklrRC1HT18yZkVlOU1JNndTNjNxLVRKbnJUSGl3?oc=5",
-   "strip": "manga_cand_0712_1741_11.png",
-   "caption": "FOODEX JAPAN 2025が始まったそうだ。その年の食のトレンドが分かる、大きな展示会だと聞く。\n\n新しい味や売り方が並ぶのは、作る側としても見ていて面白い。\n\nただ、僕はトレンドを追いかけて品目をころころ変える、ということはあまりしない。\n\n畑は、決めた作物を安定して出し続けられて初めて回るからだ。流行に合わせて毎年変えていると、栽培も人の段取りも崩れて、結局どれも中途半端になりやすい。\n\n僕は年100tを、朝9時から14時の半日で、パートさん中心で回している。これが成り立つのは、作るものと段取りが決まっていて、現場が迷わないからだ。\n\nトレンド自体は、消費者がいま何を求めているかの話として、僕もよく見ている。でも現場で先に効くのは、流行を追う速さより、同じものを崩さず出し続ける力のほうだと感じている。\n\n新しさは、その土台ができた上に、少しずつ乗せていくくらいがちょうどいいと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 25,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0675
-   }
-  },
-  {
    "id": "0712_1741_8",
    "news_title": "AI農業特区「十勝の発展に」 首長ら、国家戦略特区への指定見通しを歓迎",
    "source": "北海道新聞デジタル",
@@ -174,28 +196,6 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.0922
-   }
-  },
-  {
-   "id": "0712_1741_3",
-   "news_title": "バンセオ村の105世帯が、スマート農業と災害対応スキルに関する研修を受けた。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWp5VjluT2gzZndfWkIzamdPQS02aGtlalUyaVRkQl95dlcycHhYQU1ROUZseUZSLXhrWTNZQzJSNjVOTnVFZS1FNUNzZTNTcnNYbTFXeUF4SmtxekUxajIxWFJ6ZVlyUUlvcUlfS0xTR3kwQ0ZWVzc0S01RLVYtNWY5VFNaUl9jOTZQcHZSQXBhX094VjNOX2FPbHRsQnFDUXJjVTBTR1p0TW9RRnVqRmgyRQ?oc=5",
-   "strip": "manga_cand_0712_1741_3.png",
-   "caption": "ベトナムのバンセオ村で、105世帯がまとめてスマート農業と災害対応の研修を受けたそうだ。\n\n新しい技術と、災害への備え。この二つが一緒になっているのが、僕には引っかかった。\n\nスマート農業というと、収量を上げるとか効率を上げるという話に寄りがちだ。でも実際に現場をやっていると、農業でいちばん怖いのは、うまくいっている時ではなく、天候や病気で流れが一気に崩れる時だ。\n\n僕は年100tを、朝9時から14時の半日で回している。パートさん中心の会社型でやっているから、誰か一人の勘に頼る作り方はしていない。だからこそ、想定外が起きた時にどう動くかを決めておくことが、平常時の効率よりずっと大事になる。\n\n順番でいうと、スマート化が先で災害対応が後、ではないと思う。むしろ崩れた時にどう立て直すかの型があって、その上に技術を乗せるから、技術が本当に効いてくる。\n\n村ぐるみで、攻めと守りの両方を最初に学ぶ。この順番は、規模の大小に関係なく正しいと感じた。\n\n#スマート農業 #AI農業\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "smart",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": 23,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.041
    }
   },
   {
@@ -328,6 +328,72 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0937
+   }
+  },
+  {
+   "id": "0712_1741_6",
+   "news_title": "AI活用は事務作業が主流！農業現場での実態調査が明らかに",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrS0lDeEJyUWhOb2FRSXVGN0NIUnFSRjFEclR4RDYwV0NIOUpmQVZSYzVLQ1lXa1NhMFVVbG5LaXVzZWlZcDlqQjN5WlZramdlNkx4c3dhcVhjSU9ud2dQcTZCTTZQTEhNNDQydHh0RFZ5bHlBQzdVRVY5OTVMSjA?oc=5",
+   "strip": "manga_cand_0712_1741_6.png",
+   "caption": "AI活用は事務作業が主流、という調査結果は現場感覚とよく合う。書類や記録の整理は誰がやっても同じ形になりやすいから、AIに任せやすい。\n\n僕も年100tを朝9時から14時の半日で回しているけれど、AIをいちばん使うのは畑ではなく、その手前の段取りや文章づくりの部分だ。パートさん中心の会社型だから、指示や記録を早く形にできると、みんなの動きが揃って現場が楽になる。\n\n栽培そのものにAIを効かせるのは、正直まだ難しい。天気も土も株ごとに違うし、写真一枚では拾えない差が畑には多すぎる。\n\nただ、そこで「農業のAIはまだ早い」と結論を急ぐのはもったいないと思う。順番として、まず事務でAIに慣れておく。その積み重ねがあるから、いざ栽培に使える道具が出てきたときに戸惑わず入れられる。派手な畑での活用より、地味な事務仕事のほうが、実は入口としてちょうどいい。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
+   "taste": 25,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 4,
+    "body_edge_density": 0.075
+   }
+  },
+  {
+   "id": "0712_1741_11",
+   "news_title": "＜画像1 / 6＞2025年の“食”のトレンドは？東京ビッグサイトで「FOODEX JAPAN 2025」が開催",
+   "source": "ウォーカープラス",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wUEYyTXVlak1tQXZHb1VBM1NoVGRNd2l6bDN1bUxkTTlpelp4TUZuY2NCSVVBUnZsdWNCc0F0SXFoTVJsSEZYRE9nYkhIbU5JeklrRC1HT18yZkVlOU1JNndTNjNxLVRKbnJUSGl3?oc=5",
+   "strip": "manga_cand_0712_1741_11.png",
+   "caption": "FOODEX JAPAN 2025が始まったそうだ。その年の食のトレンドが分かる、大きな展示会だと聞く。\n\n新しい味や売り方が並ぶのは、作る側としても見ていて面白い。\n\nただ、僕はトレンドを追いかけて品目をころころ変える、ということはあまりしない。\n\n畑は、決めた作物を安定して出し続けられて初めて回るからだ。流行に合わせて毎年変えていると、栽培も人の段取りも崩れて、結局どれも中途半端になりやすい。\n\n僕は年100tを、朝9時から14時の半日で、パートさん中心で回している。これが成り立つのは、作るものと段取りが決まっていて、現場が迷わないからだ。\n\nトレンド自体は、消費者がいま何を求めているかの話として、僕もよく見ている。でも現場で先に効くのは、流行を追う速さより、同じものを崩さず出し続ける力のほうだと感じている。\n\n新しさは、その土台ができた上に、少しずつ乗せていくくらいがちょうどいいと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 25,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0675
+   }
+  },
+  {
+   "id": "0712_1741_3",
+   "news_title": "バンセオ村の105世帯が、スマート農業と災害対応スキルに関する研修を受けた。",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWp5VjluT2gzZndfWkIzamdPQS02aGtlalUyaVRkQl95dlcycHhYQU1ROUZseUZSLXhrWTNZQzJSNjVOTnVFZS1FNUNzZTNTcnNYbTFXeUF4SmtxekUxajIxWFJ6ZVlyUUlvcUlfS0xTR3kwQ0ZWVzc0S01RLVYtNWY5VFNaUl9jOTZQcHZSQXBhX094VjNOX2FPbHRsQnFDUXJjVTBTR1p0TW9RRnVqRmgyRQ?oc=5",
+   "strip": "manga_cand_0712_1741_3.png",
+   "caption": "ベトナムのバンセオ村で、105世帯がまとめてスマート農業と災害対応の研修を受けたそうだ。\n\n新しい技術と、災害への備え。この二つが一緒になっているのが、僕には引っかかった。\n\nスマート農業というと、収量を上げるとか効率を上げるという話に寄りがちだ。でも実際に現場をやっていると、農業でいちばん怖いのは、うまくいっている時ではなく、天候や病気で流れが一気に崩れる時だ。\n\n僕は年100tを、朝9時から14時の半日で回している。パートさん中心の会社型でやっているから、誰か一人の勘に頼る作り方はしていない。だからこそ、想定外が起きた時にどう動くかを決めておくことが、平常時の効率よりずっと大事になる。\n\n順番でいうと、スマート化が先で災害対応が後、ではないと思う。むしろ崩れた時にどう立て直すかの型があって、その上に技術を乗せるから、技術が本当に効いてくる。\n\n村ぐるみで、攻めと守りの両方を最初に学ぶ。この順番は、規模の大小に関係なく正しいと感じた。\n\n#スマート農業 #AI農業\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "smart",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": 23,
+   "gpass": false,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.041
    }
   },
   {
@@ -497,42 +563,6 @@
    "strip": "manga_cand_0703_1738_4.png",
    "caption": "韓国が世界一のスマート農業国を目指すというニュース。AIやスマート農業と聞くと、まず最新の機械やシステムを入れる話になりがちだけど、僕が現場でAIを使ってみて思うのは、順番が逆だということ。\n\nうちは9〜14時の約5時間で年間100tを出荷して土日も休むけど、それを支えているのはハイテクよりも先に、誰がやっても同じ結果になるまで作業を分解して整理したこと。土台が整理されていない現場にAIを入れても、混乱をそのまま速くするだけになる。\n\n国単位でも同じだと思う。最先端を競う前に、パートさんが迷わず動けて、無理なく続く仕組みがあるか。スマート農業の本当の価値は、機械が賢くなることじゃなくて、人が早く帰れて、それでも野菜が安定して穫れること。派手さより、続けられるかどうか。僕は現場でそこを一番見ている。\n\n普段どう回しているかは、固定ポストにまとめています。",
    "topic": "smart",
-   "emotions": [],
-   "structure": "taiken",
-   "status": "posted"
-  },
-  {
-   "id": "0701_0759_2",
-   "news_title": "AI利用促進に軸足、規制改革会議が答申 データセンターや農業など",
-   "source": "日本経済新聞",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KanJkVklpZ19YOWJFUldpcEpnSjRxaC1COFU3R1pxeUFfcEVzOEtxcm5PMGE1M0pDcDRzUHVpdk1vY0xZdmZPQXhuVGVqRXZ0UVRyZjR6Z3JJT1JCb2F2cDhYQjhqbmFYWlBfcg?oc=5",
-   "strip": "manga_cand_0701_0759_2.png",
-   "caption": "規制改革会議が答申を出したというニュースを見た。AIの利用を促していく方向で、データセンターや農業なども対象に入っているらしい。\n\n僕は普段、畑での判断やちょっとした調べものにAIを使っている。半日の作業時間で回すなかで、迷ったときに手元で相談できるのは助かる場面が多い。だから農業がこういう議論に名前として挙がること自体は、現場にいる側として少し身近に感じた。\n\n答申はあくまで方針を示す段階で、具体的に何がどう変わるかはこれから決まっていくものだと理解している。同じニュースでも、規制がゆるむことを前向きに受け止める人もいれば、現場に合うルールになるか見ておきたいと考える人もいる。\n\n農業とAIがどんなふうに関わっていくのか、その入口の話として読んでおくとよさそうだ。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "status": "posted"
-  },
-  {
-   "id": "0701_0759_9",
-   "news_title": "有機農業拡大へ　十勝の実践農場を視察　農家らの振興会",
-   "source": "ｄメニューニュース",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaFlYUGhLVk5Uay1IUXFSVjVVSjdlQlZ6T2RoMXJxME5kZUtQdjMwNzBFbUdtR3RkQW0xbVJWeGJoNUtreDcxVGVuTXgwVkZIWEJ2b2g2MTZDMmtsTGdGSzh4OG9aRTdtTjFwQmZmelJ4TDhNaVZVOGlaVXI1UVBVbG9YbW51WTNSSlU2VENSTdIBggFBVV95cUxNOGRUdVJ0Tl93dHdobzJvZFBnSE1XdEtsaEx6VUM5VlpIWTJvZDRkRm81ZmVYdTRCZ0ZDNVhPMDhMWWRmNHQ1S2taNFRLZzJCMm1XeU0wVGhGaG13WTJaWEktTHdFU2c5d3ZvejRYSnZrVHNyQ2JiS25QQXE4bDRQYk9B?oc=5",
-   "strip": "manga_cand_0701_0759_9.png",
-   "caption": "有機農業を広げようという視察のニュースを見た。十勝の実践農場に農家が集まって学ぶ、いい動きだと思う。\n\nただ、僕が16年やってきて思うのは、有機か化成かを「どっちが正しいか」で語ると現場は止まる、ということ。うちも有機は使うけれど、規模で出荷量を背負うと有機だけでは肥効が読みにくくて、収穫の山を外す。だから僕は有機の比率を少し下げて、化成と組み合わせて安定させている。有機を捨てたわけじゃない、どちらも必要で、規模に合わせて配分を変えているだけ。\n\n順番として大事なのは、たぶん「理想の農法を決めてから現場を合わせる」のではなく、「自分の規模と労働時間で回る形を先に決めて、その中で有機の割合を上げていく」方なんだと思う。100t出して土日休んで、パートさんが無理なく働ける。その器が先にあって、初めて有機をどこまで攻められるかが見えてくる。視察で他所の畑を見るときも、農法そのものより、その人がどんな働き方の中でそれを成立させているかを見ると、持ち帰れるものが増える気がする。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "kyokan",
-   "status": "posted"
-  },
-  {
-   "id": "0701_0759_16",
-   "news_title": "清水町「オーガニックビレッジ」へ始動 有機農業推進、協議会がフォーラム開催",
-   "source": "北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VSHVyZ1hLZ1N5UjBKOUVSbGdOQWw5V3hNcVdOekNLb2twLTRXOVVsUUd4c3VHckF5QnJaX1ZnRWxmOTVXOEF3cWk1Wmh0Uk10NV82V1MzWS15dw?oc=5",
-   "strip": "manga_cand_0701_0759_16.png",
-   "caption": "清水町が「オーガニックビレッジ」へ動き出すという話。有機農業を地域ぐるみで広げていく取り組みらしい。\n\n有機と聞くと、化成肥料を全部やめる話だと思われがちだけど、現場の感覚は少し違う。\n\n僕も野菜を16年作ってきて、有機も化成もどちらも使う。どちらかが正解ではなくて、規模やその年の天候で配分を変えるのが現実的なやり方だと思っている。むしろ有機に寄せすぎると効きがゆっくりで読みにくく、化成の比率を下げて安定させる、くらいの感覚がちょうどいい。\n\nだから地域でオーガニックを掲げるなら、「ゼロか百か」じゃなくて、続けられる配分を各農家が見つけられる余白を残してほしい。理想を急ぐより、回り続ける仕組みのほうが、結局は長く有機を残すと思う。\n\n地域で旗を立てること自体は、農家にとって心強い追い風になる。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "cultivation",
    "emotions": [],
    "structure": "taiken",
    "status": "posted"

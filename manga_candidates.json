@@ -1,17 +1,83 @@
 {
  "items": [
   {
-   "id": "0714_0936_36",
-   "news_title": "クックパッド「食トレンド大賞2025・食トレンド予測2026」を発表",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdHRCeHliOFlnUm9LZmt3d2MxdlVORDNfYjFLc0NoV1lNZmlXdVVzVDEyWkpTVDRsYVMzN1g3NVJETEZYV0hLbTB1Wkk0R2laQURDWTR1WG5aS081OEk5azBjcG1keFhrM2c?oc=5",
-   "strip": "manga_cand_0714_0936_36.png",
-   "caption": "クックパッドが今年の食トレンド大賞と、来年の予測を発表したそうだ。\n\n検索データから、みんながこれから何を作りたがっているのかが見えてくる。\n\n農家としては、こういう話は少し他人事に聞こえがちだ。トレンドは料理する人の世界で、畑はその手前にあると思ってしまうから。\n\nでも順番で考えると、むしろ逆かもしれない。\n\n食卓で流行るものは、結局その前に誰かが畑で育てている。来年の食卓に何が並ぶかは、今の作付けの判断が半分は決めているとも言える。\n\n僕は年100tを半日で回していて、何をどれだけ植えるかの判断にはいつも頭を悩ませている。だからトレンド予測は、料理の情報というより、来年の売り先を先に読むための材料として見ている。\n\n流行を後から追いかけるのではなく、流行の一歩手前で静かに用意しておく。農家にとってのトレンドは、食べる話ではなく、植える話なんだと思っている。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
+   "id": "0715_0932_18",
+   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
+   "source": "city.fukaya.saitama.jp",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
+   "strip": "manga_cand_0715_0932_18.png",
+   "caption": "埼玉県深谷市が「物価高騰対応重点支援地方創生臨時交付金」を活用した、農業者への支援を案内しています。国の交付金を財源に、各自治体が地域の実情に合わせて支援の中身を決める仕組みです。\n\n肥料や燃料、資材の値上がりは僕の現場でも続いていて、仕入れの明細を見るたびに、経営の前提が少しずつ変わっているのを感じます。なので、こうした支援の情報には一度目を通すようにしています。\n\nこの型の支援で押さえておきたいのは、同じ制度名でも、市町村ごとに対象や内容、申請方法が違うことです。農家側からすると「国の制度」というより「自分の市の制度」として出会うことが多く、市の広報やJAの案内で初めて知ったという人も周りにいます。国が財源を用意し、市町村が中身を設計し、農家は地元の窓口で出会う。この流れを知っておくと、各地で似た名前の支援が並んでいる理由も分かりやすくなります。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "policy",
    "emotions": [],
    "structure": "henka",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 28,
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.0944
+   }
+  },
+  {
+   "id": "0715_0932_24",
+   "news_title": "ミニトマト栽培の先端技術学ぶ 伊達で農業士の夏期研修会",
+   "source": "北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVjNRSXQ5Z25lNktXNm8tOVZCYU12SEJ1bnZvTU5GRUt6SGRNMFpqalpqbWhDUmxPQUlqWHFka1FpQVNyM0ZTV1F0bHEyS2Y2STk0NmFneTJBdw?oc=5",
+   "strip": "manga_cand_0715_0932_24.png",
+   "caption": "Error: Reached max turns (1)\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 31,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0873
+   }
+  },
+  {
+   "id": "0715_0932_11",
+   "news_title": "［経営のツボ］公認会計士・農業経理士の三橋敏さん③ 農業での人材確保",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZzN4WmIxSHNqdzlWZXdUcVNfb2VIUXpGTWNDdmxPQnNfNUtrNHVCSURpeVBHS3lmNjIwYmhvX2tzSkRiUjFQRDBaaU0xR0ZscmJJWFdNTDlBcFU?oc=5",
+   "strip": "manga_cand_0715_0932_11.png",
+   "caption": "Error: Reached max turns (1)\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 30,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.0874
+   }
+  },
+  {
+   "id": "0715_0932_23",
+   "news_title": "2026年上半期「農業」倒産 30年で最多の51件 小規模法人・個人が約8割占める、倒産はすべて消滅型",
+   "source": "Manegy[マネジー]",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VGk5cjZQU2s4ZE94bWlUYVNqaDhKQW9DclY3SmxJbHVSRy0wTFd2Y3paWDZGYWp1U1VrU1BudFZqOXU1WGJIUUMzX2NtRzRQekFN?oc=5",
+   "strip": "manga_cand_0715_0932_23.png",
+   "caption": "Error: Reached max turns (1)\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 29,
    "gpass": true,
    "status": "pending",
    "anatomy": "pass",
@@ -19,29 +85,7 @@
    "anatomy_metrics": {
     "n_face": 2,
     "n_hand": 1,
-    "body_edge_density": 0.1233
-   }
-  },
-  {
-   "id": "0714_0936_37",
-   "news_title": "夏の相棒「そうめん」も“生”がトレンド？モチモチ食感がクセに 個性豊かなアレンジ術も【Nスタ】",
-   "source": "TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydzk4VzFzM0hSSDRFWHNvNURhR0VHbkdDYXc4cHFKbmMzYXU2N2tyQnJ0VGN1cXY2ZllkSmhiQ1RjS1NjTjNGaVVXZWZ4WXdsOWt3TUE4WQ?oc=5",
-   "strip": "manga_cand_0714_0936_37.png",
-   "caption": "生そうめんがトレンドで、モチモチ食感がクセになるらしい。乾麺のそうめんは、もともと保存のために乾かした加工品だ。それを生に戻すというのは、新しいというより、素材そのものに近づけた話なんだと思う。\n\n僕は野菜を16年作っていて、鮮度が食感を左右するのは毎日感じている。採ってすぐの野菜と、少し時間が経ったものは、噛んだ瞬間から別物だ。だから生麺のモチモチが受ける理由は、なんとなく想像がつく。\n\n面白いのは、消費者が求めているのが「新しい商品」ではなく「元の状態」だという順番だと思う。加工の技術が進んで、いろんなことができるようになった先で、行き着く先が加工していない生の食感というのは、逆走しているようで筋が通っている。\n\n僕は量を回す農業をしているから、つい効率や日持ちの方に頭がいきがちだ。でも売れているものを見ると、結局は素材の状態をどう崩さず届けるか、そこに戻ってくる。生そうめんのモチモチは、その順番を思い出させてくれる話だと感じた。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0951
+    "body_edge_density": null
    }
   },
   {
@@ -287,47 +331,47 @@
    }
   },
   {
-   "id": "0712_1741_5",
-   "news_title": "「作物の画像から収穫量を弾き出す」ビジョンAI…韓国ロッテイノベート、農業AX市場攻略を本格化（KOREA WAVE）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CUXJPaDVBUUlfaXRMTUFLeTJubVRuVHdRb1NTejhlU0pmZUd2eFVoYWRka0VFc2oyUi1SVmY4SnNTejgtVzJGdlV5X0NwekZScHVZekZpdktUTmoyVkJ2bkpkX01NRnpZTmlTRjFKVVoyMFVpODFBczZ2QXlDTG8?oc=5",
-   "strip": "manga_cand_0712_1741_5.png",
-   "caption": "写真を撮るだけで収穫量を当てるAIを、韓国の会社が本気で売り出すそうだ。カメラで畑を写すと「これくらい採れる」と数字が返る、という話らしい。\n\n収穫量が前もって読めるのは、現場ではかなり効く。僕は年100tを朝9時から14時の半日で回していて、パートさん中心の会社型でやっている。いつ・どれだけ採れるかが早めに見えれば、人の手配も箱の準備も前倒しできて、当日バタバタしなくて済む。段取りが読める農業はそれだけで働きやすくなる。\n\nただ、写真一枚でどこまで当たるのかは正直まだ半信半疑だ。畑は天気や病気で一晩ひっくり返る。数字を信じ込むより「目安が一つ増えた」くらいで置いておくのが、たぶんちょうどいい。\n\n僕がAIに求めているのも同じで、勘を消す道具ではなく、勘を裏づける道具として使いたい。最後に決めるのは畑を毎日見ている人間のほうで、AIはその判断を早く、確かにするために横に置いておく。それくらいの距離感が、現場では一番長く使える気がしている。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "ai",
+   "id": "0714_0936_36",
+   "news_title": "クックパッド「食トレンド大賞2025・食トレンド予測2026」を発表",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdHRCeHliOFlnUm9LZmt3d2MxdlVORDNfYjFLc0NoV1lNZmlXdVVzVDEyWkpTVDRsYVMzN1g3NVJETEZYV0hLbTB1Wkk0R2laQURDWTR1WG5aS081OEk5azBjcG1keFhrM2c?oc=5",
+   "strip": "manga_cand_0714_0936_36.png",
+   "caption": "クックパッドが今年の食トレンド大賞と、来年の予測を発表したそうだ。\n\n検索データから、みんながこれから何を作りたがっているのかが見えてくる。\n\n農家としては、こういう話は少し他人事に聞こえがちだ。トレンドは料理する人の世界で、畑はその手前にあると思ってしまうから。\n\nでも順番で考えると、むしろ逆かもしれない。\n\n食卓で流行るものは、結局その前に誰かが畑で育てている。来年の食卓に何が並ぶかは、今の作付けの判断が半分は決めているとも言える。\n\n僕は年100tを半日で回していて、何をどれだけ植えるかの判断にはいつも頭を悩ませている。だからトレンド予測は、料理の情報というより、来年の売り先を先に読むための材料として見ている。\n\n流行を後から追いかけるのではなく、流行の一歩手前で静かに用意しておく。農家にとってのトレンドは、食べる話ではなく、植える話なんだと思っている。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
    "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 22,
-   "gpass": false,
-   "status": "pending",
+   "structure": "henka",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.1052
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1233
    }
   },
   {
-   "id": "0712_1741_14",
-   "news_title": "【DMM 地方創生】馬路村農業協同組合のプロジェクトを、DMMがサポート！残り1軒となった青とうがらし農家の支援に向けたクラウドファンディングを開始",
-   "source": "山陽新聞",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VdnFvOV8taXR0TUk5a1ZJYUYwQ3NtN3M1Wl81V2IwejFNWExETVNmN1lwUUZuV19kbFF2a0ZNV1NEYks5dTY4OHdUSGlXZHpOcUE?oc=5",
-   "strip": "manga_cand_0712_1741_14.png",
-   "caption": "馬路村の青とうがらしをつくる農家が、とうとう残り1軒になったそうだ。DMMがクラウドファンディングで支援に入る、という話らしい。\n\n産地の名物を支える人が1軒まで減る。これは、よその話だと思えない。\n\nただ、僕がずっと引っかかっているのは順番のことだ。\n\n「後継ぎがいないから減る」と語られがちだけれど、僕は逆だと感じている。休めない、稼ぎが読めない、朝から晩まで縛られる。そういう形のままだから、人が入ってこない。減った結果として仕事がきつくなるのではなく、きつい形のままだから減っていく。\n\n僕は年100tを、朝9時から14時の半日で回している。土日は休む。パートさん中心の会社型にしているのは、特別なことがしたいからではなくて、誰かが抜けても続く形にしたかったからだ。\n\nクラファンで今の1軒を支えるのは、もちろん大事だ。ただ、そこで止めてしまうと、また同じところに戻る。本当に必要なのは、その仕事に人が入りたくなる形を、支援と同時に組み直すことだと思う。\n\n応援で延命させる前に、応援がいらなくなる働き方を先に用意する。順番はきっと、そっちが先だ。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "sales",
+   "id": "0714_0936_37",
+   "news_title": "夏の相棒「そうめん」も“生”がトレンド？モチモチ食感がクセに 個性豊かなアレンジ術も【Nスタ】",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydzk4VzFzM0hSSDRFWHNvNURhR0VHbkdDYXc4cHFKbmMzYXU2N2tyQnJ0VGN1cXY2ZllkSmhiQ1RjS1NjTjNGaVVXZWZ4WXdsOWt3TUE4WQ?oc=5",
+   "strip": "manga_cand_0714_0936_37.png",
+   "caption": "生そうめんがトレンドで、モチモチ食感がクセになるらしい。乾麺のそうめんは、もともと保存のために乾かした加工品だ。それを生に戻すというのは、新しいというより、素材そのものに近づけた話なんだと思う。\n\n僕は野菜を16年作っていて、鮮度が食感を左右するのは毎日感じている。採ってすぐの野菜と、少し時間が経ったものは、噛んだ瞬間から別物だ。だから生麺のモチモチが受ける理由は、なんとなく想像がつく。\n\n面白いのは、消費者が求めているのが「新しい商品」ではなく「元の状態」だという順番だと思う。加工の技術が進んで、いろんなことができるようになった先で、行き着く先が加工していない生の食感というのは、逆走しているようで筋が通っている。\n\n僕は量を回す農業をしているから、つい効率や日持ちの方に頭がいきがちだ。でも売れているものを見ると、結局は素材の状態をどう崩さず届けるか、そこに戻ってくる。生そうめんのモチモチは、その順番を思い出させてくれる話だと感じた。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
    "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": 22,
-   "gpass": false,
-   "status": "pending",
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 28,
+   "gpass": true,
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 2,
     "n_hand": 2,
-    "body_edge_density": 0.0937
+    "body_edge_density": 0.0951
    }
   },
   {
@@ -542,30 +586,6 @@
     "n_hand": 0,
     "body_edge_density": 0.155
    }
-  },
-  {
-   "id": "0703_1738_2",
-   "news_title": "農業関係者100人に聞いた「AIの使い道」、半数が\"事務作業の効率化\"",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU0hnc3V1Vk5oVG15bWpNdzBfWkJaYWFMcUVEclpfSl9nb3BWR0VYUTl1STc3S3RKT1EtbnN2Y0Uzd0EtWVBrYXBrWTcyN0dtWjJYdTJ1SVRZdmtycFI3a3ZyZWg0LUFpeFE?oc=5",
-   "strip": "manga_cand_0703_1738_2.png",
-   "caption": "農業関係者100人に聞いてAIの使い道の半分が事務作業だった、という記事を見た。まっとうな結果だと思う。うちも請求書や日報、パートさんのシフト表みたいな事務仕事から先にAIに任せた。作物の判断より、まず机の上が軽くなる。\n\nただ、事務が楽になっただけで終わると少しもったいない気もする。僕がAIを入れて一番効いたのは、事務が減った分、頭が空いたことだった。9時から14時の5時間で年間100t回すには、畑に立つ前に「今日はどこに何人で入るか」を迷わず決められるかが効いてくる。その段取りの部分を、記録の整理も含めてAIに下ごしらえしてもらう。\n\n順番として、事務の効率化はゴールじゃなくて入口なんだと思う。手を空けるのが目的じゃなくて、空いた手で何を考えるか。そこまで行ってはじめて、AIを入れた意味が出てくる気がしている。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "status": "posted"
-  },
-  {
-   "id": "0703_1738_4",
-   "news_title": "AI農業革命：韓国は世界最高のスマート農業国家になる",
-   "source": "jp.ajunews.com",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaZndmVmh4N0lxY0lweDQwM0RXMmpmd29zYy1sMFBia0l1TUFhM2ZPWWdqSlpfTTlfeEhIalM0MENzc1dhUWloOWp0bUV1QTh1MVhaVzIxUWg5ZTA?oc=5",
-   "strip": "manga_cand_0703_1738_4.png",
-   "caption": "韓国が世界一のスマート農業国を目指すというニュース。AIやスマート農業と聞くと、まず最新の機械やシステムを入れる話になりがちだけど、僕が現場でAIを使ってみて思うのは、順番が逆だということ。\n\nうちは9〜14時の約5時間で年間100tを出荷して土日も休むけど、それを支えているのはハイテクよりも先に、誰がやっても同じ結果になるまで作業を分解して整理したこと。土台が整理されていない現場にAIを入れても、混乱をそのまま速くするだけになる。\n\n国単位でも同じだと思う。最先端を競う前に、パートさんが迷わず動けて、無理なく続く仕組みがあるか。スマート農業の本当の価値は、機械が賢くなることじゃなくて、人が早く帰れて、それでも野菜が安定して穫れること。派手さより、続けられるかどうか。僕は現場でそこを一番見ている。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "smart",
-   "emotions": [],
-   "structure": "taiken",
-   "status": "posted"
   }
  ]
 }

@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0716_0942_3",
+   "news_title": "【3農家限定】AIは使えている。でも、現場で活きていない。農家AI伴走支援の無料モニター募集を開始",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CWmZnbGR5dGJyU2NLNGp1MmZLSWZGd0M5YmtsTjJXZlFrZm8xeHRmSkdaT1QwRGt2bG5VMVcwUEp1Q3V1Q3RLS1BQajlScGtzMGN2b0JpVHNZdVFoQ0x0WG8tQUpNczJUa1E?oc=5",
+   "strip": "manga_cand_0716_0942_3.png",
+   "caption": "「AIは使えている。でも、現場で活きていない」。そんな農家向けに、AIの使い方を隣で支える伴走支援の無料モニター募集が始まったそうです。3農家限定とのこと。\n\nこの言葉には心当たりがあります。僕は愛知で野菜を16年つくっていて、年間100トンほど出荷。仕事は朝9時から14時までの約5時間です。この働き方にAIはずいぶん貢献してくれていますが、最初から使いこなせていたわけではありません。迷ったらとりあえず聞く、を繰り返すうちに手放せなくなった、という順番でした。道具がどれだけ賢くても、畑の何をどう聞けばいいかが分からないと、結局開かなくなるんですよね。\n\nだから、学ぶ順番が逆なのかもしれません。使い方を一通り学んでから畑に持ち込むのではなく、目の前の畑の悩みをそのまま一言ぶつけるところから始める。講座で一般論を仕入れるより、自分の悩みで練習した方が身につくと感じています。伴走支援が効くとしたら、知識を教えてくれるからではなく、その最初の一言を隣で引き出してくれるからだと思います。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0715_0932_18",
    "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
    "source": "city.fukaya.saitama.jp",
@@ -28,7 +50,7 @@
    "source": "北海道新聞デジタル",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVjNRSXQ5Z25lNktXNm8tOVZCYU12SEJ1bnZvTU5GRUt6SGRNMFpqalpqbWhDUmxPQUlqWHFka1FpQVNyM0ZTV1F0bHEyS2Y2STk0NmFneTJBdw?oc=5",
    "strip": "manga_cand_0715_0932_24.png",
-   "caption": "Error: Reached max turns (1)\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "caption": "伊達で農業士の夏期研修会があって、ミニトマト栽培の先端技術を学んだそうだ。忙しい夏に時間を作って集まる姿勢は素直にすごいと思う。\n\n僕も16年野菜をやってきて、研修や視察には何度も行った。ただ振り返ると、先端技術を見て帰って、そのまま自分の畑でうまくいったことはあまりない。技術そのものより、受け止める側の段取りが先にできているかで結果が分かれる印象がある。\n\nだから順番だと思う。新しい技術は「今の作業を楽にするか」で選ぶと外しにくくて、収量を増やす目的から入ると作業が増えて現場が回らなくなりやすい。うちが9時から14時の約5時間で年間100tを出せているのも、先端技術より先に、やらないことを決めてパートさんが迷わず動ける段取りを整えたのが大きかった。研修で一番持ち帰る価値があるのは、技術の細部より「その農家が何をやめたか」の方だと思っている。\n\n後で見返せるように、この投稿は保存しておいてください。",
    "topic": "cultivation",
    "emotions": [],
    "structure": "henka",
@@ -50,7 +72,7 @@
    "source": "日本農業新聞",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZzN4WmIxSHNqdzlWZXdUcVNfb2VIUXpGTWNDdmxPQnNfNUtrNHVCSURpeVBHS3lmNjIwYmhvX2tzSkRiUjFQRDBaaU0xR0ZscmJJWFdNTDlBcFU?oc=5",
    "strip": "manga_cand_0715_0932_11.png",
-   "caption": "Error: Reached max turns (1)\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "caption": "農業の人材確保が経営のツボとして取り上げられていた。求人の出し方や待遇改善の話になりがちだけど、僕は順番が逆じゃないかと思っている。\n\nうちは9時から14時の約5時間で年間100tを出荷して、土日は休み。パートさん中心で回す形にしている。この時間帯なら子どもの送り迎えとも両立しやすいし、土日が休みなら家族の予定も立てやすい。「農業だから朝早くから夜まで」を前提にしたままだと、働ける人の範囲を自分で狭めてしまう。\n\nだから人材確保は、募集を頑張る前に、作業体系を人に合わせて組み直す話だと考えている。人が来ないのではなく、来られる条件にしていないだけ、という場合が結構あるはず。待遇を上げるのも大事だけど、その前に「この時間で回る段取り」を作る方が先。そこができてくると、採用は頑張るものではなく、経営設計の結果として付いてくるものになると思う。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
    "topic": "policy",
    "emotions": [],
    "structure": "furi_ochi",
@@ -72,7 +94,7 @@
    "source": "Manegy[マネジー]",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VGk5cjZQU2s4ZE94bWlUYVNqaDhKQW9DclY3SmxJbHVSRy0wTFd2Y3paWDZGYWp1U1VrU1BudFZqOXU1WGJIUUMzX2NtRzRQekFN?oc=5",
    "strip": "manga_cand_0715_0932_23.png",
-   "caption": "Error: Reached max turns (1)\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "caption": "農業の倒産が上半期だけで51件、30年で最多だそうです。約8割が小規模の法人や個人で、すべて再建ではなく消滅型だったと。\n\n僕は愛知で野菜を16年作っていて、年間100tを9時から14時の約5時間で回しています。周りを見ていても、苦しくなる原因は栽培技術より先に、経営の順番にあると感じます。資材が上がってから慌てて売価を考えるのではなく、上がった後でも利益が残る売り先と作り方を先に決めておけるかどうか。\n\n多くの人は「作る、売る、残ったものが利益」の順で考えますが、僕は「残したい利益、売り先、作り方」と逆から組みます。同じ面積、同じ作物でも、この順番だけで結果はかなり変わる。倒産がすべて消滅型だったというのは、再建の余力が尽きるまで頑張り続けてしまった裏返しでもあると思います。規模を広げる前に、小さいままでも利益が出る形を先に作る。守るべき順番はこっちだと、現場にいて思います。\n\n後で見返せるように、この投稿は保存しておいてください。",
    "topic": "market",
    "emotions": [],
    "structure": "furi_ochi",
@@ -86,28 +108,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": null
-   }
-  },
-  {
-   "id": "0714_0936_17",
-   "news_title": "「飴にヒ素、牛乳にチョーク」数千人の命を奪った悲劇も。アメリカ史に残る“ヤバすぎる”危険食品たち",
-   "source": "Women's Health",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklFQ1dpZ0dUMXVKUWc2Q2F4UXVya0FOOWRWbDJVbHZCcmdWYjNmYzdWS2tGNU9OYnpEQ0tCMndZVkgwQVpLWnhrOUNvbndXRmNKbFdhZDFwbVJUN0thMmFINHpieVhNQTdyRFFkMC1QYWpoazlFVURqUlRaaGhaOTRCczZmdUNjeDZpVDZaeUFnVVdqYVB1WWVuclAxX0kz?oc=5",
-   "strip": "manga_cand_0714_0936_17.png",
-   "caption": "飴にヒ素、牛乳にチョーク。昔のアメリカでそんな食品が売られていたと知って、正直ぞっとした。\n\nでも他人事とは思えない。安く、早く、量をたくさん出そうとすれば、どこかで無理が出る。ヒ素やチョークは極端だけど、方向としては地続きの話だと思う。\n\n僕は野菜を16年作ってきて、農薬も肥料も、記録をつけながら使う量を決めてる。有機と化成も、どちらかを捨てるんじゃなくて、比率を調整して土を安定させていく感じ。地味な作業で、見た目に派手さはない。\n\nただ、こういう当たり前の安全って、最初からそこにあったわけじゃないんだよね。誰かがごまかしを一つずつ潰して、ルールにして、ようやく「疑わなくていい」状態にたどり着いた。\n\n順番が逆なんだと思う。安全があるから信頼されるんじゃなくて、正直に積み重ねた記録の先に、やっと安全と呼べるものが残る。畑の毎日は、その順番を守ることの繰り返しなのかもしれない。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0387
    }
   },
   {
@@ -328,6 +328,28 @@
     "n_face": 1,
     "n_hand": 1,
     "body_edge_density": 0.1025
+   }
+  },
+  {
+   "id": "0714_0936_17",
+   "news_title": "「飴にヒ素、牛乳にチョーク」数千人の命を奪った悲劇も。アメリカ史に残る“ヤバすぎる”危険食品たち",
+   "source": "Women's Health",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklFQ1dpZ0dUMXVKUWc2Q2F4UXVya0FOOWRWbDJVbHZCcmdWYjNmYzdWS2tGNU9OYnpEQ0tCMndZVkgwQVpLWnhrOUNvbndXRmNKbFdhZDFwbVJUN0thMmFINHpieVhNQTdyRFFkMC1QYWpoazlFVURqUlRaaGhaOTRCczZmdUNjeDZpVDZaeUFnVVdqYVB1WWVuclAxX0kz?oc=5",
+   "strip": "manga_cand_0714_0936_17.png",
+   "caption": "飴にヒ素、牛乳にチョーク。昔のアメリカでそんな食品が売られていたと知って、正直ぞっとした。\n\nでも他人事とは思えない。安く、早く、量をたくさん出そうとすれば、どこかで無理が出る。ヒ素やチョークは極端だけど、方向としては地続きの話だと思う。\n\n僕は野菜を16年作ってきて、農薬も肥料も、記録をつけながら使う量を決めてる。有機と化成も、どちらかを捨てるんじゃなくて、比率を調整して土を安定させていく感じ。地味な作業で、見た目に派手さはない。\n\nただ、こういう当たり前の安全って、最初からそこにあったわけじゃないんだよね。誰かがごまかしを一つずつ潰して、ルールにして、ようやく「疑わなくていい」状態にたどり着いた。\n\n順番が逆なんだと思う。安全があるから信頼されるんじゃなくて、正直に積み重ねた記録の先に、やっと安全と呼べるものが残る。畑の毎日は、その順番を守ることの繰り返しなのかもしれない。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0387
    }
   },
   {
@@ -563,28 +585,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0947
-   }
-  },
-  {
-   "id": "0704_1218_3",
-   "news_title": "ミニトマトの害虫を駆除するのは「AI×ロボット」 生産効率を高めて「農業のカーボンニュートラル」",
-   "source": "愛知のニュース",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQc3pBemo2SDNGaUpWTXBRd0J2aExkZWJSdVdWd1J6U0tZS0hiS1c3MnFZQnRPbVU1LUhnUXZyTnRhZ2xvSFRreEx6Y0VlVzBic3hMX3FiV1hSQQ?oc=5",
-   "strip": "manga_cand_0704_1218_3.png",
-   "caption": "本文だけ返します。\n\n害虫駆除にAIとロボット、というニュースですね。愛知の話というのも近い。\n\n正直、僕の規模でロボットを入れるのはまだ現実的じゃないと思っています。年間100tを、9〜14時の約5時間、パートさん中心で回している僕みたいな現場に、いきなり駆除ロボットは重い。\n\nただAIの部分は別です。僕は畑からスマホでAIに相談することがあります。虫の写真を見せて、これは何か、どう対処するか、その一歩目を早くするのに使う。判断のスピードが上がる。\n\n順番として面白いのは、大きな設備投資より先に、手元のAIで「気づく」ところから変わっていくことだと思う。カーボンニュートラルも生産効率も、最後は現場が続けられるかどうか。半日労働で土日休みを守りながら回すには、重い機械を増やすより、まず判断を軽くする方が僕には合っている。ロボットが降りてくるのは、その次でいい。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "robot",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 30,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": 0.155
    }
   }
  ]

@@ -1,6 +1,138 @@
 {
  "items": [
   {
+   "id": "0718_0939_11",
+   "news_title": "農業と環境に関する10の法律を改正する：地方分権化は事後検査と統一基準と結び付けられなければならない。",
+   "source": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaGZGOXl0cGNIcjZPRDg4RWZEdS1LTFZfaXg2MGlDYlZCcWNCaHlWNm1SeG5VUW45QkFlS2pNZFFPdGFkbVE2bWtiTUpWVE9EUXZNb0xJbWNLbHNkRGtsMHE4UHNVbEd4NDZMYUVTMURaeFRQT3pjWVA3b0JyNGFaVnZkRElndDc4ZF9WTFdBOWluTlFpVkU3TFRoN2o4dW5md21BZmxybXFmUXNKX0piNzFJaXQ3d2tFNnc?oc=5",
+   "strip": "manga_cand_0718_0939_11.png",
+   "caption": "ベトナムで、農業と環境に関する10本の法律をまとめて改正する動きが報じられています。権限を地方に移す際は、事後検査と全国統一の基準をセットにすべきだ、という議論がされているそうです。\n\n海外の話ですが、構図は身近です。日本の農家も、農地の手続きや認定農業者の申請は市町村、農薬や食品表示のルールは国と、相手が分かれていて、普段から両方と関わりながら仕事をしています。\n\n地方に任せると地域の実情に合わせた運用がしやすくなる。一方で、基準が地域ごとにばらつくと、複数の産地から仕入れる流通側や、輸出を視野に入れる生産者は確認することが増える。今回の「分権に事後検査と統一基準を結び付ける」という論点は、その両面を踏まえたものと受け止められているようです。\n\nこうした制度改正で現場に最初に影響が出るのは、書類と窓口です。僕も16年やってきて、制度が変わるたびにまず変わったのはそこでした。だから中身がどう決まるかより先に、手続きがどう変わるかを見る農家さんは多い気がします。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 1,
+    "body_edge_density": 0.0445
+   }
+  },
+  {
+   "id": "0718_0939_20",
+   "news_title": "【2025年グルメ総決算】みんなが夢中になった食トレンドTOP10発表🍜✨の写真（6）",
+   "source": "emogram",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52TVZoQkVaSVJNTG4xNGk3TUhBTll6eHRoSUUyeWZNckNTcHpKcWlEV0Jib2I2SDRLaTNWZzdCNDlZakxlV0R2bEU2Unpjb01xNXhHSXJfaw?oc=5",
+   "strip": "manga_cand_0718_0939_20.png",
+   "caption": "2025年のグルメ総決算、食トレンドTOP10が出ていました。毎年この時期に振り返ると、去年流行ったものをもう思い出せなかったりします。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。トレンドの記事を見るたび思うのは、ランキングに載る料理は毎年入れ替わるのに、その下で使われている野菜はほとんど変わらないということです。話題の麺にもスイーツにも横の一皿にも、たいてい定番の野菜が入っています。\n\nだから僕は、流行を追うより先に定番を安定させる順番にしています。畑は種をまいてから収穫まで数ヶ月かかるので、話題になってから動いても間に合わないことが多い。それなら、定番を安定して出せる体制を先に作り、残った余力で新しいものを小さく試すほうが現実的です。うちが9時から14時の約5時間で回して土日を休めているのも、この順番を守ってきた結果だと思っています。ランキングには載らないけれど、毎年のトレンドを一番下で変わらず支えるものを作る仕事も、悪くないものです。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.1247
+   }
+  },
+  {
+   "id": "0718_0939_19",
+   "news_title": "農業農村整備で知事会 十分な別枠予算求める",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoN3RBeTF4WWxSU2U0QUp4QjNsNW9VWndTOGlXMmpCVjBfa1ktRVlUT25UZW9TSFBxZHBaSTdFNUJROWxXUWxaREVDTDBlLXpHZWtPT1A4SQ?oc=5",
+   "strip": "manga_cand_0718_0939_19.png",
+   "caption": "農業農村整備の予算について、知事会が十分な別枠を求めたそうです。地味な話題に見えますが、水路や農道や排水の整備は、現場からすると毎日の作業時間にそのまま響く部分です。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちが朝9時から14時の約5時間で回せているのは、頑張って急いでいるからではなく、作業しやすい環境を先に整えているからです。畑までの道が悪い、雨のあと水がなかなか抜けない、そういう状態のままでは、どれだけ人が頑張っても時間は縮まりません。\n\n農業の議論は「担い手を増やす」「若者を呼ぶ」といった人の話から始まりがちですが、順番は逆だと思っています。人が来てから環境を整えるのではなく、働きやすい環境が先にあるから人が続く。うちのパートさんが長く働いてくれているのも同じ理屈です。基盤整備の予算は派手さがないぶん後回しにされやすいですが、後回しにされやすいものほど、現場の時間を決めているように感じます。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 31,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.0925
+   }
+  },
+  {
+   "id": "0718_0939_25",
+   "news_title": "社説：農福連携 「つなぎ役」の育成図れ",
+   "source": "秋田魁新報電子版",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQ0l6WG10ei1RX1RQMkZXeWNON2lkQnpmS21RSW1WWlV1Wm5nVG5icVJIR3g0a05uTUd3X0RXc3BNX1Bma0YyREJmeS04RGk0UGZINXBuQ2xEc0IydkRsUnpB?oc=5",
+   "strip": "manga_cand_0718_0939_25.png",
+   "caption": "ナレッジファイルは本セッションでは権限外でしたが、指示文に集約されたルール（肥料の言い切り禁止・運用の推測創作禁止・AI装飾禁止・USP固定）に沿って作成しました。以下、本文です。\n\n---\n\n農福連携の社説を読みました。農家と福祉施設をつなぐ「つなぎ役」の育成が課題になっているそうです。\n\n僕は愛知で16年野菜を作っていて、年間100トンをパートさん中心の体制で出しています。いろんな人と一緒に働いてきて感じるのは、人が仕事に合うかどうかは、本人の能力より仕事の切り分け方で決まる場面が多いということです。ひとつの作業を誰でも迷わず進められる単位まで分けておくと、初めての人でも力を発揮してくれます。逆に、切り分けが曖昧なままだと、意欲のある人が来てもうまくいきません。\n\nだから、つなぎ役の育成と同じくらい、受け入れる農場側の準備が問われるんだと思います。人に合わせて仕事を設計し直せる農場は、福祉の人材に限らず誰にとっても働きやすい。うちが9時から14時の約5時間で回して土日を休めているのも、その積み重ねの結果です。農福連携は福祉のための取り組みと語られがちですが、順番は逆で、まず農業側が仕事を整えること。それが結果的に農場自身を強くするのだと感じています。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": 30,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": 0.0311
+   }
+  },
+  {
+   "id": "0718_0939_18",
+   "news_title": "サバナケット県における参加型農業振興プロジェクト",
+   "source": "jica.go.jp",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maXo5MEc5MEUtNTNNZ00yR3VzV0swczM5VXhId3VnOFNXZUdjWnZkUGNnZVhqYXV3SVZSRkUwbWFuaUxzQzZpSnRpRVdSUUY3R2IxYnRR?oc=5",
+   "strip": "manga_cand_0718_0939_18.png",
+   "caption": "ラオスのサバナケット県で、JICAの参加型農業振興プロジェクトが動いているそうです。技術を一方的に教えるのではなく、現地の農家自身が計画づくりに関わる形だと理解しています。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちは朝9時から14時の約5時間で回して、土日は休み。パートさん中心の体制ですが、これを続けてこられた理由のひとつは、作業のやり方をこちらが全部決めないことだと思っています。段取りのどこが不便かはパートさんが一番よく知っていて、そこから出てくる提案で現場が変わることは珍しくありません。\n\n支援でも経営改善でも、正しいやり方を先に渡す順番で考えがちです。でも現場を見ていると、人は教わったことより、自分で決めたことのほうを続けます。だから順番は逆で、まず決める場に入ってもらう。技術はその後のほうが定着する。参加型という言葉は海外支援の文脈に見えて、日本の農家の雇用や家族経営にも、そのまま当てはまる話だと感じます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 29,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0707
+   }
+  },
+  {
+   "id": "0718_0939_30",
+   "news_title": "【SNSマーケティング×ECサイト】 地方の農業法人の販売促進を加速させるプロジェクトの挑戦者を求む! - project",
+   "source": "project-index.jp",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTWllXzhxZW9RQkhrUGZqTTB2Y3FlVmhhSzk0LXRDYWYwazNCdEgycGtZbnI0TGZSWFhLakxsRDJWY2x3bE5fNE1lWEF2QlVBazNF?oc=5",
+   "strip": "manga_cand_0718_0939_30.png",
+   "caption": "ナレッジファイルは現在の作業ディレクトリからは参照できませんでしたが、依頼文に同じ規範（肥料の言い切り禁止・運用の推測禁止・AI装飾禁止）が明記されており、前回投稿の文体も引き継ぎ済みなので、それに沿って書きます。\n\n以下、投稿本文です。\n\n---\n\n地方の農業法人のSNSマーケティングとEC販売を、外部から挑戦者を募って強化するプロジェクトがあるそうです。農家が販売まで自分たちで持つ流れは、これからも増えていくと思います。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出荷しています。SNSでの発信も自分でやっていますが、始められたのは売り方の技術を覚えたからではなく、時間ができたからでした。うちは朝9時から14時の約5時間で現場を回し、土日は休みにしています。発信は、その空いた時間から出てきたものです。\n\nだから販促を強くしたい農業法人がまずやることは、マーケターを探すことより先に、現場の時間を空けることだと思っています。外部の人に売り方を任せることはできても、発信の中身になる現場の話は、農家本人の中にしかない。毎日夜まで作業が続く状態では、それを言葉にする余力が残らないんですよね。売る仕組みと作る現場は別の仕事に見えて、実際は同じ一日の時間を取り合っている。順番としては、労働時間を整えるのが先で、SNSとECはその後に乗せるものかなと。パートさん中心で回る体制にしてから、僕はそう感じています。\n\n#ホワイト農業 #農業\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "sales",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 29,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0907
+   }
+  },
+  {
    "id": "0717_0943_17",
    "news_title": "課題解決をチャットで！「AgriweB（アグリウェブ）」が創る、農業経営者と専門家をシームレスに繋ぐ新たな形「経営アシストチャット」",
    "source": "PR TIMES",
@@ -199,50 +331,6 @@
    }
   },
   {
-   "id": "0715_0932_11",
-   "news_title": "［経営のツボ］公認会計士・農業経理士の三橋敏さん③ 農業での人材確保",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yZzN4WmIxSHNqdzlWZXdUcVNfb2VIUXpGTWNDdmxPQnNfNUtrNHVCSURpeVBHS3lmNjIwYmhvX2tzSkRiUjFQRDBaaU0xR0ZscmJJWFdNTDlBcFU?oc=5",
-   "strip": "manga_cand_0715_0932_11.png",
-   "caption": "農業の人材確保が経営のツボとして取り上げられていた。求人の出し方や待遇改善の話になりがちだけど、僕は順番が逆じゃないかと思っている。\n\nうちは9時から14時の約5時間で年間100tを出荷して、土日は休み。パートさん中心で回す形にしている。この時間帯なら子どもの送り迎えとも両立しやすいし、土日が休みなら家族の予定も立てやすい。「農業だから朝早くから夜まで」を前提にしたままだと、働ける人の範囲を自分で狭めてしまう。\n\nだから人材確保は、募集を頑張る前に、作業体系を人に合わせて組み直す話だと考えている。人が来ないのではなく、来られる条件にしていないだけ、という場合が結構あるはず。待遇を上げるのも大事だけど、その前に「この時間で回る段取り」を作る方が先。そこができてくると、採用は頑張るものではなく、経営設計の結果として付いてくるものになると思う。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 30,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.0874
-   }
-  },
-  {
-   "id": "0715_0932_23",
-   "news_title": "2026年上半期「農業」倒産 30年で最多の51件 小規模法人・個人が約8割占める、倒産はすべて消滅型",
-   "source": "Manegy[マネジー]",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14VGk5cjZQU2s4ZE94bWlUYVNqaDhKQW9DclY3SmxJbHVSRy0wTFd2Y3paWDZGYWp1U1VrU1BudFZqOXU1WGJIUUMzX2NtRzRQekFN?oc=5",
-   "strip": "manga_cand_0715_0932_23.png",
-   "caption": "農業の倒産が上半期だけで51件、30年で最多だそうです。約8割が小規模の法人や個人で、すべて再建ではなく消滅型だったと。\n\n僕は愛知で野菜を16年作っていて、年間100tを9時から14時の約5時間で回しています。周りを見ていても、苦しくなる原因は栽培技術より先に、経営の順番にあると感じます。資材が上がってから慌てて売価を考えるのではなく、上がった後でも利益が残る売り先と作り方を先に決めておけるかどうか。\n\n多くの人は「作る、売る、残ったものが利益」の順で考えますが、僕は「残したい利益、売り先、作り方」と逆から組みます。同じ面積、同じ作物でも、この順番だけで結果はかなり変わる。倒産がすべて消滅型だったというのは、再建の余力が尽きるまで頑張り続けてしまった裏返しでもあると思います。規模を広げる前に、小さいままでも利益が出る形を先に作る。守るべき順番はこっちだと、現場にいて思います。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": null
-   }
-  },
-  {
    "id": "0713_0934_15",
    "news_title": "ＡＩ農業と宇宙特区、十勝指定へ 高市首相が検討加速を指示",
    "source": "十勝毎日新聞",
@@ -255,79 +343,13 @@
    "scene": "open green field under a big blue sky, distant treeline, wide perspective",
    "taste": 31,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.1108
-   }
-  },
-  {
-   "id": "0713_0934_10",
-   "news_title": "［農業者年金で考える 人生１００年時代の農業経営］④ｉＤｅＣｏとの違い",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DdXl4UVFYeXRzN05ldHhndVZQS2pGQi1DYkVtUEFDWFVLWXRlQ2ptUGVGemJxMDdXYkROcHN2QlVoblVELXRjbXI0cEVrRDZjd3RlMDBzelVpTFE?oc=5",
-   "strip": "manga_cand_0713_0934_10.png",
-   "caption": "農業者年金とiDeCoの違い、という記事を見かけました。老後の備えを農業者向けにどう設計するか、という話のようです。\n\n正直、僕もこのあたりは詳しくなくて、人に教わりながら少しずつ理解している段階です。ただ読んでいて引っかかったのは、どの制度で備えるかを選ぶ前に、そもそも長く続けられる働き方になっているか、という順番でした。\n\n僕は野菜を年100tほど、朝9時から14時までの半日で回すやり方でやっています。土日は休みで、パートさんが無理なく働ける形を先に作りました。体を削って稼いだお金を老後のために積み立てる、それも一つの正解だとは思います。でも順番が少し逆な気もするんです。\n\nまず、続けられる働き方をつくる。そのうえで余ったぶんを備えに回す。制度が得か損かの前に、自分が何歳まで元気に畑へ立てるか。人生100年で効いてくるのは、案外そっちなんじゃないかと思っています。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 0,
-    "body_edge_density": 0.1113
-   }
-  },
-  {
-   "id": "0712_1741_8",
-   "news_title": "AI農業特区「十勝の発展に」 首長ら、国家戦略特区への指定見通しを歓迎",
-   "source": "北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zbmQwYkNZc2lOSVdVMnBrbnlPdVhhZUlnSzIxSUlONmhudDExSGJ6QW43aFZnWDh2SFVPVjFLTzBvUVNSZWdvdngxc3NOSlI1NEpZUTFoSXFpdw?oc=5",
-   "strip": "manga_cand_0712_1741_8.png",
-   "caption": "北海道の十勝が、AIを使う農業の特区に選ばれる見通しだという。国が地域ごと後押しして、畑でAIを使いやすくする話らしい。地元の首長さんたちも歓迎している。\n\nAIと聞くと、つい都会やオフィスの話に思われがちだ。でも僕は、順番が逆じゃないかと感じている。\n\n畑は毎日、天気も土も育ち具合も変わる。同じ日は一日もない。人の勘と経験だけで向き合うには、正直むずかしい相手だ。だからこそ、判断を助けてくれる道具の効きが大きいと思っている。\n\n僕は年100tを朝9時から14時の半日で回している。パートさん中心の会社型だから、いつ誰が何をやるかの段取りが命だ。ここが少しでも先に読めると、現場はぐっと楽になる。人が減るんじゃなく、人がもっと生きる。\n\nただ、特区で環境が整っても、それだけで畑が変わるわけじゃない。道具が来ても、使う人がいなければ宝の持ち腐れだ。結局うまくいくかは、現場が面白がって使いこなせるかどうか。ここに一番かかっていると思う。\n\n十勝がどう転ぶか、僕は本気で気になっている。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 24,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0855
-   }
-  },
-  {
-   "id": "0712_1741_10",
-   "news_title": "「百姓一揆」新潟で農業者デモ 肥料・農薬・機械の価格2倍…「コメ価格維持」訴え",
-   "source": "テレ朝NEWS",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTkJyMnVJZXAyY0ZLRENnVlF4c2FYR0lTQlMtSmRWTWU0ejJJbVM3WFlBZHhuR2lTYW4xS3NTN04zSWhLZTRrOEh6S1VwM2d2b1hlb1c4a0RudnFKR192Rzg1NXVrZzBfNW9hT1dLZWxBQQ?oc=5",
-   "strip": "manga_cand_0712_1741_10.png",
-   "caption": "新潟で「百姓一揆」の名を掲げたデモが起きたと知った。肥料も農薬も機械も、この数年で値段がほぼ倍になった。作れば作るほど手元に残らない、という農家の悲鳴だと思う。コメ価格を守ってほしいという訴えは、痛いほどよく分かる。\n\n僕は野菜だから事情は違うけれど、資材が上がっているのは同じだ。ここで一つだけ、順番の話をさせてほしい。\n\n値段を上げてもらう交渉と、コストのかけ方を見直す工夫は、どちらか片方ではない。両方を同時にやるものだと僕は思っている。\n\nうちは16年かけて、作業を9時から14時の半日に寄せ、パートさん中心の会社型に組み替えてきた。肥料も、有機か化成かで揉めるより、比率を少し下げると土も懐も安定する、という所に落ち着いた。値上げを待つ間にも、こちら側で削れる時間とムダは意外とある。\n\n声を上げるのは大事だ。その上で、上がるのを待つだけにしない。守りと攻めを同時に回すのが、続けるための現実解だと感じている。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "price",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 24,
-   "gpass": false,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.0922
    }
   },
   {
@@ -563,28 +585,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.097
-   }
-  },
-  {
-   "id": "0704_1222_8",
-   "news_title": "州は、農業普及情報およびコミュニケーションのための資金の最大100％を提供する。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbllrQU50d05Tb1F2a2lnaVl2aUVRNENPNmVhNUY5OXVCX09jQkNodWQ2QmVYS0VJMmxEZU92c0tfN2FTdVltbjlDRFFGa21wODczUGVNc3dzMmlrdGNJb09VM2Zfc24yRElhTTAwRWxQNkRFUHlXWEVVM3BfOGN3WUZVdnNMYUZPemZURF9jWUdhM0h5RTRHUEV6ZzA?oc=5",
-   "strip": "manga_cand_0704_1222_8.png",
-   "caption": "海外の話ですが、州が農業の普及情報やコミュニケーションのための費用を、最大で全額まで出す、というニュースを見ました。要するに、農家に情報を届ける部分にお金を使う、という話です。\n\nこれは順番として、けっこう大事なところを突いてるなと思いました。\n農業の支援というと、機械や設備、資材への補助が中心になりがちです。もちろんそれも助かる。でも僕の実感だと、いちばん詰まりやすいのは「作る前」なんです。何を、どう作って、どこに売るか。ここを間違えると、どれだけ良い機械を入れても回りません。\n\n僕は年100tを半日の労働で回してますが、支えているのは新しいやり方の情報を早く掴んで、試して、合わなければすぐ変える、その繰り返しです。最近は畑でスマホからAIに相談することも増えました。判断の材料が手元にあるかどうかで、動きの速さがまるで違う。\n\nだから設備より先に、情報が農家にちゃんと届く仕組みにお金を回すのは、現場から見ると理にかなっているなと感じました。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
-   "taste": 20,
-   "gpass": false,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.1298
    }
   }
  ]

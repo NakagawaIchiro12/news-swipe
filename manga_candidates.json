@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "id": "0719_0936_10",
+   "news_title": "“聞く農” 都会の企業人材が地方で農業支援に活躍？",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaSTkwYlFZRDJ2XzJqdGJ3cjRLVkwxaHRwekdPVnRwQl9kaVJJenJoZy1ubUZVd1I2WXR2UjlTWU9TeE9LbnJyWHNFOV95TXRNQUo5NTBjcV8?oc=5",
+   "strip": "manga_cand_0719_0936_10.png",
+   "caption": "都会の企業で働いてきた人が、地方で農業を「聞く」立場で支える。指示や改革ではなく、まず現場の話を聞くところから入るという記事でした。\n\n僕はこの順番に納得しています。農業16年やってきて、外から来た人に一番助けられたのは、答えをくれた時ではなく、僕らが当たり前だと思って言葉にしていなかったことを質問で引き出してくれた時でした。\n\n野菜農家をやっていると、作業も判断も自分の体に染み込んでいて、なぜそうしているか説明できないことが多いんです。土日休みで、パートさん中心で回す形にしたのも、最初から設計図があったわけじゃなく、人に説明しようとして初めて言語化できた部分が大きい。\n\nだから企業人材の価値は、農業の知識を持ち込むことより、聞く力そのものだと思っています。僕もAIに現場のことを相談する時、うまく答えを引き出せるかは質問の立て方次第だと感じます。聞ける人がいるだけで、現場は勝手に整理されていく。教える前に聞く、この順番が意外と効きます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "data",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 30,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.1176
+   }
+  },
+  {
+   "id": "0719_0936_22",
+   "news_title": "令和8年度 農業経営資質向上講習会のご案内",
+   "source": "city.uruma.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRGZQS2cwbDRiTEhicS1wbXpIOFVHWDRiYkIteExFcm81ejJpM1VWQXJPSXg1MDlhTENCVVEyMkI5dXFlMVB4MERmMnFvbW1pOTUxNFYtUkNaZkRLRllGek05LUdVaTdKMndqYWxB?oc=5",
+   "strip": "manga_cand_0719_0936_22.png",
+   "caption": "うるま市が、令和8年度の農業経営資質向上講習会をひらくそうです。育て方ではなく、経営そのものを学ぶ会ですね。沖縄でこういう講習が用意されるのは、いい流れだと感じます。\n\n地味な内容に見えますが、僕はここが農家の分かれ道だと思っています。作物を上手に作れる人はたくさんいます。でも、同じ収穫でも手元に残るお金は人によって大きく変わる。その差を生むのが経営の目です。\n\n僕は年に100トンを、朝9時から昼過ぎまでの半日で回しています。パートさんと一緒に、なるべく短い時間で。これができているのは、腕を磨く前に段取りとお金の流れを見てきたからです。\n\n順番の話をします。多くの人は、まず作る技術を上げて、余裕ができたら経営を学ぼうと考えます。でも僕は逆だと思っています。経営の型が先にあると、どの技術に時間とお金をかけるべきかが決まる。だから技術の伸びも速くなる。\n\n作る勉強会はよく見かけますが、経営を教える会は本当に貴重です。畑に追われて、こういう学びを後回しにしていないか。若い人ほど、早いうちに触れてほしいと思っています。\n\n#AI農業 #農業経営\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0986
+   }
+  },
+  {
+   "id": "0719_0936_4",
+   "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53TmxsSTR2OEp3Y3FGbVJuQXYwdVlOa01SZzU3ZGVUMTljRm1pSVlOY042TFFrblF6OG5qa3dPSU1hWHF0NWRXSjNCUGtydVFyRjk4S1lpaVYxOGFqeVZtbFo3WmJMeWJsUUE?oc=5",
+   "strip": "manga_cand_0719_0936_4.png",
+   "caption": "住友商事とNTTのドローン会社が、国産の農業用ドローンを広めるためにマーケティングで手を組んだそうです。売り方の面で連携して、値段や導入のしやすさを農家に届けたいというねらいだと思います。\n\n愛知で野菜を16年やってきて、新しい道具は性能そのものより「現場に馴染むか」で残るかどうかが決まると感じています。うちはパートさん中心で回しているので、誰が触っても同じ結果になること、困ったときにすぐ相談できることが、実は性能表よりずっと効いてきます。\n\n僕は今ドローンは飛ばしていませんが、もし入れるとしたら機体選びは一番最後にします。先に決めたいのは「どの作業のどこがしんどいか」。道具を買ってから使い道を探すと、たいてい持て余して物置に置きっぱなしになる。困りごとを言葉にするのが地味だけど先で、機体はその後からついてくる。国産で相談しやすい窓口が増えるのは、この順番を踏みやすくなるという意味でありがたい話だと思っています。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "drone",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1026
+   }
+  },
+  {
    "id": "0718_0939_11",
    "news_title": "農業と環境に関する10の法律を改正する：地方分権化は事後検査と統一基準と結び付けられなければならない。",
    "source": "Vietnam.vn",
@@ -20,28 +86,6 @@
     "n_face": 3,
     "n_hand": 1,
     "body_edge_density": 0.0445
-   }
-  },
-  {
-   "id": "0718_0939_20",
-   "news_title": "【2025年グルメ総決算】みんなが夢中になった食トレンドTOP10発表🍜✨の写真（6）",
-   "source": "emogram",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52TVZoQkVaSVJNTG4xNGk3TUhBTll6eHRoSUUyeWZNckNTcHpKcWlEV0Jib2I2SDRLaTNWZzdCNDlZakxlV0R2bEU2Unpjb01xNXhHSXJfaw?oc=5",
-   "strip": "manga_cand_0718_0939_20.png",
-   "caption": "2025年のグルメ総決算、食トレンドTOP10が出ていました。毎年この時期に振り返ると、去年流行ったものをもう思い出せなかったりします。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。トレンドの記事を見るたび思うのは、ランキングに載る料理は毎年入れ替わるのに、その下で使われている野菜はほとんど変わらないということです。話題の麺にもスイーツにも横の一皿にも、たいてい定番の野菜が入っています。\n\nだから僕は、流行を追うより先に定番を安定させる順番にしています。畑は種をまいてから収穫まで数ヶ月かかるので、話題になってから動いても間に合わないことが多い。それなら、定番を安定して出せる体制を先に作り、残った余力で新しいものを小さく試すほうが現実的です。うちが9時から14時の約5時間で回して土日を休めているのも、この順番を守ってきた結果だと思っています。ランキングには載らないけれど、毎年のトレンドを一番下で変わらず支えるものを作る仕事も、悪くないものです。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.1247
    }
   },
   {
@@ -287,47 +331,25 @@
    }
   },
   {
-   "id": "0715_0932_18",
-   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
-   "source": "city.fukaya.saitama.jp",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
-   "strip": "manga_cand_0715_0932_18.png",
-   "caption": "埼玉県深谷市が「物価高騰対応重点支援地方創生臨時交付金」を活用した、農業者への支援を案内しています。国の交付金を財源に、各自治体が地域の実情に合わせて支援の中身を決める仕組みです。\n\n肥料や燃料、資材の値上がりは僕の現場でも続いていて、仕入れの明細を見るたびに、経営の前提が少しずつ変わっているのを感じます。なので、こうした支援の情報には一度目を通すようにしています。\n\nこの型の支援で押さえておきたいのは、同じ制度名でも、市町村ごとに対象や内容、申請方法が違うことです。農家側からすると「国の制度」というより「自分の市の制度」として出会うことが多く、市の広報やJAの案内で初めて知ったという人も周りにいます。国が財源を用意し、市町村が中身を設計し、農家は地元の窓口で出会う。この流れを知っておくと、各地で似た名前の支援が並んでいる理由も分かりやすくなります。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
+   "id": "0718_0939_20",
+   "news_title": "【2025年グルメ総決算】みんなが夢中になった食トレンドTOP10発表🍜✨の写真（6）",
+   "source": "emogram",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52TVZoQkVaSVJNTG4xNGk3TUhBTll6eHRoSUUyeWZNckNTcHpKcWlEV0Jib2I2SDRLaTNWZzdCNDlZakxlV0R2bEU2Unpjb01xNXhHSXJfaw?oc=5",
+   "strip": "manga_cand_0718_0939_20.png",
+   "caption": "2025年のグルメ総決算、食トレンドTOP10が出ていました。毎年この時期に振り返ると、去年流行ったものをもう思い出せなかったりします。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。トレンドの記事を見るたび思うのは、ランキングに載る料理は毎年入れ替わるのに、その下で使われている野菜はほとんど変わらないということです。話題の麺にもスイーツにも横の一皿にも、たいてい定番の野菜が入っています。\n\nだから僕は、流行を追うより先に定番を安定させる順番にしています。畑は種をまいてから収穫まで数ヶ月かかるので、話題になってから動いても間に合わないことが多い。それなら、定番を安定して出せる体制を先に作り、残った余力で新しいものを小さく試すほうが現実的です。うちが9時から14時の約5時間で回して土日を休めているのも、この順番を守ってきた結果だと思っています。ランキングには載らないけれど、毎年のトレンドを一番下で変わらず支えるものを作る仕事も、悪くないものです。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
    "emotions": [],
-   "structure": "henka",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "structure": "gyakusetsu",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
    "taste": 33,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.0944
-   }
-  },
-  {
-   "id": "0715_0932_24",
-   "news_title": "ミニトマト栽培の先端技術学ぶ 伊達で農業士の夏期研修会",
-   "source": "北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVjNRSXQ5Z25lNktXNm8tOVZCYU12SEJ1bnZvTU5GRUt6SGRNMFpqalpqbWhDUmxPQUlqWHFka1FpQVNyM0ZTV1F0bHEyS2Y2STk0NmFneTJBdw?oc=5",
-   "strip": "manga_cand_0715_0932_24.png",
-   "caption": "伊達で農業士の夏期研修会があって、ミニトマト栽培の先端技術を学んだそうだ。忙しい夏に時間を作って集まる姿勢は素直にすごいと思う。\n\n僕も16年野菜をやってきて、研修や視察には何度も行った。ただ振り返ると、先端技術を見て帰って、そのまま自分の畑でうまくいったことはあまりない。技術そのものより、受け止める側の段取りが先にできているかで結果が分かれる印象がある。\n\nだから順番だと思う。新しい技術は「今の作業を楽にするか」で選ぶと外しにくくて、収量を増やす目的から入ると作業が増えて現場が回らなくなりやすい。うちが9時から14時の約5時間で年間100tを出せているのも、先端技術より先に、やらないことを決めてパートさんが迷わず動ける段取りを整えたのが大きかった。研修で一番持ち帰る価値があるのは、技術の細部より「その農家が何をやめたか」の方だと思っている。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 31,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0873
+    "n_hand": 0,
+    "body_edge_density": 0.1247
    }
   },
   {
@@ -563,28 +585,6 @@
     "n_face": 1,
     "n_hand": 3,
     "body_edge_density": 0.0753
-   }
-  },
-  {
-   "id": "0704_1222_5",
-   "news_title": "AIが「現場へ進出」：スマート農業における世界的なトレンド。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUVI3Z1hPSDBZbC1ZN2RSdUlWY1ltcmhsNUtfbXhJbUxIcmpXMEpDeGhiYUk1a1A0MFlIT3hXb1V0TFl0TEhpRzZlZHVkRGdVajRoXy1tNWg0NS1XN2otS3Q2VmlTQlYyaGtyN0RhXy1zQVJGcWNaTTVUSXFsSEFfZlpSelpRRk0?oc=5",
-   "strip": "manga_cand_0704_1222_5.png",
-   "caption": "AIが現場に入る、という話。世界的な流れらしい。うちでも画像での判別や記録の整理にはAIを使っている。ただ、現場で効いているのは派手なところではない。\n\nAIを入れて一番変わったのは、判断を人に頼らなくなったことだ。前は僕がいないと決まらない場面が多かった。今はパートさんが同じ基準で動ける。属人性が下がると、9〜14時の約5時間で回して土日を休んでも畑は止まらない。\n\nただ順番があると思っている。AIを入れてから省人化するのではなく、先に作業を分解して、誰がやっても同じ結果になる形にしておく。そこにAIが乗って初めて楽になる。仕事の形が整理されていないままAIだけ足しても、結局その判断を読み解く人がまた要る。道具を新しくするより先に、仕事の組み立て方を直すほうが現場では効く。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 24,
-   "gpass": false,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.097
    }
   }
  ]

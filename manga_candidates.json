@@ -1,6 +1,160 @@
 {
  "items": [
   {
+   "id": "0720_0940_3",
+   "news_title": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
+   "source": "フーズチャネル",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fOFR4Mjdfd1ppNG5oUmZlb1dzNHdpYVNLV0ozMXcxa1k3NkpFNGp3TGNCbWg4MmJFRk5IV3ZFLURndGFXS2w2R1l3QXVCQlZnbmd3S3NB?oc=5",
+   "strip": "manga_cand_0720_0940_3.png",
+   "caption": "SHIFT AIが愛知県蒲郡市で、農業者向けのChatGPT活用講義を開いたそうです。AIの会社が農家に直接使い方を教えに来る時代になったんですね。同じ愛知の話なので、少し身近に感じました。\n\n僕は野菜を年間100トン出荷していますが、働くのは朝9時から14時までの約5時間で、土日は休みです。この働き方を支えている道具のひとつがAIで、畑で迷ったことをその場でスマホに聞く、という使い方をしています。調べ物や書類仕事の時間が減るだけで、一日の負担はずいぶん変わります。\n\nただ、講義を受ければ農業が楽になるかというと、順番が逆な気がしています。先に「どの作業をやめたいか」「どの時間を空けたいか」を自分で決めて、そこにAIを当てる。目的がないまま使い方だけ覚えると、触って終わりになりやすい。講義は最初のきっかけとして受けて、翌日から毎日の道具にできるかどうかが本番だと思っています。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.091
+   }
+  },
+  {
+   "id": "0720_0940_6",
+   "news_title": "県が新興と連携プロジェクト 農業のイノベーション創出へ ３年間で社会実装４件（中部経済新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQURPejItTUgzRFRoSWhVMTA1elFTLW9KaFg0S0E0WFU4LVNQaVA1TDM2Tk43cUZIMTFDaU12V1FjSU1QNV9hNE8wTFVLMTNrVUpJWDR3ZTBvZklVTExLWHNxMWNKMXJYYmU1NHIxbHJwUG8ySm9XZVdDbFhjYXM?oc=5",
+   "strip": "manga_cand_0720_0940_6.png",
+   "caption": "県がスタートアップと組んで、農業のイノベーション創出を目指すプロジェクトを始めるそうです。3年間で社会実装4件が目標とのこと。\n\n僕は愛知で野菜を16年作っていて、年間100トンを朝9時から14時までの約5時間で回しています。ここまで来られたのは、新しい道具やAIを自分の畑で小さく試して、合うものだけを残すのを繰り返してきたからです。\n\nその経験から言うと、目を引くのは「実装」を最初からゴールに置いている点です。農業の新技術は、発表された数と現場に残る数がまるで違う。試験では動いたのに、朝の忙しい時間帯に使えなくて消えていくものが多いんです。実装を先に置くなら、開発の順番も変わるはずで、技術を作ってから使い手を探すのではなく、使う農家の一日の流れを先に見てから作る方が残ると思います。3年後、この4件が愛知の畑で普通に動いていたら、それは静かにすごいことです。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0765
+   }
+  },
+  {
+   "id": "0720_0940_14",
+   "news_title": "福島・飯舘村 水稲育苗施設新設へ 来春稼働、農業復興へ前進",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5bzZyYVFSczJDS3huQmg0am44RTVjZTNDUnk4YUJPR3BpaHdydTc3blhKSFlneHMtczROSEVOZTZReDlJWmtwODY4M0lpRzZ5RU1JQ0h1UQ?oc=5",
+   "strip": "manga_cand_0720_0940_14.png",
+   "caption": "本文を書きます。前回と同じニュースですが、今回は意見主役・長めの指定なので、③を厚くした新規の本文にします。\n\n---\n\n福島の飯舘村に、水稲の育苗施設が新しくできるそうです。稼働は来春。原発事故で止まっていた米づくりを村に取り戻す動きが、また一歩進みました。\n\n僕は愛知で野菜を作って16年、年間100トンを出荷しています。9時から14時までの約5時間で回せているのは、作業を一人で抱えず、パートさんと分担する仕組みを先に作ったからです。頑張り方より、仕組みの順番が先でした。\n\n復興というと、田んぼ一面に稲が実る景色を思い浮かべますが、順番は逆なんですよね。まず苗、その前に苗を育てる場所。そこを村の共同施設でまかなえれば、一軒ごとの設備投資も手間も軽くなって、「再開してみようか」の一歩がぐっと出しやすくなる。個人の気合いに頼る復興は続かないけど、共同の育苗なら続けられます。最初に建てるのが立派な直売所じゃなく育苗施設だというところに、この村の本気を感じました。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.0743
+   }
+  },
+  {
+   "id": "0720_0940_22",
+   "news_title": "女性が輝く東京農業特別支援事業 - sangyo",
+   "source": "sangyo-rodo.metro.tokyo.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXljUkhSbEtHdnI5NkI0Zk5zQ0pQZm9lSEVMZlFFcFp4NTY3UWx5TGpWWnJ1REZlN3BLekxBdmp6cU9uaUhXN1lYZ0k1UEdESVM2RFpPS0I3SmpYTzRlNDU2LXcwTmZZYW1QaUVLVUw4UnA5LXNUMWJSOEtFRmVheg?oc=5",
+   "strip": "manga_cand_0720_0940_22.png",
+   "caption": "東京都が「女性が輝く東京農業特別支援事業」という取り組みを進めているそうです。農業の現場に女性を増やしたいという流れは、全国的に強まっていると感じます。\n\n僕は愛知で野菜を16年、年間100トン出荷していますが、現場を支えてくれているのはパートさんたちです。うちは朝9時から14時までの約5時間で作業を終える形にしていて、土日も休み。この時間割なら、家の用事や子どもの予定とも両立しやすい働き方になると思っています。\n\nこういう事業を見て考えるのは、順番の話です。支援制度で人を呼び込む前に、まず農場の側が働く時間を設計し直すこと。女性が働きやすいかどうかは、制度より先に、その農場が何時に終わるかで決まる部分が大きい気がします。制度は呼び水として意味がありますが、受け皿の設計が先。そこが整っていれば、支援は何倍にも効いてくるはずです。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0968
+   }
+  },
+  {
+   "id": "0720_0940_25",
+   "news_title": "高温による病害虫の防除徹底呼び掛け 十勝地方農業気象協議会",
+   "source": "十勝毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oU2JDSTVUMnpXb0xleTFGY2JNYlRKemd3djBrMDZMUldQaWdUdnc3MXBsQ1kteWY5bXc2MjVnMzUzYUtxaDFiczM4c3VYb1laSzBtdEJ6MjNzWjdWcDlaWWdyZHc?oc=5",
+   "strip": "manga_cand_0720_0940_25.png",
+   "caption": "十勝で高温による病害虫への防除徹底の呼び掛けが出たそうです。北海道でここまで暑さの影響が話題になる時代なんですね。\n\n僕の愛知の畑でも、暑い年は虫と病気の出方が明らかに変わります。16年やってきて感じるのは、防除で差がつくのは薬の種類より「気づく早さ」だということ。出てから叩くのと、出始めに抑えるのとでは、その後の手間がまるで違います。\n\nだから僕は、防除の徹底＝散布回数を増やすこと、とは考えていません。順番が逆で、まず毎日の見回りを落とさない仕組みを作る方が先だと思っています。うちが9時から14時の約5時間で回しているのも、疲れ切った目では畑の小さな変化を見逃してしまうから。人に余裕があるほど発見が早くなり、結果として防除は軽く済む。見慣れない症状は、その場でスマホでAIに聞いて当たりをつけることもあります。呼び掛けの本丸は「もっと撒け」ではなく「もっと早く見つけろ」なんだろうと受け止めています。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "weather",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0719
+   }
+  },
+  {
+   "id": "0720_0940_27",
+   "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
+   "source": "三菱UFJリサーチ&コンサルティング",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5",
+   "strip": "manga_cand_0720_0940_27.png",
+   "caption": "自治体が農業に参入する企業や農業法人を積極的に誘致する時代になったそうです。\n\n僕は愛知で野菜農家を16年やっていて、パートさん中心の会社型で年間100トンを出荷しています。朝9時から昼過ぎまでの約5時間で現場を回して、土日は休み。個人の頑張りに頼るのではなく、会社として続く形を作ってきました。\n\nだから企業の参入自体は自然な流れだと感じます。ただ現場を見てきて思うのは、成否を分けるのは土地や補助金の条件よりも、働く人が続けられる職場かどうかだということ。農業は作物より先に人が定着しないと、技術も段取りも積み上がっていきません。\n\n自治体が用意すべきなのは農地の斡旋だけではなく、そこで働く人の雇用と暮らしが成り立つ条件のほうだと思います。企業を呼ぶ前に、働きたくなる農業の形をその地域で見せられるか。順番はたぶんそちらが先です。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1659
+   }
+  },
+  {
+   "id": "0720_0940_10",
+   "news_title": "地域の課題 解決策ひらめいた 富山・中央農高生実践 野菜など販売",
+   "source": "中日新聞Web",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ETlBEOGZxeW0waFdDWU83QUpTRHRSODVsVDhXbjhINXFIMHBjdlNEalNXTF90OTIyQjZhMnE1MVZENzVfeWNsY2VmSy0yVGloSnpBMw?oc=5",
+   "strip": "manga_cand_0720_0940_10.png",
+   "caption": "（ナレッジ3件はこのセッションのサンドボックス制限で開けませんでしたが、該当ルールはプロンプト内の【厳守】＝肥料の言い切り禁止・AI装飾禁止・運用の推測創作禁止と同内容のため、それに厳密に沿って書いています）\n\n富山の農業高校生が、地域の課題を見つけて、その解決策として野菜の販売などを実践したそうです。\n\nいいなと思ったのは、栽培から入っていないところです。先に「地域は何に困っているか」を見て、そこから作るもの、売り方を考えている。この順番は、大人の農家でもなかなかできません。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は逆でした。まず作りたいものを作って、それからどう売るかを悩む。うまく回り始めたのは、売り先と働き方を先に決めて、栽培をそこに合わせるようになってからです。今は年間100トンを、朝9時から14時までの約5時間で出荷しています。\n\n農業の勉強というと技術の話になりがちですが、技術は現場に立てば後からいくらでも身につきます。先に身につけるべきは、課題から逆算するこの順番の方だと僕は思っています。高校生のうちにそれを座学でなく実践で学べているのは、正直うらやましいです。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "sales",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0809
+   }
+  },
+  {
    "id": "0719_0936_10",
    "news_title": "“聞く農” 都会の企業人材が地方で農業支援に活躍？",
    "source": "日本農業新聞",
@@ -89,28 +243,6 @@
    }
   },
   {
-   "id": "0718_0939_19",
-   "news_title": "農業農村整備で知事会 十分な別枠予算求める",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoN3RBeTF4WWxSU2U0QUp4QjNsNW9VWndTOGlXMmpCVjBfa1ktRVlUT25UZW9TSFBxZHBaSTdFNUJROWxXUWxaREVDTDBlLXpHZWtPT1A4SQ?oc=5",
-   "strip": "manga_cand_0718_0939_19.png",
-   "caption": "農業農村整備の予算について、知事会が十分な別枠を求めたそうです。地味な話題に見えますが、水路や農道や排水の整備は、現場からすると毎日の作業時間にそのまま響く部分です。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちが朝9時から14時の約5時間で回せているのは、頑張って急いでいるからではなく、作業しやすい環境を先に整えているからです。畑までの道が悪い、雨のあと水がなかなか抜けない、そういう状態のままでは、どれだけ人が頑張っても時間は縮まりません。\n\n農業の議論は「担い手を増やす」「若者を呼ぶ」といった人の話から始まりがちですが、順番は逆だと思っています。人が来てから環境を整えるのではなく、働きやすい環境が先にあるから人が続く。うちのパートさんが長く働いてくれているのも同じ理屈です。基盤整備の予算は派手さがないぶん後回しにされやすいですが、後回しにされやすいものほど、現場の時間を決めているように感じます。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 31,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.0925
-   }
-  },
-  {
    "id": "0718_0939_25",
    "news_title": "社説：農福連携 「つなぎ役」の育成図れ",
    "source": "秋田魁新報電子版",
@@ -130,28 +262,6 @@
     "n_face": 2,
     "n_hand": 3,
     "body_edge_density": 0.0311
-   }
-  },
-  {
-   "id": "0718_0939_18",
-   "news_title": "サバナケット県における参加型農業振興プロジェクト",
-   "source": "jica.go.jp",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maXo5MEc5MEUtNTNNZ00yR3VzV0swczM5VXhId3VnOFNXZUdjWnZkUGNnZVhqYXV3SVZSRkUwbWFuaUxzQzZpSnRpRVdSUUY3R2IxYnRR?oc=5",
-   "strip": "manga_cand_0718_0939_18.png",
-   "caption": "ラオスのサバナケット県で、JICAの参加型農業振興プロジェクトが動いているそうです。技術を一方的に教えるのではなく、現地の農家自身が計画づくりに関わる形だと理解しています。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちは朝9時から14時の約5時間で回して、土日は休み。パートさん中心の体制ですが、これを続けてこられた理由のひとつは、作業のやり方をこちらが全部決めないことだと思っています。段取りのどこが不便かはパートさんが一番よく知っていて、そこから出てくる提案で現場が変わることは珍しくありません。\n\n支援でも経営改善でも、正しいやり方を先に渡す順番で考えがちです。でも現場を見ていると、人は教わったことより、自分で決めたことのほうを続けます。だから順番は逆で、まず決める場に入ってもらう。技術はその後のほうが定着する。参加型という言葉は海外支援の文脈に見えて、日本の農家の雇用や家族経営にも、そのまま当てはまる話だと感じます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0707
    }
   },
   {
@@ -221,113 +331,47 @@
    }
   },
   {
-   "id": "0717_0943_9",
-   "news_title": "【2025年グルメ総決算】みんなが夢中になった食トレンドTOP10発表🍜✨の写真（10）",
-   "source": "emogram",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxdkZScXd1aFg1VURIVENCRi1XaVV6X2VPZjhieURvR0VMT2ZUUkhSNGdOaDItS0Jpc2JkNWoyQldHX0ZrLVRLVjREOUNyRzFLSFJJUGVOZw?oc=5",
-   "strip": "manga_cand_0717_0943_9.png",
-   "caption": "本文を書く前に関連ナレッジのファイルを探しましたが、この作業ディレクトリには見つかりませんでした（要点は依頼文の厳守ルールに反映済みと判断して進めます）。以下が投稿本文です。\n\n2025年のグルメトレンドTOP10が出ていました。毎年この時期に振り返ると、去年あれだけ話題だったものを結構忘れていることに気づきます。\n\n僕は愛知で野菜を16年作っていますが、産地側から見るとトレンドの景色は少し違います。作付けは半年から一年前に決めるので、流行を知ってから植えても、畑が追いつく頃には世間は次に移っていることが多い。流行に寄せて品目を増やした年ほど、作業が散らかって現場が疲れた記憶があります。\n\nそれで気づいたのは、入れ替わっているのは料理の側で、その下にある野菜は案外いつもの顔ぶれだということです。TOP10の中身が毎年変わっても、使われる素材は定番が多い。だからうちは、流行を追う前にまず定番を安定させる順番にしています。年間100トンを9時から14時の約5時間で回せているのも、品目を欲張らず、パートさんが迷わない段取りに絞ったからで、余力ができて初めて新しいものを試せる。トレンドは追いかけるものではなく、土台ができた人が乗れるものだと思っています。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "market",
+   "id": "0718_0939_19",
+   "news_title": "農業農村整備で知事会 十分な別枠予算求める",
+   "source": "日本農業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoN3RBeTF4WWxSU2U0QUp4QjNsNW9VWndTOGlXMmpCVjBfa1ktRVlUT25UZW9TSFBxZHBaSTdFNUJROWxXUWxaREVDTDBlLXpHZWtPT1A4SQ?oc=5",
+   "strip": "manga_cand_0718_0939_19.png",
+   "caption": "農業農村整備の予算について、知事会が十分な別枠を求めたそうです。地味な話題に見えますが、水路や農道や排水の整備は、現場からすると毎日の作業時間にそのまま響く部分です。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちが朝9時から14時の約5時間で回せているのは、頑張って急いでいるからではなく、作業しやすい環境を先に整えているからです。畑までの道が悪い、雨のあと水がなかなか抜けない、そういう状態のままでは、どれだけ人が頑張っても時間は縮まりません。\n\n農業の議論は「担い手を増やす」「若者を呼ぶ」といった人の話から始まりがちですが、順番は逆だと思っています。人が来てから環境を整えるのではなく、働きやすい環境が先にあるから人が続く。うちのパートさんが長く働いてくれているのも同じ理屈です。基盤整備の予算は派手さがないぶん後回しにされやすいですが、後回しにされやすいものほど、現場の時間を決めているように感じます。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
    "emotions": [],
-   "structure": "kyokan",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
    "taste": 31,
    "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.149
-   }
-  },
-  {
-   "id": "0717_0943_1",
-   "news_title": "AIによる世界の食と農への影響―食料システムに潜む新たな格差（松平尚也） - エキスパート",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNazZHbE8zLThaeS1zM1YybkczRVVIRUlPV01CZ1dJNHE1ZnVlRzhVWVN1MVI5NVE3N29IMnlKbjYxczRaTWtjbHNJTjR4RjJ4ZnZPTk5rUGd6SzJwYmxsbzk5a0tuTlJ4LXFEdm1CdFM4UGxnLUM1VUluUnh0YXhjX21odUtnUzBx?oc=5",
-   "strip": "manga_cand_0717_0943_1.png",
-   "caption": "AIが世界の食と農を変える一方で、使いこなせる側とそうでない側の格差が広がるかもしれない、という記事を読みました。大規模な農場や企業ほど恩恵を受けやすい、という指摘です。\n\n僕は愛知で16年野菜を作ってきましたが、うちは決して大きな経営ではありません。それでも年間100トンを出荷して、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。その段取りを支えている道具のひとつがスマホのAIです。高い設備を入れたわけではなく、ポケットにある物から始めました。\n\nだから僕は、格差の線は規模で引かれるとは限らないと思っています。順番で言えば、大きな投資の前に、まず手元のスマホで調べ物や段取りの相談をAIに任せてみる。そこで浮いた時間が、次の一手を考える余裕になる。小さい農家ほど、この順番の方が先に効いてくるんじゃないかと感じています。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": 30,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0689
-   }
-  },
-  {
-   "id": "0717_0943_31",
-   "news_title": "【PR TIMES 広告・マーケティング 広告・マーケティング】農業スタートアップ初の上場から、 異業種M&Aの決断へ",
-   "source": "茨城新聞クロスアイ",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUFdrNGc4aUhEUXNlZjBtQm03UXkzSVA1d0FIMmZlbnJkZzlWSHJsbWdNbGgxUWstZ201Q2ZHQ3Bya2lGSERIZnRtN1FoYVV2S2ZNWXhzRHdCRUMyQXdWekZqU3M3ODJ3Z2VXVl9PaFM2U2pEc1p2Vg?oc=5",
-   "strip": "manga_cand_0717_0943_31.png",
-   "caption": "知識ファイル3件は現在のパスでは読めませんでしたが（memory配下に存在せず）、その要点（有機肥料の言い回し・AI装飾禁止・運用の推測禁止）は今回の指示文の【厳守】に明記されているので、それに厳密に沿って書きました。\n\n農業スタートアップとして初めて上場した会社が、異業種とのM&Aを決めたというニュース。農業の会社が「売る」「組む」という経営の選択肢を持てる時代になったんだなと思います。\n\n僕は愛知で野菜農家を16年やっていて、年間100tを9時から14時の約5時間で回していますが、ここまで来て感じるのは、農業の価値は畑や技術そのものより「その人がいなくても回る仕組み」にあるということです。パートさん中心の体制にしたのも、僕の体力や勘に依存した経営は、続けることも誰かに渡すこともできないと気づいたからでした。\n\nM&Aと聞くと農家には縁遠い話に聞こえますが、順番は逆だと思っています。譲れる形に整えることは、譲るためではなく、まず自分が楽になるために効く。属人性を外した農業は日々の労働時間が減り、休みが取れ、その結果として売れる・組めるという選択肢が後からついてくる。出口の話は、結局は現場の働き方の話なのだと感じています。\n\n#農業経営 #ホワイト農業\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 0,
-    "body_edge_density": 0.0828
-   }
-  },
-  {
-   "id": "0717_0943_36",
-   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9venRmem0wY3ptejR1TkFHUERqbGdlWTV0SmFxcjlnN3ZoTnR3ZW1OUWs2TkVUclc1TGN2QTdNOWhHUWtOblc5NGViMmprSk9PQlBZTFB6M2hlRDQwcDJrUFJ4NmNURXloYXc?oc=5",
-   "strip": "manga_cand_0717_0943_36.png",
-   "caption": "ナレッジファイルは参照先に実体がなく開けませんでしたが、禁止事項（肥料の言い切り禁止・運用の創作禁止・固有名詞禁止・AI装飾禁止）はファイル名と依頼文の厳守項目で内容が一致しているため、それに従って作成しました。以下が本文です。\n\nデリッシュキッチンが上半期の食トレンドランキングと下半期の予測を発表していた。レシピサイトが流行を先回りして示す時代になったんだなと思う。\n\n僕は愛知で野菜を16年作っていて、年間100tを朝9時から14時の約5時間で出荷している。この立場から見ると、トレンドと畑の時間軸はなかなか合わない。種をまくのは流行が話題になる何か月も前で、ランキングを見てから動いても、収穫の頃には世間は次に移っている。話題になった品目に作り手が集中して、値が下がるのも見てきた。\n\nだから僕は、トレンドは「何を作るか」ではなく「どう売るか」に使うものだと考えている。畑の主力は需要の安定した定番に置いて、流行は見せ方や届け方のヒントにする。順番としては、流行に合わせて作るのではなく、いま作っているものを流行の言葉で説明し直す。これなら予測が外れても経営は揺れないし、当たれば売り方に活かせる。農家がランキングを読む価値は、たぶんそこにある気がする。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.0956
+    "n_hand": 1,
+    "body_edge_density": 0.0925
    }
   },
   {
-   "id": "0716_0942_3",
-   "news_title": "【3農家限定】AIは使えている。でも、現場で活きていない。農家AI伴走支援の無料モニター募集を開始",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CWmZnbGR5dGJyU2NLNGp1MmZLSWZGd0M5YmtsTjJXZlFrZm8xeHRmSkdaT1QwRGt2bG5VMVcwUEp1Q3V1Q3RLS1BQajlScGtzMGN2b0JpVHNZdVFoQ0x0WG8tQUpNczJUa1E?oc=5",
-   "strip": "manga_cand_0716_0942_3.png",
-   "caption": "「AIは使えている。でも、現場で活きていない」。そんな農家向けに、AIの使い方を隣で支える伴走支援の無料モニター募集が始まったそうです。3農家限定とのこと。\n\nこの言葉には心当たりがあります。僕は愛知で野菜を16年つくっていて、年間100トンほど出荷。仕事は朝9時から14時までの約5時間です。この働き方にAIはずいぶん貢献してくれていますが、最初から使いこなせていたわけではありません。迷ったらとりあえず聞く、を繰り返すうちに手放せなくなった、という順番でした。道具がどれだけ賢くても、畑の何をどう聞けばいいかが分からないと、結局開かなくなるんですよね。\n\nだから、学ぶ順番が逆なのかもしれません。使い方を一通り学んでから畑に持ち込むのではなく、目の前の畑の悩みをそのまま一言ぶつけるところから始める。講座で一般論を仕入れるより、自分の悩みで練習した方が身につくと感じています。伴走支援が効くとしたら、知識を教えてくれるからではなく、その最初の一言を隣で引き出してくれるからだと思います。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "ai",
+   "id": "0718_0939_18",
+   "news_title": "サバナケット県における参加型農業振興プロジェクト",
+   "source": "jica.go.jp",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maXo5MEc5MEUtNTNNZ00yR3VzV0swczM5VXhId3VnOFNXZUdjWnZkUGNnZVhqYXV3SVZSRkUwbWFuaUxzQzZpSnRpRVdSUUY3R2IxYnRR?oc=5",
+   "strip": "manga_cand_0718_0939_18.png",
+   "caption": "ラオスのサバナケット県で、JICAの参加型農業振興プロジェクトが動いているそうです。技術を一方的に教えるのではなく、現地の農家自身が計画づくりに関わる形だと理解しています。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちは朝9時から14時の約5時間で回して、土日は休み。パートさん中心の体制ですが、これを続けてこられた理由のひとつは、作業のやり方をこちらが全部決めないことだと思っています。段取りのどこが不便かはパートさんが一番よく知っていて、そこから出てくる提案で現場が変わることは珍しくありません。\n\n支援でも経営改善でも、正しいやり方を先に渡す順番で考えがちです。でも現場を見ていると、人は教わったことより、自分で決めたことのほうを続けます。だから順番は逆で、まず決める場に入ってもらう。技術はその後のほうが定着する。参加型という言葉は海外支援の文脈に見えて、日本の農家の雇用や家族経営にも、そのまま当てはまる話だと感じます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "policy",
    "emotions": [],
-   "structure": "kyokan",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 33,
+   "structure": "henka",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 29,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 3,
     "n_hand": 2,
-    "body_edge_density": null
+    "body_edge_density": 0.0707
    }
   },
   {
@@ -548,43 +592,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.041
-   }
-  },
-  {
-   "id": "0712_1741_16",
-   "news_title": "2026年の食のトレンドは「Swicy」！アジア最大級の食品・飲料展「FOODEX JAPAN」が発表した3つのキーワード",
-   "source": "ウォーカープラス",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HcVhYRk85dXh4YURib2VFdzV4VVNUaFNweWFEY2M2U2NnY0VzUWczckNQWVpGdDJuZWt2S3hnMUtkbjBwWllXRVU4X2I4UktUUmJUaEt30gFbQVVfeXFMUGhjdUk1bkJYZGtKYWZkdGhXazlGaEs4Y2paM2ZGSjhGVTVrUzdLVF82bUFsOFl3bW9vNElIVHktNGJuSHdGWWZTM0k3SlprWi1VVjNWN3U0c2cxcw?oc=5",
-   "strip": "manga_cand_0712_1741_16.png",
-   "caption": "FOODEXが2026年の食のトレンドに「Swicy（甘さと辛さの掛け合わせ）」を挙げたそうだ。三つのキーワードの一つらしい。\n\n僕は野菜を作る側だから、こういう発表を見ると、まず「うちの畑の何がそこに乗れるだろう」と考える癖がある。甘みのある野菜も、辛みのある野菜も、畑にはもともとある。新しく作るというより、組み合わせを見つける話だと感じる。\n\nただ、現場にいて思うのは、トレンドを追いかけて品種を切り替えるのは案外こわい、ということだ。話題になった頃に植えても、収穫できるのは数ヶ月先で、その時には熱が冷めていることも多い。僕は年100tを朝9時から14時の半日で回している。パートさん中心の会社型だから、段取りを一度崩すと全体が重くなる。だから流行そのものには飛びつかない。\n\nむしろ順番が逆だと思っている。流行に合わせて畑を変えるのではなく、いつも通り育てた野菜の中に、たまたまその年の空気と合うものがあれば乗る。トレンドは狙って作るものではなく、こちらの都合が整った時に、そっと重なってくれるものくらいに構えている方が、畑は長く続く。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 28,
-   "gpass": true,
-   "status": "posted"
-  },
-  {
-   "id": "0704_1222_11",
-   "news_title": "ブロッコリー指定野菜化で激変する食卓と2026年最新食トレンド",
-   "source": "Forbes JAPAN",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZMzBkcXBsTlBMMnhNVGEwMmVEdkpPOGN0d2s5MlFJMGNXaFpldWVFSXlMWG11Q3JmN0N5d0l3Y3B6ODlrODYzN2lXeFhvcVU0S1NrTHA0SzdpQQ?oc=5",
-   "strip": "manga_cand_0704_1222_11.png",
-   "caption": "ブロッコリーが指定野菜に加わるという話、いよいよ主役級の扱いになってきたんだなと思って見ています。国が特定の品目を後押しするというのは、それだけ食卓での定番になったということでもあります。\n\n僕は愛知で16年野菜を作っていますが、こういう「格上げ」のニュースが出ると、周りの農家はすぐ作付けを増やそうとします。ただ、みんなが同じ方向を向いた瞬間に相場は動くので、指定野菜になったから安泰、とは僕は考えていません。\n\n現場でむしろ効くのは、栽培そのものより回し方のほうです。うちは9時から14時の約5時間で、パートさん中心に年間100tを出しています。トレンドで需要が伸びる品目ほど、収穫と出荷が一時期に集中して人が足りなくなる。だから僕が先に整えるのは畑ではなく、誰がいつ動くかという段取りのほうなんです。\n\n流行を追うと畑を増やしたくなりますが、順番は逆で、増やせる体制があるかどうかが先。人が無理なく回る範囲を超えて品目を追いかけると、トレンドに乗ったつもりで自分の休みが消えていきます。乗るかどうかより、乗っても土日が守れるか。僕はそこで決めています。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 29,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 3,
-    "body_edge_density": 0.0753
    }
   }
  ]

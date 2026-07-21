@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "id": "0721_0936_30",
+   "news_title": "8/3 定量×定性で読み解く「食」トレンドの現在地と未来 ― 生活者の「潜在ニーズ」と「欲望の変化」から導く“次のヒットの兆し”",
+   "source": "クロス・マーケティング",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WmlUMFdId2NCLW1rMnF4ZHdwZFlqenczOXZKZC1CRF9wVFdiNzB5OGdNaHpDUEY5X19PSVhLMEZtM3ZydU5KTzVwUnZlSVdJam5mbQ?oc=5",
+   "strip": "manga_cand_0721_0936_30.png",
+   "caption": "「食」のトレンドを、生活者の潜在ニーズや欲望の変化から読み解く、という話。データで次のヒットの兆しを探す取り組みは、素直に面白いと思う。\n\nうちは愛知で野菜を16年、年間100tを9時から14時の5時間で回している。パートさん中心の会社型で、土日は休む。作っているのは正直、派手なトレンド野菜ではない。定番の品目を、切らさず安定して出すことを続けてきた。\n\nトレンドの話を聞くと、次に何が来るかを当てにいきたくなる。ただ現場でずっと感じているのは、当てにいった品目より、毎年同じものを同じ品質で出し続けた品目のほうが、結局は長く必要とされるということ。ヒットの兆しは、新しい欲望の中だけにあるわけではなくて、飽きられずに残っているものの中にもあると思っている。\n\n欲望の変化を読むのと同じくらい、変わらない需要を切らさない力を、僕は現場で大事にしたい。順番でいうと、次を当てにいく前に、今出しているものを崩さないことが先にある気がしている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1225
+   }
+  },
+  {
+   "id": "0721_0936_10",
+   "news_title": "農業経営士協会県西支部活動研究会が行われました。",
+   "source": "pref.ibaraki.jp",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjdPOG1DLVNYajdWVWlhYTM5VGpoRkxGRUZPekE3WFJyOHA1emYzME9Tb2Y4aGFJanhRVktITUxXV2VvaGtXbkZJbHJXcDduTmIyNlRuU0JPbmRrN2hITjlzRWZMWXQ0SGhpcDNGNTNLZk9fcGdsb1ZUbEJjVVBYOUxadTFQWDFrV2dWdnNUY1haNnZtZUtFNHZHS3A?oc=5",
+   "strip": "manga_cand_0721_0936_10.png",
+   "caption": "本文だけ返します。\n\n茨城で、農業経営士協会の県西支部が活動研究会を開いたそうです。経営を学んだ農家さんが集まって、これからのやり方を話し合う場ですね。\n\n農業って、意外と一人仕事です。畑で黙々と動いて、答えも自分で探すことが多い。僕も愛知で16年やってきて、9時から14時の半日で年100トンを回すやり方は、ほとんど自分で試して覚えたものでした。\n\nただ最近思うのは、一人で抱えた工夫って、案外もろいということです。うまくいっている時は気づかないけれど、天候が崩れたり品目を変えたりした瞬間、自分の経験だけでは足りなくなる。そういう時、他の農家さんが別の畑で出した答えは、そのまま効く保険になります。\n\n僕はパートさん中心の会社型でやっているので、自分が現場を離れても回る仕組みは作ってきました。でも、仕組みの外にある知恵は、やっぱり人と話さないと入ってこない。\n\n順番として、まず一人で試して型を作る。そのうえで、外の農家さんの話で型を疑う。この二段階が要るんだと、こういう研究会の記事を見て改めて思いました。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0462
+   }
+  },
+  {
+   "id": "0721_0936_16",
+   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
+   "source": "city.fukaya.saitama.jp",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
+   "strip": "manga_cand_0721_0936_16.png",
+   "caption": "物価高騰に対応する地方創生臨時交付金を使って、深谷市が農業者を支援するという話。資材や燃料の値上がり分を、自治体が交付金でまかなう仕組みだと理解している。\n\n農業の現場だと、肥料も燃料も箱代も、ここ数年でじわじわ上がってきた。同じ量を作っても、出ていくお金は増える。うちのように人を雇ってやっていると、その分は経営にそのまま効いてくる。\n\nこの手の交付金は、国から都道府県、市町村と下りてきて、最後に農家自身の申請で受け取る形が多い。だから同じ名前の制度でも、住んでいる自治体によって対象や金額、申請の期限が変わってくる。深谷市のように市の名前で出ているものは、その市の農業者向けの案内だと受け止める人が多いと思う。\n\n自分の地域ではどういう扱いになっているのか、市の農政窓口や広報で確認する。現場ではそんな形で関わってくる制度だと受け止めている。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0717
+   }
+  },
+  {
    "id": "0720_0940_3",
    "news_title": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
    "source": "フーズチャネル",
@@ -277,57 +343,13 @@
    "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
    "taste": 29,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0907
-   }
-  },
-  {
-   "id": "0717_0943_17",
-   "news_title": "課題解決をチャットで！「AgriweB（アグリウェブ）」が創る、農業経営者と専門家をシームレスに繋ぐ新たな形「経営アシストチャット」",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MY0l4aHlLX3ZkaWxqZGF3QW1qN2laaEtzYmVrMHdTNFdfY1QtU2M3bUI2UW8zdkZYTTBjdjRBQXlod0lRWC0tQ01yaHZCemJXWnBzLTdLVHpZcTczRFBYel9zbHN4cTNyNHc?oc=5",
-   "strip": "manga_cand_0717_0943_17.png",
-   "caption": "農業情報サイトのアグリウェブが、経営の困りごとをチャットで専門家に相談できる「経営アシストチャット」を始めたそうです。栽培技術ではなく経営の相談窓口、というところが新しいと思います。\n\n僕も現場で迷ったら、まずスマホでAIに聞きます。調べものはこれでだいぶ片付く。ただ補助金や税務、雇用みたいな話は一般論だけでは判断できなくて、最後は人の専門家に確認したくなる。AIと専門家は競合ではなく役割分担だと感じています。\n\n農家がつまずくのは、技術より先に経営のことが多い気がします。栽培は仲間に聞けるのに、お金の話は誰にも聞けないまま抱え込む。僕が9時から14時の仕事で回せているのも、栽培の腕より先に経営の組み立てを考えてきたからで、相談する順番は技術より経営が先だと思っています。相談のハードルがチャット一本まで下がるなら、その順番に気づく農家が増えるはずです。\n\n#AI農業 #農業経営\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "smart",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.0953
-   }
-  },
-  {
-   "id": "0717_0943_32",
-   "news_title": "農作物の強風・ひょう害報告 十勝地方農業気象協議会",
-   "source": "47NEWS",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04b2hoRi1tU3NkaEdSY3d6RkNzVDdiZXA4d3VBM25MWEVyemlYbjdCY3FfdGp2Um93RkxIZnh3enc1elUwaW5TN21yNA?oc=5",
-   "strip": "manga_cand_0717_0943_32.png",
-   "caption": "十勝で農作物の強風とひょうの被害が報告されたというニュース。被害に遭われた農家さんのことを思うと、他人事ではいられません。\n\n僕は愛知で野菜を16年作っていますが、台風や大雨で畑の景色が一晩で変わる経験は何度かしてきました。天気そのものは防ぎようがなくて、どれだけ準備しても当たる年は当たります。\n\nただ16年やって思うのは、災害への備えというと防風ネットや施設の話になりがちですが、先に効くのは経営側の余白だということです。うちは9時から14時の約5時間で年間100tを回していますが、この働き方の利点は普段が楽なことだけではなく、何かあった時に立て直しへ動ける時間と体力が残っていることだと感じます。毎日ぎりぎりで回す経営は、被害そのものより、その後の復旧で消耗していく。被害をゼロにする農業は作れませんが、被害の後に動ける農業なら設計できます。順番としては、災害に強い設備より先に、崩れた時に立て直せる余白を作るほうが先だと僕は思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "weather",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": 0.0976
    }
   },
   {
@@ -570,28 +592,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0675
-   }
-  },
-  {
-   "id": "0712_1741_3",
-   "news_title": "バンセオ村の105世帯が、スマート農業と災害対応スキルに関する研修を受けた。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWp5VjluT2gzZndfWkIzamdPQS02aGtlalUyaVRkQl95dlcycHhYQU1ROUZseUZSLXhrWTNZQzJSNjVOTnVFZS1FNUNzZTNTcnNYbTFXeUF4SmtxekUxajIxWFJ6ZVlyUUlvcUlfS0xTR3kwQ0ZWVzc0S01RLVYtNWY5VFNaUl9jOTZQcHZSQXBhX094VjNOX2FPbHRsQnFDUXJjVTBTR1p0TW9RRnVqRmgyRQ?oc=5",
-   "strip": "manga_cand_0712_1741_3.png",
-   "caption": "ベトナムのバンセオ村で、105世帯がまとめてスマート農業と災害対応の研修を受けたそうだ。\n\n新しい技術と、災害への備え。この二つが一緒になっているのが、僕には引っかかった。\n\nスマート農業というと、収量を上げるとか効率を上げるという話に寄りがちだ。でも実際に現場をやっていると、農業でいちばん怖いのは、うまくいっている時ではなく、天候や病気で流れが一気に崩れる時だ。\n\n僕は年100tを、朝9時から14時の半日で回している。パートさん中心の会社型でやっているから、誰か一人の勘に頼る作り方はしていない。だからこそ、想定外が起きた時にどう動くかを決めておくことが、平常時の効率よりずっと大事になる。\n\n順番でいうと、スマート化が先で災害対応が後、ではないと思う。むしろ崩れた時にどう立て直すかの型があって、その上に技術を乗せるから、技術が本当に効いてくる。\n\n村ぐるみで、攻めと守りの両方を最初に学ぶ。この順番は、規模の大小に関係なく正しいと感じた。\n\n#スマート農業 #AI農業\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "smart",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": 23,
-   "gpass": false,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.041
    }
   }
  ]

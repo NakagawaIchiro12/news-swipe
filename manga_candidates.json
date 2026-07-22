@@ -1,6 +1,94 @@
 {
  "items": [
   {
+   "id": "0722_0935_21",
+   "news_title": "農業経営人材の育成に向けた官民協議会",
+   "source": "maff.go.jp",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T3JYbFhJOWVoaVNneTV1VmEycHQteFNoWHN1SkxqR2VSSThyOE5NbHFMdTkyN0M4S1RUSGd0M0dScDBncHVoODAtQzh0SXJwTG9rX2dneXViOE1idlJXdQ?oc=5",
+   "strip": "manga_cand_0722_0935_21.png",
+   "caption": "国が、農業経営を担う人材を育てるために官民の協議会を立ち上げるらしい。\n\n人を育てるという話は、いい方向だと思う。ただ現場にいると、順番が逆になりがちだと感じる。\n\n僕は野菜農家を16年やってきて、いまは年間100トンを、9時から14時の約5時間で回している。土日は休む。動かしているのは僕一人ではなく、パートさんたちだ。\n\nはじめから経営がわかる人を探そうとすると、たいてい見つからない。そうではなく、普通の人が普通に働けて、続けられる仕組みを先に作る。人はそのあとから育つ、というのが僕の実感だ。\n\n長い時間、休みなく働くことが前提の農業では、どれだけ研修をしても人は残らない。半日で終わって、土曜も日曜も家にいられる。まずそこを整えるほうが、経営人材の育成よりずっと手前で効いてくると思っている。\n\n育てる前に、続けられる形にする。順番はそっちが先だと感じている。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0812
+   }
+  },
+  {
+   "id": "0722_0935_9",
+   "news_title": "北海道・十勝AI農業、国家戦略特区の指定に前進 「宇宙特区」も",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBOThpLUNJYXpSYUg1SmF2M3ZNNnI2cXctRzdoOU5WdVIzWVYyUU9ReHdWcnZQQXUyclNkQVFiRVdzVFh0WTRXdWQyYUtZR0EzVV9wRUt2RGF3WDdNVHhzbF9nRzZjZHNTNDlyYg?oc=5",
+   "strip": "manga_cand_0722_0935_9.png",
+   "caption": "十勝がAI農業で国家戦略特区に前進、宇宙特区という言葉まで出ていた。\n\n響きは大きいけれど、僕の現場での実感は少し違うところにある。\n\n僕も毎日AIを使って野菜を作っている。病気の見分けや作業の段取りを相談するだけで、頭がずいぶん軽くなる。ただ効いているのは、特区みたいな大きな仕組みより、スマホで一つ聞くだけの小さな習慣のほうだ。\n\n特区や宇宙と聞くと、どうしても遠い誰かの話に感じてしまう農家さんは多いと思う。設備も制度も、たしかにあれば強い。でも本当に現場を動かすのは、その手前にある「まず一回さわってみる」の一歩な気がしている。\n\n僕は順番が逆なんじゃないかと思う。大きな枠組みを先に整えるより、目の前の一人が今日スマホでAIに一つ聞けること。そっちのほうが、たぶん早く効いてくる。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 31,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 4,
+    "n_hand": 1,
+    "body_edge_density": 0.1339
+   }
+  },
+  {
+   "id": "0722_0935_29",
+   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9venRmem0wY3ptejR1TkFHUERqbGdlWTV0SmFxcjlnN3ZoTnR3ZW1OUWs2TkVUclc1TGN2QTdNOWhHUWtOblc5NGViMmprSk9PQlBZTFB6M2hlRDQwcDJrUFJ4NmNURXloYXc?oc=5",
+   "strip": "manga_cand_0722_0935_29.png",
+   "caption": "デリッシュキッチンが2026年上半期の食トレンドランキングと、下半期の予測を発表したそうだ。\n\nこういうランキングを見ると、農家としてはつい「次に売れる作物はどれか」を探したくなる。ただ16年やってきて思うのは、トレンドを見てから作付けを変えると、たいてい出遅れるということだ。畑は種をまいてから収穫まで時間がかかる。今バズっている品目に合わせて動き出しても、棚に並ぶ頃には流行の山を越えていることが多い。\n\n僕は愛知で野菜を年間100トン、朝の半日で回している。土日は休むし、現場はパートさん中心だ。この回し方でできるのは、流行りに次々乗り換えることではなく、決めた作物を切らさず安定して出し続けることだと感じている。\n\nだから順番が逆だと思っている。トレンドに合わせて作物を選ぶのではなく、いつ来ても同じ品質のものが棚にある状態を先に作っておく。そのうえで来た波に乗るくらいがちょうどいい。流行は消費者の入口を広げてくれるが、農家の側がそこにころころ振り回されると、結局どれも中途半端になる。追いかけるより、待てる形を作っておくほうが強いと思う。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 3,
+    "body_edge_density": 0.0905
+   }
+  },
+  {
+   "id": "0722_0935_22",
+   "news_title": "静岡で農業をはじめる人を応援します（新規就農支援策のご紹介）",
+   "source": "pref.shizuoka.jp",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtaXFhYV96WlZ5TlhxNFF2eXM4Znp3dkdUWnQyWWl6WGNSLVEtOXJ6Z3Y4NWFGTGpFNGwxVm9GcTJxYkpYWGJSMlFqOFJLYWtLNVcwMFhTMlM5OTdGRG1nRk1VUFAzeVk3LXhFRnlzRUJ4WnNENll6SA?oc=5",
+   "strip": "manga_cand_0722_0935_22.png",
+   "caption": "静岡が、新しく農業を始める人を支援するという。資金や農地、研修先を紹介する内容だ。\n\n僕は愛知で野菜を16年作っている。年間100トンを、パートさんたちと会社のかたちで回している。始めるための支援はありがたい。ただ現場で見ていると、新規就農でつまずくのは、始めた後のほうが多い。\n\n多くの人が、一人で朝から晩まで働いて畑を広げようとする。それで体を壊すか、家族との時間を失うかで、続かなくなる。僕は逆にした。先に働き方を決めたんです。9時から14時まで、土日は休み、人に任せられる仕組みを先に作った。売上を伸ばすのは、その後だと考えている。\n\n始めることより、続けられる形をどう先に組むか。支援でお金や土地が手に入っても、働き方の設計まで一緒に考えないと、せっかく入った人が数年で抜けていく。順番を逆にしないこと。新しく入る人には、そこを一番に見てほしいと感じている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1373
+   }
+  },
+  {
    "id": "0721_0936_30",
    "news_title": "8/3 定量×定性で読み解く「食」トレンドの現在地と未来 ― 生活者の「潜在ニーズ」と「欲望の変化」から導く“次のヒットの兆し”",
    "source": "クロス・マーケティング",
@@ -240,94 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.1176
-   }
-  },
-  {
-   "id": "0719_0936_22",
-   "news_title": "令和8年度 農業経営資質向上講習会のご案内",
-   "source": "city.uruma.lg.jp",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lRGZQS2cwbDRiTEhicS1wbXpIOFVHWDRiYkIteExFcm81ejJpM1VWQXJPSXg1MDlhTENCVVEyMkI5dXFlMVB4MERmMnFvbW1pOTUxNFYtUkNaZkRLRllGek05LUdVaTdKMndqYWxB?oc=5",
-   "strip": "manga_cand_0719_0936_22.png",
-   "caption": "うるま市が、令和8年度の農業経営資質向上講習会をひらくそうです。育て方ではなく、経営そのものを学ぶ会ですね。沖縄でこういう講習が用意されるのは、いい流れだと感じます。\n\n地味な内容に見えますが、僕はここが農家の分かれ道だと思っています。作物を上手に作れる人はたくさんいます。でも、同じ収穫でも手元に残るお金は人によって大きく変わる。その差を生むのが経営の目です。\n\n僕は年に100トンを、朝9時から昼過ぎまでの半日で回しています。パートさんと一緒に、なるべく短い時間で。これができているのは、腕を磨く前に段取りとお金の流れを見てきたからです。\n\n順番の話をします。多くの人は、まず作る技術を上げて、余裕ができたら経営を学ぼうと考えます。でも僕は逆だと思っています。経営の型が先にあると、どの技術に時間とお金をかけるべきかが決まる。だから技術の伸びも速くなる。\n\n作る勉強会はよく見かけますが、経営を教える会は本当に貴重です。畑に追われて、こういう学びを後回しにしていないか。若い人ほど、早いうちに触れてほしいと思っています。\n\n#AI農業 #農業経営\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0986
-   }
-  },
-  {
-   "id": "0719_0936_4",
-   "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53TmxsSTR2OEp3Y3FGbVJuQXYwdVlOa01SZzU3ZGVUMTljRm1pSVlOY042TFFrblF6OG5qa3dPSU1hWHF0NWRXSjNCUGtydVFyRjk4S1lpaVYxOGFqeVZtbFo3WmJMeWJsUUE?oc=5",
-   "strip": "manga_cand_0719_0936_4.png",
-   "caption": "住友商事とNTTのドローン会社が、国産の農業用ドローンを広めるためにマーケティングで手を組んだそうです。売り方の面で連携して、値段や導入のしやすさを農家に届けたいというねらいだと思います。\n\n愛知で野菜を16年やってきて、新しい道具は性能そのものより「現場に馴染むか」で残るかどうかが決まると感じています。うちはパートさん中心で回しているので、誰が触っても同じ結果になること、困ったときにすぐ相談できることが、実は性能表よりずっと効いてきます。\n\n僕は今ドローンは飛ばしていませんが、もし入れるとしたら機体選びは一番最後にします。先に決めたいのは「どの作業のどこがしんどいか」。道具を買ってから使い道を探すと、たいてい持て余して物置に置きっぱなしになる。困りごとを言葉にするのが地味だけど先で、機体はその後からついてくる。国産で相談しやすい窓口が増えるのは、この順番を踏みやすくなるという意味でありがたい話だと思っています。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "drone",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1026
-   }
-  },
-  {
-   "id": "0718_0939_11",
-   "news_title": "農業と環境に関する10の法律を改正する：地方分権化は事後検査と統一基準と結び付けられなければならない。",
-   "source": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaGZGOXl0cGNIcjZPRDg4RWZEdS1LTFZfaXg2MGlDYlZCcWNCaHlWNm1SeG5VUW45QkFlS2pNZFFPdGFkbVE2bWtiTUpWVE9EUXZNb0xJbWNLbHNkRGtsMHE4UHNVbEd4NDZMYUVTMURaeFRQT3pjWVA3b0JyNGFaVnZkRElndDc4ZF9WTFdBOWluTlFpVkU3TFRoN2o4dW5md21BZmxybXFmUXNKX0piNzFJaXQ3d2tFNnc?oc=5",
-   "strip": "manga_cand_0718_0939_11.png",
-   "caption": "ベトナムで、農業と環境に関する10本の法律をまとめて改正する動きが報じられています。権限を地方に移す際は、事後検査と全国統一の基準をセットにすべきだ、という議論がされているそうです。\n\n海外の話ですが、構図は身近です。日本の農家も、農地の手続きや認定農業者の申請は市町村、農薬や食品表示のルールは国と、相手が分かれていて、普段から両方と関わりながら仕事をしています。\n\n地方に任せると地域の実情に合わせた運用がしやすくなる。一方で、基準が地域ごとにばらつくと、複数の産地から仕入れる流通側や、輸出を視野に入れる生産者は確認することが増える。今回の「分権に事後検査と統一基準を結び付ける」という論点は、その両面を踏まえたものと受け止められているようです。\n\nこうした制度改正で現場に最初に影響が出るのは、書類と窓口です。僕も16年やってきて、制度が変わるたびにまず変わったのはそこでした。だから中身がどう決まるかより先に、手続きがどう変わるかを見る農家さんは多い気がします。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 1,
-    "body_edge_density": 0.0445
-   }
-  },
-  {
-   "id": "0718_0939_25",
-   "news_title": "社説：農福連携 「つなぎ役」の育成図れ",
-   "source": "秋田魁新報電子版",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXQ0l6WG10ei1RX1RQMkZXeWNON2lkQnpmS21RSW1WWlV1Wm5nVG5icVJIR3g0a05uTUd3X0RXc3BNX1Bma0YyREJmeS04RGk0UGZINXBuQ2xEc0IydkRsUnpB?oc=5",
-   "strip": "manga_cand_0718_0939_25.png",
-   "caption": "ナレッジファイルは本セッションでは権限外でしたが、指示文に集約されたルール（肥料の言い切り禁止・運用の推測創作禁止・AI装飾禁止・USP固定）に沿って作成しました。以下、本文です。\n\n---\n\n農福連携の社説を読みました。農家と福祉施設をつなぐ「つなぎ役」の育成が課題になっているそうです。\n\n僕は愛知で16年野菜を作っていて、年間100トンをパートさん中心の体制で出しています。いろんな人と一緒に働いてきて感じるのは、人が仕事に合うかどうかは、本人の能力より仕事の切り分け方で決まる場面が多いということです。ひとつの作業を誰でも迷わず進められる単位まで分けておくと、初めての人でも力を発揮してくれます。逆に、切り分けが曖昧なままだと、意欲のある人が来てもうまくいきません。\n\nだから、つなぎ役の育成と同じくらい、受け入れる農場側の準備が問われるんだと思います。人に合わせて仕事を設計し直せる農場は、福祉の人材に限らず誰にとっても働きやすい。うちが9時から14時の約5時間で回して土日を休めているのも、その積み重ねの結果です。農福連携は福祉のための取り組みと語られがちですが、順番は逆で、まず農業側が仕事を整えること。それが結果的に農場自身を強くするのだと感じています。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": 30,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.0311
    }
   },
   {

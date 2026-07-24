@@ -1,6 +1,94 @@
 {
  "items": [
   {
+   "id": "0724_0936_5",
+   "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53TmxsSTR2OEp3Y3FGbVJuQXYwdVlOa01SZzU3ZGVUMTljRm1pSVlOY042TFFrblF6OG5qa3dPSU1hWHF0NWRXSjNCUGtydVFyRjk4S1lpaVYxOGFqeVZtbFo3WmJMeWJsUUE?oc=5",
+   "strip": "manga_cand_0724_0936_5.png",
+   "caption": "住友商事とNTTの会社が組んで、国産の農業用ドローンを広めていくそうです。空から薬をまいたり、畑の様子を見たりする機械ですね。国産という点は、部品や修理で困りにくいという意味で、現場では地味に大きいと思います。\n\n僕は愛知で野菜農家を16年。朝9時から14時までの半日で、少ない人数で畑を回しています。上から一気に見たりまける道具は、本音を言えばほしいです。\n\nただ、道具を入れる前に、いつも順番を考えます。新しい機械を足すより先に、いまの作業のムダを削るほうが、たいてい効きます。ドローンが本当に楽にするのは、人がやると時間ばかりかかる一部の工程だけで、細かい場所は結局この足で歩くことになります。\n\nだから僕は、派手さで判断しません。うちの畑のどの作業を、何分ぶん肩代わりしてくれるのか。そこがはっきりして初めて、道具は仲間になります。国産で身近になるなら、そういう目で一度試してみたいと思っています。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "drone",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0966
+   }
+  },
+  {
+   "id": "0724_0936_7",
+   "news_title": "マゼックス、同時遠隔自動操縦オペレーション技術をもつエアロネクストと次世代AI農業ドローンの社会実装に向け業務提携",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSWplUENfM0JkVWJVZjh5aTc1blRfTmtZbFZrRWxHOGFkMUFCYXZZMFdub05jNHRzUUpuQVo3eWN5RFVYQjJLRmU0ZjNnSURKbjV2ZllHei1MMVFma1c2RmtrdHM5clpyMGc?oc=5",
+   "strip": "manga_cand_0724_0936_7.png",
+   "caption": "マゼックスとエアロネクストが、AI農業ドローンの社会実装で提携したというニュース。一人が複数機を遠隔で回すという方向性は、たぶんこれから当たり前になっていくと思う。\n\n僕の農場でもAIは現場で使っているけれど、導入して一番効いたのは「作業そのものを速くすること」ではなかった。ドローンにしろAIにしろ、新しい道具はどうしても「人の手を機械に置き換える」話として語られがちだけど、実際に効くのはもう少し手前だ。\n\nうちは9時から14時、だいたい5時間の労働で年間100tを出荷して、土日は休んでいる。これができているのは、機械が人の代わりに働くからというより、機械で「判断や段取りのばらつき」を減らせたからだと思っている。誰がやっても同じ結果に近づくと、パートさん中心でも回るし、無理な残業も消える。\n\nだから新しい農業ドローンを見るときも、僕はまず「これで何時間短くなるか」より「これで現場の判断がどれだけ揃うか」を見る。速さは結果としてあとからついてくる。順番が逆だと、たぶん道具に振り回されて終わる。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "drone",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 33,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0779
+   }
+  },
+  {
+   "id": "0724_0936_9",
+   "news_title": "米国人、福島で桃農家に挑戦中 感動のおいしさ…YouTubeで世界発信（日本農業新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT2lJR2d2LUxlQTdYUFQ1WlVVY1FSY3JQRzl1ZEZMOEM0NVo0RnRZUDl1MklDQ0JUdC00R0pXX1JlcmE1U3VjVGp5WG1QTDZucm5EQ2xSQXNSdEVDbmRGX0xWRGlvMVdHX3ZSVk9FZjF1VDdtaGhqTFZJcUVLdTA?oc=5",
+   "strip": "manga_cand_0724_0936_9.png",
+   "caption": "アメリカの方が福島で桃づくりに挑戦して、その味をYouTubeで世界に発信しているという記事を読みました。外から来た人が本気でやると、産地の当たり前が言葉になって伝わるのは面白いなと思います。\n\n僕は愛知で16年野菜をやってきて、栽培の腕そのものより「誰に届けるか」を先に決めるほうが結局は効いてきた実感があります。同じ桃でも、売り先と伝え方が変わればまるで別の作物みたいに評価される。技術を上げてから売り先を探すより、届け方を決めてから逆算して育てるほうが、無理なく回る。\n\n農業は「いいものを作れば売れる」と教わりがちだけど、順番はむしろ逆で、売り方が決まると作り方の答えが見えてくる。海外発信も同じで、うまいから広まったというより、広める前提で作りに向き合ったからうまさが際立ったんじゃないかと思います。\n\n僕は9時から14時の5時間で回して土日は休む形でやっていますが、こういう外からの挑戦者を見ると、産地の側こそ自分の当たり前を疑い直す余地がまだあるなと感じます。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1289
+   }
+  },
+  {
+   "id": "0724_0936_19",
+   "news_title": "［社説］農業知財の海外流出を防げ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSWFKaVVmVndiNmF2Q0U1RWdjSVdhZ3lMNF85MW03aTBkd0ZENngyYXVvRGxFZ3ZPSzFjbEpXRmVHXzZIeEd3V0N2allzMzhYc0dsZVFqWnNjY3V3eGREQkQxQ1FHMmw4emNvYw?oc=5",
+   "strip": "manga_cand_0724_0936_19.png",
+   "caption": "農業知財の海外流出を防げ、という社説を読んだ。品種をつくった人の努力が、勝手に持ち出されて海外で増やされるのはやっぱりおかしいし、守る仕組みは大事だと思う。\n\nただ、現場で16年やってきて感じるのは、守りだけでは足りないということ。品種という「モノ」は流出を止められても、それをどの土地で、どう育てて、どう売って、どう人を回すか、という運用のかたまりまでは簡単にコピーされない。僕の畑は9時から14時、5時間ほどの労働で、パートさん中心に年間100tを出しています。種だけ持ち出しても、この回し方までは再現できないはずです。\n\nだから順番としては、まず品種を守る。そのうえで、日本の農家が知財を活かして稼げる仕組みや、現場の運用ノウハウを、外へ流れるより先に自分たちで積み上げていく。守りと攻めは、たぶん別々の話ではなくて、同じ一つのものの両側なんだと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0714
+   }
+  },
+  {
    "id": "0723_0936_26",
    "news_title": "子ども食堂に玄米2.7トンを寄付 農業法人こぴっとに県が感謝状 山梨（2026年7月22日掲載）｜YBS NEWS NNN",
    "source": "日テレNEWS NNN",
@@ -240,94 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0462
-   }
-  },
-  {
-   "id": "0721_0936_16",
-   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
-   "source": "city.fukaya.saitama.jp",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
-   "strip": "manga_cand_0721_0936_16.png",
-   "caption": "物価高騰に対応する地方創生臨時交付金を使って、深谷市が農業者を支援するという話。資材や燃料の値上がり分を、自治体が交付金でまかなう仕組みだと理解している。\n\n農業の現場だと、肥料も燃料も箱代も、ここ数年でじわじわ上がってきた。同じ量を作っても、出ていくお金は増える。うちのように人を雇ってやっていると、その分は経営にそのまま効いてくる。\n\nこの手の交付金は、国から都道府県、市町村と下りてきて、最後に農家自身の申請で受け取る形が多い。だから同じ名前の制度でも、住んでいる自治体によって対象や金額、申請の期限が変わってくる。深谷市のように市の名前で出ているものは、その市の農業者向けの案内だと受け止める人が多いと思う。\n\n自分の地域ではどういう扱いになっているのか、市の農政窓口や広報で確認する。現場ではそんな形で関わってくる制度だと受け止めている。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0717
-   }
-  },
-  {
-   "id": "0720_0940_3",
-   "news_title": "SHIFT AI、愛知県蒲郡市にて農業従事者向けのChatGPT活用講義を開催",
-   "source": "フーズチャネル",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fOFR4Mjdfd1ppNG5oUmZlb1dzNHdpYVNLV0ozMXcxa1k3NkpFNGp3TGNCbWg4MmJFRk5IV3ZFLURndGFXS2w2R1l3QXVCQlZnbmd3S3NB?oc=5",
-   "strip": "manga_cand_0720_0940_3.png",
-   "caption": "SHIFT AIが愛知県蒲郡市で、農業者向けのChatGPT活用講義を開いたそうです。AIの会社が農家に直接使い方を教えに来る時代になったんですね。同じ愛知の話なので、少し身近に感じました。\n\n僕は野菜を年間100トン出荷していますが、働くのは朝9時から14時までの約5時間で、土日は休みです。この働き方を支えている道具のひとつがAIで、畑で迷ったことをその場でスマホに聞く、という使い方をしています。調べ物や書類仕事の時間が減るだけで、一日の負担はずいぶん変わります。\n\nただ、講義を受ければ農業が楽になるかというと、順番が逆な気がしています。先に「どの作業をやめたいか」「どの時間を空けたいか」を自分で決めて、そこにAIを当てる。目的がないまま使い方だけ覚えると、触って終わりになりやすい。講義は最初のきっかけとして受けて、翌日から毎日の道具にできるかどうかが本番だと思っています。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.091
-   }
-  },
-  {
-   "id": "0720_0940_6",
-   "news_title": "県が新興と連携プロジェクト 農業のイノベーション創出へ ３年間で社会実装４件（中部経済新聞）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jQURPejItTUgzRFRoSWhVMTA1elFTLW9KaFg0S0E0WFU4LVNQaVA1TDM2Tk43cUZIMTFDaU12V1FjSU1QNV9hNE8wTFVLMTNrVUpJWDR3ZTBvZklVTExLWHNxMWNKMXJYYmU1NHIxbHJwUG8ySm9XZVdDbFhjYXM?oc=5",
-   "strip": "manga_cand_0720_0940_6.png",
-   "caption": "県がスタートアップと組んで、農業のイノベーション創出を目指すプロジェクトを始めるそうです。3年間で社会実装4件が目標とのこと。\n\n僕は愛知で野菜を16年作っていて、年間100トンを朝9時から14時までの約5時間で回しています。ここまで来られたのは、新しい道具やAIを自分の畑で小さく試して、合うものだけを残すのを繰り返してきたからです。\n\nその経験から言うと、目を引くのは「実装」を最初からゴールに置いている点です。農業の新技術は、発表された数と現場に残る数がまるで違う。試験では動いたのに、朝の忙しい時間帯に使えなくて消えていくものが多いんです。実装を先に置くなら、開発の順番も変わるはずで、技術を作ってから使い手を探すのではなく、使う農家の一日の流れを先に見てから作る方が残ると思います。3年後、この4件が愛知の畑で普通に動いていたら、それは静かにすごいことです。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0765
-   }
-  },
-  {
-   "id": "0720_0940_14",
-   "news_title": "福島・飯舘村 水稲育苗施設新設へ 来春稼働、農業復興へ前進",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5bzZyYVFSczJDS3huQmg0am44RTVjZTNDUnk4YUJPR3BpaHdydTc3blhKSFlneHMtczROSEVOZTZReDlJWmtwODY4M0lpRzZ5RU1JQ0h1UQ?oc=5",
-   "strip": "manga_cand_0720_0940_14.png",
-   "caption": "本文を書きます。前回と同じニュースですが、今回は意見主役・長めの指定なので、③を厚くした新規の本文にします。\n\n---\n\n福島の飯舘村に、水稲の育苗施設が新しくできるそうです。稼働は来春。原発事故で止まっていた米づくりを村に取り戻す動きが、また一歩進みました。\n\n僕は愛知で野菜を作って16年、年間100トンを出荷しています。9時から14時までの約5時間で回せているのは、作業を一人で抱えず、パートさんと分担する仕組みを先に作ったからです。頑張り方より、仕組みの順番が先でした。\n\n復興というと、田んぼ一面に稲が実る景色を思い浮かべますが、順番は逆なんですよね。まず苗、その前に苗を育てる場所。そこを村の共同施設でまかなえれば、一軒ごとの設備投資も手間も軽くなって、「再開してみようか」の一歩がぐっと出しやすくなる。個人の気合いに頼る復興は続かないけど、共同の育苗なら続けられます。最初に建てるのが立派な直売所じゃなく育苗施設だというところに、この村の本気を感じました。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.0743
    }
   },
   {

@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0725_0936_31",
+   "news_title": "R8中予農業応援ボランティアについて",
+   "source": "pref.ehime.jp",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1NDB1b3VJc3JvSnNacFJzSGN2SldPWWNBY0IxOXVKVVdWWkxFQ0FsYVJtUmlkUWNlTkhGNENoc25KZ1hBeXZkLU5HQzRNRTBib1ktZlhYOFhvVXpI?oc=5",
+   "strip": "manga_cand_0725_0936_31.png",
+   "caption": "愛媛県が、中予地域で農業を手伝うボランティアの募集を出していた。人手が足りない農家と、手伝いたい人をつなぐ取り組みだ。\n\nこういう仕組みが必要になるくらい、人が集まらない現場が増えているんだと思う。実際、募集をかけても応募が来ないという話はよく聞く。\n\nただ、僕が思うのは、人手が足りないのは人口の問題だけじゃないということだ。\n\n僕の畑は9時から14時まで、土日は休み。パートさんが中心で回している。この時間にしてから、人が辞めなくなった。朝5時集合で夕方まで、雨の日も炎天下も、という条件だと、来てくれる人は限られる。募集の窓口を広げる前に、働き方のほうを先に変える必要がある気がしている。\n\nボランティアは、繁忙期の山を越えるには助かる。でも毎年同じ山が来るなら、それは一時的な応援でどうにかする話ではなくて、作付けや段取りの側を組み直す話になる。\n\n人を集めてから仕組みを整えるんじゃなくて、仕組みを整えてから人を呼ぶ。順番が逆になると、来てくれた人がまた離れていく。\n\n#AI農業 #野菜農家\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.0907
+   }
+  },
+  {
    "id": "0724_0936_5",
    "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
    "source": "PR TIMES",
@@ -287,28 +309,6 @@
    }
   },
   {
-   "id": "0721_0936_30",
-   "news_title": "8/3 定量×定性で読み解く「食」トレンドの現在地と未来 ― 生活者の「潜在ニーズ」と「欲望の変化」から導く“次のヒットの兆し”",
-   "source": "クロス・マーケティング",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WmlUMFdId2NCLW1rMnF4ZHdwZFlqenczOXZKZC1CRF9wVFdiNzB5OGdNaHpDUEY5X19PSVhLMEZtM3ZydU5KTzVwUnZlSVdJam5mbQ?oc=5",
-   "strip": "manga_cand_0721_0936_30.png",
-   "caption": "「食」のトレンドを、生活者の潜在ニーズや欲望の変化から読み解く、という話。データで次のヒットの兆しを探す取り組みは、素直に面白いと思う。\n\nうちは愛知で野菜を16年、年間100tを9時から14時の5時間で回している。パートさん中心の会社型で、土日は休む。作っているのは正直、派手なトレンド野菜ではない。定番の品目を、切らさず安定して出すことを続けてきた。\n\nトレンドの話を聞くと、次に何が来るかを当てにいきたくなる。ただ現場でずっと感じているのは、当てにいった品目より、毎年同じものを同じ品質で出し続けた品目のほうが、結局は長く必要とされるということ。ヒットの兆しは、新しい欲望の中だけにあるわけではなくて、飽きられずに残っているものの中にもあると思っている。\n\n欲望の変化を読むのと同じくらい、変わらない需要を切らさない力を、僕は現場で大事にしたい。順番でいうと、次を当てにいく前に、今出しているものを崩さないことが先にある気がしている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1225
-   }
-  },
-  {
    "id": "0721_0936_10",
    "news_title": "農業経営士協会県西支部活動研究会が行われました。",
    "source": "pref.ibaraki.jp",
@@ -328,6 +328,28 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0462
+   }
+  },
+  {
+   "id": "0721_0936_30",
+   "news_title": "8/3 定量×定性で読み解く「食」トレンドの現在地と未来 ― 生活者の「潜在ニーズ」と「欲望の変化」から導く“次のヒットの兆し”",
+   "source": "クロス・マーケティング",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WmlUMFdId2NCLW1rMnF4ZHdwZFlqenczOXZKZC1CRF9wVFdiNzB5OGdNaHpDUEY5X19PSVhLMEZtM3ZydU5KTzVwUnZlSVdJam5mbQ?oc=5",
+   "strip": "manga_cand_0721_0936_30.png",
+   "caption": "「食」のトレンドを、生活者の潜在ニーズや欲望の変化から読み解く、という話。データで次のヒットの兆しを探す取り組みは、素直に面白いと思う。\n\nうちは愛知で野菜を16年、年間100tを9時から14時の5時間で回している。パートさん中心の会社型で、土日は休む。作っているのは正直、派手なトレンド野菜ではない。定番の品目を、切らさず安定して出すことを続けてきた。\n\nトレンドの話を聞くと、次に何が来るかを当てにいきたくなる。ただ現場でずっと感じているのは、当てにいった品目より、毎年同じものを同じ品質で出し続けた品目のほうが、結局は長く必要とされるということ。ヒットの兆しは、新しい欲望の中だけにあるわけではなくて、飽きられずに残っているものの中にもあると思っている。\n\n欲望の変化を読むのと同じくらい、変わらない需要を切らさない力を、僕は現場で大事にしたい。順番でいうと、次を当てにいく前に、今出しているものを崩さないことが先にある気がしている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 28,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1225
    }
   },
   {
@@ -570,28 +592,6 @@
     "n_face": 2,
     "n_hand": 4,
     "body_edge_density": 0.075
-   }
-  },
-  {
-   "id": "0712_1741_11",
-   "news_title": "＜画像1 / 6＞2025年の“食”のトレンドは？東京ビッグサイトで「FOODEX JAPAN 2025」が開催",
-   "source": "ウォーカープラス",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wUEYyTXVlak1tQXZHb1VBM1NoVGRNd2l6bDN1bUxkTTlpelp4TUZuY2NCSVVBUnZsdWNCc0F0SXFoTVJsSEZYRE9nYkhIbU5JeklrRC1HT18yZkVlOU1JNndTNjNxLVRKbnJUSGl3?oc=5",
-   "strip": "manga_cand_0712_1741_11.png",
-   "caption": "FOODEX JAPAN 2025が始まったそうだ。その年の食のトレンドが分かる、大きな展示会だと聞く。\n\n新しい味や売り方が並ぶのは、作る側としても見ていて面白い。\n\nただ、僕はトレンドを追いかけて品目をころころ変える、ということはあまりしない。\n\n畑は、決めた作物を安定して出し続けられて初めて回るからだ。流行に合わせて毎年変えていると、栽培も人の段取りも崩れて、結局どれも中途半端になりやすい。\n\n僕は年100tを、朝9時から14時の半日で、パートさん中心で回している。これが成り立つのは、作るものと段取りが決まっていて、現場が迷わないからだ。\n\nトレンド自体は、消費者がいま何を求めているかの話として、僕もよく見ている。でも現場で先に効くのは、流行を追う速さより、同じものを崩さず出し続ける力のほうだと感じている。\n\n新しさは、その土台ができた上に、少しずつ乗せていくくらいがちょうどいいと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 25,
-   "gpass": false,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0675
    }
   }
  ]

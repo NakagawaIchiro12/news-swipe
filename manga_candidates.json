@@ -1,25 +1,25 @@
 {
  "items": [
   {
-   "id": "0725_0936_31",
-   "news_title": "R8中予農業応援ボランティアについて",
-   "source": "pref.ehime.jp",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1NDB1b3VJc3JvSnNacFJzSGN2SldPWWNBY0IxOXVKVVdWWkxFQ0FsYVJtUmlkUWNlTkhGNENoc25KZ1hBeXZkLU5HQzRNRTBib1ktZlhYOFhvVXpI?oc=5",
-   "strip": "manga_cand_0725_0936_31.png",
-   "caption": "愛媛県が、中予地域で農業を手伝うボランティアの募集を出していた。人手が足りない農家と、手伝いたい人をつなぐ取り組みだ。\n\nこういう仕組みが必要になるくらい、人が集まらない現場が増えているんだと思う。実際、募集をかけても応募が来ないという話はよく聞く。\n\nただ、僕が思うのは、人手が足りないのは人口の問題だけじゃないということだ。\n\n僕の畑は9時から14時まで、土日は休み。パートさんが中心で回している。この時間にしてから、人が辞めなくなった。朝5時集合で夕方まで、雨の日も炎天下も、という条件だと、来てくれる人は限られる。募集の窓口を広げる前に、働き方のほうを先に変える必要がある気がしている。\n\nボランティアは、繁忙期の山を越えるには助かる。でも毎年同じ山が来るなら、それは一時的な応援でどうにかする話ではなくて、作付けや段取りの側を組み直す話になる。\n\n人を集めてから仕組みを整えるんじゃなくて、仕組みを整えてから人を呼ぶ。順番が逆になると、来てくれた人がまた離れていく。\n\n#AI農業 #野菜農家\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "id": "0726_0937_28",
+   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
+   "source": "city.fukaya.saitama.jp",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
+   "strip": "manga_cand_0726_0937_28.png",
+   "caption": "埼玉県深谷市が、物価高騰対応重点支援地方創生臨時交付金を活用した農業者向けの支援について案内を出しています。\n\nこの交付金は、国から自治体に配られたお金を、その地域の実情に合わせて使える仕組みです。だから中身は市町村ごとに違います。肥料や燃料の値上がり分に対して出るところもあれば、対象品目や規模で線が引かれるところもある。深谷市の場合も、市の案内に条件が書かれています。\n\n僕は愛知で野菜を作って16年になりますが、この手の支援は、内容を確認するタイミングがけっこう大事です。申請期間が決まっていて、書類も揃える必要があるので、知ったときには締め切りが近い、ということが起こります。\n\n現場では、こういう情報はJAや普及所の人から聞く人、市の広報で気づく人、周りの農家から回ってくる人と、入り口がばらばらです。同じ市内でも知っている人と知らない人がいる、というのはよくあります。\n\n支援があるかどうかより、自分の市はどうなっているかを一度見に行くほうが早い。制度そのものは全国共通でも、使われ方は地元の窓口で決まっています。\n\n普段どう回しているかは、固定ポストにまとめています。",
    "topic": "policy",
    "emotions": [],
-   "structure": "kishoten",
-   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "structure": "taiken",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
    "taste": null,
    "gpass": true,
    "status": "pending",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.0907
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0706
    }
   },
   {
@@ -309,6 +309,28 @@
    }
   },
   {
+   "id": "0725_0936_31",
+   "news_title": "R8中予農業応援ボランティアについて",
+   "source": "pref.ehime.jp",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1NDB1b3VJc3JvSnNacFJzSGN2SldPWWNBY0IxOXVKVVdWWkxFQ0FsYVJtUmlkUWNlTkhGNENoc25KZ1hBeXZkLU5HQzRNRTBib1ktZlhYOFhvVXpI?oc=5",
+   "strip": "manga_cand_0725_0936_31.png",
+   "caption": "愛媛県が、中予地域で農業を手伝うボランティアの募集を出していた。人手が足りない農家と、手伝いたい人をつなぐ取り組みだ。\n\nこういう仕組みが必要になるくらい、人が集まらない現場が増えているんだと思う。実際、募集をかけても応募が来ないという話はよく聞く。\n\nただ、僕が思うのは、人手が足りないのは人口の問題だけじゃないということだ。\n\n僕の畑は9時から14時まで、土日は休み。パートさんが中心で回している。この時間にしてから、人が辞めなくなった。朝5時集合で夕方まで、雨の日も炎天下も、という条件だと、来てくれる人は限られる。募集の窓口を広げる前に、働き方のほうを先に変える必要がある気がしている。\n\nボランティアは、繁忙期の山を越えるには助かる。でも毎年同じ山が来るなら、それは一時的な応援でどうにかする話ではなくて、作付けや段取りの側を組み直す話になる。\n\n人を集めてから仕組みを整えるんじゃなくて、仕組みを整えてから人を呼ぶ。順番が逆になると、来てくれた人がまた離れていく。\n\n#AI農業 #野菜農家\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.0907
+   }
+  },
+  {
    "id": "0721_0936_10",
    "news_title": "農業経営士協会県西支部活動研究会が行われました。",
    "source": "pref.ibaraki.jp",
@@ -321,7 +343,7 @@
    "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
    "taste": 27,
    "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
@@ -548,50 +570,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.1233
-   }
-  },
-  {
-   "id": "0714_0936_37",
-   "news_title": "夏の相棒「そうめん」も“生”がトレンド？モチモチ食感がクセに 個性豊かなアレンジ術も【Nスタ】",
-   "source": "TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ydzk4VzFzM0hSSDRFWHNvNURhR0VHbkdDYXc4cHFKbmMzYXU2N2tyQnJ0VGN1cXY2ZllkSmhiQ1RjS1NjTjNGaVVXZWZ4WXdsOWt3TUE4WQ?oc=5",
-   "strip": "manga_cand_0714_0936_37.png",
-   "caption": "生そうめんがトレンドで、モチモチ食感がクセになるらしい。乾麺のそうめんは、もともと保存のために乾かした加工品だ。それを生に戻すというのは、新しいというより、素材そのものに近づけた話なんだと思う。\n\n僕は野菜を16年作っていて、鮮度が食感を左右するのは毎日感じている。採ってすぐの野菜と、少し時間が経ったものは、噛んだ瞬間から別物だ。だから生麺のモチモチが受ける理由は、なんとなく想像がつく。\n\n面白いのは、消費者が求めているのが「新しい商品」ではなく「元の状態」だという順番だと思う。加工の技術が進んで、いろんなことができるようになった先で、行き着く先が加工していない生の食感というのは、逆走しているようで筋が通っている。\n\n僕は量を回す農業をしているから、つい効率や日持ちの方に頭がいきがちだ。でも売れているものを見ると、結局は素材の状態をどう崩さず届けるか、そこに戻ってくる。生そうめんのモチモチは、その順番を思い出させてくれる話だと感じた。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 28,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0951
-   }
-  },
-  {
-   "id": "0712_1741_6",
-   "news_title": "AI活用は事務作業が主流！農業現場での実態調査が明らかに",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrS0lDeEJyUWhOb2FRSXVGN0NIUnFSRjFEclR4RDYwV0NIOUpmQVZSYzVLQ1lXa1NhMFVVbG5LaXVzZWlZcDlqQjN5WlZramdlNkx4c3dhcVhjSU9ud2dQcTZCTTZQTEhNNDQydHh0RFZ5bHlBQzdVRVY5OTVMSjA?oc=5",
-   "strip": "manga_cand_0712_1741_6.png",
-   "caption": "AI活用は事務作業が主流、という調査結果は現場感覚とよく合う。書類や記録の整理は誰がやっても同じ形になりやすいから、AIに任せやすい。\n\n僕も年100tを朝9時から14時の半日で回しているけれど、AIをいちばん使うのは畑ではなく、その手前の段取りや文章づくりの部分だ。パートさん中心の会社型だから、指示や記録を早く形にできると、みんなの動きが揃って現場が楽になる。\n\n栽培そのものにAIを効かせるのは、正直まだ難しい。天気も土も株ごとに違うし、写真一枚では拾えない差が畑には多すぎる。\n\nただ、そこで「農業のAIはまだ早い」と結論を急ぐのはもったいないと思う。順番として、まず事務でAIに慣れておく。その積み重ねがあるから、いざ栽培に使える道具が出てきたときに戸惑わず入れられる。派手な畑での活用より、地味な事務仕事のほうが、実は入口としてちょうどいい。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
-   "taste": 25,
-   "gpass": false,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 4,
-    "body_edge_density": 0.075
    }
   }
  ]

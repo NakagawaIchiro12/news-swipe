@@ -1,6 +1,116 @@
 {
  "items": [
   {
+   "id": "0727_0941_22",
+   "news_title": "農産物トレンド予想の裏側！マーケティングと農業の未来（オイシックス）（『農のミライ』）",
+   "source": "radiko news",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RYjRYNkNzWVZqVGRNR01RLXhPMFMwQW1HbFVuWEZjMzJMWS00dGRzT01qYUoyV1FBaWtJNkdWcVJ2bThSWVFYcXlXTXhPQzV5ZFdma1o0a1NiNnJkdFhJ0gFkQVVfeXFMT2J3dDhsdDdOTzZQaU94UjF4Z1ZxNzdpRGRNMFVSSzY1NmY4TWppMUxpRkFCbWp5THFjaGJQR0lMdEUwNTBkU2lrWU9NUXBlU0J3MWx5SmM2T0xnSTVEeUp5RVFhWQ?oc=5",
+   "strip": "manga_cand_0727_0941_22.png",
+   "caption": "農産物のトレンド予想をどう立てているのか、オイシックスのマーケティングの裏側が紹介されていました。何が求められるかを先に読み、産地と一緒に準備を進めていくやり方だそうです。\n\n僕は愛知で16年、年間100トンの野菜を出荷しています。朝9時から14時の半日労働が成り立っているのは、栽培の腕より先に「何をどれだけ作るか」の計画を固めるようになったからです。作る前に決めることを増やすほど、畑に出てからの迷いは減ります。\n\n農家はつい、作ってから売り方を考えがちです。でも順番は逆で、需要から逆算した方が畑の段取りまで軽くなる。ただ、トレンドは追いかけるものというより、定番を安定して出せる土台の上に少しだけ乗せるものだと思っています。流行の品目に作付けを寄せすぎると、外れた年の立て直しが大変になる。予想は当てるために見るのではなく、外れても困らない構えを作るために見る。マーケティングは売る側だけの仕事ではなく、作る順番を決める仕事でもあると感じています。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 34,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 4,
+    "n_hand": 1,
+    "body_edge_density": 0.1965
+   }
+  },
+  {
+   "id": "0727_0941_9",
+   "news_title": "若手農業者、経営学ぶ 津軽りんご市場企画／板柳｜青森ニュース｜Web東奥",
+   "source": "東奥日報社",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtWDhQbWtsSFVyTUE2WW1HTmc2eFkteWx0YU1ZdW90MVI2LXFKbldnbXUyZjhzTExfcXVHdF9OOEhjVWpESkE1Z2ZzY2pzRkJxTDBxLXhzbDg?oc=5",
+   "strip": "manga_cand_0727_0941_9.png",
+   "caption": "本文を作成します。ナレッジファイルは直接開けませんでしたが、必要なルール（肥料表現・AI装飾禁止・運用の推測禁止）はすべて指示に明記されているため、それに厳密に沿って書きます。\n\n青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": null
+   }
+  },
+  {
+   "id": "0727_0941_20",
+   "news_title": "鳥取県日南町に東芝パワーを　観光や農業振興に民間の知見　企画部門の社員出向受け入れ",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUng4cDJjSUdCMnE5bUlMbVk3LVM2TGlSMG9DSUdDX0NlcUtMNXVjNzJtZkw4eE1OeGQ4OWVFWUoxSjU1bWowWk9aY3NDT3JsT0ZOV2hBUW1Ub1pQanpBZ0xoaTZBcHl0eF8wTXVmcVNmMEh2ZDJlQWtqVldLZkM5OGZlc090NVot0gGOAUFVX3lxTE5qVlFzM2hvT1pNa2tUaTZmemxfMHNaY3lOeTJadDh5dGVvOV9TbHpUUW04UGRqVnQwT2VsRUlhbGZMbFRnNzB0S1FqcnFxR1FPZVo5RTFVWldtTXFQeEtSY0dHOGFpdFdmYnRqbGIwaEZZZ3I4U3ZKMFkteTlfbVVGckQ2dUV0NzlTZFExX3c?oc=5",
+   "strip": "manga_cand_0727_0941_20.png",
+   "caption": "鳥取県日南町が、東芝の企画部門の社員を出向で受け入れるそうです。観光や農業の振興に、民間の知見を生かすねらいだとか。\n\n農業の課題は、栽培の腕だけでは解決できないことが多いと感じています。売り方、人の集め方、仕事の回し方。ここは会社で企画をやってきた人の得意分野かもしれません。\n\n僕は愛知で16年、年間100トンの野菜を出荷していますが、9時から14時の約5時間で回せているのは、栽培の腕というより段取りを磨いてきたからです。AIに相談しながら仕事の組み立てを見直すのも、その延長にあります。\n\nだから外から来る企画のプロには期待しています。ただ、順番だけは大事にしてほしい。机の上で計画を作る前に、まず畑に立つこと。現場を見てから作る企画は強いですが、逆の順番だと絵に描いた餅になりやすい。地方の農業に足りないのは知見そのものより、現場と知見をつなぐ順番なのかもしれません。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0979
+   }
+  },
+  {
+   "id": "0727_0941_23",
+   "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
+   "source": "三菱UFJリサーチ&コンサルティング",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5",
+   "strip": "manga_cand_0727_0941_23.png",
+   "caption": "ナレッジファイルは権限の関係で直接開けませんでしたが、指示文の【厳守】欄に同じ内容（肥料の言い回し・AI装飾禁止・運用の推測禁止）が明記されているので、それに従って書きます。\n\n自治体が企業や農業法人を積極的に誘致する時代になったというニュースを読んだ。土地や補助金を用意してまで来てほしい産業として農業が扱われるようになったこと自体は、悪い変化ではないと思う。\n\n僕は愛知で野菜を作って16年になるけど、企業参入の話はこれまで何度も見聞きしてきた。続く所と数年で撤退する所の差は、資本の大きさよりも、現場で働く人が無理なく続けられる設計になっているかどうかにあるように見えた。\n\n誘致する側も参入する側も、まず農地と設備の話から入りがちだけど、順番は逆だと思っている。先に決めるのは働き方の方で、うちは9時から14時の約5時間で年間100tを出荷して、土日は休み、現場はパートさんが中心で回っている。この形を先に置いたから、そこに収まるやり方を選んでこられた。企業が農業に持ち込む価値があるのは資金の量より、人が辞めない働き方を設計する力で、それがある会社なら誘致は地域にとって良い話になると思う。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 0,
+    "body_edge_density": 0.1307
+   }
+  },
+  {
+   "id": "0727_0941_14",
+   "news_title": "亡き祖父の畑から「農」守る 大阪からUターン、夢は「農業のテーマパーク」 三田出身の大勢さん",
+   "source": "神戸新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pU1JfaGI5aHBINDZOa1FFNC16S18yVUxUaDlfOG9Kc21JSmZPN1dTVXg3cFBBdjZEQ3cyTHppdURWdHo4MTFOWEVUZjZqOXZvN0pzYXlQQ0JOTi1aTm5uV1FhNzMybEpEZzUydQ?oc=5",
+   "strip": "manga_cand_0727_0941_14.png",
+   "caption": "大阪からUターンして、亡くなったおじいさんの畑を継いだ方が、農業のテーマパークを夢に掲げているそうです。畑を守るだけでなく、人が集まる場所にしたいという発想がいいなと思いました。\n\n僕は愛知で野菜農家を16年やっていて、年間100トンを出荷しています。9時から14時までの約5時間で仕事を終えて、土日は休み。パートさん中心の会社型でここまで続けてきました。\n\nその経験から思うのは、順番の大切さです。夢を大きく描くほど、先に整えるべきは現場の働き方だということ。人が集まる畑にしたいなら、まずそこで働く人が無理なく続けられる形を作る。余裕のない現場のまま入り口だけ広げても、来てくれた人を受け止めきれません。逆に、現場が回っていれば、見せることも遊んでもらうことも選択肢になります。\n\n継ぐことは終わりを引き受けることではなく、始まりを選び直すことでもある。この方の夢を見て、そう感じました。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": 29,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0467
+   }
+  },
+  {
    "id": "0726_0937_28",
    "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
    "source": "city.fukaya.saitama.jp",
@@ -20,50 +130,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0706
-   }
-  },
-  {
-   "id": "0724_0936_5",
-   "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53TmxsSTR2OEp3Y3FGbVJuQXYwdVlOa01SZzU3ZGVUMTljRm1pSVlOY042TFFrblF6OG5qa3dPSU1hWHF0NWRXSjNCUGtydVFyRjk4S1lpaVYxOGFqeVZtbFo3WmJMeWJsUUE?oc=5",
-   "strip": "manga_cand_0724_0936_5.png",
-   "caption": "住友商事とNTTの会社が組んで、国産の農業用ドローンを広めていくそうです。空から薬をまいたり、畑の様子を見たりする機械ですね。国産という点は、部品や修理で困りにくいという意味で、現場では地味に大きいと思います。\n\n僕は愛知で野菜農家を16年。朝9時から14時までの半日で、少ない人数で畑を回しています。上から一気に見たりまける道具は、本音を言えばほしいです。\n\nただ、道具を入れる前に、いつも順番を考えます。新しい機械を足すより先に、いまの作業のムダを削るほうが、たいてい効きます。ドローンが本当に楽にするのは、人がやると時間ばかりかかる一部の工程だけで、細かい場所は結局この足で歩くことになります。\n\nだから僕は、派手さで判断しません。うちの畑のどの作業を、何分ぶん肩代わりしてくれるのか。そこがはっきりして初めて、道具は仲間になります。国産で身近になるなら、そういう目で一度試してみたいと思っています。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "drone",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0966
-   }
-  },
-  {
-   "id": "0724_0936_7",
-   "news_title": "マゼックス、同時遠隔自動操縦オペレーション技術をもつエアロネクストと次世代AI農業ドローンの社会実装に向け業務提携",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSWplUENfM0JkVWJVZjh5aTc1blRfTmtZbFZrRWxHOGFkMUFCYXZZMFdub05jNHRzUUpuQVo3eWN5RFVYQjJLRmU0ZjNnSURKbjV2ZllHei1MMVFma1c2RmtrdHM5clpyMGc?oc=5",
-   "strip": "manga_cand_0724_0936_7.png",
-   "caption": "マゼックスとエアロネクストが、AI農業ドローンの社会実装で提携したというニュース。一人が複数機を遠隔で回すという方向性は、たぶんこれから当たり前になっていくと思う。\n\n僕の農場でもAIは現場で使っているけれど、導入して一番効いたのは「作業そのものを速くすること」ではなかった。ドローンにしろAIにしろ、新しい道具はどうしても「人の手を機械に置き換える」話として語られがちだけど、実際に効くのはもう少し手前だ。\n\nうちは9時から14時、だいたい5時間の労働で年間100tを出荷して、土日は休んでいる。これができているのは、機械が人の代わりに働くからというより、機械で「判断や段取りのばらつき」を減らせたからだと思っている。誰がやっても同じ結果に近づくと、パートさん中心でも回るし、無理な残業も消える。\n\nだから新しい農業ドローンを見るときも、僕はまず「これで何時間短くなるか」より「これで現場の判断がどれだけ揃うか」を見る。速さは結果としてあとからついてくる。順番が逆だと、たぶん道具に振り回されて終わる。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "drone",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 33,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0779
    }
   },
   {
@@ -265,47 +331,47 @@
    }
   },
   {
-   "id": "0722_0935_29",
-   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！",
+   "id": "0724_0936_5",
+   "news_title": "住友商事とNTT e-Drone Technology、国産農業用ドローンの普及拡大に向けマーケティング連携を開始",
    "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9venRmem0wY3ptejR1TkFHUERqbGdlWTV0SmFxcjlnN3ZoTnR3ZW1OUWs2TkVUclc1TGN2QTdNOWhHUWtOblc5NGViMmprSk9PQlBZTFB6M2hlRDQwcDJrUFJ4NmNURXloYXc?oc=5",
-   "strip": "manga_cand_0722_0935_29.png",
-   "caption": "デリッシュキッチンが2026年上半期の食トレンドランキングと、下半期の予測を発表したそうだ。\n\nこういうランキングを見ると、農家としてはつい「次に売れる作物はどれか」を探したくなる。ただ16年やってきて思うのは、トレンドを見てから作付けを変えると、たいてい出遅れるということだ。畑は種をまいてから収穫まで時間がかかる。今バズっている品目に合わせて動き出しても、棚に並ぶ頃には流行の山を越えていることが多い。\n\n僕は愛知で野菜を年間100トン、朝の半日で回している。土日は休むし、現場はパートさん中心だ。この回し方でできるのは、流行りに次々乗り換えることではなく、決めた作物を切らさず安定して出し続けることだと感じている。\n\nだから順番が逆だと思っている。トレンドに合わせて作物を選ぶのではなく、いつ来ても同じ品質のものが棚にある状態を先に作っておく。そのうえで来た波に乗るくらいがちょうどいい。流行は消費者の入口を広げてくれるが、農家の側がそこにころころ振り回されると、結局どれも中途半端になる。追いかけるより、待てる形を作っておくほうが強いと思う。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "market",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53TmxsSTR2OEp3Y3FGbVJuQXYwdVlOa01SZzU3ZGVUMTljRm1pSVlOY042TFFrblF6OG5qa3dPSU1hWHF0NWRXSjNCUGtydVFyRjk4S1lpaVYxOGFqeVZtbFo3WmJMeWJsUUE?oc=5",
+   "strip": "manga_cand_0724_0936_5.png",
+   "caption": "住友商事とNTTの会社が組んで、国産の農業用ドローンを広めていくそうです。空から薬をまいたり、畑の様子を見たりする機械ですね。国産という点は、部品や修理で困りにくいという意味で、現場では地味に大きいと思います。\n\n僕は愛知で野菜農家を16年。朝9時から14時までの半日で、少ない人数で畑を回しています。上から一気に見たりまける道具は、本音を言えばほしいです。\n\nただ、道具を入れる前に、いつも順番を考えます。新しい機械を足すより先に、いまの作業のムダを削るほうが、たいてい効きます。ドローンが本当に楽にするのは、人がやると時間ばかりかかる一部の工程だけで、細かい場所は結局この足で歩くことになります。\n\nだから僕は、派手さで判断しません。うちの畑のどの作業を、何分ぶん肩代わりしてくれるのか。そこがはっきりして初めて、道具は仲間になります。国産で身近になるなら、そういう目で一度試してみたいと思っています。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "drone",
    "emotions": [],
    "structure": "furi_ochi",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 28,
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 33,
    "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 3,
-    "body_edge_density": 0.0905
-   }
-  },
-  {
-   "id": "0722_0935_22",
-   "news_title": "静岡で農業をはじめる人を応援します（新規就農支援策のご紹介）",
-   "source": "pref.shizuoka.jp",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtaXFhYV96WlZ5TlhxNFF2eXM4Znp3dkdUWnQyWWl6WGNSLVEtOXJ6Z3Y4NWFGTGpFNGwxVm9GcTJxYkpYWGJSMlFqOFJLYWtLNVcwMFhTMlM5OTdGRG1nRk1VUFAzeVk3LXhFRnlzRUJ4WnNENll6SA?oc=5",
-   "strip": "manga_cand_0722_0935_22.png",
-   "caption": "静岡が、新しく農業を始める人を支援するという。資金や農地、研修先を紹介する内容だ。\n\n僕は愛知で野菜を16年作っている。年間100トンを、パートさんたちと会社のかたちで回している。始めるための支援はありがたい。ただ現場で見ていると、新規就農でつまずくのは、始めた後のほうが多い。\n\n多くの人が、一人で朝から晩まで働いて畑を広げようとする。それで体を壊すか、家族との時間を失うかで、続かなくなる。僕は逆にした。先に働き方を決めたんです。9時から14時まで、土日は休み、人に任せられる仕組みを先に作った。売上を伸ばすのは、その後だと考えている。\n\n始めることより、続けられる形をどう先に組むか。支援でお金や土地が手に入っても、働き方の設計まで一緒に考えないと、せっかく入った人が数年で抜けていく。順番を逆にしないこと。新しく入る人には、そこを一番に見てほしいと感じている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
+   "status": "posted",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 2,
     "n_hand": 2,
-    "body_edge_density": 0.1373
+    "body_edge_density": 0.0966
+   }
+  },
+  {
+   "id": "0724_0936_7",
+   "news_title": "マゼックス、同時遠隔自動操縦オペレーション技術をもつエアロネクストと次世代AI農業ドローンの社会実装に向け業務提携",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rSWplUENfM0JkVWJVZjh5aTc1blRfTmtZbFZrRWxHOGFkMUFCYXZZMFdub05jNHRzUUpuQVo3eWN5RFVYQjJLRmU0ZjNnSURKbjV2ZllHei1MMVFma1c2RmtrdHM5clpyMGc?oc=5",
+   "strip": "manga_cand_0724_0936_7.png",
+   "caption": "マゼックスとエアロネクストが、AI農業ドローンの社会実装で提携したというニュース。一人が複数機を遠隔で回すという方向性は、たぶんこれから当たり前になっていくと思う。\n\n僕の農場でもAIは現場で使っているけれど、導入して一番効いたのは「作業そのものを速くすること」ではなかった。ドローンにしろAIにしろ、新しい道具はどうしても「人の手を機械に置き換える」話として語られがちだけど、実際に効くのはもう少し手前だ。\n\nうちは9時から14時、だいたい5時間の労働で年間100tを出荷して、土日は休んでいる。これができているのは、機械が人の代わりに働くからというより、機械で「判断や段取りのばらつき」を減らせたからだと思っている。誰がやっても同じ結果に近づくと、パートさん中心でも回るし、無理な残業も消える。\n\nだから新しい農業ドローンを見るときも、僕はまず「これで何時間短くなるか」より「これで現場の判断がどれだけ揃うか」を見る。速さは結果としてあとからついてくる。順番が逆だと、たぶん道具に振り回されて終わる。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "drone",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 33,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0779
    }
   },
   {
@@ -526,50 +592,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1345
-   }
-  },
-  {
-   "id": "0714_0936_17",
-   "news_title": "「飴にヒ素、牛乳にチョーク」数千人の命を奪った悲劇も。アメリカ史に残る“ヤバすぎる”危険食品たち",
-   "source": "Women's Health",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYklFQ1dpZ0dUMXVKUWc2Q2F4UXVya0FOOWRWbDJVbHZCcmdWYjNmYzdWS2tGNU9OYnpEQ0tCMndZVkgwQVpLWnhrOUNvbndXRmNKbFdhZDFwbVJUN0thMmFINHpieVhNQTdyRFFkMC1QYWpoazlFVURqUlRaaGhaOTRCczZmdUNjeDZpVDZaeUFnVVdqYVB1WWVuclAxX0kz?oc=5",
-   "strip": "manga_cand_0714_0936_17.png",
-   "caption": "飴にヒ素、牛乳にチョーク。昔のアメリカでそんな食品が売られていたと知って、正直ぞっとした。\n\nでも他人事とは思えない。安く、早く、量をたくさん出そうとすれば、どこかで無理が出る。ヒ素やチョークは極端だけど、方向としては地続きの話だと思う。\n\n僕は野菜を16年作ってきて、農薬も肥料も、記録をつけながら使う量を決めてる。有機と化成も、どちらかを捨てるんじゃなくて、比率を調整して土を安定させていく感じ。地味な作業で、見た目に派手さはない。\n\nただ、こういう当たり前の安全って、最初からそこにあったわけじゃないんだよね。誰かがごまかしを一つずつ潰して、ルールにして、ようやく「疑わなくていい」状態にたどり着いた。\n\n順番が逆なんだと思う。安全があるから信頼されるんじゃなくて、正直に積み重ねた記録の先に、やっと安全と呼べるものが残る。畑の毎日は、その順番を守ることの繰り返しなのかもしれない。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0387
-   }
-  },
-  {
-   "id": "0714_0936_36",
-   "news_title": "クックパッド「食トレンド大賞2025・食トレンド予測2026」を発表",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xdHRCeHliOFlnUm9LZmt3d2MxdlVORDNfYjFLc0NoV1lNZmlXdVVzVDEyWkpTVDRsYVMzN1g3NVJETEZYV0hLbTB1Wkk0R2laQURDWTR1WG5aS081OEk5azBjcG1keFhrM2c?oc=5",
-   "strip": "manga_cand_0714_0936_36.png",
-   "caption": "クックパッドが今年の食トレンド大賞と、来年の予測を発表したそうだ。\n\n検索データから、みんながこれから何を作りたがっているのかが見えてくる。\n\n農家としては、こういう話は少し他人事に聞こえがちだ。トレンドは料理する人の世界で、畑はその手前にあると思ってしまうから。\n\nでも順番で考えると、むしろ逆かもしれない。\n\n食卓で流行るものは、結局その前に誰かが畑で育てている。来年の食卓に何が並ぶかは、今の作付けの判断が半分は決めているとも言える。\n\n僕は年100tを半日で回していて、何をどれだけ植えるかの判断にはいつも頭を悩ませている。だからトレンド予測は、料理の情報というより、来年の売り先を先に読むための材料として見ている。\n\n流行を後から追いかけるのではなく、流行の一歩手前で静かに用意しておく。農家にとってのトレンドは、食べる話ではなく、植える話なんだと思っている。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 28,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1233
    }
   }
  ]

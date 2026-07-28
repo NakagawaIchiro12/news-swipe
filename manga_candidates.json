@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0728_0935_16",
+   "news_title": "九州・沖縄地区青年農業者会議 農業経営や農村生活の改善を学び合う（鹿児島ニュースＫＴＳ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdTU0Um45aGRfOThhUnN3U3RSQ2YwaUN0alNUNzBoRl9RM1Fjd2VITDhfVjNid3d1Wkp3LV9WcW0yZzBsMnZRRzFpaXZ3dVBfTEVyTlI5VW9HRGpISkZvZzhOVnBhMW5mY3pjd09PWkhLVkpKYVVWS1N6cXJzb2c?oc=5",
+   "strip": "manga_cand_0728_0935_16.png",
+   "caption": "青年農業者会議で、経営や農村生活の改善について若い人たちが発表し合ったそうです。\n\nこういう場があるのは良いことだと思います。僕も若い頃、他所の畑を見て回って学びました。\n\nただ、聞く側になって思うのは、改善の話は順番を間違えると効かないということです。\n\n多くの人が最初に手をつけるのは栽培です。品種を変える、資材を試す、収量を上げる。分かりやすいですし、農家としては一番楽しいところでもあります。\n\nでも僕が16年やってきて、いちばん効いたのは栽培ではなく、時間の区切りを先に決めたことでした。9時から14時まで。この5時間で終わる形は何かと決めてから、作物も作型も段取りも全部そこに合わせて選び直した。順番が逆だったら、たぶん今も夜まで畑にいます。\n\n年間100tを出しながら土日を休めているのは、僕が特別に上手いからではなくて、パートさんが続けて来てくれるからです。人が続く条件を先に決める。栽培の改善はそのあとでも間に合います。\n\n経営の改善って、たぶん畑の外の話が半分くらいあるんじゃないかと思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 0,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0727_0941_22",
    "news_title": "農産物トレンド予想の裏側！マーケティングと農業の未来（オイシックス）（『農のミライ』）",
    "source": "radiko news",

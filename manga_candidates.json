@@ -133,28 +133,6 @@
    }
   },
   {
-   "id": "0724_0936_9",
-   "news_title": "米国人、福島で桃農家に挑戦中 感動のおいしさ…YouTubeで世界発信（日本農業新聞）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT2lJR2d2LUxlQTdYUFQ1WlVVY1FSY3JQRzl1ZEZMOEM0NVo0RnRZUDl1MklDQ0JUdC00R0pXX1JlcmE1U3VjVGp5WG1QTDZucm5EQ2xSQXNSdEVDbmRGX0xWRGlvMVdHX3ZSVk9FZjF1VDdtaGhqTFZJcUVLdTA?oc=5",
-   "strip": "manga_cand_0724_0936_9.png",
-   "caption": "アメリカの方が福島で桃づくりに挑戦して、その味をYouTubeで世界に発信しているという記事を読みました。外から来た人が本気でやると、産地の当たり前が言葉になって伝わるのは面白いなと思います。\n\n僕は愛知で16年野菜をやってきて、栽培の腕そのものより「誰に届けるか」を先に決めるほうが結局は効いてきた実感があります。同じ桃でも、売り先と伝え方が変わればまるで別の作物みたいに評価される。技術を上げてから売り先を探すより、届け方を決めてから逆算して育てるほうが、無理なく回る。\n\n農業は「いいものを作れば売れる」と教わりがちだけど、順番はむしろ逆で、売り方が決まると作り方の答えが見えてくる。海外発信も同じで、うまいから広まったというより、広める前提で作りに向き合ったからうまさが際立ったんじゃないかと思います。\n\n僕は9時から14時の5時間で回して土日は休む形でやっていますが、こういう外からの挑戦者を見ると、産地の側こそ自分の当たり前を疑い直す余地がまだあるなと感じます。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.1289
-   }
-  },
-  {
    "id": "0724_0936_19",
    "news_title": "［社説］農業知財の海外流出を防げ",
    "source": "日本経済新聞",
@@ -328,6 +306,28 @@
     "n_face": 4,
     "n_hand": 1,
     "body_edge_density": 0.1339
+   }
+  },
+  {
+   "id": "0724_0936_9",
+   "news_title": "米国人、福島で桃農家に挑戦中 感動のおいしさ…YouTubeで世界発信（日本農業新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT2lJR2d2LUxlQTdYUFQ1WlVVY1FSY3JQRzl1ZEZMOEM0NVo0RnRZUDl1MklDQ0JUdC00R0pXX1JlcmE1U3VjVGp5WG1QTDZucm5EQ2xSQXNSdEVDbmRGX0xWRGlvMVdHX3ZSVk9FZjF1VDdtaGhqTFZJcUVLdTA?oc=5",
+   "strip": "manga_cand_0724_0936_9.png",
+   "caption": "アメリカの方が福島で桃づくりに挑戦して、その味をYouTubeで世界に発信しているという記事を読みました。外から来た人が本気でやると、産地の当たり前が言葉になって伝わるのは面白いなと思います。\n\n僕は愛知で16年野菜をやってきて、栽培の腕そのものより「誰に届けるか」を先に決めるほうが結局は効いてきた実感があります。同じ桃でも、売り先と伝え方が変わればまるで別の作物みたいに評価される。技術を上げてから売り先を探すより、届け方を決めてから逆算して育てるほうが、無理なく回る。\n\n農業は「いいものを作れば売れる」と教わりがちだけど、順番はむしろ逆で、売り方が決まると作り方の答えが見えてくる。海外発信も同じで、うまいから広まったというより、広める前提で作りに向き合ったからうまさが際立ったんじゃないかと思います。\n\n僕は9時から14時の5時間で回して土日は休む形でやっていますが、こういう外からの挑戦者を見ると、産地の側こそ自分の当たり前を疑い直す余地がまだあるなと感じます。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1289
    }
   },
   {
@@ -570,28 +570,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0574
-   }
-  },
-  {
-   "id": "0713_0934_16",
-   "news_title": "農業分野における外国人材の受入れ",
-   "source": "pref.hokkaido.lg.jp",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VU3FpYWZaOXBJcFk1ZUpnc1k5NUkxY3FJZ2tOVWIxeXZqYnZEZkJIWWV4Z3daemV1ZFJTaFlseXpTUk1BY3Z6cTZfMndIMENKcnFTVHA3MkxBaVJVd1Q0?oc=5",
-   "strip": "manga_cand_0713_0934_16.png",
-   "caption": "農業分野で外国人材の受入れを広げる話が出ていました。人手が足りないから外から入れる、という順番で語られがちです。ただ現場で16年やってきて思うのは、足りないのは人数というより、人が続けられる働き方のほうだ、ということです。\n\n僕の会社は土日休みで、作業はおおむね9時から14時の五時間ほど。中心はパートさんで、特別な技術がなくても回るように工程を組んでいます。外国人材を入れるにしても、まず入れる先の仕事が長時間で属人的なままだと、来た人はきつくて辞めてしまう。人が変わっても品質が落ちない設計が先にあって、はじめて誰が来ても戦力になります。\n\n外から人を呼ぶ前に、自分の畑の働き方が誰かに勧められるものになっているか。順番はそこが先だと僕は思っています。国籍やビザの制度を整えることと同じくらい、受け入れる側の現場を、来た人が幸せに働けるかたちに直しておくことが要る。人手不足の答えは、人の数ではなく仕事の作り方のほうにある気がしています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 32,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.1345
    }
   }
  ]

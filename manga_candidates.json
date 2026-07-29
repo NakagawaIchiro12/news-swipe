@@ -155,28 +155,6 @@
    }
   },
   {
-   "id": "0724_0936_19",
-   "news_title": "［社説］農業知財の海外流出を防げ",
-   "source": "日本経済新聞",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSWFKaVVmVndiNmF2Q0U1RWdjSVdhZ3lMNF85MW03aTBkd0ZENngyYXVvRGxFZ3ZPSzFjbEpXRmVHXzZIeEd3V0N2allzMzhYc0dsZVFqWnNjY3V3eGREQkQxQ1FHMmw4emNvYw?oc=5",
-   "strip": "manga_cand_0724_0936_19.png",
-   "caption": "農業知財の海外流出を防げ、という社説を読んだ。品種をつくった人の努力が、勝手に持ち出されて海外で増やされるのはやっぱりおかしいし、守る仕組みは大事だと思う。\n\nただ、現場で16年やってきて感じるのは、守りだけでは足りないということ。品種という「モノ」は流出を止められても、それをどの土地で、どう育てて、どう売って、どう人を回すか、という運用のかたまりまでは簡単にコピーされない。僕の畑は9時から14時、5時間ほどの労働で、パートさん中心に年間100tを出しています。種だけ持ち出しても、この回し方までは再現できないはずです。\n\nだから順番としては、まず品種を守る。そのうえで、日本の農家が知財を活かして稼げる仕組みや、現場の運用ノウハウを、外へ流れるより先に自分たちで積み上げていく。守りと攻めは、たぶん別々の話ではなくて、同じ一つのものの両側なんだと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0714
-   }
-  },
-  {
    "id": "0723_0936_26",
    "news_title": "子ども食堂に玄米2.7トンを寄付 農業法人こぴっとに県が感謝状 山梨（2026年7月22日掲載）｜YBS NEWS NNN",
    "source": "日テレNEWS NNN",
@@ -196,28 +174,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0804
-   }
-  },
-  {
-   "id": "0723_0936_27",
-   "news_title": "企業×北海道農業 参加・連携応援セミナー2026を開催します！",
-   "source": "pref.hokkaido.lg.jp",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCdkV3WEFBcWNBS2xJQ3l3dzR6NWN5QWJhUUZvSU1mdWhwT2RVbHZ3QzRMYzRLNDVXYXdGc1VWMGEwdGItVnlBcWxPV1E0bTE2c2RGRmtOUjhhVDAxdVBn?oc=5",
-   "strip": "manga_cand_0723_0936_27.png",
-   "caption": "企業と北海道農業をつなぐセミナーが開かれるらしい。企業のお金や仕組みが農業に入っていくのは、いい流れだと思う。\n\n僕は愛知で会社型の農業を16年やってきた。年間100tを、9時から14時の約5時間、土日休みで回している。パートさん中心の体制だ。この形にたどり着くまでに一番時間がかかったのは、作物選びでも設備でもなくて、人がどう働くかの設計のほうだった。\n\n企業が農業に入るとき、最初に語られるのは規模や作物や機械のことが多い。どれも大事なんだけど、僕の実感だと順番が逆になりやすい。先に「誰がどれだけ働いて、どこで休むか」を決めておかないと、規模を広げるほど現場だけがきつくなっていく。連携で入る側も受ける側も、労働時間と休みの設計を一番はじめのテーブルに乗せられるかどうか。そこが、続く農業と続かない農業の分かれ目になる気がしている。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1743
    }
   },
   {
@@ -328,6 +284,50 @@
     "n_face": 4,
     "n_hand": 1,
     "body_edge_density": 0.1339
+   }
+  },
+  {
+   "id": "0724_0936_19",
+   "news_title": "［社説］農業知財の海外流出を防げ",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSWFKaVVmVndiNmF2Q0U1RWdjSVdhZ3lMNF85MW03aTBkd0ZENngyYXVvRGxFZ3ZPSzFjbEpXRmVHXzZIeEd3V0N2allzMzhYc0dsZVFqWnNjY3V3eGREQkQxQ1FHMmw4emNvYw?oc=5",
+   "strip": "manga_cand_0724_0936_19.png",
+   "caption": "農業知財の海外流出を防げ、という社説を読んだ。品種をつくった人の努力が、勝手に持ち出されて海外で増やされるのはやっぱりおかしいし、守る仕組みは大事だと思う。\n\nただ、現場で16年やってきて感じるのは、守りだけでは足りないということ。品種という「モノ」は流出を止められても、それをどの土地で、どう育てて、どう売って、どう人を回すか、という運用のかたまりまでは簡単にコピーされない。僕の畑は9時から14時、5時間ほどの労働で、パートさん中心に年間100tを出しています。種だけ持ち出しても、この回し方までは再現できないはずです。\n\nだから順番としては、まず品種を守る。そのうえで、日本の農家が知財を活かして稼げる仕組みや、現場の運用ノウハウを、外へ流れるより先に自分たちで積み上げていく。守りと攻めは、たぶん別々の話ではなくて、同じ一つのものの両側なんだと思う。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0714
+   }
+  },
+  {
+   "id": "0723_0936_27",
+   "news_title": "企業×北海道農業 参加・連携応援セミナー2026を開催します！",
+   "source": "pref.hokkaido.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCdkV3WEFBcWNBS2xJQ3l3dzR6NWN5QWJhUUZvSU1mdWhwT2RVbHZ3QzRMYzRLNDVXYXdGc1VWMGEwdGItVnlBcWxPV1E0bTE2c2RGRmtOUjhhVDAxdVBn?oc=5",
+   "strip": "manga_cand_0723_0936_27.png",
+   "caption": "企業と北海道農業をつなぐセミナーが開かれるらしい。企業のお金や仕組みが農業に入っていくのは、いい流れだと思う。\n\n僕は愛知で会社型の農業を16年やってきた。年間100tを、9時から14時の約5時間、土日休みで回している。パートさん中心の体制だ。この形にたどり着くまでに一番時間がかかったのは、作物選びでも設備でもなくて、人がどう働くかの設計のほうだった。\n\n企業が農業に入るとき、最初に語られるのは規模や作物や機械のことが多い。どれも大事なんだけど、僕の実感だと順番が逆になりやすい。先に「誰がどれだけ働いて、どこで休むか」を決めておかないと、規模を広げるほど現場だけがきつくなっていく。連携で入る側も受ける側も、労働時間と休みの設計を一番はじめのテーブルに乗せられるかどうか。そこが、続く農業と続かない農業の分かれ目になる気がしている。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1743
    }
   },
   {
@@ -548,50 +548,6 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.1247
-   }
-  },
-  {
-   "id": "0713_0934_15",
-   "news_title": "ＡＩ農業と宇宙特区、十勝指定へ 高市首相が検討加速を指示",
-   "source": "十勝毎日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WeC1FT0pyTUsyOTIzUmJXeU81SE5rWUI3YzBMVl9DSzMtbXMzbm9mYlhFdlRNcm9iaERIX1ZMSXBKODJSTkFZaXY3RzRlZ3dfMUNWekh3VnNoTlFkMU84bWpEV0g?oc=5",
-   "strip": "manga_cand_0713_0934_15.png",
-   "caption": "AI農業と宇宙の特区、十勝が指定へと。国が旗を振ってくれるのはありがたい話です。ただ、こういうニュースを見て農家が身構えがちなのは「うちの規模でAIなんて」という順番の話だと思っています。\n\n僕も現場でAIは使っていますが、入れて一番効いたのは最先端の栽培制御ではなくて、もっと手前の部分でした。誰が何時に何をやるかの段取り、パートさんへの指示の言語化、去年の記録の整理。派手さはないけれど、ここが詰まっていると人は動けないし、動けないと畑は回りません。\n\n僕は愛知で野菜を16年やって、9時から14時の5時間で年間100tを出して土日は休む、という形でやってきました。それができているのは、たぶんAIが賢いからではなくて、AIに任せられるところまで仕事を分解して整理したからです。\n\nだから特区の話も、まず現場の段取りが先で、技術はその次だと感じます。順番を逆にすると、道具だけ増えて人が疲れる。国が加速させるなら、僕はそこを一番見ていたいです。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 31,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1108
-   }
-  },
-  {
-   "id": "0713_0934_14",
-   "news_title": "トラクター先頭にデモ「百姓一揆」新潟の農業関係者150人が米価維持など訴え【新潟市】",
-   "source": "UX新潟テレビ21",
-   "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQX2p5cHZ6OHhYZ3RBa2VfZ3Bib0Q4ZlZkVmp5SzBZR3BmaXFDcDJuQWprSVB3NWctbEhxTWxQaU5Ja1RJNzVMclJpeUctQmJvOEZRc3NoTHBxbkNTenVYTllpTVM1bWRTZ0pIRWxoY1dFdG82blpSTjRmNEhoNDlZWWVlZWRNdjRmTEF5MnVyT0RoUF9DTTBQOENUOHNNdWhFM2h3RzdzbUdrQ3FiWlNWVkVZbkxUME5xQk1vc3ZnT21ZcGpPNlpWZEdDaDRianBCUVg1QjZPcDQybHptdDY3bUNiT0g1NGNTT2tzTzJ0ZkxzYklZRkZhR21XX2pLeVljVkZybWNNTGpvY0dSbjl5U3RhWEFTTHl6elFFTzBYQnZDNVRGR1ZKelYtMlUtUEllcWlZcm1pYWgxLWVERWhwTHBMWkRXOWxISUpV?oc=5",
-   "strip": "manga_cand_0713_0934_14.png",
-   "caption": "新潟市で、農業関係者150人がトラクターを先頭に「百姓一揆」と名づけたデモをしたそうです。お米の値段を守ってほしい、という訴えが中心でした。\n\n僕は愛知で野菜のほうですが、作る側が自分で値段を決められないもどかしさは、米も野菜も変わらないと思います。だから今回の動きは、他人事には見えませんでした。\n\nただ、同じ農家として一歩踏み込んで言うと、値段の話と同じくらい「時間とお金の減り方」を疑ってみてもいいと感じています。うちは年100tを朝9時から14時までの半日で回していますが、無理に長く働いた結果ではありません。記帳や調べ物、段取りをAIに任せて、人の手を本当に必要な作業だけに寄せてきたからです。パートさん中心でも、土日は休みます。\n\n米価が上がることは大事です。でもその一枚上に、上がらなくても続けられる形を自分の側で作っておかないと、ずっと価格に振り回されてしまう。守ってもらう努力と、守られなくても立てる努力は、どちらかが先ではなく、同時に進めるものだと思っています。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 32,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0574
    }
   }
  ]

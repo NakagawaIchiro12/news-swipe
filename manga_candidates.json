@@ -1,25 +1,69 @@
 {
  "items": [
   {
-   "id": "0728_0935_16",
-   "news_title": "九州・沖縄地区青年農業者会議 農業経営や農村生活の改善を学び合う（鹿児島ニュースＫＴＳ）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdTU0Um45aGRfOThhUnN3U3RSQ2YwaUN0alNUNzBoRl9RM1Fjd2VITDhfVjNid3d1Wkp3LV9WcW0yZzBsMnZRRzFpaXZ3dVBfTEVyTlI5VW9HRGpISkZvZzhOVnBhMW5mY3pjd09PWkhLVkpKYVVWS1N6cXJzb2c?oc=5",
-   "strip": "manga_cand_0728_0935_16.png",
-   "caption": "青年農業者会議で、経営や農村生活の改善について若い人たちが発表し合ったそうです。\n\nこういう場があるのは良いことだと思います。僕も若い頃、他所の畑を見て回って学びました。\n\nただ、聞く側になって思うのは、改善の話は順番を間違えると効かないということです。\n\n多くの人が最初に手をつけるのは栽培です。品種を変える、資材を試す、収量を上げる。分かりやすいですし、農家としては一番楽しいところでもあります。\n\nでも僕が16年やってきて、いちばん効いたのは栽培ではなく、時間の区切りを先に決めたことでした。9時から14時まで。この5時間で終わる形は何かと決めてから、作物も作型も段取りも全部そこに合わせて選び直した。順番が逆だったら、たぶん今も夜まで畑にいます。\n\n年間100tを出しながら土日を休めているのは、僕が特別に上手いからではなくて、パートさんが続けて来てくれるからです。人が続く条件を先に決める。栽培の改善はそのあとでも間に合います。\n\n経営の改善って、たぶん畑の外の話が半分くらいあるんじゃないかと思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "id": "0730_0935_14",
+   "news_title": "農業超大国の座から転落する米国、トランプ関税が中西部を直撃(1/5)",
+   "source": "JBpress",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKRkVDTHJ2Qm1CVnJkVENVTWZBVkowQU9OZU9HSlJYUjhycmRnNFc4VVA2d3ZOTVlHT05IU1ZEWG1vRnVQYXdPd3dvcTVvejA3a1k1aFZB?oc=5",
+   "strip": "manga_cand_0730_0935_14.png",
+   "caption": "アメリカが農業超大国の座から落ちつつある、という記事が出ていました。\n\n背景にあるのは関税だそうです。相手国が対抗措置をとって買い控えると、大豆やとうもろこしの輸出が細る。それが穀物地帯である中西部を直撃している、という内容でした。日本にとっても他人事ではなくて、輸入穀物は飼料や加工品のもとになるので、流れや値段が変われば国内にも回ってきます。\n\n僕は愛知で16年、野菜をやっています。年間100トンを、9時から14時までの約5時間で、パートさんと一緒に出しています。畑にいると、こういう政策の話は数字より先に、資材や肥料の値段が動いたときに気づくことが多いです。農協や資材屋さんとの雑談で「今年は原料が高い」と聞いて、あとから理由を知る、という順番になりがちです。\n\nだから現場では、関税や貿易の話を「政策のニュース」としてよりも、来年の作付けや仕入れをどう組むかという話として受け止めている人もいます。産地が違えば感じ方も違うと思いますが、少なくとも畑の中では、そういう入口から入ってくる話でした。\n\n考え方の全体像は、固定ポストから見られます。",
    "topic": "policy",
    "emotions": [],
-   "structure": "taiken",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 28,
+   "structure": "gyakusetsu",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 32,
    "gpass": true,
    "status": "pending",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
     "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": null
+    "n_hand": 3,
+    "body_edge_density": 0.0648
+   }
+  },
+  {
+   "id": "0730_0935_10",
+   "news_title": "地方の農業に新たな風を 若手農家がトウモロコシ収穫 瀬戸内市（2026年7月29日掲載）｜RNC NEWS NNN",
+   "source": "日テレNEWS NNN",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmVxYW1mWFE5QmYxbnJCRE5lZXF6NkhRUV9paVN4azRGRl9fY0NQRjRPX2hkWk02YXktYVBzbmRhcjNPRVgzLUxVSkNkTlVjU2VWV2VwNkRFaFBBZDVDa2xFT295dnhDNUloOTRqenFVY2k2YVBOZjh5cC1vYkF6LVBTalhoT1E?oc=5",
+   "strip": "manga_cand_0730_0935_10.png",
+   "caption": "瀬戸内市で、若手の農家さんがトウモロコシを収穫したというニュースです。地方の農業に新しい風を、という取り組みだそうです。\n\n若い人が畑に入ってくるのは、単純に嬉しいです。僕も愛知で16年やっていますが、周りを見渡すと年上ばかり、という場面は今も多い。\n\nただ、新しく入る人を見ていて気になることがあります。技術は熱心に学ぶのに、働き方はそのまま先輩を真似てしまうことが多い。朝は暗いうちから、夜も遅くまで。それが農業だと思い込んだまま数年走って、体か気持ちのどちらかが先に折れる。そういう人を何人も見てきました。\n\n僕は9時から14時までの、5時間ほどで回しています。土日も休みます。年間100トン出しながらそうしています。特別なことをしているというより、休むことを先に決めて、そこから逆算して作型や作業の組み方を考えただけです。\n\nだから順番は逆でいいと思っています。うまく作れるようになってから休み方を考えるのではなく、休み方を決めてから、その中で作れる形を探す。\n\n新しい風というのは、作物や販路の話だけではないはずです。何時に帰るか、いつ休むか。そこも含めて、新しく入る人が自由に決めていい。むしろ、まだ何の型もついていない今のうちの方が、決めやすいと思います。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "harvest",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0786
+   }
+  },
+  {
+   "id": "0730_0935_17",
+   "news_title": "農業の大規模化で失敗しないために｜規模拡大前に考えたいこと",
+   "source": "農業とITの未来メディア",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eUVuaXIwX2JIcTRNYWtMSkJ5UlcyamhBb2lrVzBCMzdaQUNsdkZEY2FjdGM1bVRPVFk1SjJzVXA5anpuZkJONWFxbnZ4cFJjZldJ?oc=5",
+   "strip": "manga_cand_0730_0935_17.png",
+   "caption": "大規模化で失敗しないために、という記事が出ていました。規模拡大の前に考えたいこと、という切り口です。\n\n僕も愛知で16年やってきて、年間100トンまで来ました。ただ、面積を増やしたから100トンになった、という順番ではないと思っています。\n\n先に整えたのは、人の回し方でした。9時から14時までの約5時間で終わる形にして、土日は休む。パートさんが無理なく続けられる状態を作ってから、量を増やしていった。順番が逆だと、面積が増えた分だけ現場がきつくなって、人が辞めて、結局まわらなくなる。畑は残るのに人がいない、という状態がいちばん怖いです。\n\n肥料や資材も同じで、規模が大きくなるほど「なんとなく」が効かなくなります。有機の比率を下げると安定する場面もあるし、化成だけでいいわけでもない。どちらも必要で、規模に合わせて選ぶものだと思っています。小さいうちは勘で吸収できたことが、大きくなると全部コストとして出てくる。\n\nだから規模拡大は、増やす計画より、増えても壊れない形を先に作る話なんじゃないかと思います。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 5,
+    "body_edge_density": 0.1209
    }
   },
   {
@@ -287,6 +331,28 @@
    }
   },
   {
+   "id": "0728_0935_16",
+   "news_title": "九州・沖縄地区青年農業者会議 農業経営や農村生活の改善を学び合う（鹿児島ニュースＫＴＳ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdTU0Um45aGRfOThhUnN3U3RSQ2YwaUN0alNUNzBoRl9RM1Fjd2VITDhfVjNid3d1Wkp3LV9WcW0yZzBsMnZRRzFpaXZ3dVBfTEVyTlI5VW9HRGpISkZvZzhOVnBhMW5mY3pjd09PWkhLVkpKYVVWS1N6cXJzb2c?oc=5",
+   "strip": "manga_cand_0728_0935_16.png",
+   "caption": "青年農業者会議で、経営や農村生活の改善について若い人たちが発表し合ったそうです。\n\nこういう場があるのは良いことだと思います。僕も若い頃、他所の畑を見て回って学びました。\n\nただ、聞く側になって思うのは、改善の話は順番を間違えると効かないということです。\n\n多くの人が最初に手をつけるのは栽培です。品種を変える、資材を試す、収量を上げる。分かりやすいですし、農家としては一番楽しいところでもあります。\n\nでも僕が16年やってきて、いちばん効いたのは栽培ではなく、時間の区切りを先に決めたことでした。9時から14時まで。この5時間で終わる形は何かと決めてから、作物も作型も段取りも全部そこに合わせて選び直した。順番が逆だったら、たぶん今も夜まで畑にいます。\n\n年間100tを出しながら土日を休めているのは、僕が特別に上手いからではなくて、パートさんが続けて来てくれるからです。人が続く条件を先に決める。栽培の改善はそのあとでも間に合います。\n\n経営の改善って、たぶん畑の外の話が半分くらいあるんじゃないかと思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 0,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0724_0936_19",
    "news_title": "［社説］農業知財の海外流出を防げ",
    "source": "日本経済新聞",
@@ -526,28 +592,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0707
-   }
-  },
-  {
-   "id": "0718_0939_20",
-   "news_title": "【2025年グルメ総決算】みんなが夢中になった食トレンドTOP10発表🍜✨の写真（6）",
-   "source": "emogram",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52TVZoQkVaSVJNTG4xNGk3TUhBTll6eHRoSUUyeWZNckNTcHpKcWlEV0Jib2I2SDRLaTNWZzdCNDlZakxlV0R2bEU2Unpjb01xNXhHSXJfaw?oc=5",
-   "strip": "manga_cand_0718_0939_20.png",
-   "caption": "2025年のグルメ総決算、食トレンドTOP10が出ていました。毎年この時期に振り返ると、去年流行ったものをもう思い出せなかったりします。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。トレンドの記事を見るたび思うのは、ランキングに載る料理は毎年入れ替わるのに、その下で使われている野菜はほとんど変わらないということです。話題の麺にもスイーツにも横の一皿にも、たいてい定番の野菜が入っています。\n\nだから僕は、流行を追うより先に定番を安定させる順番にしています。畑は種をまいてから収穫まで数ヶ月かかるので、話題になってから動いても間に合わないことが多い。それなら、定番を安定して出せる体制を先に作り、残った余力で新しいものを小さく試すほうが現実的です。うちが9時から14時の約5時間で回して土日を休めているのも、この順番を守ってきた結果だと思っています。ランキングには載らないけれど、毎年のトレンドを一番下で変わらず支えるものを作る仕事も、悪くないものです。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 33,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.1247
    }
   }
  ]

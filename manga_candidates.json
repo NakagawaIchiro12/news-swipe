@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0731_0938_11",
+   "news_title": "ＡＩ農業特区実現へ大臣に要望 上野市長ら",
+   "source": "十勝毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlYkhiUG5vOGhZWGxVZlpJTkpfLVpQRUFtZmZSb3JPMy1BVU9sS0xmQnFpODlUT2RiQmpxYzF0bWdPOUQ3RUpIbURscGpzQm1ScG5GdGlkQ0hqeXRhT1JGc0YzQUM?oc=5",
+   "strip": "manga_cand_0731_0938_11.png",
+   "caption": "AI農業特区の実現を、市長らが大臣に要望したという記事でした。\n\n規制や手続きをまとめて緩めて、AIを農業に入れやすくする狙いだと思います。方向としては前向きに受け止めています。\n\n僕も畑でAIを使っています。段取りを考えるときや、迷ったことを整理するときに、スマホで相談することがあります。ただ、入れてすぐ楽になったかというと、最初はむしろ手間が増えました。\n\n理由ははっきりしていて、こちらが渡せる材料がなかったからです。誰がいつどの畑で何をしたか、去年とどう違ったか。それが自分の頭の中にしかない状態だと、AIに聞いても返ってくるのは一般論になります。\n\nうちは年間100tを、9時から14時までの半日で回しています。土日は休みです。それができているのは、作業をパートさんが迷わず進められる形に落としてきたからで、AIはその上に乗ってはじめて効いた感覚があります。\n\nだから順番は、制度が先でも道具が先でもない気がしています。人の手順を決めて、それを残す。特区が本当に効いてくるのは、その用意ができている現場からではないでしょうか。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 1,
+    "body_edge_density": 0.0776
+   }
+  },
+  {
+   "id": "0731_0938_13",
+   "news_title": "愛知・田原市が6年ぶり「農業産出額」全国1位奪還 過去最高933.6億円を記録 猛暑によるキャベツの価格高騰が要因か 農水省「市町村別農業産出額」発表（中京テレビＮＥＷＳ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94NlJfRTUxaGNiR25OWXpLRmdleUgxZ0hZc083TkY5TGpFOUZUTkFZWFNGcHZCd3FLZVdHNXhqb3BlSVpZdGZ0Z1lCUmtxRTlCTmM1NFBCUks0cTFfODdmZVM0VVpQNFF5bUFqVkRNOHNZMnV3UjZNX1ExX0g4RFE?oc=5",
+   "strip": "manga_cand_0731_0938_13.png",
+   "caption": "田原市が農業産出額で全国1位に戻った、という記事でした。過去最高の933.6億円。農水省が出している市町村別の産出額の統計です。\n\n同じ愛知でも田原はキャベツや花き、施設野菜が集まっている地域で、記事では猛暑によるキャベツの価格高騰が要因と見られています。\n\nここは少し補足がいるところだと思っていて、産出額というのは「その市町村で生産された農畜産物をお金に換算した額」です。数量ではなく金額なので、採れた量が同じでも単価が上がれば額は増えます。逆に、豊作で相場が下がると額は落ちる。だから1位が入れ替わるのは、産地の力の変化だけとは限らないんですね。\n\n現場でこの数字と関わる場面もあります。産地の規模を示す資料として補助事業や産地の計画づくりで引用されたり、取引先との話で「この地域はこれだけの産地です」と説明するときに使われたりします。\n\n僕は同じ愛知で野菜を作っていますが、猛暑の年は自分の畑でも生育がそろわず、相場が動く。その揺れが積み上がった結果の一つがこの数字だと受け止めている人も、周りには多いです。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0925
+   }
+  },
+  {
    "id": "0730_0935_14",
    "news_title": "農業超大国の座から転落する米国、トランプ関税が中西部を直撃(1/5)",
    "source": "JBpress",
@@ -111,28 +155,6 @@
    }
   },
   {
-   "id": "0727_0941_20",
-   "news_title": "鳥取県日南町に東芝パワーを　観光や農業振興に民間の知見　企画部門の社員出向受け入れ",
-   "source": "ｄメニューニュース",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUng4cDJjSUdCMnE5bUlMbVk3LVM2TGlSMG9DSUdDX0NlcUtMNXVjNzJtZkw4eE1OeGQ4OWVFWUoxSjU1bWowWk9aY3NDT3JsT0ZOV2hBUW1Ub1pQanpBZ0xoaTZBcHl0eF8wTXVmcVNmMEh2ZDJlQWtqVldLZkM5OGZlc090NVot0gGOAUFVX3lxTE5qVlFzM2hvT1pNa2tUaTZmemxfMHNaY3lOeTJadDh5dGVvOV9TbHpUUW04UGRqVnQwT2VsRUlhbGZMbFRnNzB0S1FqcnFxR1FPZVo5RTFVWldtTXFQeEtSY0dHOGFpdFdmYnRqbGIwaEZZZ3I4U3ZKMFkteTlfbVVGckQ2dUV0NzlTZFExX3c?oc=5",
-   "strip": "manga_cand_0727_0941_20.png",
-   "caption": "鳥取県日南町が、東芝の企画部門の社員を出向で受け入れるそうです。観光や農業の振興に、民間の知見を生かすねらいだとか。\n\n農業の課題は、栽培の腕だけでは解決できないことが多いと感じています。売り方、人の集め方、仕事の回し方。ここは会社で企画をやってきた人の得意分野かもしれません。\n\n僕は愛知で16年、年間100トンの野菜を出荷していますが、9時から14時の約5時間で回せているのは、栽培の腕というより段取りを磨いてきたからです。AIに相談しながら仕事の組み立てを見直すのも、その延長にあります。\n\nだから外から来る企画のプロには期待しています。ただ、順番だけは大事にしてほしい。机の上で計画を作る前に、まず畑に立つこと。現場を見てから作る企画は強いですが、逆の順番だと絵に描いた餅になりやすい。地方の農業に足りないのは知見そのものより、現場と知見をつなぐ順番なのかもしれません。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0979
-   }
-  },
-  {
    "id": "0727_0941_23",
    "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
    "source": "三菱UFJリサーチ&コンサルティング",
@@ -152,28 +174,6 @@
     "n_face": 3,
     "n_hand": 0,
     "body_edge_density": 0.1307
-   }
-  },
-  {
-   "id": "0727_0941_14",
-   "news_title": "亡き祖父の畑から「農」守る 大阪からUターン、夢は「農業のテーマパーク」 三田出身の大勢さん",
-   "source": "神戸新聞",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pU1JfaGI5aHBINDZOa1FFNC16S18yVUxUaDlfOG9Kc21JSmZPN1dTVXg3cFBBdjZEQ3cyTHppdURWdHo4MTFOWEVUZjZqOXZvN0pzYXlQQ0JOTi1aTm5uV1FhNzMybEpEZzUydQ?oc=5",
-   "strip": "manga_cand_0727_0941_14.png",
-   "caption": "大阪からUターンして、亡くなったおじいさんの畑を継いだ方が、農業のテーマパークを夢に掲げているそうです。畑を守るだけでなく、人が集まる場所にしたいという発想がいいなと思いました。\n\n僕は愛知で野菜農家を16年やっていて、年間100トンを出荷しています。9時から14時までの約5時間で仕事を終えて、土日は休み。パートさん中心の会社型でここまで続けてきました。\n\nその経験から思うのは、順番の大切さです。夢を大きく描くほど、先に整えるべきは現場の働き方だということ。人が集まる畑にしたいなら、まずそこで働く人が無理なく続けられる形を作る。余裕のない現場のまま入り口だけ広げても、来てくれた人を受け止めきれません。逆に、現場が回っていれば、見せることも遊んでもらうことも選択肢になります。\n\n継ぐことは終わりを引き受けることではなく、始まりを選び直すことでもある。この方の夢を見て、そう感じました。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0467
    }
   },
   {
@@ -328,6 +328,50 @@
     "n_face": 4,
     "n_hand": 1,
     "body_edge_density": 0.1339
+   }
+  },
+  {
+   "id": "0727_0941_20",
+   "news_title": "鳥取県日南町に東芝パワーを　観光や農業振興に民間の知見　企画部門の社員出向受け入れ",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUng4cDJjSUdCMnE5bUlMbVk3LVM2TGlSMG9DSUdDX0NlcUtMNXVjNzJtZkw4eE1OeGQ4OWVFWUoxSjU1bWowWk9aY3NDT3JsT0ZOV2hBUW1Ub1pQanpBZ0xoaTZBcHl0eF8wTXVmcVNmMEh2ZDJlQWtqVldLZkM5OGZlc090NVot0gGOAUFVX3lxTE5qVlFzM2hvT1pNa2tUaTZmemxfMHNaY3lOeTJadDh5dGVvOV9TbHpUUW04UGRqVnQwT2VsRUlhbGZMbFRnNzB0S1FqcnFxR1FPZVo5RTFVWldtTXFQeEtSY0dHOGFpdFdmYnRqbGIwaEZZZ3I4U3ZKMFkteTlfbVVGckQ2dUV0NzlTZFExX3c?oc=5",
+   "strip": "manga_cand_0727_0941_20.png",
+   "caption": "鳥取県日南町が、東芝の企画部門の社員を出向で受け入れるそうです。観光や農業の振興に、民間の知見を生かすねらいだとか。\n\n農業の課題は、栽培の腕だけでは解決できないことが多いと感じています。売り方、人の集め方、仕事の回し方。ここは会社で企画をやってきた人の得意分野かもしれません。\n\n僕は愛知で16年、年間100トンの野菜を出荷していますが、9時から14時の約5時間で回せているのは、栽培の腕というより段取りを磨いてきたからです。AIに相談しながら仕事の組み立てを見直すのも、その延長にあります。\n\nだから外から来る企画のプロには期待しています。ただ、順番だけは大事にしてほしい。机の上で計画を作る前に、まず畑に立つこと。現場を見てから作る企画は強いですが、逆の順番だと絵に描いた餅になりやすい。地方の農業に足りないのは知見そのものより、現場と知見をつなぐ順番なのかもしれません。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0979
+   }
+  },
+  {
+   "id": "0727_0941_14",
+   "news_title": "亡き祖父の畑から「農」守る 大阪からUターン、夢は「農業のテーマパーク」 三田出身の大勢さん",
+   "source": "神戸新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pU1JfaGI5aHBINDZOa1FFNC16S18yVUxUaDlfOG9Kc21JSmZPN1dTVXg3cFBBdjZEQ3cyTHppdURWdHo4MTFOWEVUZjZqOXZvN0pzYXlQQ0JOTi1aTm5uV1FhNzMybEpEZzUydQ?oc=5",
+   "strip": "manga_cand_0727_0941_14.png",
+   "caption": "大阪からUターンして、亡くなったおじいさんの畑を継いだ方が、農業のテーマパークを夢に掲げているそうです。畑を守るだけでなく、人が集まる場所にしたいという発想がいいなと思いました。\n\n僕は愛知で野菜農家を16年やっていて、年間100トンを出荷しています。9時から14時までの約5時間で仕事を終えて、土日は休み。パートさん中心の会社型でここまで続けてきました。\n\nその経験から思うのは、順番の大切さです。夢を大きく描くほど、先に整えるべきは現場の働き方だということ。人が集まる畑にしたいなら、まずそこで働く人が無理なく続けられる形を作る。余裕のない現場のまま入り口だけ広げても、来てくれた人を受け止めきれません。逆に、現場が回っていれば、見せることも遊んでもらうことも選択肢になります。\n\n継ぐことは終わりを引き受けることではなく、始まりを選び直すことでもある。この方の夢を見て、そう感じました。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": 29,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0467
    }
   },
   {
@@ -548,50 +592,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0907
-   }
-  },
-  {
-   "id": "0718_0939_19",
-   "news_title": "農業農村整備で知事会 十分な別枠予算求める",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoN3RBeTF4WWxSU2U0QUp4QjNsNW9VWndTOGlXMmpCVjBfa1ktRVlUT25UZW9TSFBxZHBaSTdFNUJROWxXUWxaREVDTDBlLXpHZWtPT1A4SQ?oc=5",
-   "strip": "manga_cand_0718_0939_19.png",
-   "caption": "農業農村整備の予算について、知事会が十分な別枠を求めたそうです。地味な話題に見えますが、水路や農道や排水の整備は、現場からすると毎日の作業時間にそのまま響く部分です。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちが朝9時から14時の約5時間で回せているのは、頑張って急いでいるからではなく、作業しやすい環境を先に整えているからです。畑までの道が悪い、雨のあと水がなかなか抜けない、そういう状態のままでは、どれだけ人が頑張っても時間は縮まりません。\n\n農業の議論は「担い手を増やす」「若者を呼ぶ」といった人の話から始まりがちですが、順番は逆だと思っています。人が来てから環境を整えるのではなく、働きやすい環境が先にあるから人が続く。うちのパートさんが長く働いてくれているのも同じ理屈です。基盤整備の予算は派手さがないぶん後回しにされやすいですが、後回しにされやすいものほど、現場の時間を決めているように感じます。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 31,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.0925
-   }
-  },
-  {
-   "id": "0718_0939_18",
-   "news_title": "サバナケット県における参加型農業振興プロジェクト",
-   "source": "jica.go.jp",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5maXo5MEc5MEUtNTNNZ00yR3VzV0swczM5VXhId3VnOFNXZUdjWnZkUGNnZVhqYXV3SVZSRkUwbWFuaUxzQzZpSnRpRVdSUUY3R2IxYnRR?oc=5",
-   "strip": "manga_cand_0718_0939_18.png",
-   "caption": "ラオスのサバナケット県で、JICAの参加型農業振興プロジェクトが動いているそうです。技術を一方的に教えるのではなく、現地の農家自身が計画づくりに関わる形だと理解しています。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出しています。うちは朝9時から14時の約5時間で回して、土日は休み。パートさん中心の体制ですが、これを続けてこられた理由のひとつは、作業のやり方をこちらが全部決めないことだと思っています。段取りのどこが不便かはパートさんが一番よく知っていて、そこから出てくる提案で現場が変わることは珍しくありません。\n\n支援でも経営改善でも、正しいやり方を先に渡す順番で考えがちです。でも現場を見ていると、人は教わったことより、自分で決めたことのほうを続けます。だから順番は逆で、まず決める場に入ってもらう。技術はその後のほうが定着する。参加型という言葉は海外支援の文脈に見えて、日本の農家の雇用や家族経営にも、そのまま当てはまる話だと感じます。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 29,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0707
    }
   }
  ]

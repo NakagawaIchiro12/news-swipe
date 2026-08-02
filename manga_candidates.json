@@ -1,25 +1,25 @@
 {
  "items": [
   {
-   "id": "0731_0938_11",
-   "news_title": "ＡＩ農業特区実現へ大臣に要望 上野市長ら",
-   "source": "十勝毎日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlYkhiUG5vOGhZWGxVZlpJTkpfLVpQRUFtZmZSb3JPMy1BVU9sS0xmQnFpODlUT2RiQmpxYzF0bWdPOUQ3RUpIbURscGpzQm1ScG5GdGlkQ0hqeXRhT1JGc0YzQUM?oc=5",
-   "strip": "manga_cand_0731_0938_11.png",
-   "caption": "AI農業特区の実現を、市長らが大臣に要望したという記事でした。\n\n規制や手続きをまとめて緩めて、AIを農業に入れやすくする狙いだと思います。方向としては前向きに受け止めています。\n\n僕も畑でAIを使っています。段取りを考えるときや、迷ったことを整理するときに、スマホで相談することがあります。ただ、入れてすぐ楽になったかというと、最初はむしろ手間が増えました。\n\n理由ははっきりしていて、こちらが渡せる材料がなかったからです。誰がいつどの畑で何をしたか、去年とどう違ったか。それが自分の頭の中にしかない状態だと、AIに聞いても返ってくるのは一般論になります。\n\nうちは年間100tを、9時から14時までの半日で回しています。土日は休みです。それができているのは、作業をパートさんが迷わず進められる形に落としてきたからで、AIはその上に乗ってはじめて効いた感覚があります。\n\nだから順番は、制度が先でも道具が先でもない気がしています。人の手順を決めて、それを残す。特区が本当に効いてくるのは、その用意ができている現場からではないでしょうか。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "id": "0802_0938_26",
+   "news_title": "令和8年度地域農業構造転換支援事業の要望調査について",
+   "source": "vill.kijimadaira.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DcTdYQzFoNVFhdFcwWHJzZURXS1Y3SjNQUTFlaWFWUjBzVmQzSjdFR0NWeENIT2ZnWlhsQ1BtM3EtYmtVazVtUHFjVHA5OFQ4U1dkeWlaT0FreDM3Z0hXMlN4d0llX0dkVWc?oc=5",
+   "strip": "manga_cand_0802_0938_26.png",
+   "caption": "長野の木島平村が、令和8年度の地域農業構造転換支援事業について要望調査を出しています。来年度この支援を使いたい人はいますか、という事前の聞き取りですね。\n\n産地として何を作っていくか、その転換を後押しする仕組みです。\n\nここで見落としがちなのが、募集より先に調査があること。出てきた希望の数をもとに、翌年の枠が組まれていきます。\n\n僕が現場で思うのは、農家はこの手の紙が本当に苦手だということです。畑仕事のほうが気楽で、締切のある書類は後回しになる。でも後回しにすると、そもそも自分が数に入りません。中身が決まってから文句を言っても順番が逆なんですよね。\n\n僕は年間100トン出しながら9時から14時で上がっていますが、それは畑の外の作業を溜めない前提で成り立っています。分からない言葉は調べて、迷ったら役場に電話する。書類に強くなることは、休める農業の一部だと思っています。\n\n---\n\n📢 音声で返せませんでした。この環境では `cd`（Irodori-TTS への移動）が許可されていないため、`say_koe_fast.py` を実行できません。テキストのみでの返信になっています。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
    "topic": "policy",
    "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "structure": "gyakusetsu",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
    "taste": null,
    "gpass": true,
    "status": "pending",
    "anatomy": "pass",
    "anatomy_flags": [],
    "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 1,
-    "body_edge_density": 0.0776
+    "n_face": 2,
+    "n_hand": 0,
+    "body_edge_density": 0.0826
    }
   },
   {
@@ -131,30 +131,6 @@
     "n_hand": 1,
     "body_edge_density": 0.1965
    }
-  },
-  {
-   "id": "0727_0941_9",
-   "news_title": "若手農業者、経営学ぶ 津軽りんご市場企画／板柳｜青森ニュース｜Web東奥",
-   "source": "東奥日報社",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtWDhQbWtsSFVyTUE2WW1HTmc2eFkteWx0YU1ZdW90MVI2LXFKbldnbXUyZjhzTExfcXVHdF9OOEhjVWpESkE1Z2ZzY2pzRkJxTDBxLXhzbDg?oc=5",
-   "strip": "manga_cand_0727_0941_9.png",
-   "caption": "青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": null
-   },
-   "caption_orig": "本文を作成します。ナレッジファイルは直接開けませんでしたが、必要なルール（肥料表現・AI装飾禁止・運用の推測禁止）はすべて指示に明記されているため、それに厳密に沿って書きます。\n\n青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "caption_fixed": "2026-08-01 meta_preamble_removed"
   },
   {
    "id": "0727_0941_23",
@@ -333,6 +309,52 @@
     "n_hand": 1,
     "body_edge_density": 0.1339
    }
+  },
+  {
+   "id": "0731_0938_11",
+   "news_title": "ＡＩ農業特区実現へ大臣に要望 上野市長ら",
+   "source": "十勝毎日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlYkhiUG5vOGhZWGxVZlpJTkpfLVpQRUFtZmZSb3JPMy1BVU9sS0xmQnFpODlUT2RiQmpxYzF0bWdPOUQ3RUpIbURscGpzQm1ScG5GdGlkQ0hqeXRhT1JGc0YzQUM?oc=5",
+   "strip": "manga_cand_0731_0938_11.png",
+   "caption": "AI農業特区の実現を、市長らが大臣に要望したという記事でした。\n\n規制や手続きをまとめて緩めて、AIを農業に入れやすくする狙いだと思います。方向としては前向きに受け止めています。\n\n僕も畑でAIを使っています。段取りを考えるときや、迷ったことを整理するときに、スマホで相談することがあります。ただ、入れてすぐ楽になったかというと、最初はむしろ手間が増えました。\n\n理由ははっきりしていて、こちらが渡せる材料がなかったからです。誰がいつどの畑で何をしたか、去年とどう違ったか。それが自分の頭の中にしかない状態だと、AIに聞いても返ってくるのは一般論になります。\n\nうちは年間100tを、9時から14時までの半日で回しています。土日は休みです。それができているのは、作業をパートさんが迷わず進められる形に落としてきたからで、AIはその上に乗ってはじめて効いた感覚があります。\n\nだから順番は、制度が先でも道具が先でもない気がしています。人の手順を決めて、それを残す。特区が本当に効いてくるのは、その用意ができている現場からではないでしょうか。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 1,
+    "body_edge_density": 0.0776
+   }
+  },
+  {
+   "id": "0727_0941_9",
+   "news_title": "若手農業者、経営学ぶ 津軽りんご市場企画／板柳｜青森ニュース｜Web東奥",
+   "source": "東奥日報社",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtWDhQbWtsSFVyTUE2WW1HTmc2eFkteWx0YU1ZdW90MVI2LXFKbldnbXUyZjhzTExfcXVHdF9OOEhjVWpESkE1Z2ZzY2pzRkJxTDBxLXhzbDg?oc=5",
+   "strip": "manga_cand_0727_0941_9.png",
+   "caption": "青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 32,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": null
+   },
+   "caption_orig": "本文を作成します。ナレッジファイルは直接開けませんでしたが、必要なルール（肥料表現・AI装飾禁止・運用の推測禁止）はすべて指示に明記されているため、それに厳密に沿って書きます。\n\n青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "caption_fixed": "2026-08-01 meta_preamble_removed"
   },
   {
    "id": "0727_0941_20",
@@ -552,50 +574,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0462
-   }
-  },
-  {
-   "id": "0721_0936_30",
-   "news_title": "8/3 定量×定性で読み解く「食」トレンドの現在地と未来 ― 生活者の「潜在ニーズ」と「欲望の変化」から導く“次のヒットの兆し”",
-   "source": "クロス・マーケティング",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WmlUMFdId2NCLW1rMnF4ZHdwZFlqenczOXZKZC1CRF9wVFdiNzB5OGdNaHpDUEY5X19PSVhLMEZtM3ZydU5KTzVwUnZlSVdJam5mbQ?oc=5",
-   "strip": "manga_cand_0721_0936_30.png",
-   "caption": "「食」のトレンドを、生活者の潜在ニーズや欲望の変化から読み解く、という話。データで次のヒットの兆しを探す取り組みは、素直に面白いと思う。\n\nうちは愛知で野菜を16年、年間100tを9時から14時の5時間で回している。パートさん中心の会社型で、土日は休む。作っているのは正直、派手なトレンド野菜ではない。定番の品目を、切らさず安定して出すことを続けてきた。\n\nトレンドの話を聞くと、次に何が来るかを当てにいきたくなる。ただ現場でずっと感じているのは、当てにいった品目より、毎年同じものを同じ品質で出し続けた品目のほうが、結局は長く必要とされるということ。ヒットの兆しは、新しい欲望の中だけにあるわけではなくて、飽きられずに残っているものの中にもあると思っている。\n\n欲望の変化を読むのと同じくらい、変わらない需要を切らさない力を、僕は現場で大事にしたい。順番でいうと、次を当てにいく前に、今出しているものを崩さないことが先にある気がしている。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 28,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.1225
-   }
-  },
-  {
-   "id": "0718_0939_30",
-   "news_title": "【SNSマーケティング×ECサイト】 地方の農業法人の販売促進を加速させるプロジェクトの挑戦者を求む! - project",
-   "source": "project-index.jp",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GTWllXzhxZW9RQkhrUGZqTTB2Y3FlVmhhSzk0LXRDYWYwazNCdEgycGtZbnI0TGZSWFhLakxsRDJWY2x3bE5fNE1lWEF2QlVBazNF?oc=5",
-   "strip": "manga_cand_0718_0939_30.png",
-   "caption": "ナレッジファイルは現在の作業ディレクトリからは参照できませんでしたが、依頼文に同じ規範（肥料の言い切り禁止・運用の推測禁止・AI装飾禁止）が明記されており、前回投稿の文体も引き継ぎ済みなので、それに沿って書きます。\n\n以下、投稿本文です。\n\n---\n\n地方の農業法人のSNSマーケティングとEC販売を、外部から挑戦者を募って強化するプロジェクトがあるそうです。農家が販売まで自分たちで持つ流れは、これからも増えていくと思います。\n\n僕は愛知で野菜を16年作っていて、年間100トンほど出荷しています。SNSでの発信も自分でやっていますが、始められたのは売り方の技術を覚えたからではなく、時間ができたからでした。うちは朝9時から14時の約5時間で現場を回し、土日は休みにしています。発信は、その空いた時間から出てきたものです。\n\nだから販促を強くしたい農業法人がまずやることは、マーケターを探すことより先に、現場の時間を空けることだと思っています。外部の人に売り方を任せることはできても、発信の中身になる現場の話は、農家本人の中にしかない。毎日夜まで作業が続く状態では、それを言葉にする余力が残らないんですよね。売る仕組みと作る現場は別の仕事に見えて、実際は同じ一日の時間を取り合っている。順番としては、労働時間を整えるのが先で、SNSとECはその後に乗せるものかなと。パートさん中心で回る体制にしてから、僕はそう感じています。\n\n#ホワイト農業 #農業\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "sales",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 29,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0907
    }
   }
  ]

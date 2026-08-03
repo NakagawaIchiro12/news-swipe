@@ -1,6 +1,138 @@
 {
  "items": [
   {
+   "id": "0803_0939_25",
+   "news_title": "2026年熊本地震＞パイプ破損で農業給水対策 氷川土地改良区、水路からポンプでくみ上げ 断水続く氷川町（熊本日日新聞）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U19PYmlldXkxeDcxckg1Sm9mcHUtcjZyei1pMDZ6X3FodE1hZm1BZ0I0cC1hd2ZnTnlYcjVBa2tQRFhUbG1IR0lmRjRfZThQNzNrNFFkTzFxXzVyQ21WcnZYMUlybzN5YVpZTC0tTGJ3OFlLaG1CRHNxRV9yM2s?oc=5",
+   "strip": "manga_cand_0803_0939_25.png",
+   "caption": "熊本の地震でパイプが破損して、土地改良区が水路からポンプで水をくみ上げ、農地に届けているそうです。断水が続く中での応急対応で、頭が下がります。\n\n僕は愛知で16年野菜を作ってきて、水で本当に困った記憶がほとんどありません。蛇口をひねれば水が出る前提で一日の段取りを組んでいますし、9時から14時で仕事を終えられるのも、水や道や電気が普通に動いていることの上に成り立っています。\n\nこういう時に注目されるのは復旧の速さですが、僕が気になるのは、壊れた時に「水路からくみ上げる」という代替案をすぐ形にできた人たちの方です。どこに水路が通っていて、どこから引けば田畑に届くのか。それを知っている人が地域にいたから動けた対応だと思います。災害への備えというと設備の話になりがちですが、順番としては先に、水の通り道を知っている人を絶やさないこと。僕の5時間労働も、止まらない基盤を保ってくれている人たちがいて、その次にある働き方です。\n\n#農業ニュース #100t農家\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 32,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.0221
+   }
+  },
+  {
+   "id": "0803_0939_34",
+   "news_title": "2026年上半期\"食トレンド\"ランキング1位は「冷凍ストック」! 下半期は「直パケレシピ」「ネオ厚揚げ」「ドリンク調味料レシピ」がブームに?",
+   "source": "マイナビニュース",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYWlg5ZG9SQ2JDZk1LMVhjR0U0N3Z3NFhIVnQ0OE1ienowM25nV3hRbjRGZ2t1Y3BwbzhUUS1Yc0JtZkkwaW92czlNMGhGWUFzV3ZsUXk3WS1IbEc3?oc=5",
+   "strip": "manga_cand_0803_0939_34.png",
+   "caption": "2026年上半期の食トレンド1位は「冷凍ストック」だったそうです。下半期は袋のまま調理する直パケレシピや、厚揚げのアレンジ、ドリンクを調味料に使うレシピが来るという予想でした。\n\n僕は愛知で野菜を作って16年になります。冷凍ストックが広がるのは、農家として素直にありがたい流れです。野菜が「その日使う分だけ買うもの」から「多めに買って保存しておくもの」に変われば、買われ方が安定してくるからです。\n\nただ、このランキングを見て思うのは、流行しているのは料理そのものではなく、時間の使い方のほうだということです。冷凍ストックも直パケも、共通しているのは調理の手間を先に減らす工夫で、レシピは後からついてきています。僕も9時から14時の約5時間で仕事を終えるために、先に時間の枠を決めて、作業をその中に収まるよう組み直してきました。順番は台所も畑も同じで、先に時間を設計した人から楽になっていくのだと思います。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 31,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.0741
+   }
+  },
+  {
+   "id": "0803_0939_9",
+   "news_title": "N.THING、AI農業プラットフォームの受注を拡大…スマートファーム・バイオ・教育分野への進出を加速",
+   "source": "korit.jp",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2hGaDhoV245VnBoRkNJcFNmYnltdkxwMmVyX2ZoY010TTZUcnJITHpGNmg4TFZMRmFwcWxHSWpiRE9obUhhRzg3OUYzaXlaZ0paMVFZS2R1Z25qRVY2YVVEMnpGeTk3RlB1eWY5Y1FPRkQ4ajdYal9UdVdCXzZBRXNVdGJyaHc?oc=5",
+   "strip": "manga_cand_0803_0939_9.png",
+   "caption": "N.THINGがAI農業プラットフォームの受注を伸ばして、スマートファームに加えて教育分野にも広げているというニュースを見た。プラットフォームが売れるだけでなく、使い方を教える側の需要も育ってきているということだと思う。\n\n僕も現場でAIを使っているけど、効いているのは栽培の判断そのものより、段取りや指示書づくり、発信の下書きといった周辺の仕事が多い。ここが軽くなるだけで一日の組み立てはだいぶ変わる。\n\nただ、順番は間違えたくない。プラットフォームを入れたら農業が変わるのではなくて、先に仕事の流れを整理して、人がやらなくていい部分をはっきりさせてから道具を入れる。そこが曖昧なまま導入すると、高い仕組みを現場が持て余すことになりやすい。僕が9時から14時の約5時間で年間100tを回せているのも、道具より先に作業の順番とパートさんの分担を整えてきたからで、AIはその上に乗せたものだった。だから教育分野に進むという方向には納得感がある。先に教えるべきは道具の操作より、仕事の組み立て方なんだと思う。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1054
+   }
+  },
+  {
+   "id": "0803_0939_12",
+   "news_title": "住友商事とNTT e-Drone、国産農業用ドローンの普及拡大で連携を開始",
+   "source": "ビジネスネットワーク",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSdXJZWEQ5WlJIdTFWWElwcm5IQ0dWelJZbS1XNi1tNkJCWU5QMUhLdXhydDFHQ3RKckJqdEhPckRWVU1oNkZMUUszX3FVT2JTYlVr?oc=5",
+   "strip": "manga_cand_0803_0939_12.png",
+   "caption": "住友商事とNTT e-Droneが、国産の農業用ドローンを広げるために連携を始めたそうだ。国産で保守や部品の心配が減るなら、現場としてはありがたい流れだと思う。\n\n僕は愛知で野菜を作って16年になるけど、新しい道具の話が出るたびに感じるのは、道具そのものより「どの作業を手放すか」を先に決めている農家ほど、導入がうまくいくということ。うちでAIが現場に定着したのも、先に仕事を分解して、人がやらなくていい部分をはっきりさせてあったからで、道具はその空いた穴にはめただけだった。\n\n順番は逆に考えられがちで、いい機械を買えば楽になるはずだと入口から入ると、今度は機械に自分の仕事を合わせる側になって、かえって忙しくなることがある。僕が9時から14時までの約5時間で年間100tを回せているのは、道具が優秀だからというより、道具を入れる前に「やめる作業」を決めてきた積み重ねが大きい。ドローンが普及する前に、自分の畑のどの時間を空けたいのか。そこから考えると、選ぶ機種も使い方も変わってくる気がする。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "drone",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.1083
+   }
+  },
+  {
+   "id": "0803_0939_14",
+   "news_title": "高校軟式野球四国大会 新田が20度目の優勝、香川誠陵・農業経営を大差で破る",
+   "source": "愛媛新聞",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JcGRmV0h0bm9LaVBkSDRNV0JYWFZMYVliLUF0VFJjb3JwRnY4cHFxZzV5R2kzZXRXM0xnR0NnaS1vZ0JmX3hjZ2xVWWhpNlJOZ0VkNy1tUDBfcnNZTlVVaA?oc=5",
+   "strip": "manga_cand_0803_0939_14.png",
+   "caption": "高校軟式野球の四国大会で新田が20回目の優勝というニュースの中に、「農業経営」という校名があった。農業経営高校が決勝まで勝ち上がっていて、負けはしたけれど、この名前が野球の見出しに載ること自体がいいなと思う。\n\n僕は農業高校の出身ではなく、未経験から野菜農家を始めて16年になる。始めた頃は栽培の技術さえ覚えれば食べていけると思っていたけれど、実際に楽になったのは、作り方より先に売り方と時間の設計を見直してからだった。今は9時から14時の約5時間で年間100tを出荷して、土日は休み。パートさん中心の体制で回っている。\n\n農業は「まず栽培、経営はあとから」という順番で語られやすい。でも僕の実感では逆で、先に経営、つまり時間と人の設計を決めて、そこに栽培を合わせた方が無理がなかった。技術は毎年更新できるけれど、働き方の土台は最初に決めたものが長く残る。校名に経営を掲げた高校が普通に野球で強い、それくらい農業と経営が並んで語られるのが当たり前になると、これから始める人の景色は変わると思う。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0792
+   }
+  },
+  {
+   "id": "0803_0939_31",
+   "news_title": "【福島発の地方創生】福島大学発ベンチャーがORENDA WORLD（オレンダワールド）と連携し、福島県内の復興支援地域で「半農半テック」実証実験を実施予定",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SRGkwUTU1TlJZcVFselctU050UlZPRHNscGIwX1lQdU1ZZURFQlVpckhDTk0xMFNRQ0F6VlE1YlByWEJtV3hvaXcyLVR4NFhDMXdrLUx1N0JoVWY3Rk1JNEMyRjRLZDJkeFE?oc=5",
+   "strip": "manga_cand_0803_0939_31.png",
+   "caption": "福島で「半農半テック」の実証実験が始まるというニュースを見ました。福島大学発のベンチャーがIT企業と組んで、農業と技術の仕事を半分ずつにする暮らしが復興支援地域で成り立つか、実際に試すそうです。\n\n僕は愛知で野菜を作って16年になります。朝9時から14時までの約5時間で畑を回し、パートさん中心の体制で年間100トンを出荷して、土日は休み。午後はAIを使った発信や事務にあてているので、感覚としては僕も半農半テックに近い働き方かもしれません。\n\nただ、順番は逆じゃないかと思っています。「農業のかたわらでテックを」ではなく、先に段取りや道具で農業を短時間で回る形に整えて、空いた午後にもう一つの仕事を置く。農業側の設計が甘いまま二つを並行すると、繁忙期にどちらも中途半端になりやすい。実験で確かめてほしいのは、時間を半分にしても成り立つ農業の組み立て方そのものだと思います。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0403
+   }
+  },
+  {
    "id": "0802_0938_26",
    "news_title": "令和8年度地域農業構造転換支援事業の要望調査について",
    "source": "vill.kijimadaira.lg.jp",
@@ -198,116 +330,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0804
-   }
-  },
-  {
-   "id": "0723_0936_30",
-   "news_title": "北部地方振興事務所農業農村整備部公式Instagramを開設しました！",
-   "source": "pref.miyagi.jp",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tVkZKSndMOTBSa0RJQURCT0lfMXlGUjEydHRFMmVCRHFDNzA3b3lKXy1KaHZqRW11eXViTmZhdUZybm8yS2UteVVEV1EtSGhYVFkwbkVJZHktb2NHdHNCX21zRFo1RE1PcVk0N0ZGZW1MSERB?oc=5",
-   "strip": "manga_cand_0723_0936_30.png",
-   "caption": "宮城県の北部地方振興事務所が、農業農村整備部の公式インスタを開設したらしい。\n\n役所が自分たちで写真を出して発信する。少し前までは考えにくかったことだと思う。\n\n僕も現場のことをSNSに出すけど、正直、一番むずかしいのは続けることだ。農繁期は畑が最優先で、投稿はどうしても後回しになる。最初の勢いだけで止まってしまう発信を、これまで何度も見てきた。\n\nただ、行政の発信って、立派な完成事例を並べるより、工事の途中とか、地味な整備の一枚のほうが、現場には届くんじゃないかと思う。用水路や農道が、誰にどう直されているか。農家は意外と知らないままだったりする。\n\n僕が思うのは、発信は「見せる順番」で価値が変わるということだ。きれいな結果から見せると宣伝になるけど、地味な過程から見せていくと、続けるほど信頼に変わっていく。\n\n役所の発信こそ、その過程を出せる強みがあるはずだ。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": 31,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0492
-   }
-  },
-  {
-   "id": "0723_0936_13",
-   "news_title": "「失敗は宝物」――農業を経営に。地域貢献を目指す熊本県のトマト農家の飽くなき挑戦",
-   "source": "コマースピック",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyaGxObTVuN2xFbGxKQmVFaklzeFZISGZTa0F3NTI1OUpRQi1sWmFHR2c1WDZmTVJacnduVjN4YnpVcnBsZThsY3NDcmYwWGNsUndac09n?oc=5",
-   "strip": "manga_cand_0723_0936_13.png",
-   "caption": "「失敗は宝物」という言葉、農家として素直に頷けた。熊本のトマト農家が、農業を経営として捉えて地域に貢献しようと挑戦してるらしい。\n\n僕も16年やってきて、失敗の数だけ今の形がある。うまくいった年より、うまくいかなかった年のほうが後になって効いてくる。\n\nただ、一つ思うのは順番のことだ。僕は「経営」を先に立てたから、朝9時から2時までの半日で回して土日も休む働き方に落ち着いた。栽培の腕を上げることばかり考えてた頃は、時間も体力もいくらあっても足りなかった。\n\n技術は失敗から積み上がる。でも、その失敗を続けられる体力とお金を残してくれるのは経営のほうだと思う。腕を磨くより先に、パートさんが無理なく働ける仕組みを整える。順番を逆にすると、本当は宝物になるはずの失敗が、ただの消耗で終わってしまう気がする。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.06
-   }
-  },
-  {
-   "id": "0723_0936_18",
-   "news_title": "１９歳、農業経営者に 北海道栗山町・中仙道怜さん 高校卒業後すぐ祖父の後継ぐ",
-   "source": "日本農業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sVHhhQjJITWdfS3NwSDhTcmRxVzJMRXk1Ti1MQXJmV1VRNm1YMnJWMUhsRzlHOGRGcDRrblR0Vk0yeXVPNWVPTzJ5Ym9BcUdsaWxqVVVPQVFMN1E?oc=5",
-   "strip": "manga_cand_0723_0936_18.png",
-   "caption": "19歳で高校を出てすぐ、祖父の農業経営を継いだという記事を読んだ。北海道栗山町の話だ。若い人が現場に入ってくるのは、単純に嬉しい。\n\n僕は愛知で野菜を作って16年になる。年に100トンを、朝9時から2時までの約5時間で回して、土日は休んでいる。パートさん中心の会社型でやっている。\n\n継ぐ側の若さは、たいてい体力として期待される。朝から晩まで動けるうちに稼げ、と。でも僕は逆だと思っている。体力で回す農業は、体力が落ちた時に一緒に落ちる。若いうちにやるべきは、力仕事の量を増やすことじゃなくて、自分がいなくても回る仕組みを先に組むことだ。\n\n順番が大事で、休みや短い労働時間は「余裕ができたら」ではなく、最初に決めてしまう方がいい。僕も始めから半日で終える前提で畑を設計してきた。19歳という時間の長さを、体力ではなく仕組みに使えたら、その人は40年戦える農家になると思う。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0864
-   }
-  },
-  {
-   "id": "0722_0935_21",
-   "news_title": "農業経営人材の育成に向けた官民協議会",
-   "source": "maff.go.jp",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T3JYbFhJOWVoaVNneTV1VmEycHQteFNoWHN1SkxqR2VSSThyOE5NbHFMdTkyN0M4S1RUSGd0M0dScDBncHVoODAtQzh0SXJwTG9rX2dneXViOE1idlJXdQ?oc=5",
-   "strip": "manga_cand_0722_0935_21.png",
-   "caption": "国が、農業経営を担う人材を育てるために官民の協議会を立ち上げるらしい。\n\n人を育てるという話は、いい方向だと思う。ただ現場にいると、順番が逆になりがちだと感じる。\n\n僕は野菜農家を16年やってきて、いまは年間100トンを、9時から14時の約5時間で回している。土日は休む。動かしているのは僕一人ではなく、パートさんたちだ。\n\nはじめから経営がわかる人を探そうとすると、たいてい見つからない。そうではなく、普通の人が普通に働けて、続けられる仕組みを先に作る。人はそのあとから育つ、というのが僕の実感だ。\n\n長い時間、休みなく働くことが前提の農業では、どれだけ研修をしても人は残らない。半日で終わって、土曜も日曜も家にいられる。まずそこを整えるほうが、経営人材の育成よりずっと手前で効いてくると思っている。\n\n育てる前に、続けられる形にする。順番はそっちが先だと感じている。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0812
-   }
-  },
-  {
-   "id": "0722_0935_9",
-   "news_title": "北海道・十勝AI農業、国家戦略特区の指定に前進 「宇宙特区」も",
-   "source": "日本経済新聞",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBOThpLUNJYXpSYUg1SmF2M3ZNNnI2cXctRzdoOU5WdVIzWVYyUU9ReHdWcnZQQXUyclNkQVFiRVdzVFh0WTRXdWQyYUtZR0EzVV9wRUt2RGF3WDdNVHhzbF9nRzZjZHNTNDlyYg?oc=5",
-   "strip": "manga_cand_0722_0935_9.png",
-   "caption": "十勝がAI農業で国家戦略特区に前進、宇宙特区という言葉まで出ていた。\n\n響きは大きいけれど、僕の現場での実感は少し違うところにある。\n\n僕も毎日AIを使って野菜を作っている。病気の見分けや作業の段取りを相談するだけで、頭がずいぶん軽くなる。ただ効いているのは、特区みたいな大きな仕組みより、スマホで一つ聞くだけの小さな習慣のほうだ。\n\n特区や宇宙と聞くと、どうしても遠い誰かの話に感じてしまう農家さんは多いと思う。設備も制度も、たしかにあれば強い。でも本当に現場を動かすのは、その手前にある「まず一回さわってみる」の一歩な気がしている。\n\n僕は順番が逆なんじゃないかと思う。大きな枠組みを先に整えるより、目の前の一人が今日スマホでAIに一つ聞けること。そっちのほうが、たぶん早く効いてくる。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 31,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 4,
-    "n_hand": 1,
-    "body_edge_density": 0.1339
    }
   },
   {

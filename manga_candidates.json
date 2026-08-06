@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0806_0938_11",
+   "news_title": "地方、農業 置き去り 自治体 福祉の財源見えず",
+   "source": "福井新聞社",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FT2FRSXJ5MkJyV3RmYS1DZmNLOE9jQm8yWm50VGhqSzNnNmVpc3V1V3V5MHRlaUE5dWl3eVEzZUc2ODRidmlxWV9waVJkSnhsMkZoM3pmY0U2RXZidFE?oc=5",
+   "strip": "manga_cand_0806_0938_11.png",
+   "caption": "地方と農業が置き去りで、自治体の福祉の財源も見えない。そんな記事を読みました。\n\n農業の予算の話になると、たいてい「いくら出すか」の話になります。ただ現場にいると、お金が来ても人がいなければ何も動かない場面のほうが多い。機械を入れる補助はあっても、その機械を動かす人が来年も来てくれるかどうかまでは、誰も見てくれません。\n\n僕は年間100t出していますが、9時から14時までの約5時間で回しています。土日は休みです。それができているのは、うちのパートさんが続けてくれているからで、続いている理由は特別な待遇ではなく、単にその時間なら働けるからです。子どもを送って、迎えに行くまでに終わる。それだけのことです。\n\n順番が逆なんだと思っています。産業を守るために人を集めるのではなく、人が暮らせる働き方があるから産業が残る。福祉の財源が見えないという話も、結局は同じで、その土地に住み続けられる仕事があるかどうかの話です。農業は、その仕事になれる側にいると思っています。置き去りにされる前に、置き去りにされない働き方を先に作るしかない。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0911
+   }
+  },
+  {
+   "id": "0806_0938_19",
+   "news_title": "農業インフラの被害２千カ所に 熊本地震、水路やため池で深刻",
+   "source": "okinawatimes.co.jp",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84YXlyaGtpTzh6YTF1VXZvQVRuemhWYnpxa2VEODVyWHhWU293UUhaV1FtZTRiek14TWxoY3RtTjJaZGpyOHhPYU1VTmJ5Z1dYeGpXSzRmanlBekJkYnc?oc=5",
+   "strip": "manga_cand_0806_0938_19.png",
+   "caption": "熊本地震で、農業用の水路やため池の被害が2千カ所を超えているそうです。\n\n畑そのものは無事に見えても、水が来なければ何も作れません。水路は普段いちばん意識されない設備だと思います。蛇口をひねれば出るものとして、みんな当たり前に使っています。\n\n僕は愛知で野菜を年間100トン出していますが、うちも用水が止まれば、その日から全部止まります。ハウスも露地も、水の上に乗っているだけです。\n\nこういう記事を見ると、まず復旧のスピードに目が行きます。ただ現場で考えると、順番が逆なのかもしれません。壊れてから直す話の前に、壊れたときにどうするかを決めているかどうか。\n\n僕は経営の話をするとき、いつも人と時間の設計から入ります。9時から14時で回す、土日は休む。そこばかり見ていました。でも水と電気が止まった日の段取りは、正直あまり決めていません。\n\nパートさんに来てもらう以上、来たけれど作業ができない日をどう扱うかまで含めて考える必要があります。\n\nインフラは行政の話に見えて、実際には自分の経営計画の中にある話だと思います。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0797
+   }
+  },
+  {
    "id": "0804_0937_25",
    "news_title": "農業経営人材の育成に向けた官民協議会",
    "source": "maff.go.jp",
@@ -284,52 +328,6 @@
     "n_face": 4,
     "n_hand": 1,
     "body_edge_density": 0.1965
-   }
-  },
-  {
-   "id": "0727_0941_23",
-   "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
-   "source": "三菱UFJリサーチ&コンサルティング",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5",
-   "strip": "manga_cand_0727_0941_23.png",
-   "caption": "自治体が企業や農業法人を積極的に誘致する時代になったというニュースを読んだ。土地や補助金を用意してまで来てほしい産業として農業が扱われるようになったこと自体は、悪い変化ではないと思う。\n\n僕は愛知で野菜を作って16年になるけど、企業参入の話はこれまで何度も見聞きしてきた。続く所と数年で撤退する所の差は、資本の大きさよりも、現場で働く人が無理なく続けられる設計になっているかどうかにあるように見えた。\n\n誘致する側も参入する側も、まず農地と設備の話から入りがちだけど、順番は逆だと思っている。先に決めるのは働き方の方で、うちは9時から14時の約5時間で年間100tを出荷して、土日は休み、現場はパートさんが中心で回っている。この形を先に置いたから、そこに収まるやり方を選んでこられた。企業が農業に持ち込む価値があるのは資金の量より、人が辞めない働き方を設計する力で、それがある会社なら誘致は地域にとって良い話になると思う。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 0,
-    "body_edge_density": 0.1307
-   },
-   "caption_orig": "ナレッジファイルは権限の関係で直接開けませんでしたが、指示文の【厳守】欄に同じ内容（肥料の言い回し・AI装飾禁止・運用の推測禁止）が明記されているので、それに従って書きます。\n\n自治体が企業や農業法人を積極的に誘致する時代になったというニュースを読んだ。土地や補助金を用意してまで来てほしい産業として農業が扱われるようになったこと自体は、悪い変化ではないと思う。\n\n僕は愛知で野菜を作って16年になるけど、企業参入の話はこれまで何度も見聞きしてきた。続く所と数年で撤退する所の差は、資本の大きさよりも、現場で働く人が無理なく続けられる設計になっているかどうかにあるように見えた。\n\n誘致する側も参入する側も、まず農地と設備の話から入りがちだけど、順番は逆だと思っている。先に決めるのは働き方の方で、うちは9時から14時の約5時間で年間100tを出荷して、土日は休み、現場はパートさんが中心で回っている。この形を先に置いたから、そこに収まるやり方を選んでこられた。企業が農業に持ち込む価値があるのは資金の量より、人が辞めない働き方を設計する力で、それがある会社なら誘致は地域にとって良い話になると思う。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "caption_fixed": "2026-08-01 meta_preamble_removed"
-  },
-  {
-   "id": "0726_0937_28",
-   "news_title": "「物価高騰対応重点支援地方創生臨時交付金」を活用した農業者への支援について",
-   "source": "city.fukaya.saitama.jp",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyUUx0Ukp2U0JaMjhIWTRSeXlMODdsMTBuQ1JHak9JVkVvdW9hWVNzdUVGdTNtb2RIckc4TG16bmYycGV1NUtQVHRBLWtGc2ZvVldXX2k3WWpjVjhKRnU4Yk5R?oc=5",
-   "strip": "manga_cand_0726_0937_28.png",
-   "caption": "埼玉県深谷市が、物価高騰対応重点支援地方創生臨時交付金を活用した農業者向けの支援について案内を出しています。\n\nこの交付金は、国から自治体に配られたお金を、その地域の実情に合わせて使える仕組みです。だから中身は市町村ごとに違います。肥料や燃料の値上がり分に対して出るところもあれば、対象品目や規模で線が引かれるところもある。深谷市の場合も、市の案内に条件が書かれています。\n\n僕は愛知で野菜を作って16年になりますが、この手の支援は、内容を確認するタイミングがけっこう大事です。申請期間が決まっていて、書類も揃える必要があるので、知ったときには締め切りが近い、ということが起こります。\n\n現場では、こういう情報はJAや普及所の人から聞く人、市の広報で気づく人、周りの農家から回ってくる人と、入り口がばらばらです。同じ市内でも知っている人と知らない人がいる、というのはよくあります。\n\n支援があるかどうかより、自分の市はどうなっているかを一度見に行くほうが早い。制度そのものは全国共通でも、使われ方は地元の窓口で決まっています。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0706
    }
   },
   {

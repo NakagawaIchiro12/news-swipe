@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0808_0507_22",
+   "news_title": "農業経営基盤の強化の促進に関する基本方針について",
+   "source": "pref.kagoshima.jp",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGhVWXdyX0FQREdOYm1lU29URlpqZDM1aFNncXRGZndHMXAyMENUUzZKSEFPMGZOTzBod3hTYmRoc3d5VGF4Tk0wNm1SQ2dyTUdWWmt2WXdKU1VMREJnYjRHNXBobkRNZDdMTWpMcldaczFYcHlVVVVWY0tkZWxzZ1gwZy1leFluVFRyenUwRWtCU1Q0a1M0dQ?oc=5",
+   "strip": "manga_cand_0808_0507_22.png",
+   "caption": "鹿児島県が、農業経営基盤の強化に関する基本方針を出したそうです。\n\n担い手をどう育てて、農地をどうまとめていくか。県として方向を示す文書だと理解しています。\n\nこういう方針を読むたびに思うのは、農業の課題はだいたい「人」に行き着くということです。設備や品種の話より先に、誰がその畑を続けるのか。ここが決まらないと何も積み上がりません。\n\n僕は愛知で野菜を年間100トン出していますが、担い手が僕一人だったら、この量は絶対に無理です。パートさんが中心で回っていて、朝9時から14時までの約5時間で終わる。土日も休みます。だから続けられている。\n\n「担い手を確保する」と聞くと、新しく農業をやりたい人を探す話に聞こえます。でも僕の実感では、順番が逆かもしれません。まず今いる人が辞めない働き方をつくる。長く働ける現場になって初めて、新しい人が入ってきても定着する。\n\n規模を大きくしてから人を集めるのではなく、人が続く形をつくってから規模がついてくる。16年やって、その順番でしか伸びなかったと感じています。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.0864
+   }
+  },
+  {
    "id": "0806_0938_11",
    "news_title": "地方、農業 置き去り 自治体 福祉の財源見えず",
    "source": "福井新聞社",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 5,
     "body_edge_density": 0.1209
-   }
-  },
-  {
-   "id": "0727_0941_22",
-   "news_title": "農産物トレンド予想の裏側！マーケティングと農業の未来（オイシックス）（『農のミライ』）",
-   "source": "radiko news",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RYjRYNkNzWVZqVGRNR01RLXhPMFMwQW1HbFVuWEZjMzJMWS00dGRzT01qYUoyV1FBaWtJNkdWcVJ2bThSWVFYcXlXTXhPQzV5ZFdma1o0a1NiNnJkdFhJ0gFkQVVfeXFMT2J3dDhsdDdOTzZQaU94UjF4Z1ZxNzdpRGRNMFVSSzY1NmY4TWppMUxpRkFCbWp5THFjaGJQR0lMdEUwNTBkU2lrWU9NUXBlU0J3MWx5SmM2T0xnSTVEeUp5RVFhWQ?oc=5",
-   "strip": "manga_cand_0727_0941_22.png",
-   "caption": "農産物のトレンド予想をどう立てているのか、オイシックスのマーケティングの裏側が紹介されていました。何が求められるかを先に読み、産地と一緒に準備を進めていくやり方だそうです。\n\n僕は愛知で16年、年間100トンの野菜を出荷しています。朝9時から14時の半日労働が成り立っているのは、栽培の腕より先に「何をどれだけ作るか」の計画を固めるようになったからです。作る前に決めることを増やすほど、畑に出てからの迷いは減ります。\n\n農家はつい、作ってから売り方を考えがちです。でも順番は逆で、需要から逆算した方が畑の段取りまで軽くなる。ただ、トレンドは追いかけるものというより、定番を安定して出せる土台の上に少しだけ乗せるものだと思っています。流行の品目に作付けを寄せすぎると、外れた年の立て直しが大変になる。予想は当てるために見るのではなく、外れても困らない構えを作るために見る。マーケティングは売る側だけの仕事ではなく、作る順番を決める仕事でもあると感じています。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 34,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 4,
-    "n_hand": 1,
-    "body_edge_density": 0.1965
    }
   },
   {

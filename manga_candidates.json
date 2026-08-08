@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0809_0508_14",
+   "news_title": "「お米大好き！」農業の魅力や食の大切さを知って…南国市で子どもたちが稲刈り体験【高知】",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YQmRkVjhBaWZjS3ZzY1lFeWxua2YyT3YyRTRrbzVTOUYwZHdxazBqbGFzeE5pSm5EUU1sdVFDN3QwSzhpdWp4cWFja2FfMDAzSG5OS2NtUVB5ZGp2TVJZa3RiODk?oc=5",
+   "strip": "manga_cand_0809_0508_14.png",
+   "caption": "高知の南国市で、子どもたちが稲刈りを体験したそうです。\n\n僕もこういう体験の場は続いてほしいと思っています。ただ、農業の魅力を伝える順番としては、少し引っかかるところがあります。\n\n子どもが見るのは、たいてい収穫の日だけです。楽しい、おいしい、で終わる。その裏にある、朝から晩まで働いても休みが取れない、という部分は見えません。むしろ大人が「農業は大変だ」と言い添えてしまうことすらあります。それだと、好きになった気持ちが後から冷めます。\n\n僕は朝9時から14時までで畑を回して、土日は休んでいます。年間100t出しています。一緒に働いてくれているパートさんが、無理なく続けられる形を優先してきた結果です。\n\n伝えるべきは「大変だけどやりがいがある」ではなくて、「こういう働き方でも成り立つ」という事実のほうだと思っています。\n\n魅力を先に見せて、あとから現実で落とすより、現実のほうを先に変えておく。子どもたちがいつか職業として考えたとき、選択肢に残るのはそっちです。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0655
+   }
+  },
+  {
    "id": "0808_0507_22",
    "news_title": "農業経営基盤の強化の促進に関する基本方針について",
    "source": "pref.kagoshima.jp",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0786
-   }
-  },
-  {
-   "id": "0730_0935_17",
-   "news_title": "農業の大規模化で失敗しないために｜規模拡大前に考えたいこと",
-   "source": "農業とITの未来メディア",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eUVuaXIwX2JIcTRNYWtMSkJ5UlcyamhBb2lrVzBCMzdaQUNsdkZEY2FjdGM1bVRPVFk1SjJzVXA5anpuZkJONWFxbnZ4cFJjZldJ?oc=5",
-   "strip": "manga_cand_0730_0935_17.png",
-   "caption": "大規模化で失敗しないために、という記事が出ていました。規模拡大の前に考えたいこと、という切り口です。\n\n僕も愛知で16年やってきて、年間100トンまで来ました。ただ、面積を増やしたから100トンになった、という順番ではないと思っています。\n\n先に整えたのは、人の回し方でした。9時から14時までの約5時間で終わる形にして、土日は休む。パートさんが無理なく続けられる状態を作ってから、量を増やしていった。順番が逆だと、面積が増えた分だけ現場がきつくなって、人が辞めて、結局まわらなくなる。畑は残るのに人がいない、という状態がいちばん怖いです。\n\n肥料や資材も同じで、規模が大きくなるほど「なんとなく」が効かなくなります。有機の比率を下げると安定する場面もあるし、化成だけでいいわけでもない。どちらも必要で、規模に合わせて選ぶものだと思っています。小さいうちは勘で吸収できたことが、大きくなると全部コストとして出てくる。\n\nだから規模拡大は、増やす計画より、増えても壊れない形を先に作る話なんじゃないかと思います。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 5,
-    "body_edge_density": 0.1209
    }
   },
   {

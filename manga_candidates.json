@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0812_0506_1",
+   "news_title": "アグリテック市場｜AI×精密農業で変わる「播種→収穫」の次世代農業",
+   "source": "Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUNLZ3lTc19iZlRPaGFlcVhIZWliTThmWGVyS0NWYkZIOU5DdHEzN2tEWEwwck92SmxxUEl4YVRTNXVpOWdMNDR0N0QxN19sWXU5YU9CTmxVVW9maEVlRi1BTXBMQUhxazdYZXladzFSMTNiWTJjcXl5SjdKTTN2Y041OG5yYXktbEV2VU1zRl9CZw?oc=5",
+   "strip": "manga_cand_0812_0506_1.png",
+   "caption": "AI×精密農業で、播種から収穫までデータで最適化する。市場としては伸びる分野だと思う。\n\nうちも現場でAIは使っている。ただ、入れてみて分かったのは、AIが効くのは「判断の数を減らした後」だということ。\n\n僕のところは9〜14時の約5時間で年間100t出す。土日は休む。それができているのは、パートさんが迷わない形まで作業を単純にしてあるから。誰がやっても同じ結果になる状態を先に作って、そこにAIを乗せると効く。逆にバラバラなままデータを取っても、出てくるのは「バラバラです」という事実だけで、現場は何も変わらない。\n\n肥料の設計も似ていて、有機の比率を下げると安定する場面はあるけれど、有機も化成もどちらも要る。規模と人手で選ぶ話だと思っている。ここもAIに答えを出させる前に、自分の畑で何を測るかを決めるほうが先だった。\n\n技術が先で人が後、ではなく、人の動きを整えてから技術を足す。順番を逆にすると、高い道具が現場で止まる。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.1532
+   }
+  },
+  {
    "id": "0809_0508_14",
    "news_title": "「お米大好き！」農業の魅力や食の大切さを知って…南国市で子どもたちが稲刈り体験【高知】",
    "source": "TBS NEWS DIG",
@@ -265,28 +287,6 @@
    }
   },
   {
-   "id": "0731_0938_13",
-   "news_title": "愛知・田原市が6年ぶり「農業産出額」全国1位奪還 過去最高933.6億円を記録 猛暑によるキャベツの価格高騰が要因か 農水省「市町村別農業産出額」発表（中京テレビＮＥＷＳ）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94NlJfRTUxaGNiR25OWXpLRmdleUgxZ0hZc083TkY5TGpFOUZUTkFZWFNGcHZCd3FLZVdHNXhqb3BlSVpZdGZ0Z1lCUmtxRTlCTmM1NFBCUks0cTFfODdmZVM0VVpQNFF5bUFqVkRNOHNZMnV3UjZNX1ExX0g4RFE?oc=5",
-   "strip": "manga_cand_0731_0938_13.png",
-   "caption": "田原市が農業産出額で全国1位に戻った、という記事でした。過去最高の933.6億円。農水省が出している市町村別の産出額の統計です。\n\n同じ愛知でも田原はキャベツや花き、施設野菜が集まっている地域で、記事では猛暑によるキャベツの価格高騰が要因と見られています。\n\nここは少し補足がいるところだと思っていて、産出額というのは「その市町村で生産された農畜産物をお金に換算した額」です。数量ではなく金額なので、採れた量が同じでも単価が上がれば額は増えます。逆に、豊作で相場が下がると額は落ちる。だから1位が入れ替わるのは、産地の力の変化だけとは限らないんですね。\n\n現場でこの数字と関わる場面もあります。産地の規模を示す資料として補助事業や産地の計画づくりで引用されたり、取引先との話で「この地域はこれだけの産地です」と説明するときに使われたりします。\n\n僕は同じ愛知で野菜を作っていますが、猛暑の年は自分の畑でも生育がそろわず、相場が動く。その揺れが積み上がった結果の一つがこの数字だと受け止めている人も、周りには多いです。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0925
-   }
-  },
-  {
    "id": "0730_0935_14",
    "news_title": "農業超大国の座から転落する米国、トランプ関税が中西部を直撃(1/5)",
    "source": "JBpress",
@@ -328,6 +328,28 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0786
+   }
+  },
+  {
+   "id": "0731_0938_13",
+   "news_title": "愛知・田原市が6年ぶり「農業産出額」全国1位奪還 過去最高933.6億円を記録 猛暑によるキャベツの価格高騰が要因か 農水省「市町村別農業産出額」発表（中京テレビＮＥＷＳ）",
+   "source": "Yahoo!ニュース",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94NlJfRTUxaGNiR25OWXpLRmdleUgxZ0hZc083TkY5TGpFOUZUTkFZWFNGcHZCd3FLZVdHNXhqb3BlSVpZdGZ0Z1lCUmtxRTlCTmM1NFBCUks0cTFfODdmZVM0VVpQNFF5bUFqVkRNOHNZMnV3UjZNX1ExX0g4RFE?oc=5",
+   "strip": "manga_cand_0731_0938_13.png",
+   "caption": "田原市が農業産出額で全国1位に戻った、という記事でした。過去最高の933.6億円。農水省が出している市町村別の産出額の統計です。\n\n同じ愛知でも田原はキャベツや花き、施設野菜が集まっている地域で、記事では猛暑によるキャベツの価格高騰が要因と見られています。\n\nここは少し補足がいるところだと思っていて、産出額というのは「その市町村で生産された農畜産物をお金に換算した額」です。数量ではなく金額なので、採れた量が同じでも単価が上がれば額は増えます。逆に、豊作で相場が下がると額は落ちる。だから1位が入れ替わるのは、産地の力の変化だけとは限らないんですね。\n\n現場でこの数字と関わる場面もあります。産地の規模を示す資料として補助事業や産地の計画づくりで引用されたり、取引先との話で「この地域はこれだけの産地です」と説明するときに使われたりします。\n\n僕は同じ愛知で野菜を作っていますが、猛暑の年は自分の畑でも生育がそろわず、相場が動く。その揺れが積み上がった結果の一つがこの数字だと受け止めている人も、周りには多いです。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a bright produce shipping warehouse interior with stacked vegetable crates",
+   "taste": null,
+   "gpass": true,
+   "status": "posted",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0925
    }
   },
   {
@@ -572,28 +594,6 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.0907
-   }
-  },
-  {
-   "id": "0721_0936_10",
-   "news_title": "農業経営士協会県西支部活動研究会が行われました。",
-   "source": "pref.ibaraki.jp",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQjdPOG1DLVNYajdWVWlhYTM5VGpoRkxGRUZPekE3WFJyOHA1emYzME9Tb2Y4aGFJanhRVktITUxXV2VvaGtXbkZJbHJXcDduTmIyNlRuU0JPbmRrN2hITjlzRWZMWXQ0SGhpcDNGNTNLZk9fcGdsb1ZUbEJjVVBYOUxadTFQWDFrV2dWdnNUY1haNnZtZUtFNHZHS3A?oc=5",
-   "strip": "manga_cand_0721_0936_10.png",
-   "caption": "本文だけ返します。\n\n茨城で、農業経営士協会の県西支部が活動研究会を開いたそうです。経営を学んだ農家さんが集まって、これからのやり方を話し合う場ですね。\n\n農業って、意外と一人仕事です。畑で黙々と動いて、答えも自分で探すことが多い。僕も愛知で16年やってきて、9時から14時の半日で年100トンを回すやり方は、ほとんど自分で試して覚えたものでした。\n\nただ最近思うのは、一人で抱えた工夫って、案外もろいということです。うまくいっている時は気づかないけれど、天候が崩れたり品目を変えたりした瞬間、自分の経験だけでは足りなくなる。そういう時、他の農家さんが別の畑で出した答えは、そのまま効く保険になります。\n\n僕はパートさん中心の会社型でやっているので、自分が現場を離れても回る仕組みは作ってきました。でも、仕組みの外にある知恵は、やっぱり人と話さないと入ってこない。\n\n順番として、まず一人で試して型を作る。そのうえで、外の農家さんの話で型を疑う。この二段階が要るんだと、こういう研究会の記事を見て改めて思いました。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": 27,
-   "gpass": true,
-   "status": "posted",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0462
    }
   }
  ]

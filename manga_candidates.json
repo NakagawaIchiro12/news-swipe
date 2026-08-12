@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0813_0504_28",
+   "news_title": "定量×定性で読み解く「食」トレンドの現在地と未来 生活者の潜在ニーズと欲望の変化から導く次のヒットの兆し",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KUmxkMDd2LWJ1cUxFX0pkcmFkRVN3aEFrMFFFejJia0RsLVFIdWZNeFh5UFFqV2cwQlItMVdiU29VZG1tam1rQU1ScGJrUXFWR0d4d1VoblVqdzQ?oc=5",
+   "strip": "manga_cand_0813_0504_28.png",
+   "caption": "食のトレンドを、数字と聞き取りの両方から読み解くという記事が出ていました。売れた量だけでなく、その裏にある気持ちの変化まで見に行くという話です。\n\n農家からすると、これはかなり切実な話に聞こえます。何を作るか決めるのは、種をまく前。判断した結果が出るのは、早くても数ヶ月先です。市場に並ぶ頃には、世の中の空気は少し変わっている。だから読み間違えると、丸ごと一作分が響きます。\n\n僕が16年やってきて思うのは、数字は必ず遅れて届く、ということです。今年の相場が分かった時点で、その情報はもう過去のものになっている。数字は答え合わせには使えても、先読みには足りない。\n\nだから僕は、順番を逆にしています。まず現場や売り場で「これ、どう食べるの」と聞かれる回数みたいな、数字になる前の小さな違和感を拾う。それを後から数字で確かめる。定性が先で、定量が後。\n\nこの順番にしてから、外した時の傷が浅くなりました。全部を当てにいくのではなく、外れても立て直せる幅を残しておく。5時間で回す前提でやっている以上、僕にとってはそっちのほうが大事です。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0591
+   }
+  },
+  {
    "id": "0812_0506_1",
    "news_title": "アグリテック市場｜AI×精密農業で変わる「播種→収穫」の次世代農業",
    "source": "Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 3,
     "body_edge_density": 0.0648
-   }
-  },
-  {
-   "id": "0730_0935_10",
-   "news_title": "地方の農業に新たな風を 若手農家がトウモロコシ収穫 瀬戸内市（2026年7月29日掲載）｜RNC NEWS NNN",
-   "source": "日テレNEWS NNN",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdmVxYW1mWFE5QmYxbnJCRE5lZXF6NkhRUV9paVN4azRGRl9fY0NQRjRPX2hkWk02YXktYVBzbmRhcjNPRVgzLUxVSkNkTlVjU2VWV2VwNkRFaFBBZDVDa2xFT295dnhDNUloOTRqenFVY2k2YVBOZjh5cC1vYkF6LVBTalhoT1E?oc=5",
-   "strip": "manga_cand_0730_0935_10.png",
-   "caption": "瀬戸内市で、若手の農家さんがトウモロコシを収穫したというニュースです。地方の農業に新しい風を、という取り組みだそうです。\n\n若い人が畑に入ってくるのは、単純に嬉しいです。僕も愛知で16年やっていますが、周りを見渡すと年上ばかり、という場面は今も多い。\n\nただ、新しく入る人を見ていて気になることがあります。技術は熱心に学ぶのに、働き方はそのまま先輩を真似てしまうことが多い。朝は暗いうちから、夜も遅くまで。それが農業だと思い込んだまま数年走って、体か気持ちのどちらかが先に折れる。そういう人を何人も見てきました。\n\n僕は9時から14時までの、5時間ほどで回しています。土日も休みます。年間100トン出しながらそうしています。特別なことをしているというより、休むことを先に決めて、そこから逆算して作型や作業の組み方を考えただけです。\n\nだから順番は逆でいいと思っています。うまく作れるようになってから休み方を考えるのではなく、休み方を決めてから、その中で作れる形を探す。\n\n新しい風というのは、作物や販路の話だけではないはずです。何時に帰るか、いつ休むか。そこも含めて、新しく入る人が自由に決めていい。むしろ、まだ何の型もついていない今のうちの方が、決めやすいと思います。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "harvest",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0786
    }
   },
   {

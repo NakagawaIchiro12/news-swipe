@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0814_0506_19",
+   "news_title": "今年の食トレンドは甘くて、辛い！？日本最速！「スワイシー」な味わいの「スワイシーブルダック炒め麺BIGカップ」を8月18日（火）より先行発売 | 株式会社ファミリーマートのプレスリリース",
+   "source": "prtimes.jp",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42SDNVT2k5LW42VGNwbG9XeHFTSDJVYzE0cGFQSk5KZ05yUFpFM0loTnV4aFFUR3haQ2pjWVM4NTkxNEJxR0I5bTF6WTV0Q2o1RVlGcWZ4STh2N3EwVzRtTWYxT1NrVE5TUmc?oc=5",
+   "strip": "manga_cand_0814_0506_19.png",
+   "caption": "ファミリーマートが「スワイシー」、甘くて辛い味のカップ麺を先行発売するそうです。甘さと辛さを同時に出すのが今年の流れらしい。\n\n野菜を作っていると、甘いことがそのまま良さだと思われがちです。糖度が高い、えぐみがない。売り場でもそう伝えられることが多いですし、僕も長いことそこを目指してきました。\n\nただ、実際に食べられている場面を見ると、甘さだけで成立している料理はそれほど多くありません。辛味や酸味と組み合わさって、はじめて甘さが立つ。単体で完璧な素材より、何かと合わせたときに強い素材のほうが、結局よく使われている気がします。\n\n味の流行は、たいてい加工品のほうが先に動きます。作り手が新しい味を提案して、素材は後から追いかける形になる。だから僕は、何を作るか考えるときに、育て方より先に「どう食べられているか」を見るようにしています。畑の中だけで良い野菜を決めると、売り場と少しずつずれていく。\n\n技術を上げるのが先だと思っていた時期が長かったんですが、順番は逆かもしれません。使われ方が決まって、そこから育て方が決まる。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": 0.0786
+   }
+  },
+  {
    "id": "0813_0504_28",
    "news_title": "定量×定性で読み解く「食」トレンドの現在地と未来 生活者の潜在ニーズと欲望の変化から導く次のヒットの兆し",
    "source": "朝日新聞",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 0,
     "body_edge_density": 0.0826
-   }
-  },
-  {
-   "id": "0730_0935_14",
-   "news_title": "農業超大国の座から転落する米国、トランプ関税が中西部を直撃(1/5)",
-   "source": "JBpress",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKRkVDTHJ2Qm1CVnJkVENVTWZBVkowQU9OZU9HSlJYUjhycmRnNFc4VVA2d3ZOTVlHT05IU1ZEWG1vRnVQYXdPd3dvcTVvejA3a1k1aFZB?oc=5",
-   "strip": "manga_cand_0730_0935_14.png",
-   "caption": "アメリカが農業超大国の座から落ちつつある、という記事が出ていました。\n\n背景にあるのは関税だそうです。相手国が対抗措置をとって買い控えると、大豆やとうもろこしの輸出が細る。それが穀物地帯である中西部を直撃している、という内容でした。日本にとっても他人事ではなくて、輸入穀物は飼料や加工品のもとになるので、流れや値段が変われば国内にも回ってきます。\n\n僕は愛知で16年、野菜をやっています。年間100トンを、9時から14時までの約5時間で、パートさんと一緒に出しています。畑にいると、こういう政策の話は数字より先に、資材や肥料の値段が動いたときに気づくことが多いです。農協や資材屋さんとの雑談で「今年は原料が高い」と聞いて、あとから理由を知る、という順番になりがちです。\n\nだから現場では、関税や貿易の話を「政策のニュース」としてよりも、来年の作付けや仕入れをどう組むかという話として受け止めている人もいます。産地が違えば感じ方も違うと思いますが、少なくとも畑の中では、そういう入口から入ってくる話でした。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.0648
    }
   },
   {

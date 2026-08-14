@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0815_0504_24",
+   "news_title": "農業の大規模化で失敗しないために｜規模拡大前に考えたいこと",
+   "source": "農業とITの未来メディア",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eUVuaXIwX2JIcTRNYWtMSkJ5UlcyamhBb2lrVzBCMzdaQUNsdkZEY2FjdGM1bVRPVFk1SjJzVXA5anpuZkJONWFxbnZ4cFJjZldJ?oc=5",
+   "strip": "manga_cand_0815_0504_24.png",
+   "caption": "規模拡大で失敗しないために、という記事が出ていました。広げる前に考えたい事、という内容ですね。\n\n僕も面積を増やしてきた側なので、この話は分かります。\n\nただ、16年やって思うのは、順番を間違えると広げた分だけしんどくなるという事です。\n\n面積を先に増やすと、作業も判断も全部増えます。増えた分を自分の残業で埋める形になって、気付いたら朝から晩まで畑にいる。それでは規模を大きくした意味がありません。\n\n僕が先にやったのは、今の面積を今より短い時間で回せるようにする事でした。パートさんに任せられる形に作業を分けて、僕が居なくても進む状態を作る。そこが出来てから面積を足す。\n\n年100トンを、9時から14時の5時間で回せているのは、この順番でやってきたからだと思っています。広げたから人を入れたのではなくて、人が回る形を作ってから広げた。\n\n逆説みたいですが、規模拡大の準備は面積の話ではなくて、自分が抜けても回るかどうかの話だと思います。\n\nそこが出来ていないうちに広げると、増えるのは売上ではなく自分の労働時間の方です。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": 0.1554
+   }
+  },
+  {
    "id": "0814_0506_19",
    "news_title": "今年の食トレンドは甘くて、辛い！？日本最速！「スワイシー」な味わいの「スワイシーブルダック炒め麺BIGカップ」を8月18日（火）より先行発売 | 株式会社ファミリーマートのプレスリリース",
    "source": "prtimes.jp",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0403
-   }
-  },
-  {
-   "id": "0802_0938_26",
-   "news_title": "令和8年度地域農業構造転換支援事業の要望調査について",
-   "source": "vill.kijimadaira.lg.jp",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DcTdYQzFoNVFhdFcwWHJzZURXS1Y3SjNQUTFlaWFWUjBzVmQzSjdFR0NWeENIT2ZnWlhsQ1BtM3EtYmtVazVtUHFjVHA5OFQ4U1dkeWlaT0FreDM3Z0hXMlN4d0llX0dkVWc?oc=5",
-   "strip": "manga_cand_0802_0938_26.png",
-   "caption": "長野の木島平村が、令和8年度の地域農業構造転換支援事業について要望調査を出しています。来年度この支援を使いたい人はいますか、という事前の聞き取りですね。\n\n産地として何を作っていくか、その転換を後押しする仕組みです。\n\nここで見落としがちなのが、募集より先に調査があること。出てきた希望の数をもとに、翌年の枠が組まれていきます。\n\n僕が現場で思うのは、農家はこの手の紙が本当に苦手だということです。畑仕事のほうが気楽で、締切のある書類は後回しになる。でも後回しにすると、そもそも自分が数に入りません。中身が決まってから文句を言っても順番が逆なんですよね。\n\n僕は年間100トン出しながら9時から14時で上がっていますが、それは畑の外の作業を溜めない前提で成り立っています。分からない言葉は調べて、迷ったら役場に電話する。書類に強くなることは、休める農業の一部だと思っています。\n\n---\n\n📢 音声で返せませんでした。この環境では `cd`（Irodori-TTS への移動）が許可されていないため、`say_koe_fast.py` を実行できません。テキストのみでの返信になっています。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": 0.0826
    }
   },
   {

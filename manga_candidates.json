@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0817_0505_18",
+   "news_title": "コメ農家「水がなければどうにもならない」庄川渇水のおそれで取水制限 農業への影響 懸念広がる",
+   "source": "FNNプライムオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodW5acWRtVWlVRHFEdjlwUmd4MzlvVlFfOC1NblFYOVpyWl9ONXZwRGNmZGdmS0VtcjRUaWEyck9aaDlldEVDbjFhMkhfQQ?oc=5",
+   "strip": "manga_cand_0817_0505_18.png",
+   "caption": "水がなければどうにもならない、という言葉が重い。うちは野菜だけど、水の話は他人事じゃない。夏場に水が細ると、どれだけ栽培の腕があっても打つ手が減る。\n\n僕は16年やってきて、農業で本当に効くのは技術よりも先に「条件」だと思っている。日照、土、そして水。ここが崩れると、その年の努力はほぼ返ってこない。だから畑を増やすときは、収量が出るかより先に、水がどこから来てどれだけ安定しているかを見る。順番として、水が確保できない場所で栽培の工夫を積んでも土台が動く。\n\nもうひとつ、渇水のニュースを見るたびに考えるのは、時間の使い方の話でもあるということ。うちは9時から14時の5時間で回して土日は休んでいる。それができるのは、天候に振り回される場面をなるべく減らす作りにしているから。労働時間を削るのは根性ではなくて、条件の選び方と設備の順番で決まる部分が大きい。\n\n水は個人でどうにかできる範囲を超えている。だからこそ、個人の努力でどうにかなる部分を先に固めておく。順番を逆にすると、いざ水が細ったときに立て直す余力が残らない。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "weather",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 0,
+    "body_edge_density": 0.0703
+   }
+  },
+  {
    "id": "0816_0935_13",
    "news_title": "「香港フードエキスポ」開幕 ウェルネスを軸に最新トレンド集結",
    "source": "香港経済新聞",
@@ -306,28 +328,6 @@
     "n_face": 1,
     "n_hand": 1,
     "body_edge_density": 0.1083
-   }
-  },
-  {
-   "id": "0803_0939_14",
-   "news_title": "高校軟式野球四国大会 新田が20度目の優勝、香川誠陵・農業経営を大差で破る",
-   "source": "愛媛新聞",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JcGRmV0h0bm9LaVBkSDRNV0JYWFZMYVliLUF0VFJjb3JwRnY4cHFxZzV5R2kzZXRXM0xnR0NnaS1vZ0JmX3hjZ2xVWWhpNlJOZ0VkNy1tUDBfcnNZTlVVaA?oc=5",
-   "strip": "manga_cand_0803_0939_14.png",
-   "caption": "高校軟式野球の四国大会で新田が20回目の優勝というニュースの中に、「農業経営」という校名があった。農業経営高校が決勝まで勝ち上がっていて、負けはしたけれど、この名前が野球の見出しに載ること自体がいいなと思う。\n\n僕は農業高校の出身ではなく、未経験から野菜農家を始めて16年になる。始めた頃は栽培の技術さえ覚えれば食べていけると思っていたけれど、実際に楽になったのは、作り方より先に売り方と時間の設計を見直してからだった。今は9時から14時の約5時間で年間100tを出荷して、土日は休み。パートさん中心の体制で回っている。\n\n農業は「まず栽培、経営はあとから」という順番で語られやすい。でも僕の実感では逆で、先に経営、つまり時間と人の設計を決めて、そこに栽培を合わせた方が無理がなかった。技術は毎年更新できるけれど、働き方の土台は最初に決めたものが長く残る。校名に経営を掲げた高校が普通に野球で強い、それくらい農業と経営が並んで語られるのが当たり前になると、これから始める人の景色は変わると思う。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0792
    }
   },
   {

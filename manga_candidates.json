@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0816_0935_13",
+   "news_title": "「香港フードエキスポ」開幕 ウェルネスを軸に最新トレンド集結",
+   "source": "香港経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdUlrdkVXVFB5VktHRzdxc2xmOXJwY1Z5a2xGOGl1RV9kNGZiT21RUXNuMm02Wm0yZ2hhOUdLZzdBa1NuZHJNU2VNWFlSVC1UODNXRg?oc=5",
+   "strip": "manga_cand_0816_0935_13.png",
+   "caption": "香港のフードエキスポがウェルネス軸というのは、輸出の話というより、買う人の理由が「安いから」から「体にいいから」へ動いているという話だと受け取りました。海外の展示会に出したことはないので、そこは詳しくないです。ただ国内の売り場でも、ここ数年で表示に何が書いてあるかを見るお客さんが増えた感じはあります。\n\n僕がひっかかるのは、健康を売りにしようとすると、たいてい作り方の話から入ってしまうところです。有機に寄せる、肥料をどうする、と。うちも有機と化成の比率は毎年いじりますが、有機の比率を下げたほうが安定する場面もあるし、規模と作型で答えは変わる。どちらかを捨てる話ではないと思っています。\n\n順番が逆なんじゃないかと思うんです。健康志向で売れるものは、まず年間を通して同じ品質で切らさず出せることが前提になる。単発でいいものができても、棚には並び続けられない。うちが9時から14時の5時間で年間100t回してるのも、パートさんが土日休んで無理なく続けられる編成にしないと、供給が途切れるからです。トレンドを追う前に、追い続けられる体を先に作る。ウェルネスの話を見ていて、そこが一番効くところだろうなと感じています。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "export",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0667
+   }
+  },
+  {
    "id": "0815_0504_24",
    "news_title": "農業の大規模化で失敗しないために｜規模拡大前に考えたいこと",
    "source": "農業とITの未来メディア",
@@ -306,28 +328,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0792
-   }
-  },
-  {
-   "id": "0803_0939_31",
-   "news_title": "【福島発の地方創生】福島大学発ベンチャーがORENDA WORLD（オレンダワールド）と連携し、福島県内の復興支援地域で「半農半テック」実証実験を実施予定",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SRGkwUTU1TlJZcVFselctU050UlZPRHNscGIwX1lQdU1ZZURFQlVpckhDTk0xMFNRQ0F6VlE1YlByWEJtV3hvaXcyLVR4NFhDMXdrLUx1N0JoVWY3Rk1JNEMyRjRLZDJkeFE?oc=5",
-   "strip": "manga_cand_0803_0939_31.png",
-   "caption": "福島で「半農半テック」の実証実験が始まるというニュースを見ました。福島大学発のベンチャーがIT企業と組んで、農業と技術の仕事を半分ずつにする暮らしが復興支援地域で成り立つか、実際に試すそうです。\n\n僕は愛知で野菜を作って16年になります。朝9時から14時までの約5時間で畑を回し、パートさん中心の体制で年間100トンを出荷して、土日は休み。午後はAIを使った発信や事務にあてているので、感覚としては僕も半農半テックに近い働き方かもしれません。\n\nただ、順番は逆じゃないかと思っています。「農業のかたわらでテックを」ではなく、先に段取りや道具で農業を短時間で回る形に整えて、空いた午後にもう一つの仕事を置く。農業側の設計が甘いまま二つを並行すると、繁忙期にどちらも中途半端になりやすい。実験で確かめてほしいのは、時間を半分にしても成り立つ農業の組み立て方そのものだと思います。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0403
    }
   },
   {

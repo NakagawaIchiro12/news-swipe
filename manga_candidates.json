@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0819_0504_18",
+   "news_title": "北海道帯広の「国際農業機械展」、経費高騰で市に支援要請 来夏開催",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRHdjRmlKXzU2UVEzSWFsbGRtd0NiSTlQZGg0a3l0SmJOc2s5N3M0bXdkNlZFMVBQSm9zYi1YMlpnWklKTVdZRVBaM3d3dHJZRm03RjNxQnU2clNyUUdvTE5hdzBDLW5nVVZyQQ?oc=5",
+   "strip": "manga_cand_0819_0504_18.png",
+   "caption": "農業機械の展示会が、経費の高騰で市に支援を求めているというニュース。機械を売る側の場も、コストで揺らいでいる。\n\n僕の現場でも、機械の見積もりは年々上がっている。ただ導入をやめたかというと逆で、入れた台数はむしろ増えた。理由は単純で、うちは9時から14時の5時間で年間100tを出す前提だから、機械を削ると人が長く働くしかなくなる。土日休みも崩れる。値上がりを理由に見送ると、そのぶんの負担がまるごとパートさんに乗る。\n\nそれでも全部を最新にはしない。順番があって、まず作業を見直して、それでも人の手が足りない工程にだけ機械を入れる。段取りが甘いまま高い機械を買うと、機械に人が合わせる形になって、かえって時間が伸びる。ここを逆にした人を何人か見てきた。\n\nだから展示会は、買う場所というより、いまの自分の段取りのどこが遅いかを機械の側から教えてもらう場所だと思っている。値札を見に行くと高い、で終わる。工程を持って行くと、意外と安い買い物が見つかる。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 30,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.1111
+   }
+  },
+  {
    "id": "0817_0505_18",
    "news_title": "コメ農家「水がなければどうにもならない」庄川渇水のおそれで取水制限 農業への影響 懸念広がる",
    "source": "FNNプライムオンライン",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1054
-   }
-  },
-  {
-   "id": "0803_0939_12",
-   "news_title": "住友商事とNTT e-Drone、国産農業用ドローンの普及拡大で連携を開始",
-   "source": "ビジネスネットワーク",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSdXJZWEQ5WlJIdTFWWElwcm5IQ0dWelJZbS1XNi1tNkJCWU5QMUhLdXhydDFHQ3RKckJqdEhPckRWVU1oNkZMUUszX3FVT2JTYlVr?oc=5",
-   "strip": "manga_cand_0803_0939_12.png",
-   "caption": "住友商事とNTT e-Droneが、国産の農業用ドローンを広げるために連携を始めたそうだ。国産で保守や部品の心配が減るなら、現場としてはありがたい流れだと思う。\n\n僕は愛知で野菜を作って16年になるけど、新しい道具の話が出るたびに感じるのは、道具そのものより「どの作業を手放すか」を先に決めている農家ほど、導入がうまくいくということ。うちでAIが現場に定着したのも、先に仕事を分解して、人がやらなくていい部分をはっきりさせてあったからで、道具はその空いた穴にはめただけだった。\n\n順番は逆に考えられがちで、いい機械を買えば楽になるはずだと入口から入ると、今度は機械に自分の仕事を合わせる側になって、かえって忙しくなることがある。僕が9時から14時までの約5時間で年間100tを回せているのは、道具が優秀だからというより、道具を入れる前に「やめる作業」を決めてきた積み重ねが大きい。ドローンが普及する前に、自分の畑のどの時間を空けたいのか。そこから考えると、選ぶ機種も使い方も変わってくる気がする。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "drone",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.1083
    }
   },
   {

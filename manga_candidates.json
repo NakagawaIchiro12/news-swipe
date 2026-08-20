@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0820_0935_13",
+   "news_title": "農業の将来のあり方を考えるフォーラム「基盤強化が発展には欠かせない」JA大分信連などが開催",
+   "source": "TVer",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LZnNiaUVTUHN2NEdOM05jR0R6S3BMbjU4TEhFZDd1dzRqbUFnOUZMY1hoRk94RDI2UkJWZjR1VFJMQUhtOGVCU2tkSQ?oc=5",
+   "strip": "manga_cand_0820_0935_13.png",
+   "caption": "農業の将来を考えるフォーラムで、基盤強化が発展に欠かせないという話が出ていました。\n\n僕も愛知で16年野菜をやってきて、この順番はそのとおりだと思っています。ただ「基盤」という言葉が、機械や施設のことだけを指しているとしたら、たぶん半分です。\n\n僕の現場で一番壊れやすい基盤は、人と時間のほうでした。売上を伸ばす計画はいくらでも書けるけれど、朝5時から日が暮れるまで動く前提で組んだ計画は、動く人が続かなくなった時点で全部止まります。うちが9時から14時、5時間で回して土日を休みにしているのは、余裕があるからではなくて、続かない働き方の上には何を積んでも崩れると分かったからです。\n\n順番でいうと、規模を大きくしてから人を整えるのではなくて、パートさんが無理なく続けられる形を先に決めて、その中に入る量として100tを置いています。基盤強化というのは、設備を増やす話の前に、来年も同じ人が同じ気持ちで来てくれる状態を作ることなんじゃないかと、僕は思っています。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0819
+   }
+  },
+  {
+   "id": "0820_0935_20",
+   "news_title": "中東情勢影響でオホーツク地方に資材危機 断熱材・農業用ビニール・オイル類が軒並み高騰＜オホーツクREPORT",
+   "source": "北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xeVI0MHlLRnoxMnlfbXdPX3hwRzBLaDlzeFhlQmc3aXltWmc4c09FY01mcFVaTzY4b2w2VFZSdlhPRXo1b0RMRUVFT0R5NjFJMXFtZldzSUltUQ?oc=5",
+   "strip": "manga_cand_0820_0935_20.png",
+   "caption": "北海道のオホーツク地方で、農業資材が軒並み値上がりしているそうです。\n\n中東の情勢が影響して、断熱材、ハウスに張るビニール、機械に使う油まで上がっている。\n\n遠い国の出来事が、そのまま畑のコストになる。\n\nこれ、北海道だけの話じゃないです。\n\nうちのハウスもビニールを張り替えます。トラクターも軽トラも油で動く。値上がりしたぶんは、野菜の値段にすぐ乗せられない。\n\n100トン出荷して、パートさんと半日で回している僕の現場だと、効いてくるのは「地味な固定費」です。派手な設備投資より、毎年必ず出ていくビニールや油代のほうが、じわじわ経営を削る。\n\nだから僕が今いちばん大事にしているのは、資材を「長く使う」判断です。張り替えの周期を延ばせないか、無駄に動かしている機械はないか。\n\n値上がりは止められないけど、使い方はこっちで決められる。\n\nそこだけは、まだ僕らの手の中にあると思っています。\n\n#AI農業 #農業経営",
+   "topic": "price",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 4,
+    "body_edge_density": 0.094
+   }
+  },
+  {
    "id": "0819_0504_18",
    "news_title": "北海道帯広の「国際農業機械展」、経費高騰で市に支援要請 来夏開催",
    "source": "日本経済新聞",
@@ -284,50 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.0221
-   }
-  },
-  {
-   "id": "0803_0939_34",
-   "news_title": "2026年上半期\"食トレンド\"ランキング1位は「冷凍ストック」! 下半期は「直パケレシピ」「ネオ厚揚げ」「ドリンク調味料レシピ」がブームに?",
-   "source": "マイナビニュース",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYWlg5ZG9SQ2JDZk1LMVhjR0U0N3Z3NFhIVnQ0OE1ienowM25nV3hRbjRGZ2t1Y3BwbzhUUS1Yc0JtZkkwaW92czlNMGhGWUFzV3ZsUXk3WS1IbEc3?oc=5",
-   "strip": "manga_cand_0803_0939_34.png",
-   "caption": "2026年上半期の食トレンド1位は「冷凍ストック」だったそうです。下半期は袋のまま調理する直パケレシピや、厚揚げのアレンジ、ドリンクを調味料に使うレシピが来るという予想でした。\n\n僕は愛知で野菜を作って16年になります。冷凍ストックが広がるのは、農家として素直にありがたい流れです。野菜が「その日使う分だけ買うもの」から「多めに買って保存しておくもの」に変われば、買われ方が安定してくるからです。\n\nただ、このランキングを見て思うのは、流行しているのは料理そのものではなく、時間の使い方のほうだということです。冷凍ストックも直パケも、共通しているのは調理の手間を先に減らす工夫で、レシピは後からついてきています。僕も9時から14時の約5時間で仕事を終えるために、先に時間の枠を決めて、作業をその中に収まるよう組み直してきました。順番は台所も畑も同じで、先に時間を設計した人から楽になっていくのだと思います。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 31,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.0741
-   }
-  },
-  {
-   "id": "0803_0939_9",
-   "news_title": "N.THING、AI農業プラットフォームの受注を拡大…スマートファーム・バイオ・教育分野への進出を加速",
-   "source": "korit.jp",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR2hGaDhoV245VnBoRkNJcFNmYnltdkxwMmVyX2ZoY010TTZUcnJITHpGNmg4TFZMRmFwcWxHSWpiRE9obUhhRzg3OUYzaXlaZ0paMVFZS2R1Z25qRVY2YVVEMnpGeTk3RlB1eWY5Y1FPRkQ4ajdYal9UdVdCXzZBRXNVdGJyaHc?oc=5",
-   "strip": "manga_cand_0803_0939_9.png",
-   "caption": "N.THINGがAI農業プラットフォームの受注を伸ばして、スマートファームに加えて教育分野にも広げているというニュースを見た。プラットフォームが売れるだけでなく、使い方を教える側の需要も育ってきているということだと思う。\n\n僕も現場でAIを使っているけど、効いているのは栽培の判断そのものより、段取りや指示書づくり、発信の下書きといった周辺の仕事が多い。ここが軽くなるだけで一日の組み立てはだいぶ変わる。\n\nただ、順番は間違えたくない。プラットフォームを入れたら農業が変わるのではなくて、先に仕事の流れを整理して、人がやらなくていい部分をはっきりさせてから道具を入れる。そこが曖昧なまま導入すると、高い仕組みを現場が持て余すことになりやすい。僕が9時から14時の約5時間で年間100tを回せているのも、道具より先に作業の順番とパートさんの分担を整えてきたからで、AIはその上に乗せたものだった。だから教育分野に進むという方向には納得感がある。先に教えるべきは道具の操作より、仕事の組み立て方なんだと思う。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.1054
    }
   },
   {

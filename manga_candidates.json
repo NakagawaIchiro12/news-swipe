@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0822_0505_24",
+   "news_title": "企業の農業参入",
+   "source": "pref.hokkaido.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JYWd4YmNhclZBaHFQM1M1U25RUW94ME1yclRsdHJpckVHNWt4TGpQcnpvUW54Z2RuUzJKNzhDT1NhV2pRTHl6ampWZHE2b2hrMWFPRDR6QkVOWWp3MUF3?oc=5",
+   "strip": "manga_cand_0822_0505_24.png",
+   "caption": "企業の農業参入というニュースを見ました。北海道でも受け入れの動きが進んでいるようです。\n\n僕自身、法人化して人を雇う形で16年やってきたので、企業が入ってくること自体はいいことだと思っています。作業の割り振りや採用のやり方は、農家個人よりも会社のほうが得意な部分がある。\n\nただ、参入してうまくいかない話を聞くとき、原因が栽培技術そのものだったケースはあまり多くない気がします。土地を借りて機械を入れて品目を決めて、そこまでは資金があれば進む。詰まるのはたいてい、その後の「毎日誰がどこまでやるか」が決まっていないところです。\n\n僕が9時から14時の5時間で回せているのは、栽培がうまいからではなくて、朝の段取りとパートさんの動線を先に固めたからです。作物のことより先に、人の時間割を作った。順番が逆になると、いい設備を入れても現場が伸びきってしまう。\n\n企業参入で本当に効いてくるのは、農業の知識より「人の管理をどこまで持ち込めるか」のほうじゃないかと思っています。技術は後から追いつきますが、働き方は後から直すのが一番しんどい。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 3,
+    "body_edge_density": 0.0617
+   }
+  },
+  {
    "id": "0821_0934_19",
    "news_title": "千葉豪雨 大網白里 河川合流に農業用排水路で被害拡大か",
    "source": "NHKニュース",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0797
-   }
-  },
-  {
-   "id": "0804_0937_25",
-   "news_title": "農業経営人材の育成に向けた官民協議会",
-   "source": "maff.go.jp",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0T3JYbFhJOWVoaVNneTV1VmEycHQteFNoWHN1SkxqR2VSSThyOE5NbHFMdTkyN0M4S1RUSGd0M0dScDBncHVoODAtQzh0SXJwTG9rX2dneXViOE1idlJXdQ?oc=5",
-   "strip": "manga_cand_0804_0937_25.png",
-   "caption": "農林水産省が、農業経営人材の育成に向けて官民協議会を立ち上げるそうです。国だけでなく民間企業も入って進める形で、栽培技術ではなく経営そのものを担える人を増やす狙いだと受け取りました。\n\n僕はこれ、順番として正しい取り組みだと思っています。\n\n農業の世界では、腕のいい人ほど作ることに時間を全部使います。僕も昔はそうでした。でも実際に詰まるのは、いくらで売るか、誰に頼むか、どこまで自分でやるか、という判断のほうです。作り方は先輩に聞けますが、経営の相談相手はなかなか見つかりません。\n\n僕が年間100tを9時から14時までの約5時間で回せているのは、栽培がうまくなったからではありません。パートさん中心で、自分が抜けても止まらない形にしたからです。時間を短くする判断も、休みを固定する判断も、全部経営側の話でした。技術だけを磨いていた頃は、むしろ労働時間は伸びる一方だったと思います。\n\n作る力と、続ける力は別のものです。技術を教える場は昔からありますが、続け方を教える場はほとんどなかった。そこを扱う協議会なら、意味があると思っています。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0763
    }
   },
   {

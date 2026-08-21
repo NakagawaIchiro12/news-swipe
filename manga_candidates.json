@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0821_0934_19",
+   "news_title": "千葉豪雨 大網白里 河川合流に農業用排水路で被害拡大か",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LVlJrVnZBdHE2X0xFTWdFWUZyYUQwOU55S3hzc2R3XzZEWHhUS1VWX2R2M3Y3enp4eExXZE85bWZFd1NPYzRYZlA4X2FkRFlnR1MtLTRZOV9aOUVhcUdJ?oc=5",
+   "strip": "manga_cand_0821_0934_19.png",
+   "caption": "千葉の大網白里で豪雨被害が広がった件、河川の合流点と農業用排水路が絡んで水が抜けなくなったのではという見方が出ています。\n\n農業用排水路は本来、田畑の水を早く抜くためのものです。ただ受け皿になる河川が満水だと、排水路は水を出す道ではなくて水が逆に入ってくる道になる。この「上流だけ見ても意味がない」という感覚は、農業をやっているとよく分かります。うちの畑でも、圃場の中を掘って溝を切っても、出口の水路が詰まっていれば水は動かない。手を入れる順番が逆だと、労力だけかかって結果が変わらない。\n\n僕が16年やってきて思うのは、水はけは天気の問題ではなくて設計の問題だということです。ゲリラ豪雨が増えたから被害が出た、で終わらせると毎年同じことを繰り返す。うちで年間100tを5時間労働で回せているのも、無理に頑張っているからではなくて、詰まる場所を先に潰してあるからです。人の配置も同じで、パートさんの手が止まる一番の原因は、本人の作業の遅さではなくて、その手前の工程が渋滞していること。上流を速くする前に、出口を広げる。畑の水も仕事の流れも、そこは同じだと感じています。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "weather",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 29,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1522
+   }
+  },
+  {
    "id": "0820_0935_13",
    "news_title": "農業の将来のあり方を考えるフォーラム「基盤強化が発展には欠かせない」JA大分信連などが開催",
    "source": "TVer",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0763
-   }
-  },
-  {
-   "id": "0803_0939_25",
-   "news_title": "2026年熊本地震＞パイプ破損で農業給水対策 氷川土地改良区、水路からポンプでくみ上げ 断水続く氷川町（熊本日日新聞）",
-   "source": "Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2U19PYmlldXkxeDcxckg1Sm9mcHUtcjZyei1pMDZ6X3FodE1hZm1BZ0I0cC1hd2ZnTnlYcjVBa2tQRFhUbG1IR0lmRjRfZThQNzNrNFFkTzFxXzVyQ21WcnZYMUlybzN5YVpZTC0tTGJ3OFlLaG1CRHNxRV9yM2s?oc=5",
-   "strip": "manga_cand_0803_0939_25.png",
-   "caption": "熊本の地震でパイプが破損して、土地改良区が水路からポンプで水をくみ上げ、農地に届けているそうです。断水が続く中での応急対応で、頭が下がります。\n\n僕は愛知で16年野菜を作ってきて、水で本当に困った記憶がほとんどありません。蛇口をひねれば水が出る前提で一日の段取りを組んでいますし、9時から14時で仕事を終えられるのも、水や道や電気が普通に動いていることの上に成り立っています。\n\nこういう時に注目されるのは復旧の速さですが、僕が気になるのは、壊れた時に「水路からくみ上げる」という代替案をすぐ形にできた人たちの方です。どこに水路が通っていて、どこから引けば田畑に届くのか。それを知っている人が地域にいたから動けた対応だと思います。災害への備えというと設備の話になりがちですが、順番としては先に、水の通り道を知っている人を絶やさないこと。僕の5時間労働も、止まらない基盤を保ってくれている人たちがいて、その次にある働き方です。\n\n#農業ニュース #100t農家\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 32,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.0221
    }
   },
   {

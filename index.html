@@ -131,7 +131,7 @@ button:disabled{opacity:.55;filter:saturate(.6)}
     <button class="restorebtn" onclick="openRestore()" title="消したニュースを復活">↩️</button>
     <button class="refresh" onclick="location.reload(true)" title="最新に更新">🔄</button>
     <h1>イチロウのニュース・スワイプ</h1>
-    <div class="meta">🆕 ニュース追加 2026-08-23 08:00 JST ／ 右=採用 ✓ ・左=スキップ ✗</div>
+    <div class="meta">🆕 ニュース追加 2026-08-23 09:30 JST ／ 右=採用 ✓ ・左=スキップ ✗</div>
   </header>
   <div class="counter">
     <div>残り <b id="left">0</b></div>
@@ -232,7 +232,7 @@ button:disabled{opacity:.55;filter:saturate(.6)}
 
 <div class="panel" id="mangaPanel">
   <div class="ph"><h3>🎞 ニュース漫画（右=採用／左=見送り）</h3><button class="x" onclick="mangaReload()" title="最新の漫画に更新" style="margin-left:auto">🔄</button></div>
-  <div id="mpullhint" style="font-size:11px;color:#9a927a;text-align:center;padding:3px 0;background:#f3f6ee">↓ 引っ張って更新／🔄でも更新（漫画データ: 08/23 08:16）</div>
+  <div id="mpullhint" style="font-size:11px;color:#9a927a;text-align:center;padding:3px 0;background:#f3f6ee">↓ 引っ張って更新／🔄でも更新（漫画データ: 08/23 09:52）</div>
   <div class="list" id="mangaList"><div class="empty">読み込み中…</div></div>
   <div class="pf"><button class="sec" onclick="mangaRestore()">↩️ 見送りを戻す</button><button onclick="mangaConfirmPost()">✅ 採用を確定して投稿</button></div>
 </div>
@@ -334,7 +334,7 @@ function renderManga(){
     +'<div style="font-size:11px;color:#9a927a;background:#f3f6ee;border-radius:8px;padding:5px 9px;margin-bottom:7px">📅 採用→「投稿予約」した漫画は<b>毎日9:00と15:00に1本ずつ自動投稿</b>（最大2本/日）。"投稿待ち"が予約分、"予約済(自動投稿待ち)"が送信済み。</div>'
     +'<div style="font-size:12.5px;color:#34322a;font-weight:700;margin-bottom:6px">'+esc(x.news_title||'')+'<span style="font-weight:400;color:#9a927a"> / '+esc(x.source||'')+'</span>　<span style="color:#2b7fc4">['+st+']</span></div>'
     +'<div id="mcard" style="position:relative;transition:transform .15s,opacity .15s">'
-    +'<img src="'+esc(x.strip||'')+'?v=202608230816" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3">'
+    +'<img src="'+esc(x.strip||'')+'?v=202608230952" alt="3コマ" style="width:100%;border-radius:12px;border:1px solid #e0e6d6;display:block" onerror="this.style.opacity=.3">'
     +'<div class="stamp yes" id="mstampY"><img src="saiyo.png" alt=""><span>採用♪</span></div>'
     +'<div class="stamp no" id="mstampN"><img src="ketchup.png" alt=""><span>見送り</span></div></div>'
     +'<div style="text-align:center;font-size:11px;color:#9a927a;margin:7px 0">← 左＝見送り　／　右＝採用 →　（採用したら上の「✅確定して投稿」で送信。ダブり投稿は自動で防ぎます）</div>'

@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0826_0506_10",
+   "news_title": "農業法人への就農が37人 青森県内で新しく農業を始めた人",
+   "source": "TVer",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95bnFhcXNIUVBXY2FYNHlUNnBzZ1kxTlZ1ODBzak1Sdi1ucjRXUHNxbFMzNzhud1RDWjJjUDdqaVJBVFh0N21NTXR1OA?oc=5",
+   "strip": "manga_cand_0826_0506_10.png",
+   "caption": "青森で新しく農業を始めた人のうち、37人が農業法人への就農だったそうです。ゼロから独立するのではなく、まず勤めるという入り方が増えている。\n\n僕は愛知で16年野菜をやっていて、今は会社の形にしてパートさん中心で回しています。9時から14時、5時間ほどの労働で土日は休み。それでも年間100トンは出荷できています。作業を分解して、誰でも入れる形に整えていくと、そういう回り方になる。\n\n新規就農というと、まず土地を借りて機械を揃えて、自分の畑を持つところから考えがちです。でも順番としては、法人で働きながら現場の勘を身につけるほうが早いと思っています。独立して一番きついのは栽培技術ではなくて、売り先と資金と、休みがないことです。そこは畑では学べない。法人にいれば、出荷の流れも人の動かし方も給料をもらいながら見られる。\n\nそれに、就農する側が増えるということは、農業法人に入りたいと思える職場が増えたということでもある。人が来ないと嘆く前に、来たくなる働き方に整える。順番は多分そっちが先です。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0919
+   }
+  },
+  {
+   "id": "0826_0506_18",
+   "news_title": "静岡で農業をはじめる人を応援します（新規就農支援策のご紹介）",
+   "source": "pref.shizuoka.jp",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtaXFhYV96WlZ5TlhxNFF2eXM4Znp3dkdUWnQyWWl6WGNSLVEtOXJ6Z3Y4NWFGTGpFNGwxVm9GcTJxYkpYWGJSMlFqOFJLYWtLNVcwMFhTMlM5OTdGRG1nRk1VUFAzeVk3LXhFRnlzRUJ4WnNENll6SA?oc=5",
+   "strip": "manga_cand_0826_0506_18.png",
+   "caption": "静岡県が新規就農の支援策をまとめて出しているのを見ました。こういう入口の情報が整理されているのはありがたいと思います。\n\n僕は愛知で16年野菜をやっていますが、就農して最初につまずいたのは技術より生活のほうでした。畑に何時間いたかで安心してしまって、朝暗いうちから夕方まで動いて、それでも数字は増えない。作物の勉強はいくらでもするのに、自分の働き方だけは誰も教えてくれない。支援制度も、資金と農地と研修が中心で、そこは自分で設計するしかない領域です。\n\nだから就農を考えている人には、品目や補助金より先に「何時から何時まで働く農業にするか」を決めておくことをすすめたいです。僕は9時から14時、土日は休みでやっています。先に時間を決めると、その中に収まらない作業は仕組みを変えるか人に渡すしかなくなる。パートさんに任せる前提で作業を組み直したのも、順番としては時間を決めたのが先でした。\n\n制度は始めるための足場で、続けられるかを決めるのは自分の時間割のほうだと思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0777
+   }
+  },
+  {
    "id": "0822_0505_24",
    "news_title": "企業の農業参入",
    "source": "pref.hokkaido.lg.jp",
@@ -284,50 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.0864
-   }
-  },
-  {
-   "id": "0806_0938_11",
-   "news_title": "地方、農業 置き去り 自治体 福祉の財源見えず",
-   "source": "福井新聞社",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FT2FRSXJ5MkJyV3RmYS1DZmNLOE9jQm8yWm50VGhqSzNnNmVpc3V1V3V5MHRlaUE5dWl3eVEzZUc2ODRidmlxWV9waVJkSnhsMkZoM3pmY0U2RXZidFE?oc=5",
-   "strip": "manga_cand_0806_0938_11.png",
-   "caption": "地方と農業が置き去りで、自治体の福祉の財源も見えない。そんな記事を読みました。\n\n農業の予算の話になると、たいてい「いくら出すか」の話になります。ただ現場にいると、お金が来ても人がいなければ何も動かない場面のほうが多い。機械を入れる補助はあっても、その機械を動かす人が来年も来てくれるかどうかまでは、誰も見てくれません。\n\n僕は年間100t出していますが、9時から14時までの約5時間で回しています。土日は休みです。それができているのは、うちのパートさんが続けてくれているからで、続いている理由は特別な待遇ではなく、単にその時間なら働けるからです。子どもを送って、迎えに行くまでに終わる。それだけのことです。\n\n順番が逆なんだと思っています。産業を守るために人を集めるのではなく、人が暮らせる働き方があるから産業が残る。福祉の財源が見えないという話も、結局は同じで、その土地に住み続けられる仕事があるかどうかの話です。農業は、その仕事になれる側にいると思っています。置き去りにされる前に、置き去りにされない働き方を先に作るしかない。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0911
-   }
-  },
-  {
-   "id": "0806_0938_19",
-   "news_title": "農業インフラの被害２千カ所に 熊本地震、水路やため池で深刻",
-   "source": "okinawatimes.co.jp",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84YXlyaGtpTzh6YTF1VXZvQVRuemhWYnpxa2VEODVyWHhWU293UUhaV1FtZTRiek14TWxoY3RtTjJaZGpyOHhPYU1VTmJ5Z1dYeGpXSzRmanlBekJkYnc?oc=5",
-   "strip": "manga_cand_0806_0938_19.png",
-   "caption": "熊本地震で、農業用の水路やため池の被害が2千カ所を超えているそうです。\n\n畑そのものは無事に見えても、水が来なければ何も作れません。水路は普段いちばん意識されない設備だと思います。蛇口をひねれば出るものとして、みんな当たり前に使っています。\n\n僕は愛知で野菜を年間100トン出していますが、うちも用水が止まれば、その日から全部止まります。ハウスも露地も、水の上に乗っているだけです。\n\nこういう記事を見ると、まず復旧のスピードに目が行きます。ただ現場で考えると、順番が逆なのかもしれません。壊れてから直す話の前に、壊れたときにどうするかを決めているかどうか。\n\n僕は経営の話をするとき、いつも人と時間の設計から入ります。9時から14時で回す、土日は休む。そこばかり見ていました。でも水と電気が止まった日の段取りは、正直あまり決めていません。\n\nパートさんに来てもらう以上、来たけれど作業ができない日をどう扱うかまで含めて考える必要があります。\n\nインフラは行政の話に見えて、実際には自分の経営計画の中にある話だと思います。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0797
    }
   },
   {

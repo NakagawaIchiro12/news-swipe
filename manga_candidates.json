@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0827_0506_32",
+   "news_title": "2026食トレンド「コンボケア」をバーで最速実装 オーセンティックバーが提案する新習慣 「ゼブラ飲みキャンペーン」2026年7月1日開始 | 株式会社ティグリス",
+   "source": "アットプレス",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EeVVlUVdOeGFMSW1ROVd1enhTQnBEZ3dyWFVaSEp4MFdpVUszb1pkREVjeC1xYXhUUDZqYTViSWpldm1TMjZieUE4c0pidw?oc=5",
+   "strip": "manga_cand_0827_0506_32.png",
+   "caption": "お酒の飲み方に「ケア」を組み合わせる、というニュースを見ました。水を挟みながら飲む習慣に名前をつけて、店側から提案していく試みだそうです。\n\n僕は農業を16年やっていて、9時から14時の約5時間で回す形に落ち着きました。最初から短くできたわけではなくて、長く働いた結果として体を壊しかけて、順番を入れ替えたというのが正直なところです。作業を削って時間を短くしたのではなく、先に「終わる時間」を決めて、そこに収まる作業だけを残していった。\n\nこのニュースで面白いと思ったのは、我慢を求めていない点です。飲むのをやめようではなく、飲み方の順番に一つ挟む。これ、農業でも同じ構図があると思っていて、「頑張るのをやめる」は現場では機能しないんです。パートさんに「無理しないで」と言っても、目の前に作業があれば手が動く。だから僕は言葉ではなく、14時で終わるという枠のほうを先に置きました。枠が先にあると、その中で何を捨てるかは現場が勝手に判断してくれる。\n\n意志より、順番。ケアを後ろに置くと消えるので、間に挟むしかない。年間100tを土日休みで出しながら思うのは、続く仕組みというのはだいたい、我慢を増やさずに順番を変えただけのものだということです。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.117
+   }
+  },
+  {
    "id": "0826_0506_10",
    "news_title": "農業法人への就農が37人 青森県内で新しく農業を始めた人",
    "source": "TVer",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0655
-   }
-  },
-  {
-   "id": "0808_0507_22",
-   "news_title": "農業経営基盤の強化の促進に関する基本方針について",
-   "source": "pref.kagoshima.jp",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGhVWXdyX0FQREdOYm1lU29URlpqZDM1aFNncXRGZndHMXAyMENUUzZKSEFPMGZOTzBod3hTYmRoc3d5VGF4Tk0wNm1SQ2dyTUdWWmt2WXdKU1VMREJnYjRHNXBobkRNZDdMTWpMcldaczFYcHlVVVVWY0tkZWxzZ1gwZy1leFluVFRyenUwRWtCU1Q0a1M0dQ?oc=5",
-   "strip": "manga_cand_0808_0507_22.png",
-   "caption": "鹿児島県が、農業経営基盤の強化に関する基本方針を出したそうです。\n\n担い手をどう育てて、農地をどうまとめていくか。県として方向を示す文書だと理解しています。\n\nこういう方針を読むたびに思うのは、農業の課題はだいたい「人」に行き着くということです。設備や品種の話より先に、誰がその畑を続けるのか。ここが決まらないと何も積み上がりません。\n\n僕は愛知で野菜を年間100トン出していますが、担い手が僕一人だったら、この量は絶対に無理です。パートさんが中心で回っていて、朝9時から14時までの約5時間で終わる。土日も休みます。だから続けられている。\n\n「担い手を確保する」と聞くと、新しく農業をやりたい人を探す話に聞こえます。でも僕の実感では、順番が逆かもしれません。まず今いる人が辞めない働き方をつくる。長く働ける現場になって初めて、新しい人が入ってきても定着する。\n\n規模を大きくしてから人を集めるのではなく、人が続く形をつくってから規模がついてくる。16年やって、その順番でしか伸びなかったと感じています。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.0864
    }
   },
   {

@@ -20,7 +20,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.117
-   }
+   },
+   "tsukutta": "2026-08-27 05:06",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0827_0506_32.png"
   },
   {
    "id": "0826_0506_10",
@@ -42,7 +45,10 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0919
-   }
+   },
+   "tsukutta": "2026-08-26 05:06",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_10.png"
   },
   {
    "id": "0826_0506_18",
@@ -64,7 +70,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0777
-   }
+   },
+   "tsukutta": "2026-08-26 05:06",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_18.png"
   },
   {
    "id": "0822_0505_24",
@@ -86,7 +95,10 @@
     "n_face": 3,
     "n_hand": 3,
     "body_edge_density": 0.0617
-   }
+   },
+   "tsukutta": "2026-08-22 05:05",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0822_0505_24.png"
   },
   {
    "id": "0821_0934_19",
@@ -108,7 +120,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1522
-   }
+   },
+   "tsukutta": "2026-08-21 09:34",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0821_0934_19.png"
   },
   {
    "id": "0820_0935_13",
@@ -130,7 +145,10 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0819
-   }
+   },
+   "tsukutta": "2026-08-20 09:35",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0820_0935_13.png"
   },
   {
    "id": "0820_0935_20",
@@ -152,7 +170,10 @@
     "n_face": 2,
     "n_hand": 4,
     "body_edge_density": 0.094
-   }
+   },
+   "tsukutta": "2026-08-20 09:35",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0820_0935_20.png"
   },
   {
    "id": "0819_0504_18",
@@ -174,7 +195,10 @@
     "n_face": 1,
     "n_hand": 1,
     "body_edge_density": 0.1111
-   }
+   },
+   "tsukutta": "2026-08-19 05:04",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0819_0504_18.png"
   },
   {
    "id": "0817_0505_18",
@@ -196,7 +220,10 @@
     "n_face": 2,
     "n_hand": 0,
     "body_edge_density": 0.0703
-   }
+   },
+   "tsukutta": "2026-08-17 05:05",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0817_0505_18.png"
   },
   {
    "id": "0816_0935_13",
@@ -218,7 +245,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0667
-   }
+   },
+   "tsukutta": "2026-08-16 09:35",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0816_0935_13.png"
   },
   {
    "id": "0815_0504_24",
@@ -240,7 +270,10 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.1554
-   }
+   },
+   "tsukutta": "2026-08-15 05:04",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0815_0504_24.png"
   },
   {
    "id": "0814_0506_19",
@@ -262,7 +295,10 @@
     "n_face": 2,
     "n_hand": 3,
     "body_edge_density": 0.0786
-   }
+   },
+   "tsukutta": "2026-08-14 05:06",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0814_0506_19.png"
   },
   {
    "id": "0813_0504_28",
@@ -284,7 +320,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0591
-   }
+   },
+   "tsukutta": "2026-08-13 05:04",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0813_0504_28.png"
   },
   {
    "id": "0812_0506_1",
@@ -306,7 +345,10 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.1532
-   }
+   },
+   "tsukutta": "2026-08-12 05:06",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0812_0506_1.png"
   },
   {
    "id": "0809_0508_14",
@@ -328,7 +370,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0655
-   }
+   },
+   "tsukutta": "2026-08-09 05:08",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0809_0508_14.png"
   },
   {
    "id": "0731_0938_13",
@@ -350,7 +395,10 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0925
-   }
+   },
+   "tsukutta": "2026-07-31 09:38",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0731_0938_13.png"
   },
   {
    "id": "0731_0938_11",
@@ -372,7 +420,10 @@
     "n_face": 3,
     "n_hand": 1,
     "body_edge_density": 0.0776
-   }
+   },
+   "tsukutta": "2026-07-31 09:38",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0731_0938_11.png"
   },
   {
    "id": "0727_0941_9",
@@ -396,7 +447,10 @@
     "body_edge_density": null
    },
    "caption_orig": "本文を作成します。ナレッジファイルは直接開けませんでしたが、必要なルール（肥料表現・AI装飾禁止・運用の推測禁止）はすべて指示に明記されているため、それに厳密に沿って書きます。\n\n青森の板柳町で、津軽りんご市場の企画として若手農業者が経営を学ぶ場が開かれたそうです。産地の市場が音頭を取って経営を教えるという組み合わせは、いい流れだなと思いました。\n\n僕は愛知で野菜を作って16年になりますが、最初の頃は栽培の技術ばかり追いかけていました。作るのがうまくなれば経営も自然と良くなるはずだと考えていたからです。ただ実際は、いくらで誰に売るか、誰とどう働くかを決めないまま技術だけ積み上げても、忙しさが増えるばかりでした。\n\n今は年間100トンを出荷しながら、朝9時から14時までの約5時間で仕事を終えて、土日は休んでいます。これは栽培がうまくなった結果というより、経営のほうを先に設計し直した結果だと感じています。順番で言えば、経営が先で技術が後。技術は経営の設計図があって初めて活きるものだと、16年やってきて思います。若いうちにその順番で学べる環境は、それだけで大きな強みではないでしょうか。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "caption_fixed": "2026-08-01 meta_preamble_removed"
+   "caption_fixed": "2026-08-01 meta_preamble_removed",
+   "tsukutta": "2026-07-27 09:41",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0727_0941_9.png"
   },
   {
    "id": "0727_0941_20",
@@ -418,7 +472,10 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.0979
-   }
+   },
+   "tsukutta": "2026-07-27 09:41",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0727_0941_20.png"
   },
   {
    "id": "0727_0941_14",
@@ -440,7 +497,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0467
-   }
+   },
+   "tsukutta": "2026-07-27 09:41",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0727_0941_14.png"
   },
   {
    "id": "0728_0935_16",
@@ -462,7 +522,10 @@
     "n_face": 2,
     "n_hand": 0,
     "body_edge_density": null
-   }
+   },
+   "tsukutta": "2026-07-28 09:35",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0728_0935_16.png"
   },
   {
    "id": "0724_0936_19",
@@ -484,7 +547,10 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0714
-   }
+   },
+   "tsukutta": "2026-07-24 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0724_0936_19.png"
   },
   {
    "id": "0723_0936_27",
@@ -506,7 +572,10 @@
     "n_face": 2,
     "n_hand": 1,
     "body_edge_density": 0.1743
-   }
+   },
+   "tsukutta": "2026-07-23 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0723_0936_27.png"
   },
   {
    "id": "0724_0936_9",
@@ -528,7 +597,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1289
-   }
+   },
+   "tsukutta": "2026-07-24 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0724_0936_9.png"
   },
   {
    "id": "0724_0936_5",
@@ -550,7 +622,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0966
-   }
+   },
+   "tsukutta": "2026-07-24 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0724_0936_5.png"
   },
   {
    "id": "0724_0936_7",
@@ -572,7 +647,10 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.0779
-   }
+   },
+   "tsukutta": "2026-07-24 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0724_0936_7.png"
   },
   {
    "id": "0725_0936_31",
@@ -594,7 +672,10 @@
     "n_face": 1,
     "n_hand": 0,
     "body_edge_density": 0.0907
-   }
+   },
+   "tsukutta": "2026-07-25 09:36",
+   "yotei_hi": null,
+   "yotei_moto": "scripts/news-swipe\\manga_cand_0725_0936_31.png"
   }
  ]
 }

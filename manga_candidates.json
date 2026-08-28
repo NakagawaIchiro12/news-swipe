@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0828_0936_1",
+   "news_title": "近畿大が地域創生農業 AI活用、果樹栽培研究",
+   "source": "日刊工業新聞",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DdmpDVU5nQUVHajRwUG1BbkE2aUljY1FtR2xtS0FndnBsUm54WlFpbWlnRWRpTllLZFZKOFZUMG1ZZHZJc2hUbkxpMkVLZjVXRXpUMnJRT1I?oc=5",
+   "strip": "manga_cand_0828_0936_1.png",
+   "caption": "近畿大学が地域創生の一環で、AIを使った果樹栽培の研究を進めるという記事を読みました。\n\n僕も現場でAIは使っています。使ってみて分かったのは、いちばん効いたのが栽培そのものではなく、その手前だったことです。誰がいつ何をやるか、次に何を採るか、パートさんへの指示をどこまで短くできるか。段取りの部分で効きました。\n\n果樹の技術をAIで読み解くのは、価値のある研究だと思います。ただ、農家が自分の農場にAIを入れるとなると、順番が逆になりやすい。栽培の判断は天気も土も株の状態も毎年違って、答えが一つに決まらない。そこにAIを当てても、最後は人が現場で見て決め直すことになります。時間だけ増えて、決めるのは結局自分、という形になりがちです。\n\n僕が9時から14時の5時間で年間100t出して土日を休めているのは、栽培の腕が上がったからというより、決める場面を減らしたからだと思っています。作業を型にして、迷う所を先に潰しておく。AIはその型を言葉にするのが速い。\n\n技術を伸ばすためのAIより、判断しなくていい状態を作るためのAI。現場に入れる順番は、たぶんこっちが先です。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1089
+   }
+  },
+  {
    "id": "0827_0506_32",
    "news_title": "2026食トレンド「コンボケア」をバーで最速実装 オーセンティックバーが提案する新習慣 「ゼブラ飲みキャンペーン」2026年7月1日開始 | 株式会社ティグリス",
    "source": "アットプレス",
@@ -349,31 +371,6 @@
    "tsukutta": "2026-08-12 05:06",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0812_0506_1.png"
-  },
-  {
-   "id": "0809_0508_14",
-   "news_title": "「お米大好き！」農業の魅力や食の大切さを知って…南国市で子どもたちが稲刈り体験【高知】",
-   "source": "TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YQmRkVjhBaWZjS3ZzY1lFeWxua2YyT3YyRTRrbzVTOUYwZHdxazBqbGFzeE5pSm5EUU1sdVFDN3QwSzhpdWp4cWFja2FfMDAzSG5OS2NtUVB5ZGp2TVJZa3RiODk?oc=5",
-   "strip": "manga_cand_0809_0508_14.png",
-   "caption": "高知の南国市で、子どもたちが稲刈りを体験したそうです。\n\n僕もこういう体験の場は続いてほしいと思っています。ただ、農業の魅力を伝える順番としては、少し引っかかるところがあります。\n\n子どもが見るのは、たいてい収穫の日だけです。楽しい、おいしい、で終わる。その裏にある、朝から晩まで働いても休みが取れない、という部分は見えません。むしろ大人が「農業は大変だ」と言い添えてしまうことすらあります。それだと、好きになった気持ちが後から冷めます。\n\n僕は朝9時から14時までで畑を回して、土日は休んでいます。年間100t出しています。一緒に働いてくれているパートさんが、無理なく続けられる形を優先してきた結果です。\n\n伝えるべきは「大変だけどやりがいがある」ではなくて、「こういう働き方でも成り立つ」という事実のほうだと思っています。\n\n魅力を先に見せて、あとから現実で落とすより、現実のほうを先に変えておく。子どもたちがいつか職業として考えたとき、選択肢に残るのはそっちです。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0655
-   },
-   "tsukutta": "2026-08-09 05:08",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0809_0508_14.png"
   },
   {
    "id": "0731_0938_13",

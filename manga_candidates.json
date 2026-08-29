@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0829_0936_13",
+   "news_title": "女性農業者の働き方を考えるシンポジウム 長野県の農家・新海智子さん「自分のこと、優しく受け止める力を」【講演要旨】",
+   "source": "佐賀新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zYkVQMF9UMVdYSWhoLVBQeC1qUXA0RVRMTllkSWk2OVBacU01NEgwd1JwekxqS2E2UEdrRzBGX2c2bWxNd2lXYkNCakRJZkZtZ1JpWDZn?oc=5",
+   "strip": "manga_cand_0829_0936_13.png",
+   "caption": "女性の働き方の話として出ていましたが、僕には農業全体の話に読めました。\n\nうちは9時から14時の約5時間で回していて、土日は休みです。年間100t出荷は、その中でやっています。最初からそうできたわけではなくて、朝暗いうちから晩まで動いていた時期が長くありました。変えたきっかけは、パートさんが辞めていったことです。無理な時間で組んだ体制は、その人の頑張りが尽きた時点で終わる。そこで初めて、自分の働き方を疑いました。\n\n現場で思うのは、順番が逆になりやすいということです。まず売上や面積を伸ばして、余裕ができたら働き方を直そうと考える。僕もそう思っていました。でも実際は逆で、時間を先に区切ると、区切った中に収める方法を探すようになります。今日やらなくていい作業が見えてくる。人に渡せる作業も見えてくる。伸ばしてから休むのではなく、休む前提で組むと、伸ばし方のほうが変わっていきます。\n\n自分を優しく受け止める力、という言葉が出ていましたが、これは気持ちの持ち方の話だけではないと思っています。休める体制を先に作らないと、優しく受け止める余白そのものが生まれない。順番の問題として考えたほうが、たぶん進みます。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.1091
+   }
+  },
+  {
+   "id": "0829_0936_23",
+   "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
+   "source": "三菱UFJリサーチ&コンサルティング",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5",
+   "strip": "manga_cand_0829_0936_23.png",
+   "caption": "農地を借りるのが個人には難しい一方で、自治体が企業や法人を呼び込む側に回っている、という話。\n\n僕は愛知で16年、野菜を作ってきました。今は年間100tを、9時から14時までの5時間で出荷まで回して、土日は休みます。パートさん中心の会社型です。この形にしたのは、企業的にやりたかったからではなくて、人が続かない現場を見てきたからです。誘致される側の企業も、たぶん最初は土地と補助金の話から入ると思います。でも実際に効いてくるのは、その土地で人が集まるかどうかの方です。\n\n順番の話をすると、僕は「規模を作ってから労働環境を整えよう」とは思わなかった。逆で、9〜14時で回る設計を先に決めて、そこに入る量まで規模を持っていきました。先に量を決めると、人は必ず後回しになります。誘致でよくある失敗も、たぶんここです。土地は自治体が用意してくれても、そこで働く人の暮らしは用意されない。企業が入ってきて地域が良くなるかどうかは、面積でも売上でもなく、5年後にその現場のパートさんがまだ笑って働いているかで決まると思っています。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0828_0936_1",
    "news_title": "近畿大が地域創生農業 AI活用、果樹栽培研究",
    "source": "日刊工業新聞",
@@ -321,56 +365,6 @@
    "tsukutta": "2026-08-14 05:06",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0814_0506_19.png"
-  },
-  {
-   "id": "0813_0504_28",
-   "news_title": "定量×定性で読み解く「食」トレンドの現在地と未来 生活者の潜在ニーズと欲望の変化から導く次のヒットの兆し",
-   "source": "朝日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KUmxkMDd2LWJ1cUxFX0pkcmFkRVN3aEFrMFFFejJia0RsLVFIdWZNeFh5UFFqV2cwQlItMVdiU29VZG1tam1rQU1ScGJrUXFWR0d4d1VoblVqdzQ?oc=5",
-   "strip": "manga_cand_0813_0504_28.png",
-   "caption": "食のトレンドを、数字と聞き取りの両方から読み解くという記事が出ていました。売れた量だけでなく、その裏にある気持ちの変化まで見に行くという話です。\n\n農家からすると、これはかなり切実な話に聞こえます。何を作るか決めるのは、種をまく前。判断した結果が出るのは、早くても数ヶ月先です。市場に並ぶ頃には、世の中の空気は少し変わっている。だから読み間違えると、丸ごと一作分が響きます。\n\n僕が16年やってきて思うのは、数字は必ず遅れて届く、ということです。今年の相場が分かった時点で、その情報はもう過去のものになっている。数字は答え合わせには使えても、先読みには足りない。\n\nだから僕は、順番を逆にしています。まず現場や売り場で「これ、どう食べるの」と聞かれる回数みたいな、数字になる前の小さな違和感を拾う。それを後から数字で確かめる。定性が先で、定量が後。\n\nこの順番にしてから、外した時の傷が浅くなりました。全部を当てにいくのではなく、外れても立て直せる幅を残しておく。5時間で回す前提でやっている以上、僕にとってはそっちのほうが大事です。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0591
-   },
-   "tsukutta": "2026-08-13 05:04",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0813_0504_28.png"
-  },
-  {
-   "id": "0812_0506_1",
-   "news_title": "アグリテック市場｜AI×精密農業で変わる「播種→収穫」の次世代農業",
-   "source": "Ｒｅｐｏｒｔ Ｏｃｅａｎ株式会社",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUNLZ3lTc19iZlRPaGFlcVhIZWliTThmWGVyS0NWYkZIOU5DdHEzN2tEWEwwck92SmxxUEl4YVRTNXVpOWdMNDR0N0QxN19sWXU5YU9CTmxVVW9maEVlRi1BTXBMQUhxazdYZXladzFSMTNiWTJjcXl5SjdKTTN2Y041OG5yYXktbEV2VU1zRl9CZw?oc=5",
-   "strip": "manga_cand_0812_0506_1.png",
-   "caption": "AI×精密農業で、播種から収穫までデータで最適化する。市場としては伸びる分野だと思う。\n\nうちも現場でAIは使っている。ただ、入れてみて分かったのは、AIが効くのは「判断の数を減らした後」だということ。\n\n僕のところは9〜14時の約5時間で年間100t出す。土日は休む。それができているのは、パートさんが迷わない形まで作業を単純にしてあるから。誰がやっても同じ結果になる状態を先に作って、そこにAIを乗せると効く。逆にバラバラなままデータを取っても、出てくるのは「バラバラです」という事実だけで、現場は何も変わらない。\n\n肥料の設計も似ていて、有機の比率を下げると安定する場面はあるけれど、有機も化成もどちらも要る。規模と人手で選ぶ話だと思っている。ここもAIに答えを出させる前に、自分の畑で何を測るかを決めるほうが先だった。\n\n技術が先で人が後、ではなく、人の動きを整えてから技術を足す。順番を逆にすると、高い道具が現場で止まる。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.1532
-   },
-   "tsukutta": "2026-08-12 05:06",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0812_0506_1.png"
   },
   {
    "id": "0731_0938_13",

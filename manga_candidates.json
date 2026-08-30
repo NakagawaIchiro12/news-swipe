@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0830_0937_2",
+   "news_title": "輝翠、JA全農あおもりへ自律走行ロボット「Adam」のマーケティング機を納品",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81QWczZFdlQW9EVzVXNzM0Zl8yVTM4aEtOanlGbm9UMEpralp4M1lvWmZfd3NlVTZZU2lVWG1VTWRrODMwR1M4VzIxdmQ5cHpzM1pDQmRCOUtQd0Q4Z2pqLVdyR1MyamFEeUE?oc=5",
+   "strip": "manga_cand_0830_0937_2.png",
+   "caption": "輝翠のAdam、青森でマーケティング機として動き出したというニュース。収穫の補助や運搬を機械が担う方向は、これから当たり前になっていくと思います。\n\n僕の農場でも作業の一部はAIに任せています。ただ、導入して分かったのは、機械やAIは「もうやり方が決まっている作業」しか肩代わりしてくれないということです。誰がやっても同じ手順になっているところは、渡した瞬間に効きます。逆に、人によってやり方が違うところに入れても、迷いがそのまま残るだけでした。\n\nだから順番としては、ロボットを入れる前に、作業を人がやりやすい形に整えるほうが先だと思っています。僕のところは9時から14時の約5時間で回していますが、そうできたのは高価な機械を入れたからではなくて、パートさんが迷わない手順に落とし込んだからです。整った作業は、人でも回るし、機械にも渡せる。\n\nロボットは省力化の答えというより、整理が済んでいるかどうかを映す鏡に近い。青森の事例も、そこがどう変わったかを見てみたいです。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "robot",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": 0.059
+   }
+  },
+  {
    "id": "0829_0936_13",
    "news_title": "女性農業者の働き方を考えるシンポジウム 長野県の農家・新海智子さん「自分のこと、優しく受け止める力を」【講演要旨】",
    "source": "佐賀新聞",
@@ -340,31 +362,6 @@
    "tsukutta": "2026-08-15 05:04",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0815_0504_24.png"
-  },
-  {
-   "id": "0814_0506_19",
-   "news_title": "今年の食トレンドは甘くて、辛い！？日本最速！「スワイシー」な味わいの「スワイシーブルダック炒め麺BIGカップ」を8月18日（火）より先行発売 | 株式会社ファミリーマートのプレスリリース",
-   "source": "prtimes.jp",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42SDNVT2k5LW42VGNwbG9XeHFTSDJVYzE0cGFQSk5KZ05yUFpFM0loTnV4aFFUR3haQ2pjWVM4NTkxNEJxR0I5bTF6WTV0Q2o1RVlGcWZ4STh2N3EwVzRtTWYxT1NrVE5TUmc?oc=5",
-   "strip": "manga_cand_0814_0506_19.png",
-   "caption": "ファミリーマートが「スワイシー」、甘くて辛い味のカップ麺を先行発売するそうです。甘さと辛さを同時に出すのが今年の流れらしい。\n\n野菜を作っていると、甘いことがそのまま良さだと思われがちです。糖度が高い、えぐみがない。売り場でもそう伝えられることが多いですし、僕も長いことそこを目指してきました。\n\nただ、実際に食べられている場面を見ると、甘さだけで成立している料理はそれほど多くありません。辛味や酸味と組み合わさって、はじめて甘さが立つ。単体で完璧な素材より、何かと合わせたときに強い素材のほうが、結局よく使われている気がします。\n\n味の流行は、たいてい加工品のほうが先に動きます。作り手が新しい味を提案して、素材は後から追いかける形になる。だから僕は、何を作るか考えるときに、育て方より先に「どう食べられているか」を見るようにしています。畑の中だけで良い野菜を決めると、売り場と少しずつずれていく。\n\n技術を上げるのが先だと思っていた時期が長かったんですが、順番は逆かもしれません。使われ方が決まって、そこから育て方が決まる。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 28,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.0786
-   },
-   "tsukutta": "2026-08-14 05:06",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0814_0506_19.png"
   },
   {
    "id": "0731_0938_13",

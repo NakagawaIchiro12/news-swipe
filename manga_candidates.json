@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0901_0936_4",
+   "news_title": "東京工科大学と農研機構が共同研究！ AIをはじめ工学で挑むスマート農業とは",
+   "source": "朝日新聞",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dFVNcHBlS2Zzb2s1aGRRUWlOTGRZbUhzNTFSNjFMY1gyRERDdk9ELXA1V05pb2xrVVU3Y0VQdFZLYjg4LTFURnBZWU5ZbEtsazFTNXhB?oc=5",
+   "strip": "manga_cand_0901_0936_4.png",
+   "caption": "東京工科大学と農研機構がAIや工学でスマート農業に挑む、というニュースを見ました。\n\n僕も現場でAIを使っています。ただ、使ってみて分かったのは、AIが効くのは判断が要る場所じゃなくて、判断がブレる場所だということです。うちは9〜14時の約5時間で回して土日は休みます。パートさんが中心なので、その日いる人が迷わず動けることが全部の土台になる。そこでAIに助けてもらうのは、収量の予測より前に、伝え方や段取りの整理でした。\n\n技術で一番効いたのは、賢い答えが出たときじゃなくて、人によって違っていた判断がそろったときです。畑の技術は最後は経験でしか詰められない部分が残ります。でも「誰がやっても同じ手順になる」ところまでは、工学の力で先に持っていける。\n\nだから順番としては、AIを入れてから人の働き方を変えるのではなくて、人の働き方を決めてからAIを入れる方が、たぶん現場は変わります。研究が進むほど、農家側が「何を任せたいか」を言葉にできているかが問われる気がしています。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 0,
+    "body_edge_density": 0.1095
+   }
+  },
+  {
+   "id": "0901_0936_8",
+   "news_title": "【県農業賞】逆境耕し命吹き込む 大地を再生食味向上 農業経営改善部門 鈴木利令さん（６５）広野",
+   "source": "福島民報デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CUF9XdDdzamVZOEcxS25UbFVqS01pOHVWZzRSVmRlWU1KOHdoR0lNc0p5OUFLTVBQMGRWbzN3a0E1bXdNLVJLdjJJNkNOS0E?oc=5",
+   "strip": "manga_cand_0901_0936_8.png",
+   "caption": "県の農業賞で、荒れた土地を再生して食味を上げた65歳の方が選ばれたという記事を読みました。逆境を耕して命を吹き込む、という言い方が印象に残ります。\n\n僕も愛知で16年野菜をやっていて、土づくりの話は現場の実感としてよく分かります。有機を入れるか化成でいくか、みたいな二択で語られがちですが、実際はどちらも要る。有機の比率を下げると数字が安定する場面もあるし、規模と作型で選ぶものが変わるだけの話だと思っています。土は一年で仕上がらないので、去年の判断の答えが今年出てくる。その遅さに耐えられるかどうかが分かれ目な気がします。\n\nただ、こういう記事を読むといつも思うのは、順番の話です。土を良くすれば経営が良くなる、と読みたくなる。でも僕の場合は逆でした。9時から14時の約5時間で回す、土日は休む、と先に決めたから、限られた時間で何をやるかを絞らざるを得なくなった。全部やる前提だと、土づくりは「余裕があれば」に落ちます。時間を先に区切ると、土づくりは削れない側に残る。パートさんが疲れずに続けてくれる体制があって、はじめて毎年同じ手入れができる。土に手をかけ続けられる人は、たぶん土が好きな人というより、続けられる働き方を先に作った人なんだと思います。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.1124
+   }
+  },
+  {
    "id": "0830_0937_2",
    "news_title": "輝翠、JA全農あおもりへ自律走行ロボット「Adam」のマーケティング機を納品",
    "source": "PR TIMES",
@@ -312,56 +356,6 @@
    "tsukutta": "2026-08-17 05:05",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0817_0505_18.png"
-  },
-  {
-   "id": "0816_0935_13",
-   "news_title": "「香港フードエキスポ」開幕 ウェルネスを軸に最新トレンド集結",
-   "source": "香港経済新聞",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdUlrdkVXVFB5VktHRzdxc2xmOXJwY1Z5a2xGOGl1RV9kNGZiT21RUXNuMm02Wm0yZ2hhOUdLZzdBa1NuZHJNU2VNWFlSVC1UODNXRg?oc=5",
-   "strip": "manga_cand_0816_0935_13.png",
-   "caption": "香港のフードエキスポがウェルネス軸というのは、輸出の話というより、買う人の理由が「安いから」から「体にいいから」へ動いているという話だと受け取りました。海外の展示会に出したことはないので、そこは詳しくないです。ただ国内の売り場でも、ここ数年で表示に何が書いてあるかを見るお客さんが増えた感じはあります。\n\n僕がひっかかるのは、健康を売りにしようとすると、たいてい作り方の話から入ってしまうところです。有機に寄せる、肥料をどうする、と。うちも有機と化成の比率は毎年いじりますが、有機の比率を下げたほうが安定する場面もあるし、規模と作型で答えは変わる。どちらかを捨てる話ではないと思っています。\n\n順番が逆なんじゃないかと思うんです。健康志向で売れるものは、まず年間を通して同じ品質で切らさず出せることが前提になる。単発でいいものができても、棚には並び続けられない。うちが9時から14時の5時間で年間100t回してるのも、パートさんが土日休んで無理なく続けられる編成にしないと、供給が途切れるからです。トレンドを追う前に、追い続けられる体を先に作る。ウェルネスの話を見ていて、そこが一番効くところだろうなと感じています。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "export",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0667
-   },
-   "tsukutta": "2026-08-16 09:35",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0816_0935_13.png"
-  },
-  {
-   "id": "0815_0504_24",
-   "news_title": "農業の大規模化で失敗しないために｜規模拡大前に考えたいこと",
-   "source": "農業とITの未来メディア",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5eUVuaXIwX2JIcTRNYWtMSkJ5UlcyamhBb2lrVzBCMzdaQUNsdkZEY2FjdGM1bVRPVFk1SjJzVXA5anpuZkJONWFxbnZ4cFJjZldJ?oc=5",
-   "strip": "manga_cand_0815_0504_24.png",
-   "caption": "規模拡大で失敗しないために、という記事が出ていました。広げる前に考えたい事、という内容ですね。\n\n僕も面積を増やしてきた側なので、この話は分かります。\n\nただ、16年やって思うのは、順番を間違えると広げた分だけしんどくなるという事です。\n\n面積を先に増やすと、作業も判断も全部増えます。増えた分を自分の残業で埋める形になって、気付いたら朝から晩まで畑にいる。それでは規模を大きくした意味がありません。\n\n僕が先にやったのは、今の面積を今より短い時間で回せるようにする事でした。パートさんに任せられる形に作業を分けて、僕が居なくても進む状態を作る。そこが出来てから面積を足す。\n\n年100トンを、9時から14時の5時間で回せているのは、この順番でやってきたからだと思っています。広げたから人を入れたのではなくて、人が回る形を作ってから広げた。\n\n逆説みたいですが、規模拡大の準備は面積の話ではなくて、自分が抜けても回るかどうかの話だと思います。\n\nそこが出来ていないうちに広げると、増えるのは売上ではなく自分の労働時間の方です。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 0,
-    "body_edge_density": 0.1554
-   },
-   "tsukutta": "2026-08-15 05:04",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0815_0504_24.png"
   },
   {
    "id": "0731_0938_13",

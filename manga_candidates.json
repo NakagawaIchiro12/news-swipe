@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0903_0938_27",
+   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！｜every, Inc.",
+   "source": "株式会社エブリー",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oU2N6d1d0SVRyOGFKSFZFYmRHdDl3b01HNjVhcEUzZWJOZU55eXNXbnluR2xjVjlTdG5qR0QxanY1V1AwOG9JZ0h1QQ?oc=5",
+   "strip": "manga_cand_0903_0938_27.png",
+   "caption": "2026年上半期の食トレンドランキングと、下半期の予測が発表されていた。\n\nこういう記事は毎年見るけれど、農家の立場だと使い方が少し違ってくる。作付けは半年から一年前にはおおよそ決まるので、ランキングを見て品目を切り替えるという発想が、そもそも持ちにくい。種を頼む段階では、いま話題になっているものはもう次へ移っていることが多い。\n\nだから僕が見ているのは、順位そのものより、その料理に何がどう使われているかのほう。同じ野菜でも、家で作られるのか外で食べられるのかで、求められる大きさも量も変わる。品目を変える材料ではなく、伝え方と出し方を寄せる材料として読んでいる。\n\n順番の話でいうと、多くの人は「売れそうなものを作る」から入ると思う。僕は逆で、9時から14時の約5時間で回して土日は休む、という続け方のほうを先に決めた。そうすると作れる品目は自然と絞られる。絞ったあとでトレンドを重ねると、追いかけなくてよくなる。\n\n流行に乗って伸ばすことより、流行が外れた年に崩れないこと。100t出し続けるのに効いているのは、たぶんそちらだと思っている。パートさんの働き方が毎年変わらないのも、たぶん同じ理由。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": 27,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": 0.1121
+   }
+  },
+  {
+   "id": "0903_0938_19",
+   "news_title": "渇水続く愛知の宇連ダム 豊川用水で節水強化 農業･工業用水20% 水道用水15%に 田原市のキャベツ農家｢ものすごくピンチ｣ 1番水が必要な時期に",
+   "source": "ｄメニューニュース",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yZzNMa3NMSGNoYjVySjRCTE5GY3l5OEFuRFZzR1Vvck5sTnFUV0plZ09ZSURncjhScURicF9icUc5ZWpjTTdaczNhTXFBbkEwa2FhaHRhQkJVN2R2SHZfVjI2MFd3T3BjTjJLa3FlMU9vbTdW0gF6QVVfeXFMTThSTkdjQnBRNGRqTjR0TVBoNXFBYW5zaUpQZlcyQm1NMTRad1RSS2ZMaHVHMElDTWZDTnJfWTBfZ3JvWEJ4azlqMWFDdXNfZUllZTJhQ0kyNzk2SWswRGVsM0l2VGtkNjNvN3hkUVBUejBwX2NzYjhTVWc?oc=5",
+   "strip": "manga_cand_0903_0938_19.png",
+   "caption": "宇連ダムの渇水で、豊川用水の農業用水が20%の節水になった。田原のキャベツ農家さんの「一番水が必要な時期に」という言葉が重い。同じ愛知で作っている身として、他人事ではないです。\n\n水は自分の努力でどうにもならない。天気も同じ。16年やってきて思うのは、農業でコントロールできる事の方がずっと少ない、という事です。\n\nだから僕は、コントロールできる側を先に固めるようにしています。うちは9時から14時の約5時間で回して、土日は休む。効率を上げて余白を削る、ではなくて、余白を残すために効率を上げる。この順番が逆になると、こういう年に打つ手が無くなります。\n\nフル稼働で組んだ計画は、平年なら一番強い。ただ、外から水が減らされた瞬間に、動かす手も時間も残っていない。異常な年に効いてくるのは、栽培の技術より先に、手が空いているかどうかだと思っています。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "weather",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": 0.0953
+   }
+  },
+  {
    "id": "0901_0936_4",
    "news_title": "東京工科大学と農研機構が共同研究！ AIをはじめ工学で挑むスマート農業とは",
    "source": "朝日新聞",
@@ -306,56 +350,6 @@
    "tsukutta": "2026-08-20 09:35",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0820_0935_20.png"
-  },
-  {
-   "id": "0819_0504_18",
-   "news_title": "北海道帯広の「国際農業機械展」、経費高騰で市に支援要請 来夏開催",
-   "source": "日本経済新聞",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRHdjRmlKXzU2UVEzSWFsbGRtd0NiSTlQZGg0a3l0SmJOc2s5N3M0bXdkNlZFMVBQSm9zYi1YMlpnWklKTVdZRVBaM3d3dHJZRm03RjNxQnU2clNyUUdvTE5hdzBDLW5nVVZyQQ?oc=5",
-   "strip": "manga_cand_0819_0504_18.png",
-   "caption": "農業機械の展示会が、経費の高騰で市に支援を求めているというニュース。機械を売る側の場も、コストで揺らいでいる。\n\n僕の現場でも、機械の見積もりは年々上がっている。ただ導入をやめたかというと逆で、入れた台数はむしろ増えた。理由は単純で、うちは9時から14時の5時間で年間100tを出す前提だから、機械を削ると人が長く働くしかなくなる。土日休みも崩れる。値上がりを理由に見送ると、そのぶんの負担がまるごとパートさんに乗る。\n\nそれでも全部を最新にはしない。順番があって、まず作業を見直して、それでも人の手が足りない工程にだけ機械を入れる。段取りが甘いまま高い機械を買うと、機械に人が合わせる形になって、かえって時間が伸びる。ここを逆にした人を何人か見てきた。\n\nだから展示会は、買う場所というより、いまの自分の段取りのどこが遅いかを機械の側から教えてもらう場所だと思っている。値札を見に行くと高い、で終わる。工程を持って行くと、意外と安い買い物が見つかる。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 30,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 1,
-    "body_edge_density": 0.1111
-   },
-   "tsukutta": "2026-08-19 05:04",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0819_0504_18.png"
-  },
-  {
-   "id": "0817_0505_18",
-   "news_title": "コメ農家「水がなければどうにもならない」庄川渇水のおそれで取水制限 農業への影響 懸念広がる",
-   "source": "FNNプライムオンライン",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBodW5acWRtVWlVRHFEdjlwUmd4MzlvVlFfOC1NblFYOVpyWl9ONXZwRGNmZGdmS0VtcjRUaWEyck9aaDlldEVDbjFhMkhfQQ?oc=5",
-   "strip": "manga_cand_0817_0505_18.png",
-   "caption": "水がなければどうにもならない、という言葉が重い。うちは野菜だけど、水の話は他人事じゃない。夏場に水が細ると、どれだけ栽培の腕があっても打つ手が減る。\n\n僕は16年やってきて、農業で本当に効くのは技術よりも先に「条件」だと思っている。日照、土、そして水。ここが崩れると、その年の努力はほぼ返ってこない。だから畑を増やすときは、収量が出るかより先に、水がどこから来てどれだけ安定しているかを見る。順番として、水が確保できない場所で栽培の工夫を積んでも土台が動く。\n\nもうひとつ、渇水のニュースを見るたびに考えるのは、時間の使い方の話でもあるということ。うちは9時から14時の5時間で回して土日は休んでいる。それができるのは、天候に振り回される場面をなるべく減らす作りにしているから。労働時間を削るのは根性ではなくて、条件の選び方と設備の順番で決まる部分が大きい。\n\n水は個人でどうにかできる範囲を超えている。だからこそ、個人の努力でどうにかなる部分を先に固めておく。順番を逆にすると、いざ水が細ったときに立て直す余力が残らない。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
-   "topic": "weather",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": 0.0703
-   },
-   "tsukutta": "2026-08-17 05:05",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0817_0505_18.png"
   },
   {
    "id": "0731_0938_13",

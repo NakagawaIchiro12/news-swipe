@@ -1,6 +1,72 @@
 {
  "items": [
   {
+   "id": "0905_0939_7",
+   "news_title": "東京大学大学院農学生命科学研究科と八ヶ岳農業大学校が連携協定を締結データ駆動型農業の実証と次世代農業人材の育成を推進――「テクノロジー」「サイエンス」「マーケティング」を基軸に農業の課題解決に貢献 - a.u",
+   "source": "a.u-tokyo.ac.jp",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5cWR2WU5CeTNMdnlWX0pnUTR6TFRJWl9IQ2s3cGF5Y2JQMVYzVVY4eXNwTUh4eWRLWlhqbkh3WFdFUkdfb0kzd1VnMTdZMjZlcDBwcnZBVE5JM25FSjlNS1VGaw?oc=5",
+   "strip": "manga_cand_0905_0939_7.png",
+   "caption": "東大の農学生命科学研究科と八ヶ岳農業大学校が連携協定を結んで、データ駆動型農業の実証と人材育成をやるらしい。テクノロジー、サイエンス、マーケティングの三本柱だそうだ。\n\n僕は愛知で野菜をやって16年、年間100tほど出している。畑ではAIも使っているので、データを見る価値は疑っていない。ただ、うちで先に効いたのはデータそのものではなくて、9時から14時までで全員帰れる形に作業を組み直したことだった。パートさんが同じ時間に来て、同じ手順で動く。そこが決まって初めて、記録の粒がそろう。日によって人も手順も違う畑から取った数字は、あとから見ても何を意味していたのか誰も説明できない。\n\nだから順番としては、テクノロジーより先に労務と手順が来るんじゃないかと思っている。センサーを入れるより、誰がいつ何をやるかを紙に落とすほうが地味だけど効く。マーケティングも同じで、売り先を探す前に、土日を休んでも回る出荷量を決める。そこが逆になると、データを取る人のほうが先に疲れて続かない。学校で最初に習うのがそこだったら、現場に出てからの落差はだいぶ小さくなると思う。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "data",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a vinyl greenhouse interior, bright neutral daylight",
+   "taste": 31,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.1678
+   }
+  },
+  {
+   "id": "0905_0939_30",
+   "news_title": "女性の健康食品トレンドと、市場ニーズの変化を捉えた企業の開発トレンド2026",
+   "source": "ウーマンズラボ",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iSmtMSkhKazNJM042LUpNM3Q1RXlxM0JtQmF1bE5kUWJDN1ZuVXZNcC1mLUVNRktkakQ2Zmt3N3JFdHlRV3RIWHUtMVY4QQ?oc=5",
+   "strip": "manga_cand_0905_0939_30.png",
+   "caption": "女性向け健康食品の記事を見ました。市場が成分名で語られるようになっていて、野菜そのものの話が出てこないのが引っかかりました。\n\n僕は愛知で16年、野菜を作っています。年間100t、9時から14時までの5時間で回して土日は休み。パートさん中心の会社型です。現場にいると、健康にいい野菜を作る話と、それが選ばれる話は別物だと感じます。栄養価の高い品種を作っても、店頭に並ぶ時には「野菜」でひとくくりになる。成分で価値を伝える設計は、加工品のほうが圧倒的に有利にできています。\n\nただ、順番として面白いのはここからで、健康食品が成分を先に言語化してくれるほど、原料である野菜の側に説明の言葉が返ってくる。今まで農家が言えなかった価値を、企業が先に翻訳してくれている状態です。僕らが先に発信しようとすると何年もかかることを、市場が代わりに耕している。だから僕は、この流れを競合ではなく前工程として見ています。畑の側でやるべきは差別化の主張より、その言葉に耐える中身を安定して出し続けることかなと。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": 29,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 2,
+    "body_edge_density": 0.1185
+   }
+  },
+  {
+   "id": "0905_0939_16",
+   "news_title": "“先進的取り組みを” 村井知事が若手農業経営者と意見交換",
+   "source": "NHKニュース",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83dkwyUE03NHZUOUttdUh0RU5weHlobGNSaDF0OTZXMHl1ZGlLdjVFNVdQRWdYWGtocTltVzJfMmRpMkpFUVRSODA2S0ZBa1ZtRlRHc3lnZ2Y?oc=5",
+   "strip": "manga_cand_0905_0939_16.png",
+   "caption": "**大型農機の導入や輸出、スマート農業。県のトップと若手が直接話す場ができたのは、それ自体が前に進む材料だと思います。**\n\nそのうえで、僕が現場で先進的だと感じるのは機械の新しさより、人の働き方をどこまで動かせたかの方です。うちは9時から14時のだいたい5時間で回して、土日は休みます。年間100トンを出荷しながらパートさんが無理なく続けられる形になっていて、これが一番効いています。\n\n先進技術は、入れれば強くなるものではなくて、入れた分だけ運用の負荷が増えることがあります。新しい機械を1台入れると、覚える人、直す人、動かす日を決める人が要る。そこに人がいなければ、機械は止まったまま置かれます。\n\nだから順番としては、先に人が続けられる働き方を作って、空いた余力に技術を乗せる方が壊れにくい。逆にすると、機械は増えたのに人が辞めていく、ということが起きやすいと思っています。\n\n若手が集まる場で本当に共有されるべきなのは、何を導入したかより、それを何年回せているかの方かもしれません。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 0,
+    "body_edge_density": 0.1155
+   }
+  },
+  {
    "id": "0903_0938_27",
    "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！｜every, Inc.",
    "source": "株式会社エブリー",
@@ -275,81 +341,6 @@
    "tsukutta": "2026-08-22 05:05",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0822_0505_24.png"
-  },
-  {
-   "id": "0821_0934_19",
-   "news_title": "千葉豪雨 大網白里 河川合流に農業用排水路で被害拡大か",
-   "source": "NHKニュース",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LVlJrVnZBdHE2X0xFTWdFWUZyYUQwOU55S3hzc2R3XzZEWHhUS1VWX2R2M3Y3enp4eExXZE85bWZFd1NPYzRYZlA4X2FkRFlnR1MtLTRZOV9aOUVhcUdJ?oc=5",
-   "strip": "manga_cand_0821_0934_19.png",
-   "caption": "千葉の大網白里で豪雨被害が広がった件、河川の合流点と農業用排水路が絡んで水が抜けなくなったのではという見方が出ています。\n\n農業用排水路は本来、田畑の水を早く抜くためのものです。ただ受け皿になる河川が満水だと、排水路は水を出す道ではなくて水が逆に入ってくる道になる。この「上流だけ見ても意味がない」という感覚は、農業をやっているとよく分かります。うちの畑でも、圃場の中を掘って溝を切っても、出口の水路が詰まっていれば水は動かない。手を入れる順番が逆だと、労力だけかかって結果が変わらない。\n\n僕が16年やってきて思うのは、水はけは天気の問題ではなくて設計の問題だということです。ゲリラ豪雨が増えたから被害が出た、で終わらせると毎年同じことを繰り返す。うちで年間100tを5時間労働で回せているのも、無理に頑張っているからではなくて、詰まる場所を先に潰してあるからです。人の配置も同じで、パートさんの手が止まる一番の原因は、本人の作業の遅さではなくて、その手前の工程が渋滞していること。上流を速くする前に、出口を広げる。畑の水も仕事の流れも、そこは同じだと感じています。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "weather",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.1522
-   },
-   "tsukutta": "2026-08-21 09:34",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0821_0934_19.png"
-  },
-  {
-   "id": "0820_0935_13",
-   "news_title": "農業の将来のあり方を考えるフォーラム「基盤強化が発展には欠かせない」JA大分信連などが開催",
-   "source": "TVer",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LZnNiaUVTUHN2NEdOM05jR0R6S3BMbjU4TEhFZDd1dzRqbUFnOUZMY1hoRk94RDI2UkJWZjR1VFJMQUhtOGVCU2tkSQ?oc=5",
-   "strip": "manga_cand_0820_0935_13.png",
-   "caption": "農業の将来を考えるフォーラムで、基盤強化が発展に欠かせないという話が出ていました。\n\n僕も愛知で16年野菜をやってきて、この順番はそのとおりだと思っています。ただ「基盤」という言葉が、機械や施設のことだけを指しているとしたら、たぶん半分です。\n\n僕の現場で一番壊れやすい基盤は、人と時間のほうでした。売上を伸ばす計画はいくらでも書けるけれど、朝5時から日が暮れるまで動く前提で組んだ計画は、動く人が続かなくなった時点で全部止まります。うちが9時から14時、5時間で回して土日を休みにしているのは、余裕があるからではなくて、続かない働き方の上には何を積んでも崩れると分かったからです。\n\n順番でいうと、規模を大きくしてから人を整えるのではなくて、パートさんが無理なく続けられる形を先に決めて、その中に入る量として100tを置いています。基盤強化というのは、設備を増やす話の前に、来年も同じ人が同じ気持ちで来てくれる状態を作ることなんじゃないかと、僕は思っています。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0819
-   },
-   "tsukutta": "2026-08-20 09:35",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0820_0935_13.png"
-  },
-  {
-   "id": "0820_0935_20",
-   "news_title": "中東情勢影響でオホーツク地方に資材危機 断熱材・農業用ビニール・オイル類が軒並み高騰＜オホーツクREPORT",
-   "source": "北海道新聞デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xeVI0MHlLRnoxMnlfbXdPX3hwRzBLaDlzeFhlQmc3aXltWmc4c09FY01mcFVaTzY4b2w2VFZSdlhPRXo1b0RMRUVFT0R5NjFJMXFtZldzSUltUQ?oc=5",
-   "strip": "manga_cand_0820_0935_20.png",
-   "caption": "北海道のオホーツク地方で、農業資材が軒並み値上がりしているそうです。\n\n中東の情勢が影響して、断熱材、ハウスに張るビニール、機械に使う油まで上がっている。\n\n遠い国の出来事が、そのまま畑のコストになる。\n\nこれ、北海道だけの話じゃないです。\n\nうちのハウスもビニールを張り替えます。トラクターも軽トラも油で動く。値上がりしたぶんは、野菜の値段にすぐ乗せられない。\n\n100トン出荷して、パートさんと半日で回している僕の現場だと、効いてくるのは「地味な固定費」です。派手な設備投資より、毎年必ず出ていくビニールや油代のほうが、じわじわ経営を削る。\n\nだから僕が今いちばん大事にしているのは、資材を「長く使う」判断です。張り替えの周期を延ばせないか、無駄に動かしている機械はないか。\n\n値上がりは止められないけど、使い方はこっちで決められる。\n\nそこだけは、まだ僕らの手の中にあると思っています。\n\n#AI農業 #農業経営",
-   "topic": "price",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 4,
-    "body_edge_density": 0.094
-   },
-   "tsukutta": "2026-08-20 09:35",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0820_0935_20.png"
   },
   {
    "id": "0731_0938_13",

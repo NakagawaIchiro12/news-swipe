@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0906_0512_12",
+   "news_title": "近年はあまり好まれないけれど･･･「二十世紀梨」をPR 上伊那農業高生が収穫イベント",
+   "source": "信濃毎日新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XVm9RNFBMNEVVTU5zZXpFdTdYWjdlLXQxV0dDMkREMHJjbGFmQUU4X1gyd3hkYkE4c1NqSkhKQ3plR0FDSERoajNnSmQ5QU9VNktERVYxdVU2U2lvRzl4czFHMWwzLVk4aE5RVWF6R3c?oc=5",
+   "strip": "manga_cand_0906_0512_12.png",
+   "caption": "長野の農業高校の生徒さんが、二十世紀梨の収穫イベントをやったという記事を見た。近年はあまり好まれない、と見出しに書かれていた。\n\n僕も、作りやすいけれど売りにくい品目を毎年いくつか抱えている。売れないから作付けを減らす、減らすから店頭から消える、消えるから若い人がその味を知らない。この順番で落ちていく品目は思っているより多い。好みが変わったというより、出会う機会のほうが先になくなっているように見える。\n\nうちで新しい品目を入れるときは、面積を決める前に少量だけ出荷先へ持っていって反応を見る。9時から14時の5時間で年間100tを回す以上、行き先の決まっていない物を作る余裕がない。だから僕の中では、作ってから売り方を考えるのではなく、売り先の見当をつけてから面積を決める、という順番で固定している。逆をやると、忙しさだけが増えて手取りは増えない。\n\nその意味で、高校生が収穫から入っているのは順番として悪くないと思う。食べてもらう前に、まず触ってもらう。売り方を考える前に、知っている人を増やす。増えたあとでようやく、値段の話ができる。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "sales",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a lively open-air morning market street with stalls and canopies, soft morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 3,
+    "body_edge_density": 0.1002
+   }
+  },
+  {
    "id": "0905_0939_7",
    "news_title": "東京大学大学院農学生命科学研究科と八ヶ岳農業大学校が連携協定を締結データ駆動型農業の実証と次世代農業人材の育成を推進――「テクノロジー」「サイエンス」「マーケティング」を基軸に農業の課題解決に貢献 - a.u",
    "source": "a.u-tokyo.ac.jp",
@@ -316,31 +338,6 @@
    "tsukutta": "2026-08-26 05:06",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_18.png"
-  },
-  {
-   "id": "0822_0505_24",
-   "news_title": "企業の農業参入",
-   "source": "pref.hokkaido.lg.jp",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JYWd4YmNhclZBaHFQM1M1U25RUW94ME1yclRsdHJpckVHNWt4TGpQcnpvUW54Z2RuUzJKNzhDT1NhV2pRTHl6ampWZHE2b2hrMWFPRDR6QkVOWWp3MUF3?oc=5",
-   "strip": "manga_cand_0822_0505_24.png",
-   "caption": "企業の農業参入というニュースを見ました。北海道でも受け入れの動きが進んでいるようです。\n\n僕自身、法人化して人を雇う形で16年やってきたので、企業が入ってくること自体はいいことだと思っています。作業の割り振りや採用のやり方は、農家個人よりも会社のほうが得意な部分がある。\n\nただ、参入してうまくいかない話を聞くとき、原因が栽培技術そのものだったケースはあまり多くない気がします。土地を借りて機械を入れて品目を決めて、そこまでは資金があれば進む。詰まるのはたいてい、その後の「毎日誰がどこまでやるか」が決まっていないところです。\n\n僕が9時から14時の5時間で回せているのは、栽培がうまいからではなくて、朝の段取りとパートさんの動線を先に固めたからです。作物のことより先に、人の時間割を作った。順番が逆になると、いい設備を入れても現場が伸びきってしまう。\n\n企業参入で本当に効いてくるのは、農業の知識より「人の管理をどこまで持ち込めるか」のほうじゃないかと思っています。技術は後から追いつきますが、働き方は後から直すのが一番しんどい。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 3,
-    "body_edge_density": 0.0617
-   },
-   "tsukutta": "2026-08-22 05:05",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0822_0505_24.png"
   },
   {
    "id": "0731_0938_13",

@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0907_0507_7",
+   "news_title": "胆振東部地震から8年＞亡くなった農業仲間への思い胸に 厚真の伊部さん 今年も近況報告 「土の力も戻ってきた」",
+   "source": "北海道新聞デジタル",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VEVwdXBsdENSN3RJMDVldzVNV25vdDVpZzhEbjFhWG1hWk1hU2tESGFpcWJSVVNrWi1hWFRVMmxFVUdXRFhfeGNERmpNTHBpcjFpUGtHRkNYUQ?oc=5",
+   "strip": "manga_cand_0907_0507_7.png",
+   "caption": "北海道・厚真の伊部さんが、地震で亡くなった農業仲間に毎年近況を報告しているという記事を読んだ。「土の力も戻ってきた」という言葉が残った。\n\n土が戻るのに8年。僕も愛知で16年やってきて、土は時間をかければ戻る側のものだと思っている。荒れた畑でも、堆肥を入れて作を重ねて、有機と化成の比率を見ながら下げたり戻したりしていれば、だんだん安定してくる。すぐには効かないけれど、続けた分は残る。\n\n戻らないのは人の方だと思う。\n\nうちが9時から14時のだいたい5時間で回して、土日を休みにしているのは、楽をしたいからではない。人が辞めた畑は、土がどれだけ良くても次の年に止まるからだ。土づくりは何年かけてもやり直せるけれど、抜けた人はやり直せない。\n\n普通は、良い土を作る、収量が上がる、それで人を雇える、という順番で考える。僕は逆にした。パートさんが続けられる時間割を先に決めて、その枠に収まる作型と面積だけをやる。手を広げないと決めた分、同じ畑に何年も手が入る。8年後に土の力が戻っていたと言えるのは、8年そこに立ち続けた人がいたからで、順番としては人が先にある。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0795
+   }
+  },
+  {
    "id": "0906_0512_12",
    "news_title": "近年はあまり好まれないけれど･･･「二十世紀梨」をPR 上伊那農業高生が収穫イベント",
    "source": "信濃毎日新聞デジタル",
@@ -313,31 +335,6 @@
    "tsukutta": "2026-08-26 05:06",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_10.png"
-  },
-  {
-   "id": "0826_0506_18",
-   "news_title": "静岡で農業をはじめる人を応援します（新規就農支援策のご紹介）",
-   "source": "pref.shizuoka.jp",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtaXFhYV96WlZ5TlhxNFF2eXM4Znp3dkdUWnQyWWl6WGNSLVEtOXJ6Z3Y4NWFGTGpFNGwxVm9GcTJxYkpYWGJSMlFqOFJLYWtLNVcwMFhTMlM5OTdGRG1nRk1VUFAzeVk3LXhFRnlzRUJ4WnNENll6SA?oc=5",
-   "strip": "manga_cand_0826_0506_18.png",
-   "caption": "静岡県が新規就農の支援策をまとめて出しているのを見ました。こういう入口の情報が整理されているのはありがたいと思います。\n\n僕は愛知で16年野菜をやっていますが、就農して最初につまずいたのは技術より生活のほうでした。畑に何時間いたかで安心してしまって、朝暗いうちから夕方まで動いて、それでも数字は増えない。作物の勉強はいくらでもするのに、自分の働き方だけは誰も教えてくれない。支援制度も、資金と農地と研修が中心で、そこは自分で設計するしかない領域です。\n\nだから就農を考えている人には、品目や補助金より先に「何時から何時まで働く農業にするか」を決めておくことをすすめたいです。僕は9時から14時、土日は休みでやっています。先に時間を決めると、その中に収まらない作業は仕組みを変えるか人に渡すしかなくなる。パートさんに任せる前提で作業を組み直したのも、順番としては時間を決めたのが先でした。\n\n制度は始めるための足場で、続けられるかを決めるのは自分の時間割のほうだと思っています。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a vinyl greenhouse interior, bright neutral daylight",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.0777
-   },
-   "tsukutta": "2026-08-26 05:06",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_18.png"
   },
   {
    "id": "0731_0938_13",

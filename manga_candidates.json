@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0910_0939_28",
+   "news_title": "「しがの農業経営・就農支援センター」について",
+   "source": "pref.shiga.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qT3gwbVpkREZxY09lOWxjTGlPeGJhYkllVjdKdEUwTGpySEFxUUxKeDlXNlc3VUs3V2xPN2J6SElqSjdsMVBQVlVLNTRsX2g4OEVXcHJR?oc=5",
+   "strip": "manga_cand_0910_0939_28.png",
+   "caption": "「しがの農業経営・就農支援センター」のように、就農の相談と経営の相談をひとつの窓口にまとめる動きが増えている。相談先が県とJAと普及所に分かれていた頃を思うと、これは素直にありがたいと思う。\n\n僕は未経験から16年やってきて、就農前に一番聞きたかったのは「何を作れば売れるか」だった。今の自分が同じ立場に戻れるなら、先に相談するのは別のことにする。1日何時で終わる設計にするか。誰と回すか。休みをいつ入れるか。\n\nうちは9時から14時の約5時間で回して、土日は休みにしている。年間100tをその形で出せているのは、栽培が特別うまいからではなくて、決める順番をそこにしたからだと思っている。栽培のやり方は毎年少しずつ直せる。でも朝5時から夜7時までを前提に組んだ体制は、後から短くしようとすると、人の入れ替えも取引先との約束もまとめて動かすことになって、ほとんど作り直しになる。\n\nだから支援センターに行くなら、作物と売上計画の前に「自分が10年続けられる時間割」を持っていったほうがいい。技術の相談は、そのあとでも間に合う。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "policy",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 0,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0907_0507_7",
    "news_title": "胆振東部地震から8年＞亡くなった農業仲間への思い胸に 厚真の伊部さん 今年も近況報告 「土の力も戻ってきた」",
    "source": "北海道新聞デジタル",
@@ -310,31 +332,6 @@
    "tsukutta": "2026-08-27 05:06",
    "yotei_hi": null,
    "yotei_moto": "scripts/news-swipe\\manga_cand_0827_0506_32.png"
-  },
-  {
-   "id": "0826_0506_10",
-   "news_title": "農業法人への就農が37人 青森県内で新しく農業を始めた人",
-   "source": "TVer",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE95bnFhcXNIUVBXY2FYNHlUNnBzZ1kxTlZ1ODBzak1Sdi1ucjRXUHNxbFMzNzhud1RDWjJjUDdqaVJBVFh0N21NTXR1OA?oc=5",
-   "strip": "manga_cand_0826_0506_10.png",
-   "caption": "青森で新しく農業を始めた人のうち、37人が農業法人への就農だったそうです。ゼロから独立するのではなく、まず勤めるという入り方が増えている。\n\n僕は愛知で16年野菜をやっていて、今は会社の形にしてパートさん中心で回しています。9時から14時、5時間ほどの労働で土日は休み。それでも年間100トンは出荷できています。作業を分解して、誰でも入れる形に整えていくと、そういう回り方になる。\n\n新規就農というと、まず土地を借りて機械を揃えて、自分の畑を持つところから考えがちです。でも順番としては、法人で働きながら現場の勘を身につけるほうが早いと思っています。独立して一番きついのは栽培技術ではなくて、売り先と資金と、休みがないことです。そこは畑では学べない。法人にいれば、出荷の流れも人の動かし方も給料をもらいながら見られる。\n\nそれに、就農する側が増えるということは、農業法人に入りたいと思える職場が増えたということでもある。人が来ないと嘆く前に、来たくなる働き方に整える。順番は多分そっちが先です。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 1,
-    "body_edge_density": 0.0919
-   },
-   "tsukutta": "2026-08-26 05:06",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0826_0506_10.png"
   },
   {
    "id": "0731_0938_13",

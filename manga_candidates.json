@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0911_0935_14",
+   "news_title": "秋の長雨で稲刈りが進まず 農業関係者やきもき",
+   "source": "市民タイムス",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jSHZLdWo5RzlPY1FCclNVdy0wMmtuRmpzMFJWaklXQjlMSklZT2VsMFctVm1lT283SWc2RjA5NjZFZUpiUF93M3R6UjNpSUhvbmEyQnpZMlJ1NDgteXVBNzhFeTQ?oc=5",
+   "strip": "manga_cand_0911_0935_14.png",
+   "caption": "秋の長雨で稲刈りが進まないというニュース。稲作ではないけれど、雨で予定が丸ごと後ろにずれる感覚は野菜でも同じで、あの落ち着かなさはよく分かる。\n\n16年やってきて、天気で計画が崩れるのは前提だと思うようになった。問題は崩れた後の方で、晴れた日にどこから手をつけるかが決まっていないと、一日中あれこれ迷って結局そんなに進まない。\n\nうちは9時から14時のだいたい5時間で回している。晴れたからといって延ばさない。以前は逆で、時間はいくらでも伸ばせると思っていたから、雨の日も「明日まとめてやればいい」で先送りしていた。5時間と決めてから、作業に順番をつけざるを得なくなった。今日やらないと商品にならない作業と、一週間ずれても大丈夫な作業を分けておく。雨が続いても、上の方だけは晴れ間に入れられる。\n\n天気に強くなるために時間を増やしたわけじゃなくて、時間を減らしたら天気に強くなった。順番は逆だと思っていた。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "weather",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 1,
+    "body_edge_density": 0.0939
+   }
+  },
+  {
    "id": "0910_0939_28",
    "news_title": "「しがの農業経営・就農支援センター」について",
    "source": "pref.shiga.lg.jp",
@@ -307,31 +329,6 @@
     "n_hand": 2,
     "body_edge_density": 0.1089
    }
-  },
-  {
-   "id": "0827_0506_32",
-   "news_title": "2026食トレンド「コンボケア」をバーで最速実装 オーセンティックバーが提案する新習慣 「ゼブラ飲みキャンペーン」2026年7月1日開始 | 株式会社ティグリス",
-   "source": "アットプレス",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EeVVlUVdOeGFMSW1ROVd1enhTQnBEZ3dyWFVaSEp4MFdpVUszb1pkREVjeC1xYXhUUDZqYTViSWpldm1TMjZieUE4c0pidw?oc=5",
-   "strip": "manga_cand_0827_0506_32.png",
-   "caption": "お酒の飲み方に「ケア」を組み合わせる、というニュースを見ました。水を挟みながら飲む習慣に名前をつけて、店側から提案していく試みだそうです。\n\n僕は農業を16年やっていて、9時から14時の約5時間で回す形に落ち着きました。最初から短くできたわけではなくて、長く働いた結果として体を壊しかけて、順番を入れ替えたというのが正直なところです。作業を削って時間を短くしたのではなく、先に「終わる時間」を決めて、そこに収まる作業だけを残していった。\n\nこのニュースで面白いと思ったのは、我慢を求めていない点です。飲むのをやめようではなく、飲み方の順番に一つ挟む。これ、農業でも同じ構図があると思っていて、「頑張るのをやめる」は現場では機能しないんです。パートさんに「無理しないで」と言っても、目の前に作業があれば手が動く。だから僕は言葉ではなく、14時で終わるという枠のほうを先に置きました。枠が先にあると、その中で何を捨てるかは現場が勝手に判断してくれる。\n\n意志より、順番。ケアを後ろに置くと消えるので、間に挟むしかない。年間100tを土日休みで出しながら思うのは、続く仕組みというのはだいたい、我慢を増やさずに順番を変えただけのものだということです。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.117
-   },
-   "tsukutta": "2026-08-27 05:06",
-   "yotei_hi": null,
-   "yotei_moto": "scripts/news-swipe\\manga_cand_0827_0506_32.png"
   },
   {
    "id": "0731_0938_13",

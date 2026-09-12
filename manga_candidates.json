@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0912_0935_6",
+   "news_title": "【次世代動画生成AIの波、農業へ】動画生成AI×農業の全国コンテスト、応募開始",
+   "source": "sanyonews.jp",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TV0Yta3UwZnB4T3JwRVZqU0IwcUpFWUxyWUFLTjhZVG5pVGZiMTEwRjQtbVptei1ZaE5iNzFxMV9oT3JVb3NrQlZOZjFTSGhqLVE?oc=5",
+   "strip": "manga_cand_0912_0935_6.png",
+   "caption": "マスタープロンプト（`channel_flows\\1495684543342968873.md`）の読み込みは権限が下りず、このセッションは非対話なので許可を取れませんでした。今回は依頼文の指定だけに従って書いています。読み込みを反映させたい場合は、次回そのパスの読み取りを許可してください。\n\n以下、本文です。\n\n---\n\n動画生成AIと農業のコンテストが始まったと知った。全国から応募が集まるなら、農家が自分で映像を作る流れは一気に進むと思う。\n\n僕も現場でAIを使っている。文章も画像も、以前なら人に頼んでいたものが手元で作れるようになった。ただ使い込むほど分かるのは、AIが効くのは伝える工程であって、畑の作業そのものは一秒も短くならないということ。\n\nこれは順番の話だと思っている。発信を先にやりたくなる気持ちは分かる。良い映像を作って、知ってもらって、それから中身を整える。でも僕の実感は逆で、9時から14時の約5時間で回る形を先に作らないと、発信が当たった時に困る。問い合わせが増えて応えられるのは、現場が回っている農家だけだから。パートさんが土日に休めて、決めた時間で帰れる状態が先にある。動画はその次でいい。\n\nAIで一番助かったのは、映像ではなく、人に説明する手間が減ったことだった。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "ai",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.0951
+   }
+  },
+  {
+   "id": "0912_0935_18",
+   "news_title": "「農家の平均年収」は168万円？ 494万円？ 農業所得の正しい見方と儲かる農家の違い",
+   "source": "農業とITの未来メディア",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82dHVnLU1MaEozQzhuYUdXZnp2RUdDYW9DQ2dVV2Y4ZjRUWklNX1JIdzV0M045N01YQTlMeWRFakJVVVFGeFJxbWYyZEk5aTdBYW1Z?oc=5",
+   "strip": "manga_cand_0912_0935_18.png",
+   "caption": "「農家の平均年収168万円」みたいな数字が出ると、農業は儲からない仕事だと受け取られやすいんですが、あの数字は販売農家全体の平均で、副業的な小さい規模もぜんぶ混ざっています。494万円のほうは主業農家に絞った数字なので、そもそも比べているものが違う。同じ「農家」という一語で括られているだけです。\n\n僕は愛知で16年、野菜を年間100t出荷しています。9時から14時、約5時間の労働で回して、土日は休みです。パートさん中心の会社のかたちにしてから、この時間で成り立つようになりました。\n\nそれで思うのは、所得の議論って「どう稼ぐか」から始まりがちなんですが、順番としては先に「どう働くか」を決めたほうが数字は動くということです。労働時間を無制限にすると、どんな作物でも一応は収量が積める。だから経営の弱さが見えなくなります。5時間で終わらせると決めると、回らない作業と回らない品目がはっきり出てくる。そこを削った結果として、残った売上と残った利益が出てくる。\n\n平均年収という一つの数字を見て向き不向きを判断するより、自分がどういう働き方で農業をやりたいのかを先に決めるほうが、結局は所得の話に早く辿り着くと思っています。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "henka",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.1023
+   }
+  },
+  {
    "id": "0911_0935_14",
    "news_title": "秋の長雨で稲刈りが進まず 農業関係者やきもき",
    "source": "市民タイムス",
@@ -284,50 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.1091
-   }
-  },
-  {
-   "id": "0829_0936_23",
-   "news_title": "地方自治体が農業に参入する企業・農業生産法人を積極的に誘致する時代が到来",
-   "source": "三菱UFJリサーチ&コンサルティング",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqQlc3WmFOWTAtMnh6c2RpZkVEaFJkeGJzWDRhclhPRm1lVmY1T2dlcERGbG9OMEttSlJxUXRaNHRtTll2Zll4UEYtb0dWYXhxNlhTU1FyR0w?oc=5",
-   "strip": "manga_cand_0829_0936_23.png",
-   "caption": "農地を借りるのが個人には難しい一方で、自治体が企業や法人を呼び込む側に回っている、という話。\n\n僕は愛知で16年、野菜を作ってきました。今は年間100tを、9時から14時までの5時間で出荷まで回して、土日は休みます。パートさん中心の会社型です。この形にしたのは、企業的にやりたかったからではなくて、人が続かない現場を見てきたからです。誘致される側の企業も、たぶん最初は土地と補助金の話から入ると思います。でも実際に効いてくるのは、その土地で人が集まるかどうかの方です。\n\n順番の話をすると、僕は「規模を作ってから労働環境を整えよう」とは思わなかった。逆で、9〜14時で回る設計を先に決めて、そこに入る量まで規模を持っていきました。先に量を決めると、人は必ず後回しになります。誘致でよくある失敗も、たぶんここです。土地は自治体が用意してくれても、そこで働く人の暮らしは用意されない。企業が入ってきて地域が良くなるかどうかは、面積でも売上でもなく、5年後にその現場のパートさんがまだ笑って働いているかで決まると思っています。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "furi_ochi",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": null
-   }
-  },
-  {
-   "id": "0828_0936_1",
-   "news_title": "近畿大が地域創生農業 AI活用、果樹栽培研究",
-   "source": "日刊工業新聞",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DdmpDVU5nQUVHajRwUG1BbkE2aUljY1FtR2xtS0FndnBsUm54WlFpbWlnRWRpTllLZFZKOFZUMG1ZZHZJc2hUbkxpMkVLZjVXRXpUMnJRT1I?oc=5",
-   "strip": "manga_cand_0828_0936_1.png",
-   "caption": "近畿大学が地域創生の一環で、AIを使った果樹栽培の研究を進めるという記事を読みました。\n\n僕も現場でAIは使っています。使ってみて分かったのは、いちばん効いたのが栽培そのものではなく、その手前だったことです。誰がいつ何をやるか、次に何を採るか、パートさんへの指示をどこまで短くできるか。段取りの部分で効きました。\n\n果樹の技術をAIで読み解くのは、価値のある研究だと思います。ただ、農家が自分の農場にAIを入れるとなると、順番が逆になりやすい。栽培の判断は天気も土も株の状態も毎年違って、答えが一つに決まらない。そこにAIを当てても、最後は人が現場で見て決め直すことになります。時間だけ増えて、決めるのは結局自分、という形になりがちです。\n\n僕が9時から14時の5時間で年間100t出して土日を休めているのは、栽培の腕が上がったからというより、決める場面を減らしたからだと思っています。作業を型にして、迷う所を先に潰しておく。AIはその型を言葉にするのが速い。\n\n技術を伸ばすためのAIより、判断しなくていい状態を作るためのAI。現場に入れる順番は、たぶんこっちが先です。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 2,
-    "body_edge_density": 0.1089
    }
   },
   {

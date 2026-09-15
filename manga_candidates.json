@@ -1,6 +1,50 @@
 {
  "items": [
   {
+   "id": "0915_0937_4",
+   "news_title": "北海道の「十勝AI農業特区」指定 ロボトラ公道走行へ実証",
+   "source": "日本経済新聞",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93M0dkVHlrREt0LXVDZHVWeUpLazUxd3FsVGFTYjg0czU5WXFIRi1Wc3lzc0RzY3NhdVNIamYzSGwydXpwc2pWZ29yOXRJZzZsOGFDQ20xM3BVUk1zOHEtcUIzaUJvOGhGVXAxbg?oc=5",
+   "strip": "manga_cand_0915_0937_4.png",
+   "caption": "北海道の十勝で、ロボットトラクターの公道走行の実証が始まるという記事を読んだ。畑と畑の間を機械が自分で移動できるようになるのは、大区画の産地には効いてくると思う。\n\nうちは愛知の野菜農家で、規模も条件もまるで違う。ただ16年やってきて思うのは、自動化で先に効いたのは機械ではなく段取りのほうだった、ということ。9時から14時の5時間で回せているのは、高い機械を入れたからじゃない。誰が、どこで、何を、どの順でやるかが先に決まっているから、パートさんが迷わず動ける。迷いが減った分だけ、時間が縮んだ。\n\n逆に言うと、判断が僕ひとりに集まったままだと、機械がどれだけ賢くなっても現場は止まる。トラクターが無人で公道を走れても、畑に着いたあとの「今日はここまでにするか」を毎回誰かが僕に聞きに来るなら、待ち時間は消えない。機械の速さではなく、判断の渋滞が上限を決めている気がしている。\n\nだから順番があると思っていて、まず自分の中にある判断を言葉にして外に出す。次に人の段取りを固める。機械やAIに渡すのはそのあと。うちでAIが役に立ったのも、作業のやり方を文章に落とすところからだった。機械を入れるのは、手が空いてからでも遅くない。\n\n普段どう回しているかは、固定ポストにまとめています。",
+   "topic": "robot",
+   "emotions": [],
+   "structure": "taiken",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 1,
+    "n_hand": 1,
+    "body_edge_density": 0.1032
+   }
+  },
+  {
+   "id": "0915_0937_31",
+   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9venRmem0wY3ptejR1TkFHUERqbGdlWTV0SmFxcjlnN3ZoTnR3ZW1OUWs2TkVUclc1TGN2QTdNOWhHUWtOblc5NGViMmprSk9PQlBZTFB6M2hlRDQwcDJrUFJ4NmNURXloYXc?oc=5",
+   "strip": "manga_cand_0915_0937_31.png",
+   "caption": "2026年上半期の食トレンドランキングと、下半期の予測が出ていた。\n\nこういうのを見ると、作る側はつい「次はこれを作ろう」と考える。ただ僕らは種をまいてから穫れるまで数ヶ月かかる。今から流行に合わせて動いても、出す頃には話題が次へ移っていることが多い。16年やってきて、流行を当てにいって当たった記憶はほとんどない。\n\nそれでも予測を読むのが無駄だとは思っていない。使い方が違うだけだと思う。僕が見るのは「何が流行るか」より「どういう食べ方が増えているか」のほう。調理の手数が減る方向なのか、丸ごと使う方向なのか。そこは数ヶ月では変わらないので、規格やサイズ、出し方の決め方に反映できる。\n\n順番で言うと、流行を追うのが先ではない。うちは9時から14時、5時間で回して土日は休む。その時間の中で無理なく作れる作型を先に決めて、その枠に入る範囲で流行を拾う。枠を決めずに流行から入ると、人のほうが先に無理になる。パートさんが続かない畑は、どれだけ話題の品目でも翌年に残らない。\n\nあなたは今、どうですか。一度、自分の農業に当てはめてみてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0927
+   }
+  },
+  {
    "id": "0912_0935_6",
    "news_title": "【次世代動画生成AIの波、農業へ】動画生成AI×農業の全国コンテスト、応募開始",
    "source": "sanyonews.jp",
@@ -284,50 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.1124
-   }
-  },
-  {
-   "id": "0830_0937_2",
-   "news_title": "輝翠、JA全農あおもりへ自律走行ロボット「Adam」のマーケティング機を納品",
-   "source": "PR TIMES",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81QWczZFdlQW9EVzVXNzM0Zl8yVTM4aEtOanlGbm9UMEpralp4M1lvWmZfd3NlVTZZU2lVWG1VTWRrODMwR1M4VzIxdmQ5cHpzM1pDQmRCOUtQd0Q4Z2pqLVdyR1MyamFEeUE?oc=5",
-   "strip": "manga_cand_0830_0937_2.png",
-   "caption": "輝翠のAdam、青森でマーケティング機として動き出したというニュース。収穫の補助や運搬を機械が担う方向は、これから当たり前になっていくと思います。\n\n僕の農場でも作業の一部はAIに任せています。ただ、導入して分かったのは、機械やAIは「もうやり方が決まっている作業」しか肩代わりしてくれないということです。誰がやっても同じ手順になっているところは、渡した瞬間に効きます。逆に、人によってやり方が違うところに入れても、迷いがそのまま残るだけでした。\n\nだから順番としては、ロボットを入れる前に、作業を人がやりやすい形に整えるほうが先だと思っています。僕のところは9時から14時の約5時間で回していますが、そうできたのは高価な機械を入れたからではなくて、パートさんが迷わない手順に落とし込んだからです。整った作業は、人でも回るし、機械にも渡せる。\n\nロボットは省力化の答えというより、整理が済んでいるかどうかを映す鏡に近い。青森の事例も、そこがどう変わったかを見てみたいです。\n\n後で見返せるように、この投稿は保存しておいてください。",
-   "topic": "robot",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.059
-   }
-  },
-  {
-   "id": "0829_0936_13",
-   "news_title": "女性農業者の働き方を考えるシンポジウム 長野県の農家・新海智子さん「自分のこと、優しく受け止める力を」【講演要旨】",
-   "source": "佐賀新聞",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zYkVQMF9UMVdYSWhoLVBQeC1qUXA0RVRMTllkSWk2OVBacU01NEgwd1JwekxqS2E2UEdrRzBGX2c2bWxNd2lXYkNCakRJZkZtZ1JpWDZn?oc=5",
-   "strip": "manga_cand_0829_0936_13.png",
-   "caption": "女性の働き方の話として出ていましたが、僕には農業全体の話に読めました。\n\nうちは9時から14時の約5時間で回していて、土日は休みです。年間100t出荷は、その中でやっています。最初からそうできたわけではなくて、朝暗いうちから晩まで動いていた時期が長くありました。変えたきっかけは、パートさんが辞めていったことです。無理な時間で組んだ体制は、その人の頑張りが尽きた時点で終わる。そこで初めて、自分の働き方を疑いました。\n\n現場で思うのは、順番が逆になりやすいということです。まず売上や面積を伸ばして、余裕ができたら働き方を直そうと考える。僕もそう思っていました。でも実際は逆で、時間を先に区切ると、区切った中に収める方法を探すようになります。今日やらなくていい作業が見えてくる。人に渡せる作業も見えてくる。伸ばしてから休むのではなく、休む前提で組むと、伸ばし方のほうが変わっていきます。\n\n自分を優しく受け止める力、という言葉が出ていましたが、これは気持ちの持ち方の話だけではないと思っています。休める体制を先に作らないと、優しく受け止める余白そのものが生まれない。順番の問題として考えたほうが、たぶん進みます。\n\n考え方の全体像は、固定ポストから見られます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a small roadside farm stand with fresh vegetables on wooden tables, cloth awning, bright morning light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.1091
    }
   },
   {

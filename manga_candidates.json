@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0917_0505_25",
+   "news_title": "【PR TIMES 広告・マーケティング 広告・マーケティング】農業スタートアップ初の上場から、 異業種M&Aの決断へ",
+   "source": "茨城新聞クロスアイ",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPUFdrNGc4aUhEUXNlZjBtQm03UXkzSVA1d0FIMmZlbnJkZzlWSHJsbWdNbGgxUWstZ201Q2ZHQ3Bya2lGSERIZnRtN1FoYVV2S2ZNWXhzRHdCRUMyQXdWekZqU3M3ODJ3Z2VXVl9PaFM2U2pEc1p2Vg?oc=5",
+   "strip": "manga_cand_0917_0505_25.png",
+   "caption": "農業スタートアップが上場したあと、異業種のM&Aに動いたというニュースを見ました。\n\n農業だけで利益を伸ばし続けるのは難しい、という判断なんだろうと思います。僕も規模を大きくしていく途中で、売上は増えているのに手元が増えない時期がありました。作る量を増やすと、その分だけ人も時間も出ていきます。\n\nただ僕がやったのは、事業を横に増やすことではなくて、先に中の時間を削ることでした。うちは9時から14時の約5時間で動いて、年間100t出して、土日は休みです。パートさん中心で回るように作業の順番を組み直した結果で、そこが固まってからようやく数字が落ち着いてきました。\n\n順番が逆だと、どこまで広げても薄くなる気がしています。多角化は、本業が自分のいない日でも回る形になってからの話で、回っていないうちに横へ広げると、増えるのは売上より先に、管理する仕事のほうなので。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "kishoten",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 3,
+    "body_edge_density": 0.0211
+   }
+  },
+  {
    "id": "0915_0937_4",
    "news_title": "北海道の「十勝AI農業特区」指定 ロボトラ公道走行へ実証",
    "source": "日本経済新聞",
@@ -306,28 +328,6 @@
     "n_face": 3,
     "n_hand": 0,
     "body_edge_density": 0.1095
-   }
-  },
-  {
-   "id": "0901_0936_8",
-   "news_title": "【県農業賞】逆境耕し命吹き込む 大地を再生食味向上 農業経営改善部門 鈴木利令さん（６５）広野",
-   "source": "福島民報デジタル",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CUF9XdDdzamVZOEcxS25UbFVqS01pOHVWZzRSVmRlWU1KOHdoR0lNc0p5OUFLTVBQMGRWbzN3a0E1bXdNLVJLdjJJNkNOS0E?oc=5",
-   "strip": "manga_cand_0901_0936_8.png",
-   "caption": "県の農業賞で、荒れた土地を再生して食味を上げた65歳の方が選ばれたという記事を読みました。逆境を耕して命を吹き込む、という言い方が印象に残ります。\n\n僕も愛知で16年野菜をやっていて、土づくりの話は現場の実感としてよく分かります。有機を入れるか化成でいくか、みたいな二択で語られがちですが、実際はどちらも要る。有機の比率を下げると数字が安定する場面もあるし、規模と作型で選ぶものが変わるだけの話だと思っています。土は一年で仕上がらないので、去年の判断の答えが今年出てくる。その遅さに耐えられるかどうかが分かれ目な気がします。\n\nただ、こういう記事を読むといつも思うのは、順番の話です。土を良くすれば経営が良くなる、と読みたくなる。でも僕の場合は逆でした。9時から14時の約5時間で回す、土日は休む、と先に決めたから、限られた時間で何をやるかを絞らざるを得なくなった。全部やる前提だと、土づくりは「余裕があれば」に落ちます。時間を先に区切ると、土づくりは削れない側に残る。パートさんが疲れずに続けてくれる体制があって、はじめて毎年同じ手入れができる。土に手をかけ続けられる人は、たぶん土が好きな人というより、続けられる働き方を先に作った人なんだと思います。\n\n「100t農家の施策3選」を無料LINE特典にしています。固定ポストから受け取れます。",
-   "topic": "cultivation",
-   "emotions": [],
-   "structure": "gyakusetsu",
-   "scene": "a cozy japanese farmhouse dining room interior, wooden table with a simple meal, warm light",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.1124
    }
   },
   {

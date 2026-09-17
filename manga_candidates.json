@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0918_0505_5",
+   "news_title": "「AI搭載自律型農業ロボット『シンロボ』2026年公開デモ」を長野県御代田町で開催",
+   "source": "PR TIMES",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlNlQxU1A0dEg4b3FvVlVSXzBfMWN5VkE0NkhOdXo4SGVZeGFLVDZtNmd1b0xiSi1OdkItRjVOc1QyRkh4UEI0Z0FVUEQ5MmFmSk83dGNGQlV1ajhTenFwa3ZuR2ZHVW02TXc?oc=5",
+   "strip": "manga_cand_0918_0505_5.png",
+   "caption": "長野県御代田町で、AI搭載の自律型農業ロボットの公開デモがあるそうです。こういう話を見ると、うちの畑で使えるかどうかをまず考えます。\n\n僕の農園はパートさん中心で、9時から14時の5時間で回しています。AIも現場で使っていますが、使ってみて分かったのは、AIが仕事を楽にしてくれるというより、仕事の形が整っているところにしかAIは入らない、ということでした。誰がやっても同じ手順になるように作業を分けておかないと、AIにもロボットにも渡しようがない。\n\nだからロボットの話を聞いて思うのは、順番が逆になりやすいということです。ロボットを入れてから作業を整理しようとする。でも本当は、作業を人に渡せる形にするのが先で、ロボットが入るのはそのあとです。人に渡せない作業は、機械にも渡せない。\n\nそしてこの整理は、ロボットがなくても今日から始められます。うちが5時間で回せているのは、特別な設備があるからではなくて、その順番を先にやっただけだと思っています。\n\n考え方の全体像は、固定ポストから見られます。",
+   "topic": "robot",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 2,
+    "body_edge_density": null
+   }
+  },
+  {
    "id": "0917_0505_25",
    "news_title": "【PR TIMES 広告・マーケティング 広告・マーケティング】農業スタートアップ初の上場から、 異業種M&Aの決断へ",
    "source": "茨城新聞クロスアイ",
@@ -306,28 +328,6 @@
     "n_face": 3,
     "n_hand": 2,
     "body_edge_density": 0.0953
-   }
-  },
-  {
-   "id": "0901_0936_4",
-   "news_title": "東京工科大学と農研機構が共同研究！ AIをはじめ工学で挑むスマート農業とは",
-   "source": "朝日新聞",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93dFVNcHBlS2Zzb2s1aGRRUWlOTGRZbUhzNTFSNjFMY1gyRERDdk9ELXA1V05pb2xrVVU3Y0VQdFZLYjg4LTFURnBZWU5ZbEtsazFTNXhB?oc=5",
-   "strip": "manga_cand_0901_0936_4.png",
-   "caption": "東京工科大学と農研機構がAIや工学でスマート農業に挑む、というニュースを見ました。\n\n僕も現場でAIを使っています。ただ、使ってみて分かったのは、AIが効くのは判断が要る場所じゃなくて、判断がブレる場所だということです。うちは9〜14時の約5時間で回して土日は休みます。パートさんが中心なので、その日いる人が迷わず動けることが全部の土台になる。そこでAIに助けてもらうのは、収量の予測より前に、伝え方や段取りの整理でした。\n\n技術で一番効いたのは、賢い答えが出たときじゃなくて、人によって違っていた判断がそろったときです。畑の技術は最後は経験でしか詰められない部分が残ります。でも「誰がやっても同じ手順になる」ところまでは、工学の力で先に持っていける。\n\nだから順番としては、AIを入れてから人の働き方を変えるのではなくて、人の働き方を決めてからAIを入れる方が、たぶん現場は変わります。研究が進むほど、農家側が「何を任せたいか」を言葉にできているかが問われる気がしています。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "ai",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 0,
-    "body_edge_density": 0.1095
    }
   },
   {

@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0919_0505_21",
+   "news_title": "【東京農業大学】「食と農」の博物館で企画展「とくめく花とみどり」開催（10月22日～）",
+   "source": "沖縄タイムス社",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12eWhEN0JlVEdSWDYtRzJmZG51c0xZT0lySDBPYW9VN3N4VF9GMVdkVTRxRmNIZTExUWFtRnN0NndpSGdGdS1qYzV5MUhaeTJtcmllZXktamlyWkF5OGc?oc=5",
+   "strip": "manga_cand_0919_0505_21.png",
+   "caption": "東京農大の「食と農」の博物館で、花とみどりの企画展が始まるらしい。10月22日から。\n\n僕は野菜が中心だけど、花も作っている。ケイトウやストック。最初は「野菜農家が花なんて」と言われたこともあった。でも実際にやってみると、花は野菜の弱点を埋めてくれる作物だった。野菜だけだと、どうしても手が余る時期と足りない時期がはっきり出る。そこに花を入れると、パートさんの仕事が年間を通してならされる。\n\n順番として面白いのは、花を入れた理由が「花を売りたかったから」ではなく「人の手を止めたくなかったから」だったことだと思う。作物を増やす話をすると、たいてい単価や市場の話から始まる。でも100tを5時間で回そうとすると、先に決まるのは人の動きのほうで、品目はその後についてくる。何を作るかより、誰がいつ動けるか。そこから逆に品目を選ぶと、無理な残業が消えていく。\n\nこういう展示は、花を「見るもの」として並べる。それは間違っていないし、僕も見に行きたい。ただ現場だと、花はまず「人の手を支えるもの」として立っている。同じ花でも、立っている場所が違うだけで意味が変わるのが、けっこう面白いところだと思っている。\n\n後で見返せるように、この投稿は保存しておいてください。",
+   "topic": "cultivation",
+   "emotions": [],
+   "structure": "kyokan",
+   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 3,
+    "n_hand": 3,
+    "body_edge_density": 0.0848
+   }
+  },
+  {
    "id": "0918_0505_5",
    "news_title": "「AI搭載自律型農業ロボット『シンロボ』2026年公開デモ」を長野県御代田町で開催",
    "source": "PR TIMES",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 3,
     "body_edge_density": 0.1121
-   }
-  },
-  {
-   "id": "0903_0938_19",
-   "news_title": "渇水続く愛知の宇連ダム 豊川用水で節水強化 農業･工業用水20% 水道用水15%に 田原市のキャベツ農家｢ものすごくピンチ｣ 1番水が必要な時期に",
-   "source": "ｄメニューニュース",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yZzNMa3NMSGNoYjVySjRCTE5GY3l5OEFuRFZzR1Vvck5sTnFUV0plZ09ZSURncjhScURicF9icUc5ZWpjTTdaczNhTXFBbkEwa2FhaHRhQkJVN2R2SHZfVjI2MFd3T3BjTjJLa3FlMU9vbTdW0gF6QVVfeXFMTThSTkdjQnBRNGRqTjR0TVBoNXFBYW5zaUpQZlcyQm1NMTRad1RSS2ZMaHVHMElDTWZDTnJfWTBfZ3JvWEJ4azlqMWFDdXNfZUllZTJhQ0kyNzk2SWswRGVsM0l2VGtkNjNvN3hkUVBUejBwX2NzYjhTVWc?oc=5",
-   "strip": "manga_cand_0903_0938_19.png",
-   "caption": "宇連ダムの渇水で、豊川用水の農業用水が20%の節水になった。田原のキャベツ農家さんの「一番水が必要な時期に」という言葉が重い。同じ愛知で作っている身として、他人事ではないです。\n\n水は自分の努力でどうにもならない。天気も同じ。16年やってきて思うのは、農業でコントロールできる事の方がずっと少ない、という事です。\n\nだから僕は、コントロールできる側を先に固めるようにしています。うちは9時から14時の約5時間で回して、土日は休む。効率を上げて余白を削る、ではなくて、余白を残すために効率を上げる。この順番が逆になると、こういう年に打つ手が無くなります。\n\nフル稼働で組んだ計画は、平年なら一番強い。ただ、外から水が減らされた瞬間に、動かす手も時間も残っていない。異常な年に効いてくるのは、栽培の技術より先に、手が空いているかどうかだと思っています。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "weather",
-   "emotions": [],
-   "structure": "kishoten",
-   "scene": "a farm field at golden sunset, warm sky, long shadows, depth",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 3,
-    "n_hand": 2,
-    "body_edge_density": 0.0953
    }
   },
   {

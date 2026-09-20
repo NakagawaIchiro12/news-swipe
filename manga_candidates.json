@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0921_0507_8",
+   "news_title": "USDAボックスビーフ・カットアウト報告 2026年9月18日：プライマル値と積載数 - ニュースと統計",
+   "source": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORlprMXlUYk1TamRjcFE3dmpma2ZyUlQtZmV1NU1lbWMwLTc4RjFndXRXRTZfU2dmS0F1OGttZHI2bjljQWh1S0toVkU3UjNDRkpMMWoxcnFsMnctenVZX2x2dmJWM2xzV2ZqM3o4ZWN5RHJpMG1CemVBTldSNGJiSmtHNTJ1dzhxMG9VcUNIZ285RHFlVGhleDRVVUYwbDlpQjc3NXZNazZ6OXJ5NzZycEROaDJPem1WN1ZtVE9uOVh0a2VBR3I2UHU0NXU?oc=5",
+   "strip": "manga_cand_0921_0507_8.png",
+   "caption": "アメリカの農務省が、牛肉の部位ごとの卸値と、その日に何本積まれたかを毎日出している、という報告を見た。値段だけでなく数量がセットで公開されているのが目を引いた。\n\n僕は野菜だけど、市場の値段は毎日動く。高い日も安い日もある。16年やってきて分かったのは、数字を見てから作付けを変えても、たいてい間に合わないということ。今日の相場は、半年前に誰かが下した判断の結果でしかない。自分が今日植えるものが効いてくるのは、また半年先になる。\n\nだから僕は、相場の数字を「次に何を植えるか」ではなく「今週どう動くか」に使っている。安い週に人手をかけて選別を丁寧にしても、返ってくるものは薄い。それなら作業を軽くして、パートさんを早く帰す。数量が絞れている週は、少し詰めてでも出す。\n\n順番としては、相場に合わせて作物を変えるより先に、相場が動いても崩れない労働時間の枠を決めておくほうが早い。枠が先にあると、数字は振り回してくるものではなく、その日どこに力を入れるかを教えてくれるものに変わる。\n\n「次の一手が決まる整理シート」（個別相談付き）を無料LINE特典で用意しています。固定ポストから1分で受け取れます。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a small white kei mini truck parked on a farm road beside green fields, blue sky",
+   "taste": 28,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0366
+   }
+  },
+  {
    "id": "0919_0505_21",
    "news_title": "【東京農業大学】「食と農」の博物館で企画展「とくめく花とみどり」開催（10月22日～）",
    "source": "沖縄タイムス社",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 0,
     "body_edge_density": 0.1155
-   }
-  },
-  {
-   "id": "0903_0938_27",
-   "news_title": "2026年上半期「食トレンドランキング」＆下半期「食トレンド予測」を『デリッシュキッチン』が発表！｜every, Inc.",
-   "source": "株式会社エブリー",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5oU2N6d1d0SVRyOGFKSFZFYmRHdDl3b01HNjVhcEUzZWJOZU55eXNXbnluR2xjVjlTdG5qR0QxanY1V1AwOG9JZ0h1QQ?oc=5",
-   "strip": "manga_cand_0903_0938_27.png",
-   "caption": "2026年上半期の食トレンドランキングと、下半期の予測が発表されていた。\n\nこういう記事は毎年見るけれど、農家の立場だと使い方が少し違ってくる。作付けは半年から一年前にはおおよそ決まるので、ランキングを見て品目を切り替えるという発想が、そもそも持ちにくい。種を頼む段階では、いま話題になっているものはもう次へ移っていることが多い。\n\nだから僕が見ているのは、順位そのものより、その料理に何がどう使われているかのほう。同じ野菜でも、家で作られるのか外で食べられるのかで、求められる大きさも量も変わる。品目を変える材料ではなく、伝え方と出し方を寄せる材料として読んでいる。\n\n順番の話でいうと、多くの人は「売れそうなものを作る」から入ると思う。僕は逆で、9時から14時の約5時間で回して土日は休む、という続け方のほうを先に決めた。そうすると作れる品目は自然と絞られる。絞ったあとでトレンドを重ねると、追いかけなくてよくなる。\n\n流行に乗って伸ばすことより、流行が外れた年に崩れないこと。100t出し続けるのに効いているのは、たぶんそちらだと思っている。パートさんの働き方が毎年変わらないのも、たぶん同じ理由。\n\n普段どう回しているかは、固定ポストにまとめています。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "kyokan",
-   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
-   "taste": 27,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 3,
-    "body_edge_density": 0.1121
    }
   },
   {

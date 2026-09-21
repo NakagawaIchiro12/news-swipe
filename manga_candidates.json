@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0922_0506_20",
+   "news_title": "農業体験バスツアーの開催",
+   "source": "pref.hokkaido.lg.jp",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0QVhGVmF4WjhFcmVoelFaTERYY1VSSjNwR0tLcVIzbnR4VTM0el92TjZxYzUyOUkzTnJXdzA2ai1SVjIxU1NFa0NtY09XS2NlcWJZbTZucEgwVTlmbld3?oc=5",
+   "strip": "manga_cand_0922_0506_20.png",
+   "caption": "北海道が農業体験のバスツアーを開催するそうです。畑に人を呼ぶ取り組みは、地味だけど効くと思っています。\n\n僕の畑にも、パートさんの家族や近所の人がふらっと来ることがあります。そのとき一番驚かれるのは、作物の出来より「14時に終わること」です。農業＝朝から晩まで、というイメージが強いので、みんな最初は信じてくれない。でも実際に見てもらうと、その日から見方が変わります。\n\n体験ツアーというと、収穫して楽しかった、で終わりがちです。でも僕が見てほしいのは収穫の瞬間じゃなくて、その前後にある段取りのほうです。誰がいつ何をやるか決まっていて、だから5時間で終わる。収穫は結果で、設計が先にある。\n\n農業に人が入ってこない理由は、きつそうだからではなく、きつくない農業が存在すると知られていないからだと思っています。だとしたら、順番としてはまず働き方を見せることになる。作物のおいしさを伝えるのは、その次でいい。体験ツアーが増えるなら、畑の景色より現場の回し方を見せる回があってもいいと思います。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "sales",
+   "emotions": [],
+   "structure": "gyakusetsu",
+   "scene": "a country road through distant farmland, wide blue sky, far mountains, no vehicles",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 2,
+    "body_edge_density": 0.124
+   }
+  },
+  {
    "id": "0921_0507_8",
    "news_title": "USDAボックスビーフ・カットアウト報告 2026年9月18日：プライマル値と積載数 - ニュースと統計",
    "source": "IndexBox",
@@ -306,28 +328,6 @@
     "n_face": 1,
     "n_hand": 2,
     "body_edge_density": 0.1185
-   }
-  },
-  {
-   "id": "0905_0939_16",
-   "news_title": "“先進的取り組みを” 村井知事が若手農業経営者と意見交換",
-   "source": "NHKニュース",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE83dkwyUE03NHZUOUttdUh0RU5weHlobGNSaDF0OTZXMHl1ZGlLdjVFNVdQRWdYWGtocTltVzJfMmRpMkpFUVRSODA2S0ZBa1ZtRlRHc3lnZ2Y?oc=5",
-   "strip": "manga_cand_0905_0939_16.png",
-   "caption": "**大型農機の導入や輸出、スマート農業。県のトップと若手が直接話す場ができたのは、それ自体が前に進む材料だと思います。**\n\nそのうえで、僕が現場で先進的だと感じるのは機械の新しさより、人の働き方をどこまで動かせたかの方です。うちは9時から14時のだいたい5時間で回して、土日は休みます。年間100トンを出荷しながらパートさんが無理なく続けられる形になっていて、これが一番効いています。\n\n先進技術は、入れれば強くなるものではなくて、入れた分だけ運用の負荷が増えることがあります。新しい機械を1台入れると、覚える人、直す人、動かす日を決める人が要る。そこに人がいなければ、機械は止まったまま置かれます。\n\nだから順番としては、先に人が続けられる働き方を作って、空いた余力に技術を乗せる方が壊れにくい。逆にすると、機械は増えたのに人が辞めていく、ということが起きやすいと思っています。\n\n若手が集まる場で本当に共有されるべきなのは、何を導入したかより、それを何年回せているかの方かもしれません。\n\n21分の動画「稼げる農家と稼げない農家の違い」を無料LINEで配っています。固定ポストから受け取れます。",
-   "topic": "policy",
-   "emotions": [],
-   "structure": "taiken",
-   "scene": "open green field under a big blue sky, distant treeline, wide perspective",
-   "taste": null,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 2,
-    "n_hand": 0,
-    "body_edge_density": 0.1155
    }
   },
   {

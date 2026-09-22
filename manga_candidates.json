@@ -1,6 +1,28 @@
 {
  "items": [
   {
+   "id": "0923_0504_11",
+   "news_title": "\"うまい\"が確定！令和の食のトレンド「うま確」 物価高のいま、若者たちが食に求める「安心感」",
+   "source": "TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHOC1kNV9vTjdxUV9pREZpb0JJZ1hQYS1rQ3JsNkU5NmhFX2s1NE5ZZ2hvOWE0VWlPQk5lWVVZcVpaZ09HQmlkc21TWTB5WEo3YUpnXzFNYw?oc=5",
+   "strip": "manga_cand_0923_0504_11.png",
+   "caption": "「うま確」という言葉を見た。物価高で失敗したくないから、確実においしいものを選ぶ。若い人がそう考えるのは自然なことだと思う。\n\n野菜も同じで、買う人は一度外れると次は手に取らない。愛知で16年、年間100tを出荷してきて、評価されるのは一回の最高の味より、毎回ぶれないことだと感じている。\n\nただ、ぶれない野菜は気合で作るものではないと僕は思う。僕の場合は順番が逆で、先に働き方を整えた。9時から14時の約5時間、土日休み、パートさん中心で回す。人が疲れていない現場は、収穫や調整の判断がそろいやすい。判断がそろえば、品質もそろってくる。長く働くほど良くなるわけではなく、疲れが見落としにつながることもある。\n\nうまいが確定する野菜は、畑より先に、働く人の余裕から始まっていると思う。食べる人に安心感を届けたいなら、まず作る側が安心して続けられる形をつくる。僕はそこから考えるのが一番確実だと思っている。\n\n同じように感じたことがある人は、よかったら教えてください。",
+   "topic": "market",
+   "emotions": [],
+   "structure": "furi_ochi",
+   "scene": "inside a farm work shed, wooden shelves with tools and stacked crates, soft daylight",
+   "taste": null,
+   "gpass": true,
+   "status": "pending",
+   "anatomy": "pass",
+   "anatomy_flags": [],
+   "anatomy_metrics": {
+    "n_face": 2,
+    "n_hand": 1,
+    "body_edge_density": 0.0735
+   }
+  },
+  {
    "id": "0922_0506_20",
    "news_title": "農業体験バスツアーの開催",
    "source": "pref.hokkaido.lg.jp",
@@ -306,28 +328,6 @@
     "n_face": 2,
     "n_hand": 2,
     "body_edge_density": 0.1678
-   }
-  },
-  {
-   "id": "0905_0939_30",
-   "news_title": "女性の健康食品トレンドと、市場ニーズの変化を捉えた企業の開発トレンド2026",
-   "source": "ウーマンズラボ",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9iSmtMSkhKazNJM042LUpNM3Q1RXlxM0JtQmF1bE5kUWJDN1ZuVXZNcC1mLUVNRktkakQ2Zmt3N3JFdHlRV3RIWHUtMVY4QQ?oc=5",
-   "strip": "manga_cand_0905_0939_30.png",
-   "caption": "女性向け健康食品の記事を見ました。市場が成分名で語られるようになっていて、野菜そのものの話が出てこないのが引っかかりました。\n\n僕は愛知で16年、野菜を作っています。年間100t、9時から14時までの5時間で回して土日は休み。パートさん中心の会社型です。現場にいると、健康にいい野菜を作る話と、それが選ばれる話は別物だと感じます。栄養価の高い品種を作っても、店頭に並ぶ時には「野菜」でひとくくりになる。成分で価値を伝える設計は、加工品のほうが圧倒的に有利にできています。\n\nただ、順番として面白いのはここからで、健康食品が成分を先に言語化してくれるほど、原料である野菜の側に説明の言葉が返ってくる。今まで農家が言えなかった価値を、企業が先に翻訳してくれている状態です。僕らが先に発信しようとすると何年もかかることを、市場が代わりに耕している。だから僕は、この流れを競合ではなく前工程として見ています。畑の側でやるべきは差別化の主張より、その言葉に耐える中身を安定して出し続けることかなと。\n\n同じように感じたことがある人は、よかったら教えてください。",
-   "topic": "market",
-   "emotions": [],
-   "structure": "henka",
-   "scene": "a wide farmland landscape with crop rows, blue sky, distant mountains",
-   "taste": 29,
-   "gpass": true,
-   "status": "pending",
-   "anatomy": "pass",
-   "anatomy_flags": [],
-   "anatomy_metrics": {
-    "n_face": 1,
-    "n_hand": 2,
-    "body_edge_density": 0.1185
    }
   },
   {
